@@ -1,0 +1,101 @@
+X,County,year,Male,Female,State
+1634,"Phillips County, Montana",2010,46.5,37.8,Montana
+1723,"Phelps County, Nebraska",2010,47.5,35.7,Nebraska
+2373,"Sabana Grande Municipio, Puerto Rico",2010,37,34.8,Puerto Rico
+1626,"Madison County, Montana",2010,46.4,36.3,Montana
+648,"Livingston County, Illinois",2010,41.5,35.2,Illinois
+378,"St. Johns County, Florida",2010,42.7,35.9,Florida
+1442,"Lee County, Mississippi",2010,42,37.1,Mississippi
+1713,"Madison County, Nebraska",2010,43,35.7,Nebraska
+2533,"Gibson County, Tennessee",2010,40.5,36.6,Tennessee
+956,"Ness County, Kansas",2010,48.9,34.9,Kansas
+3085,"Hampshire County, West Virginia",2010,41,37.2,West Virginia
+222,"San Bernardino County, California",2010,41.1,35.6,California
+697,"Woodford County, Illinois",2010,41.3,33.2,Illinois
+1964,"Pitt County, North Carolina",2010,39.1,34.8,North Carolina
+2819,"Sutton County, Texas",2010,51.5,38.1,Texas
+1134,"Franklin Parish, Louisiana",2010,50.8,36.1,Louisiana
+130,"Cross County, Arkansas",2010,43.1,37.2,Arkansas
+936,"Kingman County, Kansas",2010,44.4,36.1,Kansas
+1545,"Maries County, Missouri",2010,43.8,37.9,Missouri
+1458,"Pike County, Mississippi",2010,43.7,37.3,Mississippi
+2339,"Florida Municipio, Puerto Rico",2010,37.4,35.6,Puerto Rico
+469,"Jenkins County, Georgia",2010,41.5,37.9,Georgia
+372,"Pinellas County, Florida",2010,41.6,37.4,Florida
+984,"Sumner County, Kansas",2010,42.1,35.3,Kansas
+369,"Osceola County, Florida",2010,40.6,37,Florida
+1272,"Kent County, Michigan",2010,40.5,34.1,Michigen
+1740,"Thomas County, Nebraska",2010,55.7,44,Nebraska
+1233,"Alger County, Michigan",2010,41.7,34,Michigen
+2985,"Norfolk city, Virginia",2010,42.7,36.9,Virginia
+271,"Gunnison County, Colorado",2010,38.9,34,Colorado
+397,"Berrien County, Georgia",2010,42.7,37.6,Georgia
+2472,"Hughes County, South Dakota",2010,42.6,38.1,South Dakota
+2016,"McIntosh County, North Dakota",2010,50.8,37.9,North Dakota
+1533,"Jefferson County, Missouri",2010,40.4,35.5,Missouri
+3028,"Williamsburg city, Virginia",2010,34.7,29.5,Virginia
+1468,"Sunflower County, Mississippi",2010,42.2,36,Mississippi
+2315,"Aguas Buenas Municipio, Puerto Rico",2010,37.7,37.1,Puerto Rico
+818,"Des Moines County, Iowa",2010,40.7,35.5,Iowa
+2915,"Buchanan County, Virginia",2010,43.1,37,Virginia
+2161,"Harper County, Oklahoma",2010,44.8,38.4,Oklahama
+1593,"Warren County, Missouri",2010,40.6,34.9,Missouri
+473,"Lanier County, Georgia",2010,43,39.4,Georgia
+2383,"Utuado Municipio, Puerto Rico",2010,36.5,34.4,Puerto Rico
+352,"Jefferson County, Florida",2010,40.2,36.4,Florida
+1164,"St. Mary Parish, Louisiana",2010,49.3,36.9,Louisiana
+3191,"Walworth County, Wisconsin",2010,41.2,34.3,Wisconsin
+928,"Harvey County, Kansas",2010,41.2,35.7,Kansas
+1075,"Meade County, Kentucky",2010,44.3,35.9,Kentucky
+120,"Chicot County, Arkansas",2010,44,37.9,Arkansas
+331,"Collier County, Florida",2010,41.1,36.9,Florida
+2374,"Sabana Grande Municipio, Puerto Rico",2020,34.4,33.3,Puerto Rico
+1627,"Madison County, Montana",2020,44.4,33.9,Montana
+1724,"Phelps County, Nebraska",2020,44.8,36.3,Nebraska
+1635,"Phillips County, Montana",2020,49,38,Montana
+649,"Livingston County, Illinois",2020,42.9,35.9,Illinois
+379,"St. Johns County, Florida",2020,41.5,36,Florida
+1443,"Lee County, Mississippi",2020,41.7,36.8,Mississippi
+1714,"Madison County, Nebraska",2020,40.8,36.4,Nebraska
+2534,"Gibson County, Tennessee",2020,42.3,36.6,Tennessee
+957,"Ness County, Kansas",2020,49.3,34.2,Kansas
+3085,"Hampshire County, West Virginia",2020,41.3,37.5,West Virginia
+223,"San Bernardino County, California",2020,40.2,35.3,California
+698,"Woodford County, Illinois",2020,41.8,34.8,Indiana
+1965,"Pitt County, North Carolina",2020,40.7,35.1,North Carolina
+2820,"Sutton County, Texas",2020,47.1,35.8,Texas
+1135,"Franklin Parish, Louisiana",2020,48.4,36.5,Louisiana
+131,"Cross County, Arkansas",2020,45.4,37.3,Arkansas
+937,"Kingman County, Kansas",2020,44,35.1,Kansas
+1545,"Madison County, Missouri",2020,40.2,36.3,Missouri
+1459,"Pike County, Mississippi",2020,42.5,35.7,Mississippi
+2340,"Florida Municipio, Puerto Rico",2020,32.7,33.6,Puerto Rico
+470,"Jenkins County, Georgia",2020,41.2,36,Georgia
+373,"Pinellas County, Florida",2020,40.8,37.5,Florida
+985,"Sumner County, Kansas",2020,42.2,36.2,Kansas
+370,"Osceola County, Florida",2020,40.1,36.5,Florida
+1273,"Kent County, Michigan",2020,40.9,35.2,Michigen
+1741,"Thomas County, Nebraska",2020,53.3,35.9,Nebraska
+1234,"Alger County, Michigan",2020,38.2,33.6,Michigen
+2985,"Norfolk city, Virginia",2020,43.1,37.3,Virginia
+272,"Gunnison County, Colorado",2020,39.7,34.6,Colorado
+398,"Berrien County, Georgia",2020,41.1,37.9,Georgia
+2472,"Harding County, South Dakota",2020,45.5,42,South Dakota
+2017,"McIntosh County, North Dakota",2020,50.6,39.8,North Dakota
+1534,"Jefferson County, Missouri",2020,40.8,36.3,Missouri
+3028,"Williamsburg city, Virginia",2020,34.1,29.6,Virginia
+1469,"Sunflower County, Mississippi",2020,41.1,36.7,Mississippi
+2316,"Aguas Buenas Municipio, Puerto Rico",2020,36.1,34.7,Puerto Rico
+819,"Des Moines County, Iowa",2020,40.7,35.9,Iowa
+2915,"Buchanan County, Virginia",2020,41,37,Virginia
+2162,"Harper County, Oklahoma",2020,46.4,41.1,Oklahama
+1594,"Warren County, Missouri",2020,40.6,37,Missouri
+474,"Lanier County, Georgia",2020,43,36.6,Georgia
+2384,"Utuado Municipio, Puerto Rico",2020,35.3,33.1,Puerto Rico
+353,"Jefferson County, Florida",2020,40.2,37.7,Florida
+1165,"St. Mary Parish, Louisiana",2020,43.2,36.3,Louisiana
+3191,"Walworth County, Wisconsin",2020,40.8,34.7,Wisconsin
+929,"Harvey County, Kansas",2020,42.2,36,Kansas
+1076,"Meade County, Kentucky",2020,43,37,Kentucky
+121,"Chicot County, Arkansas",2020,40.6,36.3,Arkansas
+332,"Collier County, Florida",2020,41.4,36,Florida

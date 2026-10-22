@@ -1,0 +1,3223 @@
+hours_allcounty_20
+,County,year,Male,Female,State
+1,"Autauga County, Alabama",2020,41.6,37.9,Alabama
+2,"Baldwin County, Alabama",2020,42.5,36.2,Alabama
+3,"Barbour County, Alabama",2020,41,37.3,Alabama
+4,"Bibb County, Alabama",2020,42,37.2,Alabama
+5,"Blount County, Alabama",2020,43.7,36.9,Alabama
+6,"Bullock County, Alabama",2020,41.9,38.1,Alabama
+7,"Butler County, Alabama",2020,41.9,36.9,Alabama
+8,"Calhoun County, Alabama",2020,42.7,37,Alabama
+9,"Chambers County, Alabama",2020,42.8,38,Alabama
+10,"Cherokee County, Alabama",2020,40.7,37.4,Alabama
+11,"Chilton County, Alabama",2020,44.7,36.7,Alabama
+12,"Choctaw County, Alabama",2020,44.5,36,Alabama
+13,"Clarke County, Alabama",2020,45.3,35.9,Alabama
+14,"Clay County, Alabama",2020,41.8,35.7,Alabama
+15,"Cleburne County, Alabama",2020,44.1,37.1,Alabama
+16,"Coffee County, Alabama",2020,42.3,36.9,Alabama
+17,"Colbert County, Alabama",2020,41.4,36.9,Alabama
+18,"Conecuh County, Alabama",2020,40.5,38.8,Alabama
+19,"Coosa County, Alabama",2020,42.7,36.7,Alabama
+20,"Covington County, Alabama",2020,43.4,36.5,Alabama
+21,"Crenshaw County, Alabama",2020,42.1,34.7,Alabama
+22,"Cullman County, Alabama",2020,42,35.9,Alabama
+23,"Dale County, Alabama",2020,43,35.9,Alabama
+24,"Dallas County, Alabama",2020,43,37.2,Alabama
+25,"DeKalb County, Alabama",2020,41.4,36.4,Alabama
+26,"Elmore County, Alabama",2020,43.2,37.9,Alabama
+27,"Escambia County, Alabama",2020,42.6,35.9,Alabama
+28,"Etowah County, Alabama",2020,41.7,36.9,Alabama
+29,"Fayette County, Alabama",2020,42.6,35.2,Alabama
+30,"Franklin County, Alabama",2020,41.9,36.4,Alabama
+31,"Geneva County, Alabama",2020,43,37.3,Alabama
+32,"Greene County, Alabama",2020,38.7,37.4,Alabama
+33,"Hale County, Alabama",2020,43,37.1,Alabama
+34,"Henry County, Alabama",2020,43.1,36.1,Alabama
+35,"Houston County, Alabama",2020,41.8,36.3,Alabama
+36,"Jackson County, Alabama",2020,40.3,36.7,Alabama
+37,"Jefferson County, Alabama",2020,41.8,37.2,Alabama
+38,"Lamar County, Alabama",2020,42.8,38.3,Alabama
+39,"Lauderdale County, Alabama",2020,40.7,35.9,Alabama
+40,"Lawrence County, Alabama",2020,42,34.9,Alabama
+41,"Lee County, Alabama",2020,40.7,34.4,Alabama
+42,"Limestone County, Alabama",2020,42.1,35.8,Alabama
+43,"Lowndes County, Alabama",2020,39.5,37.8,Alabama
+44,"Macon County, Alabama",2020,38.2,33.8,Alabama
+45,"Madison County, Alabama",2020,40.9,36,Alabama
+46,"Marengo County, Alabama",2020,43.7,35.7,Alabama
+47,"Marion County, Alabama",2020,41.8,35.4,Alabama
+48,"Marshall County, Alabama",2020,42.3,35.9,Alabama
+49,"Mobile County, Alabama",2020,41.1,36.5,Alabama
+50,"Monroe County, Alabama",2020,40.8,36.8,Alabama
+51,"Montgomery County, Alabama",2020,40.4,36.9,Alabama
+52,"Morgan County, Alabama",2020,41.3,35.8,Alabama
+53,"Perry County, Alabama",2020,34.9,30.9,Alabama
+54,"Pickens County, Alabama",2020,42.3,35.7,Alabama
+55,"Pike County, Alabama",2020,40,35.6,Alabama
+56,"Randolph County, Alabama",2020,42.1,37.6,Alabama
+57,"Russell County, Alabama",2020,41,37.5,Alabama
+58,"Shelby County, Alabama",2020,42.8,36.3,Alabama
+59,"St. Clair County, Alabama",2020,42.6,37,Alabama
+60,"Sumter County, Alabama",2020,35.3,36.4,Alabama
+61,"Talladega County, Alabama",2020,42.1,37.5,Alabama
+62,"Tallapoosa County, Alabama",2020,43.1,38.7,Alabama
+63,"Tuscaloosa County, Alabama",2020,39.9,34.9,Alabama
+64,"Walker County, Alabama",2020,42.4,35.9,Alabama
+65,"Washington County, Alabama",2020,43.5,37,Alabama
+66,"Wilcox County, Alabama",2020,40.7,35.4,Alabama
+67,"Winston County, Alabama",2020,42.2,36.8,Alabama
+68,"Aleutians East Borough, Alaska",2020,65.3,51.8,Alaska
+69,"Aleutians West Census Area, Alaska",2020,59.6,47.8,Alaska
+70,"Anchorage Municipality, Alaska",2020,42.8,37.4,Alaska
+71,"Bethel Census Area, Alaska",2020,39.2,34,Alaska
+72,"Bristol Bay Borough, Alaska",2020,50.8,43.2,Alaska
+73,"Chugach Census Area, Alaska",2020,50.4,36.8,Alaska
+74,"Copper River Census Area, Alaska",2020,48.5,35.7,Alaska
+75,"Denali Borough, Alaska",2020,46.3,40,Alaska
+76,"Dillingham Census Area, Alaska",2020,45.6,37,Alaska
+77,"Fairbanks North Star Borough, Alaska",2020,44.7,37.2,Alaska
+78,"Haines Borough, Alaska",2020,51.3,38.7,Alaska
+79,"Hoonah-Angoon Census Area, Alaska",2020,50.4,40.2,Alaska
+80,"Juneau City and Borough, Alaska",2020,43.2,36.9,Alaska
+81,"Kenai Peninsula Borough, Alaska",2020,46.1,35.8,Alaska
+82,"Ketchikan Gateway Borough, Alaska",2020,44.1,37.3,Alaska
+83,"Kodiak Island Borough, Alaska",2020,46.7,37,Alaska
+84,"Kusilvak Census Area, Alaska",2020,43.8,33.5,Alaska
+85,"Lake and Peninsula Borough, Alaska",2020,48.4,36.1,Alaska
+86,"Matanuska-Susitna Borough, Alaska",2020,44.3,36.4,Alaska
+87,"Nome Census Area, Alaska",2020,40.7,37.6,Alaska
+88,"North Slope Borough, Alaska",2020,64,47.5,Alaska
+89,"Northwest Arctic Borough, Alaska",2020,45.8,39,Alaska
+90,"Petersburg Borough, Alaska",2020,52.8,41.1,Alaska
+91,"Prince of Wales-Hyder Census Area, Alaska",2020,45.7,37.6,Alaska
+92,"Sitka City and Borough, Alaska",2020,46.7,40.2,Alaska
+93,"Skagway Municipality, Alaska",2020,47.6,43.9,Alaska
+94,"Southeast Fairbanks Census Area, Alaska",2020,50.4,35.1,Alaska
+95,"Wrangell City and Borough, Alaska",2020,49.8,40,Alaska
+96,"Yakutat City and Borough, Alaska",2020,56.2,42.4,Alaska
+97,"Yukon-Koyukuk Census Area, Alaska",2020,45.4,35.3,Arizona
+98,"Apache County, Arizona",2020,40,37,Arizona
+99,"Cochise County, Arizona",2020,41.3,36.5,Arizona
+100,"Coconino County, Arizona",2020,38.2,33.5,Arizona
+101,"Gila County, Arizona",2020,41.3,36.6,Arizona
+102,"Graham County, Arizona",2020,39.3,35.6,Arizona
+103,"Greenlee County, Arizona",2020,42.9,36.5,Arizona
+104,"La Paz County, Arizona",2020,41,36.3,Arizona
+105,"Maricopa County, Arizona",2020,40.8,37,Arizona
+106,"Mohave County, Arizona",2020,40.4,36.6,Arizona
+107,"Navajo County, Arizona",2020,39.4,36,Arizona
+108,"Pima County, Arizona",2020,39.5,35.6,Arizona
+109,"Pinal County, Arizona",2020,41.3,36.6,Arizona
+110,"Santa Cruz County, Arizona",2020,40.6,35.1,Arizona
+111,"Yavapai County, Arizona",2020,39.6,35.5,Arizona
+112,"Yuma County, Arizona",2020,42.7,36.4,Arkansas
+113,"Arkansas County, Arkansas",2020,44.5,38.6,Arkansas
+114,"Ashley County, Arkansas",2020,40.5,35.8,Arkansas
+115,"Baxter County, Arkansas",2020,41.5,36.4,Arkansas
+116,"Benton County, Arkansas",2020,43.4,38.6,Arkansas
+117,"Boone County, Arkansas",2020,43.2,37,Arkansas
+118,"Bradley County, Arkansas",2020,44.8,36.3,Arkansas
+119,"Calhoun County, Arkansas",2020,40.9,39.1,Arkansas
+120,"Carroll County, Arkansas",2020,41.5,36.3,Arkansas
+121,"Chicot County, Arkansas",2020,40.6,36.3,Arkansas
+122,"Clark County, Arkansas",2020,37.9,34.3,Arkansas
+123,"Clay County, Arkansas",2020,44.4,35.8,Arkansas
+124,"Cleburne County, Arkansas",2020,40.8,36.5,Arkansas
+125,"Cleveland County, Arkansas",2020,45.3,39.1,Arkansas
+126,"Columbia County, Arkansas",2020,41.3,34.9,Arkansas
+127,"Conway County, Arkansas",2020,42,36.6,Arkansas
+128,"Craighead County, Arkansas",2020,41.1,36.7,Arkansas
+129,"Crawford County, Arkansas",2020,42,37,Arkansas
+130,"Crittenden County, Arkansas",2020,43,37.4,Arkansas
+131,"Cross County, Arkansas",2020,45.4,37.3,Arkansas
+132,"Dallas County, Arkansas",2020,40.8,39,Arkansas
+133,"Desha County, Arkansas",2020,43,37.4,Arkansas
+134,"Drew County, Arkansas",2020,40.9,35.8,Arkansas
+135,"Faulkner County, Arkansas",2020,40.9,36.8,Arkansas
+136,"Franklin County, Arkansas",2020,41,36.3,Arkansas
+137,"Fulton County, Arkansas",2020,44.1,36.9,Arkansas
+138,"Garland County, Arkansas",2020,42,36.3,Arkansas
+139,"Grant County, Arkansas",2020,42.8,38.7,Arkansas
+140,"Greene County, Arkansas",2020,41.5,37.1,Arkansas
+141,"Hempstead County, Arkansas",2020,42.5,38.7,Arkansas
+142,"Hot Spring County, Arkansas",2020,41.4,37.3,Arkansas
+143,"Howard County, Arkansas",2020,41.7,36.5,Arkansas
+144,"Independence County, Arkansas",2020,41.1,36.6,Arkansas
+145,"Izard County, Arkansas",2020,42.8,36.1,Arkansas
+146,"Jackson County, Arkansas",2020,42.1,36.8,Arkansas
+147,"Jefferson County, Arkansas",2020,41.2,37.3,Arkansas
+148,"Johnson County, Arkansas",2020,40.7,35.2,Arkansas
+149,"Lafayette County, Arkansas",2020,45.8,36.2,Arkansas
+150,"Lawrence County, Arkansas",2020,42.9,35.5,Arkansas
+151,"Lee County, Arkansas",2020,44.5,35.9,Arkansas
+152,"Lincoln County, Arkansas",2020,40,38.2,Arkansas
+153,"Little River County, Arkansas",2020,42.1,38.3,Arkansas
+154,"Logan County, Arkansas",2020,43.1,37.1,Arkansas
+155,"Lonoke County, Arkansas",2020,42.8,37.5,Arkansas
+156,"Madison County, Arkansas",2020,41.6,36.4,Arkansas
+157,"Marion County, Arkansas",2020,42,36.1,Arkansas
+158,"Miller County, Arkansas",2020,40.4,37.8,Arkansas
+159,"Mississippi County, Arkansas",2020,42.6,37.8,Arkansas
+160,"Monroe County, Arkansas",2020,45.4,36.8,Arkansas
+161,"Montgomery County, Arkansas",2020,38.8,36.2,Arkansas
+162,"Nevada County, Arkansas",2020,39.8,38.5,Arkansas
+163,"Newton County, Arkansas",2020,40.7,33.3,Arkansas
+164,"Ouachita County, Arkansas",2020,40.6,37.5,Arkansas
+165,"Perry County, Arkansas",2020,40.3,32.3,Arkansas
+166,"Phillips County, Arkansas",2020,43.7,38.1,Arkansas
+167,"Pike County, Arkansas",2020,41.9,36.7,Arkansas
+168,"Poinsett County, Arkansas",2020,43.2,36,Arkansas
+169,"Polk County, Arkansas",2020,43.9,35.8,Arkansas
+170,"Pope County, Arkansas",2020,39.8,35.6,Arkansas
+171,"Prairie County, Arkansas",2020,46.3,37.5,Arkansas
+172,"Pulaski County, Arkansas",2020,41.3,37.2,Arkansas
+173,"Randolph County, Arkansas",2020,42.2,37.8,Arkansas
+174,"Saline County, Arkansas",2020,41.9,38,Arkansas
+175,"Scott County, Arkansas",2020,41.6,36.9,Arkansas
+176,"Searcy County, Arkansas",2020,38.9,35.8,Arkansas
+177,"Sebastian County, Arkansas",2020,41.7,36.8,Arkansas
+178,"Sevier County, Arkansas",2020,41.2,36.7,Arkansas
+179,"Sharp County, Arkansas",2020,41,37.4,Arkansas
+180,"St. Francis County, Arkansas",2020,40.1,37.1,Arkansas
+181,"Stone County, Arkansas",2020,37.9,33.2,Arkansas
+182,"Union County, Arkansas",2020,42.5,37,Arkansas
+183,"Van Buren County, Arkansas",2020,41.2,37.9,Arkansas
+184,"Washington County, Arkansas",2020,40.2,35.9,Arkansas
+185,"White County, Arkansas",2020,42.2,36.2,Arkansas
+186,"Woodruff County, Arkansas",2020,44.7,39.8,Arkansas
+187,"Yell County, Arkansas",2020,44.3,37.6,California
+188,"Alameda County, California",2020,39.9,36.5,California
+189,"Alpine County, California",2020,39.1,34.8,California
+190,"Amador County, California",2020,41.2,36.3,California
+191,"Butte County, California",2020,37.9,34.5,California
+192,"Calaveras County, California",2020,40.5,35.3,California
+193,"Colusa County, California",2020,46.4,39.1,California
+194,"Contra Costa County, California",2020,40.2,35.6,California
+195,"Del Norte County, California",2020,40,34.8,California
+196,"El Dorado County, California",2020,39.7,34.9,California
+197,"Fresno County, California",2020,40.2,35.9,California
+198,"Glenn County, California",2020,42.8,36,California
+199,"Humboldt County, California",2020,38.4,33.1,California
+200,"Imperial County, California",2020,40.5,34,California
+201,"Inyo County, California",2020,39.6,35.7,California
+202,"Kern County, California",2020,40.9,36,California
+203,"Kings County, California",2020,42.6,36.3,California
+204,"Lake County, California",2020,39.9,34.8,California
+205,"Lassen County, California",2020,40.8,35.8,California
+206,"Los Angeles County, California",2020,39.7,36,California
+207,"Madera County, California",2020,40.7,35.5,California
+208,"Marin County, California",2020,41.1,35.6,California
+209,"Mariposa County, California",2020,39.4,35.8,California
+210,"Mendocino County, California",2020,39.8,34.7,California
+211,"Merced County, California",2020,41.4,35.2,California
+212,"Modoc County, California",2020,43.8,34.8,California
+213,"Mono County, California",2020,40.5,36.3,California
+214,"Monterey County, California",2020,40.6,37,California
+215,"Napa County, California",2020,39.8,35.1,California
+216,"Nevada County, California",2020,38.5,34.4,California
+217,"Orange County, California",2020,40.2,35.6,California
+218,"Placer County, California",2020,40.3,35.2,California
+219,"Plumas County, California",2020,39.1,35.6,California
+220,"Riverside County, California",2020,40,35.3,California
+221,"Sacramento County, California",2020,39.2,35.8,California
+222,"San Benito County, California",2020,40.9,34.4,California
+223,"San Bernardino County, California",2020,40.2,35.3,California
+224,"San Diego County, California",2020,40.9,35.9,California
+225,"San Francisco County, California",2020,41.7,38.9,California
+226,"San Joaquin County, California",2020,40.5,35.8,California
+227,"San Luis Obispo County, California",2020,38.6,33.4,California
+228,"San Mateo County, California",2020,40.8,37.2,California
+229,"Santa Barbara County, California",2020,39.6,34.3,California
+230,"Santa Clara County, California",2020,40.4,36.4,California
+231,"Santa Cruz County, California",2020,38.7,33.6,California
+232,"Shasta County, California",2020,40.1,34.6,California
+233,"Sierra County, California",2020,43.5,33.1,California
+234,"Siskiyou County, California",2020,41,33.6,California
+235,"Solano County, California",2020,40.1,36,California
+236,"Sonoma County, California",2020,39.7,34.9,California
+237,"Stanislaus County, California",2020,40.5,35,California
+238,"Sutter County, California",2020,41.4,36.2,California
+239,"Tehama County, California",2020,41.1,36.2,California
+240,"Trinity County, California",2020,38.8,33.4,California
+241,"Tulare County, California",2020,41,35.7,California
+242,"Tuolumne County, California",2020,39.1,34.3,California
+243,"Ventura County, California",2020,40.1,35.3,California
+244,"Yolo County, California",2020,38.5,33.1,California
+245,"Yuba County, California",2020,41,36.3,Colorado
+246,"Adams County, Colorado",2020,41.5,36.5,Colorado
+247,"Alamosa County, Colorado",2020,40.4,33.4,Colorado
+248,"Arapahoe County, Colorado",2020,41.5,36.8,Colorado
+249,"Archuleta County, Colorado",2020,42.2,33.7,Colorado
+250,"Baca County, Colorado",2020,43.6,36.7,Colorado
+251,"Bent County, Colorado",2020,46.3,37.5,Colorado
+252,"Boulder County, Colorado",2020,39.3,33.9,Colorado
+253,"Broomfield County, Colorado",2020,41.9,36.7,Colorado
+254,"Chaffee County, Colorado",2020,41.1,35,Colorado
+255,"Cheyenne County, Colorado",2020,48.7,32.7,Colorado
+256,"Clear Creek County, Colorado",2020,40.8,35.3,Colorado
+257,"Conejos County, Colorado",2020,41.8,35,Colorado
+258,"Costilla County, Colorado",2020,37.7,34.4,Colorado
+259,"Crowley County, Colorado",2020,39.8,33.1,Colorado
+260,"Custer County, Colorado",2020,40.4,35.8,Colorado
+261,"Delta County, Colorado",2020,42.9,36.5,Colorado
+262,"Denver County, Colorado",2020,41.5,37.7,Colorado
+263,"Dolores County, Colorado",2020,42.1,40.8,Colorado
+264,"Douglas County, Colorado",2020,41.9,36.4,Colorado
+265,"Eagle County, Colorado",2020,41.7,36.8,Colorado
+266,"El Paso County, Colorado",2020,42.3,35.8,Colorado
+267,"Elbert County, Colorado",2020,42.1,37.4,Colorado
+268,"Fremont County, Colorado",2020,41.1,36.2,Colorado
+269,"Garfield County, Colorado",2020,41.1,35.4,Colorado
+270,"Gilpin County, Colorado",2020,42.1,38.1,Colorado
+271,"Grand County, Colorado",2020,42.2,37.8,Colorado
+272,"Gunnison County, Colorado",2020,39.7,34.6,Colorado
+273,"Hinsdale County, Colorado",2020,41.1,31,Colorado
+274,"Huerfano County, Colorado",2020,40,37.6,Colorado
+275,"Jackson County, Colorado",2020,46,35.1,Colorado
+276,"Jefferson County, Colorado",2020,40.7,36.6,Colorado
+277,"Kiowa County, Colorado",2020,45.3,38,Colorado
+278,"Kit Carson County, Colorado",2020,48.8,34.8,Colorado
+279,"La Plata County, Colorado",2020,39.7,34.6,Colorado
+280,"Lake County, Colorado",2020,42.1,40.1,Colorado
+281,"Larimer County, Colorado",2020,40.5,34,Colorado
+282,"Las Animas County, Colorado",2020,40.5,35.5,Colorado
+283,"Lincoln County, Colorado",2020,43.8,38.3,Colorado
+284,"Logan County, Colorado",2020,41.7,37.5,Colorado
+285,"Mesa County, Colorado",2020,41.7,35.3,Colorado
+286,"Mineral County, Colorado",2020,45.8,37.2,Colorado
+287,"Moffat County, Colorado",2020,42.1,34.7,Colorado
+288,"Montezuma County, Colorado",2020,41.1,36.2,Colorado
+289,"Montrose County, Colorado",2020,41.1,36,Colorado
+290,"Morgan County, Colorado",2020,43.9,35.9,Colorado
+291,"Otero County, Colorado",2020,42.5,35.3,Colorado
+292,"Ouray County, Colorado",2020,41.8,36.7,Colorado
+293,"Park County, Colorado",2020,42.9,36.5,Colorado
+294,"Phillips County, Colorado",2020,47.2,37.7,Colorado
+295,"Pitkin County, Colorado",2020,40.7,36.7,Colorado
+296,"Prowers County, Colorado",2020,45.2,37,Colorado
+297,"Pueblo County, Colorado",2020,39.8,36.7,Colorado
+298,"Rio Blanco County, Colorado",2020,43.9,34.8,Colorado
+299,"Rio Grande County, Colorado",2020,38.4,36.3,Colorado
+300,"Routt County, Colorado",2020,40.6,34.7,Colorado
+301,"Saguache County, Colorado",2020,39,34.4,Colorado
+302,"San Juan County, Colorado",2020,42.8,37.3,Colorado
+303,"San Miguel County, Colorado",2020,42,37.1,Colorado
+304,"Sedgwick County, Colorado",2020,42.4,35.8,Colorado
+305,"Summit County, Colorado",2020,43,37.1,Colorado
+306,"Teller County, Colorado",2020,41.7,35.6,Colorado
+307,"Washington County, Colorado",2020,45.7,38.2,Colorado
+308,"Weld County, Colorado",2020,42.8,35.4,Colorado
+309,"Yuma County, Colorado",2020,46.6,34.6,Connecticut
+310,"Fairfield County, Connecticut",2020,41.6,35.2,Connecticut
+311,"Hartford County, Connecticut",2020,40.4,35.8,Connecticut
+312,"Litchfield County, Connecticut",2020,41.3,35.1,Connecticut
+313,"Middlesex County, Connecticut",2020,41,35.6,Connecticut
+314,"New Haven County, Connecticut",2020,39.9,35.5,Connecticut
+315,"New London County, Connecticut",2020,41.4,35,Connecticut
+316,"Tolland County, Connecticut",2020,38.8,33.3,Connecticut
+317,"Windham County, Connecticut",2020,39.6,34.4,Delaware
+318,"Kent County, Delaware",2020,40.8,36.2,Delaware
+319,"New Castle County, Delaware",2020,40.6,36.5,Delaware
+320,"Sussex County, Delaware",2020,40.7,36.1,Colombia
+321,"District of Columbia, District of Columbia",2020,41.6,39.1,Florida
+322,"Alachua County, Florida",2020,38,34.7,Florida
+323,"Baker County, Florida",2020,42.2,37.7,Florida
+324,"Bay County, Florida",2020,42,36.3,Florida
+325,"Bradford County, Florida",2020,41.6,36,Florida
+326,"Brevard County, Florida",2020,40,36,Florida
+327,"Broward County, Florida",2020,40.8,37,Florida
+328,"Calhoun County, Florida",2020,43.7,37.6,Florida
+329,"Charlotte County, Florida",2020,40.8,36.3,Florida
+330,"Citrus County, Florida",2020,41,36.2,Florida
+331,"Clay County, Florida",2020,41.7,37.1,Florida
+332,"Collier County, Florida",2020,41.4,36,Florida
+333,"Columbia County, Florida",2020,44,36.5,Florida
+334,"DeSoto County, Florida",2020,42.7,37.3,Florida
+335,"Dixie County, Florida",2020,39.8,34.6,Florida
+336,"Duval County, Florida",2020,41.5,37.5,Florida
+337,"Escambia County, Florida",2020,40.7,36.1,Florida
+338,"Flagler County, Florida",2020,40.1,36,Florida
+339,"Franklin County, Florida",2020,39.1,37.7,Florida
+340,"Gadsden County, Florida",2020,41.1,37.2,Florida
+341,"Gilchrist County, Florida",2020,42.9,35.8,Florida
+342,"Glades County, Florida",2020,41.3,37.5,Florida
+343,"Gulf County, Florida",2020,40.9,35.2,Florida
+344,"Hamilton County, Florida",2020,40.5,36.4,Florida
+345,"Hardee County, Florida",2020,42.2,36.5,Florida
+346,"Hendry County, Florida",2020,43.1,37.2,Florida
+347,"Hernando County, Florida",2020,40.7,36.8,Florida
+348,"Highlands County, Florida",2020,41,35.5,Florida
+349,"Hillsborough County, Florida",2020,41.1,37.3,Florida
+350,"Holmes County, Florida",2020,41.4,35.9,Florida
+351,"Indian River County, Florida",2020,39.9,36.1,Florida
+352,"Jackson County, Florida",2020,40.4,36.9,Florida
+353,"Jefferson County, Florida",2020,40.2,37.7,Florida
+354,"Lafayette County, Florida",2020,41.6,39,Florida
+355,"Lake County, Florida",2020,41.9,36.7,Florida
+356,"Lee County, Florida",2020,40.7,36.5,Florida
+357,"Leon County, Florida",2020,37.8,34.7,Florida
+358,"Levy County, Florida",2020,41,36.6,Florida
+359,"Liberty County, Florida",2020,42.7,37.4,Florida
+360,"Madison County, Florida",2020,43.6,36.3,Florida
+361,"Manatee County, Florida",2020,40.8,36.4,Florida
+362,"Marion County, Florida",2020,40.8,36.5,Florida
+363,"Martin County, Florida",2020,40.6,35,Florida
+364,"Miami-Dade County, Florida",2020,40.2,37,Florida
+365,"Monroe County, Florida",2020,42.2,37.5,Florida
+366,"Nassau County, Florida",2020,42.6,35.8,Florida
+367,"Okaloosa County, Florida",2020,41.8,35.8,Florida
+368,"Okeechobee County, Florida",2020,42.4,37.2,Florida
+369,"Orange County, Florida",2020,40.6,36.9,Florida
+370,"Osceola County, Florida",2020,40.1,36.5,Florida
+371,"Palm Beach County, Florida",2020,40.8,36.4,Florida
+372,"Pasco County, Florida",2020,41.3,36.7,Florida
+373,"Pinellas County, Florida",2020,40.8,37.5,Florida
+374,"Polk County, Florida",2020,40.4,36.4,Florida
+375,"Putnam County, Florida",2020,40.5,35.6,Florida
+376,"Santa Rosa County, Florida",2020,42.9,36.4,Florida
+377,"Sarasota County, Florida",2020,41,36.1,Florida
+378,"Seminole County, Florida",2020,41,36.7,Florida
+379,"St. Johns County, Florida",2020,41.5,36,Florida
+380,"St. Lucie County, Florida",2020,41.3,36.7,Florida
+381,"Sumter County, Florida",2020,38.7,34,Florida
+382,"Suwannee County, Florida",2020,40.4,32.8,Florida
+383,"Taylor County, Florida",2020,42.5,38.8,Florida
+384,"Union County, Florida",2020,42.3,38.1,Florida
+385,"Volusia County, Florida",2020,40.3,36.8,Florida
+386,"Wakulla County, Florida",2020,43.4,36.7,Florida
+387,"Walton County, Florida",2020,41.6,36.8,Florida
+388,"Washington County, Florida",2020,41.3,35.7,Georgia
+389,"Appling County, Georgia",2020,41.4,37.5,Georgia
+390,"Atkinson County, Georgia",2020,40.9,38.9,Georgia
+391,"Bacon County, Georgia",2020,44.1,37.7,Georgia
+392,"Baker County, Georgia",2020,40.5,39.1,Georgia
+393,"Baldwin County, Georgia",2020,40.2,34.8,Georgia
+394,"Banks County, Georgia",2020,43.1,35.6,Georgia
+395,"Barrow County, Georgia",2020,42.1,37.3,Georgia
+396,"Bartow County, Georgia",2020,42.9,36.9,Georgia
+397,"Ben Hill County, Georgia",2020,40.4,37.3,Georgia
+398,"Berrien County, Georgia",2020,41.1,37.9,Georgia
+399,"Bibb County, Georgia",2020,40.9,35.5,Georgia
+400,"Bleckley County, Georgia",2020,40.4,36.4,Georgia
+401,"Brantley County, Georgia",2020,42.8,39.5,Georgia
+402,"Brooks County, Georgia",2020,42.7,36.5,Georgia
+403,"Bryan County, Georgia",2020,43.6,36.9,Georgia
+404,"Bulloch County, Georgia",2020,39.6,34.8,Georgia
+405,"Burke County, Georgia",2020,42.4,37.9,Georgia
+406,"Butts County, Georgia",2020,42.2,37.2,Georgia
+407,"Calhoun County, Georgia",2020,42.7,37.8,Georgia
+408,"Camden County, Georgia",2020,44,36.6,Georgia
+409,"Candler County, Georgia",2020,40.2,37.4,Georgia
+410,"Carroll County, Georgia",2020,41.5,36.5,Georgia
+411,"Catoosa County, Georgia",2020,41.1,36,Georgia
+412,"Charlton County, Georgia",2020,37.5,37.2,Georgia
+413,"Chatham County, Georgia",2020,41.4,36.4,Georgia
+414,"Chattahoochee County, Georgia",2020,47.5,37.7,Georgia
+415,"Chattooga County, Georgia",2020,42.3,37.3,Georgia
+416,"Cherokee County, Georgia",2020,42.5,36.3,Georgia
+417,"Clarke County, Georgia",2020,37.2,32.9,Georgia
+418,"Clay County, Georgia",2020,41,34.8,Georgia
+419,"Clayton County, Georgia",2020,40.4,37.4,Georgia
+420,"Clinch County, Georgia",2020,45.6,39.5,Georgia
+421,"Cobb County, Georgia",2020,41.8,37.4,Georgia
+422,"Coffee County, Georgia",2020,42.7,38.2,Georgia
+423,"Colquitt County, Georgia",2020,41.1,36.7,Georgia
+424,"Columbia County, Georgia",2020,41.3,36.8,Georgia
+425,"Cook County, Georgia",2020,41.8,36.7,Georgia
+426,"Coweta County, Georgia",2020,42.5,36.5,Georgia
+427,"Crawford County, Georgia",2020,40.6,37.6,Georgia
+428,"Crisp County, Georgia",2020,41.3,38.6,Georgia
+429,"Dade County, Georgia",2020,39.6,33.9,Georgia
+430,"Dawson County, Georgia",2020,41.8,37.2,Georgia
+431,"Decatur County, Georgia",2020,41.8,36.7,Georgia
+432,"DeKalb County, Georgia",2020,41.2,37.5,Georgia
+433,"Dodge County, Georgia",2020,41,35.6,Georgia
+434,"Dooly County, Georgia",2020,42.2,37.6,Georgia
+435,"Dougherty County, Georgia",2020,39.7,36.5,Georgia
+436,"Douglas County, Georgia",2020,42,37.2,Georgia
+437,"Early County, Georgia",2020,40.7,37.4,Georgia
+438,"Echols County, Georgia",2020,42.2,38,Georgia
+439,"Effingham County, Georgia",2020,43.5,37.3,Georgia
+440,"Elbert County, Georgia",2020,43.1,35.7,Georgia
+441,"Emanuel County, Georgia",2020,42.8,36.2,Georgia
+442,"Evans County, Georgia",2020,43.6,37,Georgia
+443,"Fannin County, Georgia",2020,39.9,35.1,Georgia
+444,"Fayette County, Georgia",2020,42.4,36.1,Georgia
+445,"Floyd County, Georgia",2020,40.4,35.9,Georgia
+446,"Forsyth County, Georgia",2020,42,35.8,Georgia
+447,"Franklin County, Georgia",2020,41.5,35,Georgia
+448,"Fulton County, Georgia",2020,42,37.9,Georgia
+449,"Gilmer County, Georgia",2020,41.9,34.9,Georgia
+450,"Glascock County, Georgia",2020,43.1,35.1,Georgia
+451,"Glynn County, Georgia",2020,41,37.4,Georgia
+452,"Gordon County, Georgia",2020,43.1,36.9,Georgia
+453,"Grady County, Georgia",2020,41.8,37.7,Georgia
+454,"Greene County, Georgia",2020,41.8,35.9,Georgia
+455,"Gwinnett County, Georgia",2020,41.6,37.2,Georgia
+456,"Habersham County, Georgia",2020,41.8,36.2,Georgia
+457,"Hall County, Georgia",2020,41.7,36.9,Georgia
+458,"Hancock County, Georgia",2020,41.4,38.7,Georgia
+459,"Haralson County, Georgia",2020,42.8,38.2,Georgia
+460,"Harris County, Georgia",2020,42.6,38.1,Georgia
+461,"Hart County, Georgia",2020,42.3,36.8,Georgia
+462,"Heard County, Georgia",2020,41.8,36.9,Georgia
+463,"Henry County, Georgia",2020,41.9,37.2,Georgia
+464,"Houston County, Georgia",2020,41.1,36.2,Georgia
+465,"Irwin County, Georgia",2020,39.8,36.3,Georgia
+466,"Jackson County, Georgia",2020,42.1,36.6,Georgia
+467,"Jasper County, Georgia",2020,43.5,36.6,Georgia
+468,"Jeff Davis County, Georgia",2020,39.9,37,Georgia
+469,"Jefferson County, Georgia",2020,44.1,37.2,Georgia
+470,"Jenkins County, Georgia",2020,41.2,36,Georgia
+471,"Johnson County, Georgia",2020,43.7,35.8,Georgia
+472,"Jones County, Georgia",2020,44.2,38.4,Georgia
+473,"Lamar County, Georgia",2020,40.9,33.7,Georgia
+474,"Lanier County, Georgia",2020,43,36.6,Georgia
+475,"Laurens County, Georgia",2020,40.2,36.3,Georgia
+476,"Lee County, Georgia",2020,43.4,37.3,Georgia
+477,"Liberty County, Georgia",2020,46.1,38.4,Georgia
+478,"Lincoln County, Georgia",2020,41.1,37.4,Georgia
+479,"Long County, Georgia",2020,45.1,39,Georgia
+480,"Lowndes County, Georgia",2020,41,35.8,Georgia
+481,"Lumpkin County, Georgia",2020,39.7,34.3,Georgia
+482,"Macon County, Georgia",2020,41.9,36.7,Georgia
+483,"Madison County, Georgia",2020,40.3,36.4,Georgia
+484,"Marion County, Georgia",2020,41.6,38.1,Georgia
+485,"McDuffie County, Georgia",2020,41.2,38.1,Georgia
+486,"McIntosh County, Georgia",2020,43.3,37.5,Georgia
+487,"Meriwether County, Georgia",2020,42.7,37,Georgia
+488,"Miller County, Georgia",2020,40.9,37.7,Georgia
+489,"Mitchell County, Georgia",2020,41.2,38.3,Georgia
+490,"Monroe County, Georgia",2020,42.9,34.9,Georgia
+491,"Montgomery County, Georgia",2020,42.8,36.1,Georgia
+492,"Morgan County, Georgia",2020,42.7,38.1,Georgia
+493,"Murray County, Georgia",2020,40.9,37.6,Georgia
+494,"Muscogee County, Georgia",2020,42,36.6,Georgia
+495,"Newton County, Georgia",2020,42.3,35.7,Georgia
+496,"Oconee County, Georgia",2020,40.6,35.6,Georgia
+497,"Oglethorpe County, Georgia",2020,40.9,38.4,Georgia
+498,"Paulding County, Georgia",2020,42.1,37.2,Georgia
+499,"Peach County, Georgia",2020,40.2,35.5,Georgia
+500,"Pickens County, Georgia",2020,42.1,36.2,Georgia
+501,"Pierce County, Georgia",2020,42.4,36.8,Georgia
+502,"Pike County, Georgia",2020,41.1,35.1,Georgia
+503,"Polk County, Georgia",2020,41.7,37.8,Georgia
+504,"Pulaski County, Georgia",2020,40.9,40.5,Georgia
+505,"Putnam County, Georgia",2020,41.3,37.4,Georgia
+506,"Quitman County, Georgia",2020,44.8,38.3,Georgia
+507,"Rabun County, Georgia",2020,38.9,35.7,Georgia
+508,"Randolph County, Georgia",2020,40.2,36.8,Georgia
+509,"Richmond County, Georgia",2020,41.3,37.1,Georgia
+510,"Rockdale County, Georgia",2020,41,38.1,Georgia
+511,"Schley County, Georgia",2020,41.5,36.4,Georgia
+512,"Screven County, Georgia",2020,43.8,37.5,Georgia
+513,"Seminole County, Georgia",2020,41,38.2,Georgia
+514,"Spalding County, Georgia",2020,41.3,37.6,Georgia
+515,"Stephens County, Georgia",2020,39.9,36,Georgia
+516,"Stewart County, Georgia",2020,40.9,37.2,Georgia
+517,"Sumter County, Georgia",2020,41.2,36.4,Georgia
+518,"Talbot County, Georgia",2020,45.9,36.6,Georgia
+519,"Taliaferro County, Georgia",2020,40.9,37.3,Georgia
+520,"Tattnall County, Georgia",2020,44.9,37.4,Georgia
+521,"Taylor County, Georgia",2020,42.3,37.2,Georgia
+522,"Telfair County, Georgia",2020,42.5,35.7,Georgia
+523,"Terrell County, Georgia",2020,42.8,35.2,Georgia
+524,"Thomas County, Georgia",2020,43,37.4,Georgia
+525,"Tift County, Georgia",2020,40,36.1,Georgia
+526,"Toombs County, Georgia",2020,44.7,37.5,Georgia
+527,"Towns County, Georgia",2020,40,32.3,Georgia
+528,"Treutlen County, Georgia",2020,41,35.7,Georgia
+529,"Troup County, Georgia",2020,43.1,36.9,Georgia
+530,"Turner County, Georgia",2020,42.8,36.4,Georgia
+531,"Twiggs County, Georgia",2020,41.3,36.2,Georgia
+532,"Union County, Georgia",2020,40.4,36.5,Georgia
+533,"Upson County, Georgia",2020,42.6,35.8,Georgia
+534,"Walker County, Georgia",2020,42.2,36.9,Georgia
+535,"Walton County, Georgia",2020,42.2,36.3,Georgia
+536,"Ware County, Georgia",2020,42.8,38.4,Georgia
+537,"Warren County, Georgia",2020,41.5,36.7,Georgia
+538,"Washington County, Georgia",2020,41.9,35.8,Georgia
+539,"Wayne County, Georgia",2020,40.2,35.6,Georgia
+540,"Webster County, Georgia",2020,43.3,37.2,Georgia
+541,"Wheeler County, Georgia",2020,41.4,35.9,Georgia
+542,"White County, Georgia",2020,41.1,35.2,Georgia
+543,"Whitfield County, Georgia",2020,40.7,36.9,Georgia
+544,"Wilcox County, Georgia",2020,41.5,38.5,Georgia
+545,"Wilkes County, Georgia",2020,41.4,37,Georgia
+546,"Wilkinson County, Georgia",2020,42.6,39,Georgia
+547,"Worth County, Georgia",2020,42.5,37.2,Hawaii
+548,"Hawaii County, Hawaii",2020,38.5,35.8,Hawaii
+549,"Honolulu County, Hawaii",2020,41.3,36.9,Hawaii
+550,"Kalawao County, Hawaii",2020,40.3,40,Hawaii
+551,"Kauai County, Hawaii",2020,39.5,36.9,Hawaii
+552,"Maui County, Hawaii",2020,40,36.9,Idaho
+553,"Ada County, Idaho",2020,40.9,35.1,Idaho
+554,"Adams County, Idaho",2020,44.9,34.2,Idaho
+555,"Bannock County, Idaho",2020,39.7,33.3,Idaho
+556,"Bear Lake County, Idaho",2020,43.1,31.3,Idaho
+557,"Benewah County, Idaho",2020,43.7,34.8,Idaho
+558,"Bingham County, Idaho",2020,43.9,33.5,Idaho
+559,"Blaine County, Idaho",2020,41.7,37.2,Idaho
+560,"Boise County, Idaho",2020,42.1,34.6,Idaho
+561,"Bonner County, Idaho",2020,40.9,33.1,Idaho
+562,"Bonneville County, Idaho",2020,41.4,32.9,Idaho
+563,"Boundary County, Idaho",2020,42.4,34.6,Idaho
+564,"Butte County, Idaho",2020,40,32.1,Idaho
+565,"Camas County, Idaho",2020,40.8,36.8,Idaho
+566,"Canyon County, Idaho",2020,42.2,35.3,Idaho
+567,"Caribou County, Idaho",2020,42,31.3,Idaho
+568,"Cassia County, Idaho",2020,45.9,34.4,Idaho
+569,"Clark County, Idaho",2020,45.3,37.9,Idaho
+570,"Clearwater County, Idaho",2020,42,35.7,Idaho
+571,"Custer County, Idaho",2020,48.3,32.4,Idaho
+572,"Elmore County, Idaho",2020,44.7,37.1,Idaho
+573,"Franklin County, Idaho",2020,41.6,32.1,Idaho
+574,"Fremont County, Idaho",2020,42.2,33.4,Idaho
+575,"Gem County, Idaho",2020,43.6,36.5,Idaho
+576,"Gooding County, Idaho",2020,43.5,36.5,Idaho
+577,"Idaho County, Idaho",2020,40.8,35.4,Idaho
+578,"Jefferson County, Idaho",2020,42.2,31.5,Idaho
+579,"Jerome County, Idaho",2020,46.6,37.1,Idaho
+580,"Kootenai County, Idaho",2020,40.7,34.8,Idaho
+581,"Latah County, Idaho",2020,37.6,33,Idaho
+582,"Lemhi County, Idaho",2020,44.6,38.1,Idaho
+583,"Lewis County, Idaho",2020,43,35.8,Idaho
+584,"Lincoln County, Idaho",2020,45.3,35.1,Idaho
+585,"Madison County, Idaho",2020,36.3,28.1,Idaho
+586,"Minidoka County, Idaho",2020,47.4,37.1,Idaho
+587,"Nez Perce County, Idaho",2020,42.8,35.1,Idaho
+588,"Oneida County, Idaho",2020,43.7,32.1,Idaho
+589,"Owyhee County, Idaho",2020,48.3,34.7,Idaho
+590,"Payette County, Idaho",2020,44.1,36.2,Idaho
+591,"Power County, Idaho",2020,49.7,34.7,Idaho
+592,"Shoshone County, Idaho",2020,41.9,36,Idaho
+593,"Teton County, Idaho",2020,43.6,38.6,Idaho
+594,"Twin Falls County, Idaho",2020,42.9,33.8,Idaho
+595,"Valley County, Idaho",2020,39.8,32.3,Idaho
+596,"Washington County, Idaho",2020,43,35.7,Illinois
+597,"Adams County, Illinois",2020,42,36.5,Illinois
+598,"Alexander County, Illinois",2020,39.6,37.8,Illinois
+599,"Bond County, Illinois",2020,40.8,35.9,Illinois
+600,"Boone County, Illinois",2020,41.9,35.3,Illinois
+601,"Brown County, Illinois",2020,42,38.7,Illinois
+602,"Bureau County, Illinois",2020,41.8,34.9,Illinois
+603,"Calhoun County, Illinois",2020,41.3,34.7,Illinois
+604,"Carroll County, Illinois",2020,43.8,35.9,Illinois
+605,"Cass County, Illinois",2020,41.6,36.5,Illinois
+606,"Champaign County, Illinois",2020,37.4,34,Illinois
+607,"Christian County, Illinois",2020,42.1,36.1,Illinois
+608,"Clark County, Illinois",2020,42.6,35.8,Illinois
+609,"Clay County, Illinois",2020,42.6,37.6,Illinois
+610,"Clinton County, Illinois",2020,41.2,36.1,Illinois
+611,"Coles County, Illinois",2020,39,33.4,Illinois
+612,"Cook County, Illinois",2020,40.8,36.9,Illinois
+613,"Crawford County, Illinois",2020,42,35.5,Illinois
+614,"Cumberland County, Illinois",2020,41.9,34.5,Illinois
+615,"De Witt County, Illinois",2020,41.1,35.3,Illinois
+616,"DeKalb County, Illinois",2020,40.6,33.5,Illinois
+617,"Douglas County, Illinois",2020,42.1,34.5,Illinois
+618,"DuPage County, Illinois",2020,41.5,35.7,Illinois
+619,"Edgar County, Illinois",2020,41.8,35.7,Illinois
+620,"Edwards County, Illinois",2020,40.6,36.5,Illinois
+621,"Effingham County, Illinois",2020,41.8,35.6,Illinois
+622,"Fayette County, Illinois",2020,42,35.2,Illinois
+623,"Ford County, Illinois",2020,41.7,35,Illinois
+624,"Franklin County, Illinois",2020,41.5,34.6,Illinois
+625,"Fulton County, Illinois",2020,40.5,35.8,Illinois
+626,"Gallatin County, Illinois",2020,44.2,34.6,Illinois
+627,"Greene County, Illinois",2020,40.6,33.5,Illinois
+628,"Grundy County, Illinois",2020,42.8,36.1,Illinois
+629,"Hamilton County, Illinois",2020,43.3,34.5,Illinois
+630,"Hancock County, Illinois",2020,43.5,37,Illinois
+631,"Hardin County, Illinois",2020,41.3,36.7,Illinois
+632,"Henderson County, Illinois",2020,42.3,36.9,Illinois
+633,"Henry County, Illinois",2020,40.9,35.4,Illinois
+634,"Iroquois County, Illinois",2020,42.3,35.5,Illinois
+635,"Jackson County, Illinois",2020,37,33.5,Illinois
+636,"Jasper County, Illinois",2020,43.5,33.8,Illinois
+637,"Jefferson County, Illinois",2020,40.6,36.1,Illinois
+638,"Jersey County, Illinois",2020,41.2,35.6,Illinois
+639,"Jo Daviess County, Illinois",2020,42.5,36.3,Illinois
+640,"Johnson County, Illinois",2020,39.4,36.9,Illinois
+641,"Kane County, Illinois",2020,41.5,35.4,Illinois
+642,"Kankakee County, Illinois",2020,41.1,35.6,Illinois
+643,"Kendall County, Illinois",2020,42.3,36.1,Illinois
+644,"Knox County, Illinois",2020,39.5,34.5,Illinois
+645,"Lake County, Illinois",2020,41.8,36.3,Illinois
+646,"LaSalle County, Illinois",2020,42.3,34.9,Illinois
+647,"Lawrence County, Illinois",2020,41.9,38.1,Illinois
+648,"Lee County, Illinois",2020,42.9,35.3,Illinois
+649,"Livingston County, Illinois",2020,42.9,35.9,Illinois
+650,"Logan County, Illinois",2020,40.2,35.1,Illinois
+651,"Macon County, Illinois",2020,40.8,36.2,Illinois
+652,"Macoupin County, Illinois",2020,40,35,Illinois
+653,"Madison County, Illinois",2020,40.8,35.9,Illinois
+654,"Marion County, Illinois",2020,42.1,36.2,Illinois
+655,"Marshall County, Illinois",2020,41.4,35,Illinois
+656,"Mason County, Illinois",2020,42.9,36.1,Illinois
+657,"Massac County, Illinois",2020,41.6,34.9,Illinois
+658,"McDonough County, Illinois",2020,37.4,31.2,Illinois
+659,"McHenry County, Illinois",2020,41.9,35.6,Illinois
+660,"McLean County, Illinois",2020,38.6,34.3,Illinois
+661,"Menard County, Illinois",2020,40.8,37.8,Illinois
+662,"Mercer County, Illinois",2020,43.8,35.4,Illinois
+663,"Monroe County, Illinois",2020,40.7,36.9,Illinois
+664,"Montgomery County, Illinois",2020,41,36.6,Illinois
+665,"Morgan County, Illinois",2020,41.1,34.7,Illinois
+666,"Moultrie County, Illinois",2020,43.1,35.8,Illinois
+667,"Ogle County, Illinois",2020,42.7,36.5,Illinois
+668,"Peoria County, Illinois",2020,40.2,35.8,Illinois
+669,"Perry County, Illinois",2020,41.2,36.3,Illinois
+670,"Piatt County, Illinois",2020,40.5,36.1,Illinois
+671,"Pike County, Illinois",2020,41.1,35.6,Illinois
+672,"Pope County, Illinois",2020,40,36.1,Illinois
+673,"Pulaski County, Illinois",2020,36.6,36.9,Illinois
+674,"Putnam County, Illinois",2020,43,35.4,Illinois
+675,"Randolph County, Illinois",2020,41.7,36.7,Illinois
+676,"Richland County, Illinois",2020,40.6,35.2,Illinois
+677,"Rock Island County, Illinois",2020,40.4,35.5,Illinois
+678,"Saline County, Illinois",2020,41.4,35,Illinois
+679,"Sangamon County, Illinois",2020,39.8,36.4,Illinois
+680,"Schuyler County, Illinois",2020,42.4,37.6,Illinois
+681,"Scott County, Illinois",2020,41.2,35.2,Illinois
+682,"Shelby County, Illinois",2020,42.4,35.8,Illinois
+683,"St. Clair County, Illinois",2020,40.6,36,Illinois
+684,"Stark County, Illinois",2020,42,36.4,Illinois
+685,"Stephenson County, Illinois",2020,42,35.8,Illinois
+686,"Tazewell County, Illinois",2020,41.2,35.5,Illinois
+687,"Union County, Illinois",2020,40.6,36.9,Illinois
+688,"Vermilion County, Illinois",2020,40.7,36.2,Illinois
+689,"Wabash County, Illinois",2020,42,35.3,Illinois
+690,"Warren County, Illinois",2020,40.9,34.4,Illinois
+691,"Washington County, Illinois",2020,45.2,37.4,Illinois
+692,"Wayne County, Illinois",2020,43.1,36.3,Illinois
+693,"White County, Illinois",2020,42.3,34.7,Illinois
+694,"Whiteside County, Illinois",2020,42,35,Illinois
+695,"Will County, Illinois",2020,41.4,35.6,Illinois
+696,"Williamson County, Illinois",2020,40.6,36.9,Illinois
+697,"Winnebago County, Illinois",2020,40.8,36.2,Illinois
+698,"Woodford County, Illinois",2020,41.8,34.8,Indiana
+699,"Adams County, Indiana",2020,41.2,34.5,Indiana
+700,"Allen County, Indiana",2020,41.4,35.8,Indiana
+701,"Bartholomew County, Indiana",2020,41.6,35.4,Indiana
+702,"Benton County, Indiana",2020,43.1,35.4,Indiana
+703,"Blackford County, Indiana",2020,43.6,37.1,Indiana
+704,"Boone County, Indiana",2020,42.7,37.6,Indiana
+705,"Brown County, Indiana",2020,40.3,36.9,Indiana
+706,"Carroll County, Indiana",2020,43.6,37.1,Indiana
+707,"Cass County, Indiana",2020,40.8,36.8,Indiana
+708,"Clark County, Indiana",2020,40.3,36.9,Indiana
+709,"Clay County, Indiana",2020,43.1,37.1,Indiana
+710,"Clinton County, Indiana",2020,41.3,36.1,Indiana
+711,"Crawford County, Indiana",2020,42.8,36,Indiana
+712,"Daviess County, Indiana",2020,43,34.3,Indiana
+713,"Dearborn County, Indiana",2020,41.5,35.7,Indiana
+714,"Decatur County, Indiana",2020,44.4,35.9,Indiana
+715,"DeKalb County, Indiana",2020,43.3,35.7,Indiana
+716,"Delaware County, Indiana",2020,38.1,33.2,Indiana
+717,"Dubois County, Indiana",2020,44.3,37.7,Indiana
+718,"Elkhart County, Indiana",2020,41.1,35.2,Indiana
+719,"Fayette County, Indiana",2020,43.6,36,Indiana
+720,"Floyd County, Indiana",2020,41,36.3,Indiana
+721,"Fountain County, Indiana",2020,42.4,36.1,Indiana
+722,"Franklin County, Indiana",2020,43.3,35.9,Indiana
+723,"Fulton County, Indiana",2020,42.1,38.1,Indiana
+724,"Gibson County, Indiana",2020,43.1,36.1,Indiana
+725,"Grant County, Indiana",2020,39.7,34.2,Indiana
+726,"Greene County, Indiana",2020,41.2,34.9,Indiana
+727,"Hamilton County, Indiana",2020,42.6,36.2,Indiana
+728,"Hancock County, Indiana",2020,42.9,37.1,Indiana
+729,"Harrison County, Indiana",2020,41,36.2,Indiana
+730,"Hendricks County, Indiana",2020,42.3,36.6,Indiana
+731,"Henry County, Indiana",2020,42.2,37.2,Indiana
+732,"Howard County, Indiana",2020,41.8,36.1,Indiana
+733,"Huntington County, Indiana",2020,40.6,35,Indiana
+734,"Jackson County, Indiana",2020,43.7,36.8,Indiana
+735,"Jasper County, Indiana",2020,44.1,33.9,Indiana
+736,"Jay County, Indiana",2020,43.3,35.9,Indiana
+737,"Jefferson County, Indiana",2020,42.1,36.4,Indiana
+738,"Jennings County, Indiana",2020,43.2,37.4,Indiana
+739,"Johnson County, Indiana",2020,42.4,36.9,Indiana
+740,"Knox County, Indiana",2020,41.5,36.3,Indiana
+741,"Kosciusko County, Indiana",2020,41.9,36.7,Indiana
+742,"LaGrange County, Indiana",2020,40.5,35.5,Indiana
+743,"Lake County, Indiana",2020,42,35.5,Indiana
+744,"LaPorte County, Indiana",2020,41.7,35.6,Indiana
+745,"Lawrence County, Indiana",2020,41.8,35.4,Indiana
+746,"Madison County, Indiana",2020,41.1,36,Indiana
+747,"Marion County, Indiana",2020,40.4,37.1,Indiana
+748,"Marshall County, Indiana",2020,42.1,35.4,Indiana
+749,"Martin County, Indiana",2020,43.8,35.3,Indiana
+750,"Miami County, Indiana",2020,41.8,35.1,Indiana
+751,"Monroe County, Indiana",2020,36.1,32.6,Indiana
+752,"Montgomery County, Indiana",2020,40.8,37.3,Indiana
+753,"Morgan County, Indiana",2020,42.3,36.2,Indiana
+754,"Newton County, Indiana",2020,42.8,37.3,Indiana
+755,"Noble County, Indiana",2020,42.6,36.6,Indiana
+756,"Ohio County, Indiana",2020,44.1,38.4,Indiana
+757,"Orange County, Indiana",2020,42.2,36.7,Indiana
+758,"Owen County, Indiana",2020,40.9,36.3,Indiana
+759,"Parke County, Indiana",2020,42.9,37.1,Indiana
+760,"Perry County, Indiana",2020,43.6,35.8,Indiana
+761,"Pike County, Indiana",2020,44.1,36.5,Indiana
+762,"Porter County, Indiana",2020,42.6,34.8,Indiana
+763,"Posey County, Indiana",2020,42.4,35,Indiana
+764,"Pulaski County, Indiana",2020,42,36,Indiana
+765,"Putnam County, Indiana",2020,40.9,34.4,Indiana
+766,"Randolph County, Indiana",2020,43.5,36.3,Indiana
+767,"Ripley County, Indiana",2020,42.7,36.4,Indiana
+768,"Rush County, Indiana",2020,43.9,37.6,Indiana
+769,"Scott County, Indiana",2020,42.4,38.7,Indiana
+770,"Shelby County, Indiana",2020,42.9,36.2,Indiana
+771,"Spencer County, Indiana",2020,43.5,36.4,Indiana
+772,"St. Joseph County, Indiana",2020,40.6,35.2,Indiana
+773,"Starke County, Indiana",2020,42.6,34.1,Indiana
+774,"Steuben County, Indiana",2020,42.4,35.8,Indiana
+775,"Sullivan County, Indiana",2020,41.8,35.2,Indiana
+776,"Switzerland County, Indiana",2020,41.3,36.9,Indiana
+777,"Tippecanoe County, Indiana",2020,38.8,33.7,Indiana
+778,"Tipton County, Indiana",2020,43.6,36.5,Indiana
+779,"Union County, Indiana",2020,43.9,38.2,Indiana
+780,"Vanderburgh County, Indiana",2020,41,36.3,Indiana
+781,"Vermillion County, Indiana",2020,42.8,36.5,Indiana
+782,"Vigo County, Indiana",2020,40,34,Indiana
+783,"Wabash County, Indiana",2020,40.1,34.8,Indiana
+784,"Warren County, Indiana",2020,45.1,36,Indiana
+785,"Warrick County, Indiana",2020,44,36.8,Indiana
+786,"Washington County, Indiana",2020,42.5,37.4,Indiana
+787,"Wayne County, Indiana",2020,41.2,36.9,Indiana
+788,"Wells County, Indiana",2020,41.3,35.8,Indiana
+789,"White County, Indiana",2020,43.8,36.6,Indiana
+790,"Whitley County, Indiana",2020,42.8,35.6,Iowa
+791,"Adair County, Iowa",2020,45.6,38.6,Iowa
+792,"Adams County, Iowa",2020,48.6,35.4,Iowa
+793,"Allamakee County, Iowa",2020,45.2,37.2,Iowa
+794,"Appanoose County, Iowa",2020,41.1,35.3,Iowa
+795,"Audubon County, Iowa",2020,45.6,37,Iowa
+796,"Benton County, Iowa",2020,42.5,36.6,Iowa
+797,"Black Hawk County, Iowa",2020,39.6,34.4,Iowa
+798,"Boone County, Iowa",2020,41.8,36.6,Iowa
+799,"Bremer County, Iowa",2020,41.1,34.5,Iowa
+800,"Buchanan County, Iowa",2020,43.9,36.8,Iowa
+801,"Buena Vista County, Iowa",2020,41.7,36.3,Iowa
+802,"Butler County, Iowa",2020,43.1,35.4,Iowa
+803,"Calhoun County, Iowa",2020,43,36.8,Iowa
+804,"Carroll County, Iowa",2020,45.2,36.8,Iowa
+805,"Cass County, Iowa",2020,43.3,36.5,Iowa
+806,"Cedar County, Iowa",2020,43,37.7,Iowa
+807,"Cerro Gordo County, Iowa",2020,41.3,35.6,Iowa
+808,"Cherokee County, Iowa",2020,45.8,35.2,Iowa
+809,"Chickasaw County, Iowa",2020,43.2,38.1,Iowa
+810,"Clarke County, Iowa",2020,42.9,35.7,Iowa
+811,"Clay County, Iowa",2020,41.5,37.6,Iowa
+812,"Clayton County, Iowa",2020,44.4,36.6,Iowa
+813,"Clinton County, Iowa",2020,41.6,36.1,Iowa
+814,"Crawford County, Iowa",2020,45.7,39,Iowa
+815,"Dallas County, Iowa",2020,42.4,38.1,Iowa
+816,"Davis County, Iowa",2020,45.1,36.7,Iowa
+817,"Decatur County, Iowa",2020,40,34.6,Iowa
+818,"Delaware County, Iowa",2020,46.1,36.9,Iowa
+819,"Des Moines County, Iowa",2020,40.7,35.9,Iowa
+820,"Dickinson County, Iowa",2020,42.2,35.8,Iowa
+821,"Dubuque County, Iowa",2020,41.3,35.8,Iowa
+822,"Emmet County, Iowa",2020,41.5,34.9,Iowa
+823,"Fayette County, Iowa",2020,42.6,35.7,Iowa
+824,"Floyd County, Iowa",2020,42.4,37.4,Iowa
+825,"Franklin County, Iowa",2020,43.4,35.6,Iowa
+826,"Fremont County, Iowa",2020,42.9,38.1,Iowa
+827,"Greene County, Iowa",2020,42.4,37.5,Iowa
+828,"Grundy County, Iowa",2020,44.5,36.9,Iowa
+829,"Guthrie County, Iowa",2020,43.3,36.4,Iowa
+830,"Hamilton County, Iowa",2020,42.6,36.7,Iowa
+831,"Hancock County, Iowa",2020,45.5,37.6,Iowa
+832,"Hardin County, Iowa",2020,41.8,36.1,Iowa
+833,"Harrison County, Iowa",2020,43.3,37.6,Iowa
+834,"Henry County, Iowa",2020,40.9,37.7,Iowa
+835,"Howard County, Iowa",2020,45,36.5,Iowa
+836,"Humboldt County, Iowa",2020,44.6,36,Iowa
+837,"Ida County, Iowa",2020,46.7,38.3,Iowa
+838,"Iowa County, Iowa",2020,42.9,35.8,Iowa
+839,"Jackson County, Iowa",2020,42.7,35.9,Iowa
+840,"Jasper County, Iowa",2020,42.8,37.5,Iowa
+841,"Jefferson County, Iowa",2020,40.8,36.3,Iowa
+842,"Johnson County, Iowa",2020,39.1,33.9,Iowa
+843,"Jones County, Iowa",2020,44.4,37.4,Iowa
+844,"Keokuk County, Iowa",2020,42.5,36.6,Iowa
+845,"Kossuth County, Iowa",2020,44.9,36.2,Iowa
+846,"Lee County, Iowa",2020,42.6,35.7,Iowa
+847,"Linn County, Iowa",2020,40.9,36.9,Iowa
+848,"Louisa County, Iowa",2020,43.6,36.3,Iowa
+849,"Lucas County, Iowa",2020,42.3,35.3,Iowa
+850,"Lyon County, Iowa",2020,45.9,36,Iowa
+851,"Madison County, Iowa",2020,43.8,38,Iowa
+852,"Mahaska County, Iowa",2020,41,35.3,Iowa
+853,"Marion County, Iowa",2020,41.6,34.3,Iowa
+854,"Marshall County, Iowa",2020,42.3,36.6,Iowa
+855,"Mills County, Iowa",2020,42.2,35.2,Iowa
+856,"Mitchell County, Iowa",2020,44.2,35.1,Iowa
+857,"Monona County, Iowa",2020,43.2,36.3,Iowa
+858,"Monroe County, Iowa",2020,45.7,35.4,Iowa
+859,"Montgomery County, Iowa",2020,42.9,36.8,Iowa
+860,"Muscatine County, Iowa",2020,41.6,36.5,Iowa
+861,"O'Brien County, Iowa",2020,44.5,35.7,Iowa
+862,"Osceola County, Iowa",2020,45.7,37.5,Iowa
+863,"Page County, Iowa",2020,42.1,36.3,Iowa
+864,"Palo Alto County, Iowa",2020,42.7,36.2,Iowa
+865,"Plymouth County, Iowa",2020,44.6,36.8,Iowa
+866,"Pocahontas County, Iowa",2020,46.9,36.3,Iowa
+867,"Polk County, Iowa",2020,41.3,36.9,Iowa
+868,"Pottawattamie County, Iowa",2020,41.5,36.8,Iowa
+869,"Poweshiek County, Iowa",2020,40.5,33.4,Iowa
+870,"Ringgold County, Iowa",2020,47.9,39.1,Iowa
+871,"Sac County, Iowa",2020,45,36.3,Iowa
+872,"Scott County, Iowa",2020,41.2,35.8,Iowa
+873,"Shelby County, Iowa",2020,43.2,36.9,Iowa
+874,"Sioux County, Iowa",2020,43,31.7,Iowa
+875,"Story County, Iowa",2020,36.3,32.2,Iowa
+876,"Tama County, Iowa",2020,43,37.8,Iowa
+877,"Taylor County, Iowa",2020,46.3,39.4,Iowa
+878,"Union County, Iowa",2020,43.1,36.8,Iowa
+879,"Van Buren County, Iowa",2020,43.8,35,Iowa
+880,"Wapello County, Iowa",2020,41.6,36.6,Iowa
+881,"Warren County, Iowa",2020,41,36,Iowa
+882,"Washington County, Iowa",2020,43.4,36.2,Iowa
+883,"Wayne County, Iowa",2020,44.9,36.5,Iowa
+884,"Webster County, Iowa",2020,41.8,36.3,Iowa
+885,"Winnebago County, Iowa",2020,41.6,36.6,Iowa
+886,"Winneshiek County, Iowa",2020,41.4,33.6,Iowa
+887,"Woodbury County, Iowa",2020,41.8,36.3,Iowa
+888,"Worth County, Iowa",2020,42.9,35.6,Iowa
+889,"Wright County, Iowa",2020,41.9,36.9,Kansas
+890,"Allen County, Kansas",2020,42.2,37.1,Kansas
+891,"Anderson County, Kansas",2020,42.8,37.4,Kansas
+892,"Atchison County, Kansas",2020,40.2,31.3,Kansas
+893,"Barber County, Kansas",2020,48.5,36.5,Kansas
+894,"Barton County, Kansas",2020,43.2,37.1,Kansas
+895,"Bourbon County, Kansas",2020,41.9,35.7,Kansas
+896,"Brown County, Kansas",2020,42,35.9,Kansas
+897,"Butler County, Kansas",2020,41.9,36.1,Kansas
+898,"Chase County, Kansas",2020,41.2,37,Kansas
+899,"Chautauqua County, Kansas",2020,43.2,35.6,Kansas
+900,"Cherokee County, Kansas",2020,41,35.5,Kansas
+901,"Cheyenne County, Kansas",2020,45.1,35.4,Kansas
+902,"Clark County, Kansas",2020,47.3,36.8,Kansas
+903,"Clay County, Kansas",2020,43.8,35,Kansas
+904,"Cloud County, Kansas",2020,44.3,36.7,Kansas
+905,"Coffey County, Kansas",2020,42.5,36.9,Kansas
+906,"Comanche County, Kansas",2020,46.4,35.7,Kansas
+907,"Cowley County, Kansas",2020,41.8,36.5,Kansas
+908,"Crawford County, Kansas",2020,39.4,35.6,Kansas
+909,"Decatur County, Kansas",2020,45.9,35.4,Kansas
+910,"Dickinson County, Kansas",2020,43.7,36.2,Kansas
+911,"Doniphan County, Kansas",2020,41.9,36.2,Kansas
+912,"Douglas County, Kansas",2020,37.6,33.6,Kansas
+913,"Edwards County, Kansas",2020,47.4,36.2,Kansas
+914,"Elk County, Kansas",2020,41.6,34.8,Kansas
+915,"Ellis County, Kansas",2020,40.4,35.5,Kansas
+916,"Ellsworth County, Kansas",2020,41.1,36.1,Kansas
+917,"Finney County, Kansas",2020,44.4,36.3,Kansas
+918,"Ford County, Kansas",2020,43.3,36.6,Kansas
+919,"Franklin County, Kansas",2020,42.4,37.7,Kansas
+920,"Geary County, Kansas",2020,47.7,36.7,Kansas
+921,"Gove County, Kansas",2020,49.6,33.5,Kansas
+922,"Graham County, Kansas",2020,42.7,34.9,Kansas
+923,"Grant County, Kansas",2020,47.6,37.2,Kansas
+924,"Gray County, Kansas",2020,47.5,35.3,Kansas
+925,"Greeley County, Kansas",2020,49.3,32.3,Kansas
+926,"Greenwood County, Kansas",2020,43.8,38.5,Kansas
+927,"Hamilton County, Kansas",2020,50,38.8,Kansas
+928,"Harper County, Kansas",2020,45.3,39.2,Kansas
+929,"Harvey County, Kansas",2020,42.2,36,Kansas
+930,"Haskell County, Kansas",2020,49.3,37.5,Kansas
+931,"Hodgeman County, Kansas",2020,49.6,39.5,Kansas
+932,"Jackson County, Kansas",2020,42.2,36,Kansas
+933,"Jefferson County, Kansas",2020,41.7,35.5,Kansas
+934,"Jewell County, Kansas",2020,43.9,34,Kansas
+935,"Johnson County, Kansas",2020,42,36.9,Kansas
+936,"Kearny County, Kansas",2020,46,38.4,Kansas
+937,"Kingman County, Kansas",2020,44,35.1,Kansas
+938,"Kiowa County, Kansas",2020,43.6,34.1,Kansas
+939,"Labette County, Kansas",2020,42.3,36.4,Kansas
+940,"Lane County, Kansas",2020,49.4,34.4,Kansas
+941,"Leavenworth County, Kansas",2020,40.2,37.2,Kansas
+942,"Lincoln County, Kansas",2020,49.1,37,Kansas
+943,"Linn County, Kansas",2020,45.4,37.5,Kansas
+944,"Logan County, Kansas",2020,44.8,36.5,Kansas
+945,"Lyon County, Kansas",2020,41,36,Kansas
+946,"Marion County, Kansas",2020,42.4,33.6,Kansas
+947,"Marshall County, Kansas",2020,45.5,36.7,Kansas
+948,"McPherson County, Kansas",2020,41.1,36.2,Kansas
+949,"Meade County, Kansas",2020,47.2,36,Kansas
+950,"Miami County, Kansas",2020,43.3,38,Kansas
+951,"Mitchell County, Kansas",2020,44.6,35.6,Kansas
+952,"Montgomery County, Kansas",2020,41.1,35.8,Kansas
+953,"Morris County, Kansas",2020,43,37.7,Kansas
+954,"Morton County, Kansas",2020,44.7,39.3,Kansas
+955,"Nemaha County, Kansas",2020,43.5,36,Kansas
+956,"Neosho County, Kansas",2020,42.7,38.2,Kansas
+957,"Ness County, Kansas",2020,49.3,34.2,Kansas
+958,"Norton County, Kansas",2020,38.5,37.1,Kansas
+959,"Osage County, Kansas",2020,42.1,37.4,Kansas
+960,"Osborne County, Kansas",2020,48.6,38,Kansas
+961,"Ottawa County, Kansas",2020,42.8,37.3,Kansas
+962,"Pawnee County, Kansas",2020,41.5,39.8,Kansas
+963,"Phillips County, Kansas",2020,44,37.6,Kansas
+964,"Pottawatomie County, Kansas",2020,43.2,36.8,Kansas
+965,"Pratt County, Kansas",2020,41.8,32.5,Kansas
+966,"Rawlins County, Kansas",2020,44.9,34.2,Kansas
+967,"Reno County, Kansas",2020,41.2,36.9,Kansas
+968,"Republic County, Kansas",2020,43.1,37.4,Kansas
+969,"Rice County, Kansas",2020,42.9,35.8,Kansas
+970,"Riley County, Kansas",2020,42.1,32.9,Kansas
+971,"Rooks County, Kansas",2020,43.7,36.5,Kansas
+972,"Rush County, Kansas",2020,45.4,38,Kansas
+973,"Russell County, Kansas",2020,41.8,36.4,Kansas
+974,"Saline County, Kansas",2020,41.4,36.5,Kansas
+975,"Scott County, Kansas",2020,52.2,36.2,Kansas
+976,"Sedgwick County, Kansas",2020,41.4,36.6,Kansas
+977,"Seward County, Kansas",2020,42.6,37.7,Kansas
+978,"Shawnee County, Kansas",2020,40.8,36.9,Kansas
+979,"Sheridan County, Kansas",2020,51.2,35.8,Kansas
+980,"Sherman County, Kansas",2020,44.6,37.4,Kansas
+981,"Smith County, Kansas",2020,44.5,36.3,Kansas
+982,"Stafford County, Kansas",2020,45.5,37,Kansas
+983,"Stanton County, Kansas",2020,51.5,38.9,Kansas
+984,"Stevens County, Kansas",2020,45.3,36.1,Kansas
+985,"Sumner County, Kansas",2020,42.2,36.2,Kansas
+986,"Thomas County, Kansas",2020,45.2,36.1,Kansas
+987,"Trego County, Kansas",2020,48.1,40.9,Kansas
+988,"Wabaunsee County, Kansas",2020,41.4,36.3,Kansas
+989,"Wallace County, Kansas",2020,51.6,35.4,Kansas
+990,"Washington County, Kansas",2020,45.6,37.2,Kansas
+991,"Wichita County, Kansas",2020,48,40,Kansas
+992,"Wilson County, Kansas",2020,40.7,35.9,Kansas
+993,"Woodson County, Kansas",2020,43.8,37.4,Kansas
+994,"Wyandotte County, Kansas",2020,40.9,37.2,Kentucky
+995,"Adair County, Kentucky",2020,39.8,33.6,Kentucky
+996,"Allen County, Kentucky",2020,40.4,37.3,Kentucky
+997,"Anderson County, Kentucky",2020,41.1,36.9,Kentucky
+998,"Ballard County, Kentucky",2020,39.5,34.7,Kentucky
+999,"Barren County, Kentucky",2020,42.4,37.5,Kentucky
+1000,"Bath County, Kentucky",2020,42.2,36.4,Kentucky
+1001,"Bell County, Kentucky",2020,39.6,37.7,Kentucky
+1002,"Boone County, Kentucky",2020,42.2,36.8,Kentucky
+1003,"Bourbon County, Kentucky",2020,42.2,36.7,Kentucky
+1004,"Boyd County, Kentucky",2020,41.3,35.8,Kentucky
+1005,"Boyle County, Kentucky",2020,40.9,36.9,Kentucky
+1006,"Bracken County, Kentucky",2020,41,35.6,Kentucky
+1007,"Breathitt County, Kentucky",2020,40.9,36.7,Kentucky
+1008,"Breckinridge County, Kentucky",2020,43.4,36.4,Kentucky
+1009,"Bullitt County, Kentucky",2020,41.4,37,Kentucky
+1010,"Butler County, Kentucky",2020,43.4,36.4,Kentucky
+1011,"Caldwell County, Kentucky",2020,42.3,38.2,Kentucky
+1012,"Calloway County, Kentucky",2020,37.3,33.8,Kentucky
+1013,"Campbell County, Kentucky",2020,40.3,35.5,Kentucky
+1014,"Carlisle County, Kentucky",2020,42.9,35,Kentucky
+1015,"Carroll County, Kentucky",2020,42.9,36.1,Kentucky
+1016,"Carter County, Kentucky",2020,39.9,33.9,Kentucky
+1017,"Casey County, Kentucky",2020,40.9,35.3,Kentucky
+1018,"Christian County, Kentucky",2020,49.3,37.4,Kentucky
+1019,"Clark County, Kentucky",2020,42.7,37,Kentucky
+1020,"Clay County, Kentucky",2020,40.6,37.5,Kentucky
+1021,"Clinton County, Kentucky",2020,38.8,38.1,Kentucky
+1022,"Crittenden County, Kentucky",2020,44.6,37.3,Kentucky
+1023,"Cumberland County, Kentucky",2020,38.6,35.4,Kentucky
+1024,"Daviess County, Kentucky",2020,42,36.5,Kentucky
+1025,"Edmonson County, Kentucky",2020,42.7,36.6,Kentucky
+1026,"Elliott County, Kentucky",2020,42.9,36.3,Kentucky
+1027,"Estill County, Kentucky",2020,39.7,34.8,Kentucky
+1028,"Fayette County, Kentucky",2020,40.3,35.5,Kentucky
+1029,"Fleming County, Kentucky",2020,42.1,37.9,Kentucky
+1030,"Floyd County, Kentucky",2020,42.8,35.5,Kentucky
+1031,"Franklin County, Kentucky",2020,40.7,36.5,Kentucky
+1032,"Fulton County, Kentucky",2020,39.4,37.1,Kentucky
+1033,"Gallatin County, Kentucky",2020,41.9,34.8,Kentucky
+1034,"Garrard County, Kentucky",2020,40.6,37.5,Kentucky
+1035,"Grant County, Kentucky",2020,42.9,35.6,Kentucky
+1036,"Graves County, Kentucky",2020,41.9,34.4,Kentucky
+1037,"Grayson County, Kentucky",2020,43.1,36,Kentucky
+1038,"Green County, Kentucky",2020,41.9,36.6,Kentucky
+1039,"Greenup County, Kentucky",2020,41.9,35.1,Kentucky
+1040,"Hancock County, Kentucky",2020,45,36.2,Kentucky
+1041,"Hardin County, Kentucky",2020,43.1,37.4,Kentucky
+1042,"Harlan County, Kentucky",2020,42,36.7,Kentucky
+1043,"Harrison County, Kentucky",2020,41.8,36.4,Kentucky
+1044,"Hart County, Kentucky",2020,43.2,35.6,Kentucky
+1045,"Henderson County, Kentucky",2020,41.6,35.7,Kentucky
+1046,"Henry County, Kentucky",2020,42.2,36.9,Kentucky
+1047,"Hickman County, Kentucky",2020,40.4,36.9,Kentucky
+1048,"Hopkins County, Kentucky",2020,42.3,36.6,Kentucky
+1049,"Jackson County, Kentucky",2020,41.9,36,Kentucky
+1050,"Jefferson County, Kentucky",2020,40.8,36.8,Kentucky
+1051,"Jessamine County, Kentucky",2020,40.8,36.7,Kentucky
+1052,"Johnson County, Kentucky",2020,42.2,37.9,Kentucky
+1053,"Kenton County, Kentucky",2020,41,36.2,Kentucky
+1054,"Knott County, Kentucky",2020,38.6,37.3,Kentucky
+1055,"Knox County, Kentucky",2020,41.4,35.5,Kentucky
+1056,"Larue County, Kentucky",2020,40.8,36.1,Kentucky
+1057,"Laurel County, Kentucky",2020,42.2,38.5,Kentucky
+1058,"Lawrence County, Kentucky",2020,43.1,36.1,Kentucky
+1059,"Lee County, Kentucky",2020,40.3,36.3,Kentucky
+1060,"Leslie County, Kentucky",2020,43,35.3,Kentucky
+1061,"Letcher County, Kentucky",2020,42.1,37.6,Kentucky
+1062,"Lewis County, Kentucky",2020,42.6,36.1,Kentucky
+1063,"Lincoln County, Kentucky",2020,43.3,37.2,Kentucky
+1064,"Livingston County, Kentucky",2020,42.9,37.4,Kentucky
+1065,"Logan County, Kentucky",2020,43.1,36,Kentucky
+1066,"Lyon County, Kentucky",2020,37.8,37,Kentucky
+1067,"Madison County, Kentucky",2020,40.3,34.7,Kentucky
+1068,"Magoffin County, Kentucky",2020,42.4,35.6,Kentucky
+1069,"Marion County, Kentucky",2020,42,36.7,Kentucky
+1070,"Marshall County, Kentucky",2020,43.1,36.8,Kentucky
+1071,"Martin County, Kentucky",2020,41.4,38.3,Kentucky
+1072,"Mason County, Kentucky",2020,40.9,37.2,Kentucky
+1073,"McCracken County, Kentucky",2020,40.1,35.5,Kentucky
+1074,"McCreary County, Kentucky",2020,39.7,36.7,Kentucky
+1075,"McLean County, Kentucky",2020,43.7,35.8,Kentucky
+1076,"Meade County, Kentucky",2020,43,37,Kentucky
+1077,"Menifee County, Kentucky",2020,39.6,34.7,Kentucky
+1078,"Mercer County, Kentucky",2020,41.7,37,Kentucky
+1079,"Metcalfe County, Kentucky",2020,42.2,37.2,Kentucky
+1080,"Monroe County, Kentucky",2020,42.6,36.2,Kentucky
+1081,"Montgomery County, Kentucky",2020,42,37.1,Kentucky
+1082,"Morgan County, Kentucky",2020,42.1,36.1,Kentucky
+1083,"Muhlenberg County, Kentucky",2020,41.9,34.4,Kentucky
+1084,"Nelson County, Kentucky",2020,43,36.7,Kentucky
+1085,"Nicholas County, Kentucky",2020,41.9,34.8,Kentucky
+1086,"Ohio County, Kentucky",2020,42.2,35.1,Kentucky
+1087,"Oldham County, Kentucky",2020,43.5,35.8,Kentucky
+1088,"Owen County, Kentucky",2020,41.2,36.4,Kentucky
+1089,"Owsley County, Kentucky",2020,38.2,35.9,Kentucky
+1090,"Pendleton County, Kentucky",2020,42.8,36.1,Kentucky
+1091,"Perry County, Kentucky",2020,42.4,37.1,Kentucky
+1092,"Pike County, Kentucky",2020,41.9,37,Kentucky
+1093,"Powell County, Kentucky",2020,43.4,37.2,Kentucky
+1094,"Pulaski County, Kentucky",2020,41.5,36.2,Kentucky
+1095,"Robertson County, Kentucky",2020,39.7,37.1,Kentucky
+1096,"Rockcastle County, Kentucky",2020,40.8,35.7,Kentucky
+1097,"Rowan County, Kentucky",2020,37.2,33.8,Kentucky
+1098,"Russell County, Kentucky",2020,38.7,37.3,Kentucky
+1099,"Scott County, Kentucky",2020,43.5,36.6,Kentucky
+1100,"Shelby County, Kentucky",2020,41.8,36.5,Kentucky
+1101,"Simpson County, Kentucky",2020,43.3,36.5,Kentucky
+1102,"Spencer County, Kentucky",2020,42.6,37.4,Kentucky
+1103,"Taylor County, Kentucky",2020,41.9,35.4,Kentucky
+1104,"Todd County, Kentucky",2020,42.2,37.9,Kentucky
+1105,"Trigg County, Kentucky",2020,44.2,36,Kentucky
+1106,"Trimble County, Kentucky",2020,43.9,37.1,Kentucky
+1107,"Union County, Kentucky",2020,44.8,36.1,Kentucky
+1108,"Warren County, Kentucky",2020,40,34.6,Kentucky
+1109,"Washington County, Kentucky",2020,42.1,38,Kentucky
+1110,"Wayne County, Kentucky",2020,43,38.6,Kentucky
+1111,"Webster County, Kentucky",2020,44,35.8,Kentucky
+1112,"Whitley County, Kentucky",2020,40.5,34.9,Kentucky
+1113,"Wolfe County, Kentucky",2020,37.4,36.1,Kentucky
+1114,"Woodford County, Kentucky",2020,42.2,36.7,Louisiana
+1115,"Acadia Parish, Louisiana",2020,45.4,36.3,Louisiana
+1116,"Allen Parish, Louisiana",2020,44,36.8,Louisiana
+1117,"Ascension Parish, Louisiana",2020,43.9,37.2,Louisiana
+1118,"Assumption Parish, Louisiana",2020,43.3,35.8,Louisiana
+1119,"Avoyelles Parish, Louisiana",2020,43.8,37.3,Louisiana
+1120,"Beauregard Parish, Louisiana",2020,45.8,37,Louisiana
+1121,"Bienville Parish, Louisiana",2020,43.3,36.3,Louisiana
+1122,"Bossier Parish, Louisiana",2020,43.5,37,Louisiana
+1123,"Caddo Parish, Louisiana",2020,42.2,36.8,Louisiana
+1124,"Calcasieu Parish, Louisiana",2020,43.5,36.3,Louisiana
+1125,"Caldwell Parish, Louisiana",2020,44.3,37.3,Louisiana
+1126,"Cameron Parish, Louisiana",2020,46.7,37,Louisiana
+1127,"Catahoula Parish, Louisiana",2020,50,37,Louisiana
+1128,"Claiborne Parish, Louisiana",2020,42.7,35,Louisiana
+1129,"Concordia Parish, Louisiana",2020,48.9,37.6,Louisiana
+1130,"De Soto Parish, Louisiana",2020,44.3,36.4,Louisiana
+1131,"East Baton Rouge Parish, Louisiana",2020,40.7,36.2,Louisiana
+1132,"East Carroll Parish, Louisiana",2020,44.3,39.2,Louisiana
+1133,"East Feliciana Parish, Louisiana",2020,42.1,37.3,Louisiana
+1134,"Evangeline Parish, Louisiana",2020,47.1,35.2,Louisiana
+1135,"Franklin Parish, Louisiana",2020,48.4,36.5,Louisiana
+1136,"Grant Parish, Louisiana",2020,46.4,36,Louisiana
+1137,"Iberia Parish, Louisiana",2020,43.1,36.5,Louisiana
+1138,"Iberville Parish, Louisiana",2020,43,36.3,Louisiana
+1139,"Jackson Parish, Louisiana",2020,44.6,35.4,Louisiana
+1140,"Jefferson Davis Parish, Louisiana",2020,46.4,36.7,Louisiana
+1141,"Jefferson Parish, Louisiana",2020,42.3,37.2,Louisiana
+1142,"Lafayette Parish, Louisiana",2020,41.8,35.9,Louisiana
+1143,"Lafourche Parish, Louisiana",2020,45.4,35.6,Louisiana
+1144,"LaSalle Parish, Louisiana",2020,50.4,37.6,Louisiana
+1145,"Lincoln Parish, Louisiana",2020,38.5,33.1,Louisiana
+1146,"Livingston Parish, Louisiana",2020,42.9,36.9,Louisiana
+1147,"Madison Parish, Louisiana",2020,42.7,38.2,Louisiana
+1148,"Morehouse Parish, Louisiana",2020,39.9,37.5,Louisiana
+1149,"Natchitoches Parish, Louisiana",2020,41.1,35.9,Louisiana
+1150,"Orleans Parish, Louisiana",2020,40.2,36.9,Louisiana
+1151,"Ouachita Parish, Louisiana",2020,40.9,37.1,Louisiana
+1152,"Plaquemines Parish, Louisiana",2020,46.6,37.2,Louisiana
+1153,"Pointe Coupee Parish, Louisiana",2020,44.5,36.1,Louisiana
+1154,"Rapides Parish, Louisiana",2020,43.2,37.4,Louisiana
+1155,"Red River Parish, Louisiana",2020,42,37.1,Louisiana
+1156,"Richland Parish, Louisiana",2020,43.2,36.4,Louisiana
+1157,"Sabine Parish, Louisiana",2020,46,34.7,Louisiana
+1158,"St. Bernard Parish, Louisiana",2020,41.6,38.1,Louisiana
+1159,"St. Charles Parish, Louisiana",2020,42.9,37.9,Louisiana
+1160,"St. Helena Parish, Louisiana",2020,44.2,38.1,Louisiana
+1161,"St. James Parish, Louisiana",2020,42.2,37.5,Louisiana
+1162,"St. John the Baptist Parish, Louisiana",2020,43,38,Louisiana
+1163,"St. Landry Parish, Louisiana",2020,43.8,35.7,Louisiana
+1164,"St. Martin Parish, Louisiana",2020,43.2,36.6,Louisiana
+1165,"St. Mary Parish, Louisiana",2020,43.2,36.3,Louisiana
+1166,"St. Tammany Parish, Louisiana",2020,42.5,35.9,Louisiana
+1167,"Tangipahoa Parish, Louisiana",2020,42.7,36.9,Louisiana
+1168,"Tensas Parish, Louisiana",2020,43.7,35.3,Louisiana
+1169,"Terrebonne Parish, Louisiana",2020,45.6,36.7,Louisiana
+1170,"Union Parish, Louisiana",2020,41.5,37.4,Louisiana
+1171,"Vermilion Parish, Louisiana",2020,48.3,36.8,Louisiana
+1172,"Vernon Parish, Louisiana",2020,46.5,37,Louisiana
+1173,"Washington Parish, Louisiana",2020,43.6,35.8,Louisiana
+1174,"Webster Parish, Louisiana",2020,43.1,35.8,Louisiana
+1175,"West Baton Rouge Parish, Louisiana",2020,42.8,37.1,Louisiana
+1176,"West Carroll Parish, Louisiana",2020,44.2,39.6,Louisiana
+1177,"West Feliciana Parish, Louisiana",2020,41.2,38.4,Louisiana
+1178,"Winn Parish, Louisiana",2020,47.5,36.2,Maine
+1179,"Androscoggin County, Maine",2020,40,36.5,Maine
+1180,"Aroostook County, Maine",2020,41.7,35.4,Maine
+1181,"Cumberland County, Maine",2020,40.8,36.1,Maine
+1182,"Franklin County, Maine",2020,41,32.7,Maine
+1183,"Hancock County, Maine",2020,42.2,36.4,Maine
+1184,"Kennebec County, Maine",2020,40.5,36.2,Maine
+1185,"Knox County, Maine",2020,41.3,33.6,Maine
+1186,"Lincoln County, Maine",2020,40.6,35.1,Maine
+1187,"Oxford County, Maine",2020,40.8,35.2,Maine
+1188,"Penobscot County, Maine",2020,40.5,35,Maine
+1189,"Piscataquis County, Maine",2020,41,34.8,Maine
+1190,"Sagadahoc County, Maine",2020,42.8,36.5,Maine
+1191,"Somerset County, Maine",2020,41.4,35.1,Maine
+1192,"Waldo County, Maine",2020,41.6,35,Maine
+1193,"Washington County, Maine",2020,41.6,34.5,Maine
+1194,"York County, Maine",2020,41.3,36.2,Maryland
+1195,"Allegany County, Maryland",2020,39.6,34.9,Maryland
+1196,"Anne Arundel County, Maryland",2020,41.7,37.3,Maryland
+1197,"Baltimore city, Maryland",2020,39.9,37.7,Maryland
+1198,"Baltimore County, Maryland",2020,40.5,36.9,Maryland
+1199,"Calvert County, Maryland",2020,41.1,36.8,Maryland
+1200,"Caroline County, Maryland",2020,42,35.6,Maryland
+1201,"Carroll County, Maryland",2020,41.6,36,Maryland
+1202,"Cecil County, Maryland",2020,40.6,37,Maryland
+1203,"Charles County, Maryland",2020,40.6,38.9,Maryland
+1204,"Dorchester County, Maryland",2020,41.6,37.3,Maryland
+1205,"Frederick County, Maryland",2020,41.2,36,Maryland
+1206,"Garrett County, Maryland",2020,41.7,36.4,Maryland
+1207,"Harford County, Maryland",2020,41,36.5,Maryland
+1208,"Howard County, Maryland",2020,41.2,36.8,Maryland
+1209,"Kent County, Maryland",2020,41.3,33.6,Maryland
+1210,"Montgomery County, Maryland",2020,40.9,37.1,Maryland
+1211,"Prince George's County, Maryland",2020,39.4,37.4,Maryland
+1212,"Queen Anne's County, Maryland",2020,42.7,36.9,Maryland
+1213,"Somerset County, Maryland",2020,37.5,33.8,Maryland
+1214,"St. Mary's County, Maryland",2020,40.9,36.4,Maryland
+1215,"Talbot County, Maryland",2020,42.3,36.5,Maryland
+1216,"Washington County, Maryland",2020,41,35.2,Maryland
+1217,"Wicomico County, Maryland",2020,39.3,34.9,Maryland
+1218,"Worcester County, Maryland",2020,40.8,36.6,Massachusetts
+1219,"Barnstable County, Massachusetts",2020,40.2,35,Massachusetts
+1220,"Berkshire County, Massachusetts",2020,38.7,33.9,Massachusetts
+1221,"Bristol County, Massachusetts",2020,40,35,Massachusetts
+1222,"Dukes County, Massachusetts",2020,39.5,35.3,Massachusetts
+1223,"Essex County, Massachusetts",2020,40.7,35,Massachusetts
+1224,"Franklin County, Massachusetts",2020,39.3,34.3,Massachusetts
+1225,"Hampden County, Massachusetts",2020,40,34.8,Massachusetts
+1226,"Hampshire County, Massachusetts",2020,37.2,31.1,Massachusetts
+1227,"Middlesex County, Massachusetts",2020,41,36.1,Massachusetts
+1228,"Nantucket County, Massachusetts",2020,41.9,37.3,Massachusetts
+1229,"Norfolk County, Massachusetts",2020,41.4,35.6,Massachusetts
+1230,"Plymouth County, Massachusetts",2020,40.7,34.6,Massachusetts
+1231,"Suffolk County, Massachusetts",2020,40.6,36.5,Massachusetts
+1232,"Worcester County, Massachusetts",2020,40.6,35,Michigen
+1233,"Alcona County, Michigan",2020,40.5,34.1,Michigen
+1234,"Alger County, Michigan",2020,38.2,33.6,Michigen
+1235,"Allegan County, Michigan",2020,42.3,35.1,Michigen
+1236,"Alpena County, Michigan",2020,40.5,34.2,Michigen
+1237,"Antrim County, Michigan",2020,42.2,36.4,Michigen
+1238,"Arenac County, Michigan",2020,40.8,35.2,Michigen
+1239,"Baraga County, Michigan",2020,40.6,36.4,Michigen
+1240,"Barry County, Michigan",2020,43.1,35,Michigen
+1241,"Bay County, Michigan",2020,40.5,35.7,Michigen
+1242,"Benzie County, Michigan",2020,41.1,35.2,Michigen
+1243,"Berrien County, Michigan",2020,40.5,35,Michigen
+1244,"Branch County, Michigan",2020,42.1,37,Michigen
+1245,"Calhoun County, Michigan",2020,40.2,36.8,Michigen
+1246,"Cass County, Michigan",2020,42.4,35.7,Michigen
+1247,"Charlevoix County, Michigan",2020,41.4,35.1,Michigen
+1248,"Cheboygan County, Michigan",2020,41,35.6,Michigen
+1249,"Chippewa County, Michigan",2020,38.8,36.2,Michigen
+1250,"Clare County, Michigan",2020,40.2,33.7,Michigen
+1251,"Clinton County, Michigan",2020,41.2,35.5,Michigen
+1252,"Crawford County, Michigan",2020,40,35,Michigen
+1253,"Delta County, Michigan",2020,40.4,34.3,Michigen
+1254,"Dickinson County, Michigan",2020,41.4,34.8,Michigen
+1255,"Eaton County, Michigan",2020,41.2,36.8,Michigen
+1256,"Emmet County, Michigan",2020,42,36.2,Michigen
+1257,"Genesee County, Michigan",2020,40.9,35.5,Michigen
+1258,"Gladwin County, Michigan",2020,42,33.8,Michigen
+1259,"Gogebic County, Michigan",2020,39.7,35.2,Michigen
+1260,"Grand Traverse County, Michigan",2020,41.1,35.4,Michigen
+1261,"Gratiot County, Michigan",2020,41,35.4,Michigen
+1262,"Hillsdale County, Michigan",2020,41.3,34.4,Michigen
+1263,"Houghton County, Michigan",2020,37.7,32.5,Michigen
+1264,"Huron County, Michigan",2020,44.3,36.1,Michigen
+1265,"Ingham County, Michigan",2020,37.9,33.8,Michigen
+1266,"Ionia County, Michigan",2020,41.3,35.9,Michigen
+1267,"Iosco County, Michigan",2020,41.1,35.1,Michigen
+1268,"Iron County, Michigan",2020,40.9,36.7,Michigen
+1269,"Isabella County, Michigan",2020,38.2,31.7,Michigen
+1270,"Jackson County, Michigan",2020,40.5,35.7,Michigen
+1271,"Kalamazoo County, Michigan",2020,39.9,34.7,Michigen
+1272,"Kalkaska County, Michigan",2020,40.9,34.2,Michigen
+1273,"Kent County, Michigan",2020,40.9,35.2,Michigen
+1274,"Keweenaw County, Michigan",2020,44.5,33.3,Michigen
+1275,"Lake County, Michigan",2020,42.2,33.6,Michigen
+1276,"Lapeer County, Michigan",2020,42.5,34.9,Michigen
+1277,"Leelanau County, Michigan",2020,40.4,33.9,Michigen
+1278,"Lenawee County, Michigan",2020,41.4,34.7,Michigen
+1279,"Livingston County, Michigan",2020,42.5,35.3,Michigen
+1280,"Luce County, Michigan",2020,37.8,35.9,Michigen
+1281,"Mackinac County, Michigan",2020,41.7,36.5,Michigen
+1282,"Macomb County, Michigan",2020,41.7,35.7,Michigen
+1283,"Manistee County, Michigan",2020,40.4,35.1,Michigen
+1284,"Marquette County, Michigan",2020,38.9,33.4,Michigen
+1285,"Mason County, Michigan",2020,41.1,36.2,Michigen
+1286,"Mecosta County, Michigan",2020,38.8,33.4,Michigen
+1287,"Menominee County, Michigan",2020,41.8,35.4,Michigen
+1288,"Midland County, Michigan",2020,41.2,35.5,Michigen
+1289,"Missaukee County, Michigan",2020,44.4,35.8,Michigen
+1290,"Monroe County, Michigan",2020,42.7,35.1,Michigen
+1291,"Montcalm County, Michigan",2020,41.2,35.3,Michigen
+1292,"Montmorency County, Michigan",2020,43.8,35.8,Michigen
+1293,"Muskegon County, Michigan",2020,40.3,35.4,Michigen
+1294,"Newaygo County, Michigan",2020,42.1,35.2,Michigen
+1295,"Oakland County, Michigan",2020,41.8,36,Michigen
+1296,"Oceana County, Michigan",2020,42.4,36.3,Michigen
+1297,"Ogemaw County, Michigan",2020,40.7,35.1,Michigen
+1298,"Ontonagon County, Michigan",2020,39.1,33.4,Michigen
+1299,"Osceola County, Michigan",2020,43,35.3,Michigen
+1300,"Oscoda County, Michigan",2020,42.3,34.1,Michigen
+1301,"Otsego County, Michigan",2020,39.9,36.7,Michigen
+1302,"Ottawa County, Michigan",2020,41.3,33.4,Michigen
+1303,"Presque Isle County, Michigan",2020,44.7,34.4,Michigen
+1304,"Roscommon County, Michigan",2020,42.5,34.8,Michigen
+1305,"Saginaw County, Michigan",2020,40.4,35.1,Michigen
+1306,"Sanilac County, Michigan",2020,43.9,35.7,Michigen
+1307,"Schoolcraft County, Michigan",2020,42.3,35.9,Michigen
+1308,"Shiawassee County, Michigan",2020,41.9,35.9,Michigen
+1309,"St. Clair County, Michigan",2020,42.5,34.7,Michigen
+1310,"St. Joseph County, Michigan",2020,41.9,35.6,Michigen
+1311,"Tuscola County, Michigan",2020,42.8,35.2,Michigen
+1312,"Van Buren County, Michigan",2020,41.8,36.4,Michigen
+1313,"Washtenaw County, Michigan",2020,39.4,34,Michigen
+1314,"Wayne County, Michigan",2020,40.5,36,Michigen
+1315,"Wexford County, Michigan",2020,41.6,34.7,Minnesota
+1316,"Aitkin County, Minnesota",2020,42.3,34.7,Minnesota
+1317,"Anoka County, Minnesota",2020,40,35.9,Minnesota
+1318,"Becker County, Minnesota",2020,42.3,35.1,Minnesota
+1319,"Beltrami County, Minnesota",2020,40.2,34.6,Minnesota
+1320,"Benton County, Minnesota",2020,41.9,36.3,Minnesota
+1321,"Big Stone County, Minnesota",2020,43.2,34.3,Minnesota
+1322,"Blue Earth County, Minnesota",2020,38.2,33.6,Minnesota
+1323,"Brown County, Minnesota",2020,41.1,35.2,Minnesota
+1324,"Carlton County, Minnesota",2020,40.1,35.8,Minnesota
+1325,"Carver County, Minnesota",2020,42.2,35.3,Minnesota
+1326,"Cass County, Minnesota",2020,41.4,35.2,Minnesota
+1327,"Chippewa County, Minnesota",2020,44.7,35.7,Minnesota
+1328,"Chisago County, Minnesota",2020,41.4,35.4,Minnesota
+1329,"Clay County, Minnesota",2020,39.9,34.6,Minnesota
+1330,"Clearwater County, Minnesota",2020,44.2,34.6,Minnesota
+1331,"Cook County, Minnesota",2020,40.9,38,Minnesota
+1332,"Cottonwood County, Minnesota",2020,42,35.2,Minnesota
+1333,"Crow Wing County, Minnesota",2020,40.9,35.2,Minnesota
+1334,"Dakota County, Minnesota",2020,40.5,35.9,Minnesota
+1335,"Dodge County, Minnesota",2020,43.5,36.2,Minnesota
+1336,"Douglas County, Minnesota",2020,42.7,35.7,Minnesota
+1337,"Faribault County, Minnesota",2020,43.1,34.7,Minnesota
+1338,"Fillmore County, Minnesota",2020,43.2,35.7,Minnesota
+1339,"Freeborn County, Minnesota",2020,41.5,35.4,Minnesota
+1340,"Goodhue County, Minnesota",2020,42.4,35.9,Minnesota
+1341,"Grant County, Minnesota",2020,44.1,35.2,Minnesota
+1342,"Hennepin County, Minnesota",2020,40.4,36.3,Minnesota
+1343,"Houston County, Minnesota",2020,43.4,36.1,Minnesota
+1344,"Hubbard County, Minnesota",2020,42,35.3,Minnesota
+1345,"Isanti County, Minnesota",2020,41.3,35.4,Minnesota
+1346,"Itasca County, Minnesota",2020,40.3,34.8,Minnesota
+1347,"Jackson County, Minnesota",2020,41.5,36.9,Minnesota
+1348,"Kanabec County, Minnesota",2020,40.6,35.4,Minnesota
+1349,"Kandiyohi County, Minnesota",2020,42.1,34.4,Minnesota
+1350,"Kittson County, Minnesota",2020,43.7,35.8,Minnesota
+1351,"Koochiching County, Minnesota",2020,41.2,33.8,Minnesota
+1352,"Lac qui Parle County, Minnesota",2020,44.2,35,Minnesota
+1353,"Lake County, Minnesota",2020,41.4,34.5,Minnesota
+1354,"Lake of the Woods County, Minnesota",2020,42.2,33.8,Minnesota
+1355,"Le Sueur County, Minnesota",2020,43.2,36,Minnesota
+1356,"Lincoln County, Minnesota",2020,44.1,36.1,Minnesota
+1357,"Lyon County, Minnesota",2020,41.8,36.2,Minnesota
+1358,"Mahnomen County, Minnesota",2020,41.2,37.5,Minnesota
+1359,"Marshall County, Minnesota",2020,44.8,37.6,Minnesota
+1360,"Martin County, Minnesota",2020,43.2,36.6,Minnesota
+1361,"McLeod County, Minnesota",2020,41.6,35.9,Minnesota
+1362,"Meeker County, Minnesota",2020,43.2,34.5,Minnesota
+1363,"Mille Lacs County, Minnesota",2020,41.1,35.8,Minnesota
+1364,"Morrison County, Minnesota",2020,44.3,35.8,Minnesota
+1365,"Mower County, Minnesota",2020,41.4,35.8,Minnesota
+1366,"Murray County, Minnesota",2020,46.2,34.7,Minnesota
+1367,"Nicollet County, Minnesota",2020,39.2,32.5,Minnesota
+1368,"Nobles County, Minnesota",2020,42.1,36.2,Minnesota
+1369,"Norman County, Minnesota",2020,44.1,34.6,Minnesota
+1370,"Olmsted County, Minnesota",2020,41.1,36.7,Minnesota
+1371,"Otter Tail County, Minnesota",2020,42.3,35.4,Minnesota
+1372,"Pennington County, Minnesota",2020,43.1,37.1,Minnesota
+1373,"Pine County, Minnesota",2020,40.5,35.1,Minnesota
+1374,"Pipestone County, Minnesota",2020,45.6,35.5,Minnesota
+1375,"Polk County, Minnesota",2020,42.7,34.3,Minnesota
+1376,"Pope County, Minnesota",2020,44.4,36.9,Minnesota
+1377,"Ramsey County, Minnesota",2020,39.2,35.6,Minnesota
+1378,"Red Lake County, Minnesota",2020,42.6,37.7,Minnesota
+1379,"Redwood County, Minnesota",2020,42.6,35.8,Minnesota
+1380,"Renville County, Minnesota",2020,43.5,35.9,Minnesota
+1381,"Rice County, Minnesota",2020,39.2,32.1,Minnesota
+1382,"Rock County, Minnesota",2020,43.9,35.9,Minnesota
+1383,"Roseau County, Minnesota",2020,41.5,35.9,Minnesota
+1384,"Scott County, Minnesota",2020,41.2,36,Minnesota
+1385,"Sherburne County, Minnesota",2020,41.3,35.7,Minnesota
+1386,"Sibley County, Minnesota",2020,43.8,36.3,Minnesota
+1387,"St. Louis County, Minnesota",2020,38.9,33.6,Minnesota
+1388,"Stearns County, Minnesota",2020,40.8,34.9,Minnesota
+1389,"Steele County, Minnesota",2020,42.1,35.7,Minnesota
+1390,"Stevens County, Minnesota",2020,42.9,32.5,Minnesota
+1391,"Swift County, Minnesota",2020,44.4,35.6,Minnesota
+1392,"Todd County, Minnesota",2020,45.6,36,Minnesota
+1393,"Traverse County, Minnesota",2020,46.1,34.8,Minnesota
+1394,"Wabasha County, Minnesota",2020,43.5,36.6,Minnesota
+1395,"Wadena County, Minnesota",2020,43.2,34.3,Minnesota
+1396,"Waseca County, Minnesota",2020,42.6,35.5,Minnesota
+1397,"Washington County, Minnesota",2020,40,35.4,Minnesota
+1398,"Watonwan County, Minnesota",2020,41.9,36.8,Minnesota
+1399,"Wilkin County, Minnesota",2020,43.2,37.3,Minnesota
+1400,"Winona County, Minnesota",2020,39.5,33.6,Minnesota
+1401,"Wright County, Minnesota",2020,41.1,36.3,Minnesota
+1402,"Yellow Medicine County, Minnesota",2020,43,36.8,Mississippi
+1403,"Adams County, Mississippi",2020,40.4,36.1,Mississippi
+1404,"Alcorn County, Mississippi",2020,42,37.9,Mississippi
+1405,"Amite County, Mississippi",2020,45.2,39.2,Mississippi
+1406,"Attala County, Mississippi",2020,42.5,36.5,Mississippi
+1407,"Benton County, Mississippi",2020,44,37.2,Mississippi
+1408,"Bolivar County, Mississippi",2020,42.5,36.7,Mississippi
+1409,"Calhoun County, Mississippi",2020,42.9,39.4,Mississippi
+1410,"Carroll County, Mississippi",2020,42.5,38.1,Mississippi
+1411,"Chickasaw County, Mississippi",2020,40.6,37.1,Mississippi
+1412,"Choctaw County, Mississippi",2020,44.7,40.1,Mississippi
+1413,"Claiborne County, Mississippi",2020,39.5,35.1,Mississippi
+1414,"Clarke County, Mississippi",2020,48.3,39.2,Mississippi
+1415,"Clay County, Mississippi",2020,39.9,37.5,Mississippi
+1416,"Coahoma County, Mississippi",2020,39.8,35.4,Mississippi
+1417,"Copiah County, Mississippi",2020,39.7,36.7,Mississippi
+1418,"Covington County, Mississippi",2020,41.6,38.4,Mississippi
+1419,"DeSoto County, Mississippi",2020,43.4,37.9,Mississippi
+1420,"Forrest County, Mississippi",2020,41.7,35.5,Mississippi
+1421,"Franklin County, Mississippi",2020,44.6,35.9,Mississippi
+1422,"George County, Mississippi",2020,44.8,34.1,Mississippi
+1423,"Greene County, Mississippi",2020,51.4,35.3,Mississippi
+1424,"Grenada County, Mississippi",2020,42.4,37.1,Mississippi
+1425,"Hancock County, Mississippi",2020,42.9,37,Mississippi
+1426,"Harrison County, Mississippi",2020,42,36.6,Mississippi
+1427,"Hinds County, Mississippi",2020,40.2,37.2,Mississippi
+1428,"Holmes County, Mississippi",2020,39.2,37.8,Mississippi
+1429,"Humphreys County, Mississippi",2020,42.8,33.3,Mississippi
+1430,"Issaquena County, Mississippi",2020,44.5,34.4,Mississippi
+1431,"Itawamba County, Mississippi",2020,40,36.8,Mississippi
+1432,"Jackson County, Mississippi",2020,42.8,37.2,Mississippi
+1433,"Jasper County, Mississippi",2020,42.2,37.8,Mississippi
+1434,"Jefferson County, Mississippi",2020,37.7,34.1,Mississippi
+1435,"Jefferson Davis County, Mississippi",2020,44.6,37.4,Mississippi
+1436,"Jones County, Mississippi",2020,42.9,36.9,Mississippi
+1437,"Kemper County, Mississippi",2020,41.7,37,Mississippi
+1438,"Lafayette County, Mississippi",2020,37,33.6,Mississippi
+1439,"Lamar County, Mississippi",2020,44,36.5,Mississippi
+1440,"Lauderdale County, Mississippi",2020,41.8,37.1,Mississippi
+1441,"Lawrence County, Mississippi",2020,43.2,36.2,Mississippi
+1442,"Leake County, Mississippi",2020,45.8,37.8,Mississippi
+1443,"Lee County, Mississippi",2020,41.7,36.8,Mississippi
+1444,"Leflore County, Mississippi",2020,40.1,37.4,Mississippi
+1445,"Lincoln County, Mississippi",2020,44,36.5,Mississippi
+1446,"Lowndes County, Mississippi",2020,41.2,37.1,Mississippi
+1447,"Madison County, Mississippi",2020,42.8,36.8,Mississippi
+1448,"Marion County, Mississippi",2020,46,36.9,Mississippi
+1449,"Marshall County, Mississippi",2020,41,37.4,Mississippi
+1450,"Monroe County, Mississippi",2020,42,37.1,Mississippi
+1451,"Montgomery County, Mississippi",2020,46.1,37.4,Mississippi
+1452,"Neshoba County, Mississippi",2020,45.1,37.9,Mississippi
+1453,"Newton County, Mississippi",2020,42.4,37.3,Mississippi
+1454,"Noxubee County, Mississippi",2020,37.6,37,Mississippi
+1455,"Oktibbeha County, Mississippi",2020,37.1,32.6,Mississippi
+1456,"Panola County, Mississippi",2020,42,39.3,Mississippi
+1457,"Pearl River County, Mississippi",2020,43.9,35.6,Mississippi
+1458,"Perry County, Mississippi",2020,51.3,35.6,Mississippi
+1459,"Pike County, Mississippi",2020,42.5,35.7,Mississippi
+1460,"Pontotoc County, Mississippi",2020,42.9,37,Mississippi
+1461,"Prentiss County, Mississippi",2020,41.7,37.2,Mississippi
+1462,"Quitman County, Mississippi",2020,40.1,36.5,Mississippi
+1463,"Rankin County, Mississippi",2020,43.3,38.1,Mississippi
+1464,"Scott County, Mississippi",2020,41.1,36.4,Mississippi
+1465,"Sharkey County, Mississippi",2020,40.7,38.9,Mississippi
+1466,"Simpson County, Mississippi",2020,43,36.9,Mississippi
+1467,"Smith County, Mississippi",2020,42.9,38.5,Mississippi
+1468,"Stone County, Mississippi",2020,44.5,35.5,Mississippi
+1469,"Sunflower County, Mississippi",2020,41.1,36.7,Mississippi
+1470,"Tallahatchie County, Mississippi",2020,39.4,37.5,Mississippi
+1471,"Tate County, Mississippi",2020,43.3,36.1,Mississippi
+1472,"Tippah County, Mississippi",2020,40.6,37,Mississippi
+1473,"Tishomingo County, Mississippi",2020,42.8,36.9,Mississippi
+1474,"Tunica County, Mississippi",2020,39.8,36,Mississippi
+1475,"Union County, Mississippi",2020,41.8,36.9,Mississippi
+1476,"Walthall County, Mississippi",2020,46.4,37.5,Mississippi
+1477,"Warren County, Mississippi",2020,43.1,35.8,Mississippi
+1478,"Washington County, Mississippi",2020,41.1,36.9,Mississippi
+1479,"Wayne County, Mississippi",2020,48.8,37,Mississippi
+1480,"Webster County, Mississippi",2020,42.2,34.1,Mississippi
+1481,"Wilkinson County, Mississippi",2020,40.5,41.2,Mississippi
+1482,"Winston County, Mississippi",2020,41.6,35.8,Mississippi
+1483,"Yalobusha County, Mississippi",2020,40.5,37.2,Mississippi
+1484,"Yazoo County, Mississippi",2020,39.1,36.5,Missouri
+1485,"Adair County, Missouri",2020,38.4,32.8,Missouri
+1486,"Andrew County, Missouri",2020,42.2,37.7,Missouri
+1487,"Atchison County, Missouri",2020,42.1,37.2,Missouri
+1488,"Audrain County, Missouri",2020,42.1,37.3,Missouri
+1489,"Barry County, Missouri",2020,42.3,38.2,Missouri
+1490,"Barton County, Missouri",2020,41.7,34.5,Missouri
+1491,"Bates County, Missouri",2020,43.9,35.2,Missouri
+1492,"Benton County, Missouri",2020,42.2,35.5,Missouri
+1493,"Bollinger County, Missouri",2020,39.4,35.3,Missouri
+1494,"Boone County, Missouri",2020,38.3,35.1,Missouri
+1495,"Buchanan County, Missouri",2020,40.8,36.2,Missouri
+1496,"Butler County, Missouri",2020,41.9,35.5,Missouri
+1497,"Caldwell County, Missouri",2020,42.7,37.8,Missouri
+1498,"Callaway County, Missouri",2020,41.2,37,Missouri
+1499,"Camden County, Missouri",2020,41.7,35.9,Missouri
+1500,"Cape Girardeau County, Missouri",2020,40.2,35.1,Missouri
+1501,"Carroll County, Missouri",2020,45.2,37.9,Missouri
+1502,"Carter County, Missouri",2020,41.6,37.6,Missouri
+1503,"Cass County, Missouri",2020,42,36.8,Missouri
+1504,"Cedar County, Missouri",2020,40,35.6,Missouri
+1505,"Chariton County, Missouri",2020,40.3,35.4,Missouri
+1506,"Christian County, Missouri",2020,41.6,36.7,Missouri
+1507,"Clark County, Missouri",2020,45.1,36.9,Missouri
+1508,"Clay County, Missouri",2020,41.5,37.2,Missouri
+1509,"Clinton County, Missouri",2020,42.8,36.8,Missouri
+1510,"Cole County, Missouri",2020,40.9,37.4,Missouri
+1511,"Cooper County, Missouri",2020,41.3,35.9,Missouri
+1512,"Crawford County, Missouri",2020,42.4,37.3,Missouri
+1513,"Dade County, Missouri",2020,41.9,35.3,Missouri
+1514,"Dallas County, Missouri",2020,45.4,36.1,Missouri
+1515,"Daviess County, Missouri",2020,42.7,36.5,Missouri
+1516,"DeKalb County, Missouri",2020,45.2,38.1,Missouri
+1517,"Dent County, Missouri",2020,40.3,35.9,Missouri
+1518,"Douglas County, Missouri",2020,40.6,37.2,Missouri
+1519,"Dunklin County, Missouri",2020,43.8,36.9,Missouri
+1520,"Franklin County, Missouri",2020,41.3,36.9,Missouri
+1521,"Gasconade County, Missouri",2020,42.5,37.2,Missouri
+1522,"Gentry County, Missouri",2020,41.7,38.2,Missouri
+1523,"Greene County, Missouri",2020,40.2,36.1,Missouri
+1524,"Grundy County, Missouri",2020,42.2,36.1,Missouri
+1525,"Harrison County, Missouri",2020,41.3,36.9,Missouri
+1526,"Henry County, Missouri",2020,41,36.9,Missouri
+1527,"Hickory County, Missouri",2020,40.5,34.9,Missouri
+1528,"Holt County, Missouri",2020,44.7,36.1,Missouri
+1529,"Howard County, Missouri",2020,42.4,36.3,Missouri
+1530,"Howell County, Missouri",2020,40.7,36,Missouri
+1531,"Iron County, Missouri",2020,38.7,35,Missouri
+1532,"Jackson County, Missouri",2020,40.9,37.3,Missouri
+1533,"Jasper County, Missouri",2020,40.9,36,Missouri
+1534,"Jefferson County, Missouri",2020,40.8,36.3,Missouri
+1535,"Johnson County, Missouri",2020,40.9,35.1,Missouri
+1536,"Knox County, Missouri",2020,41.5,35.8,Missouri
+1537,"Laclede County, Missouri",2020,44.1,38.2,Missouri
+1538,"Lafayette County, Missouri",2020,42.2,37.1,Missouri
+1539,"Lawrence County, Missouri",2020,42.7,35.1,Missouri
+1540,"Lewis County, Missouri",2020,40.5,36.4,Missouri
+1541,"Lincoln County, Missouri",2020,40.9,37.4,Missouri
+1542,"Linn County, Missouri",2020,42.4,37,Missouri
+1543,"Livingston County, Missouri",2020,41.4,37,Missouri
+1544,"Macon County, Missouri",2020,39.9,36.8,Missouri
+1545,"Madison County, Missouri",2020,40.2,36.3,Missouri
+1546,"Maries County, Missouri",2020,42.2,35.8,Missouri
+1547,"Marion County, Missouri",2020,41.3,35.2,Missouri
+1548,"McDonald County, Missouri",2020,41.9,38.8,Missouri
+1549,"Mercer County, Missouri",2020,44.2,38.6,Missouri
+1550,"Miller County, Missouri",2020,41.8,38,Missouri
+1551,"Mississippi County, Missouri",2020,39.8,35.3,Missouri
+1552,"Moniteau County, Missouri",2020,41.6,37.8,Missouri
+1553,"Monroe County, Missouri",2020,42.7,37,Missouri
+1554,"Montgomery County, Missouri",2020,42.2,36.5,Missouri
+1555,"Morgan County, Missouri",2020,42,35.7,Missouri
+1556,"New Madrid County, Missouri",2020,43.3,36.5,Missouri
+1557,"Newton County, Missouri",2020,42.8,36.3,Missouri
+1558,"Nodaway County, Missouri",2020,39.3,33.6,Missouri
+1559,"Oregon County, Missouri",2020,45.2,35.9,Missouri
+1560,"Osage County, Missouri",2020,43.5,36.9,Missouri
+1561,"Ozark County, Missouri",2020,41.2,34.9,Missouri
+1562,"Pemiscot County, Missouri",2020,44.1,36.9,Missouri
+1563,"Perry County, Missouri",2020,42.5,36.7,Missouri
+1564,"Pettis County, Missouri",2020,42.2,35.7,Missouri
+1565,"Phelps County, Missouri",2020,37.3,35.9,Missouri
+1566,"Pike County, Missouri",2020,41.4,36.9,Missouri
+1567,"Platte County, Missouri",2020,42.5,37.2,Missouri
+1568,"Polk County, Missouri",2020,40.7,34.5,Missouri
+1569,"Pulaski County, Missouri",2020,44.4,41.1,Missouri
+1570,"Putnam County, Missouri",2020,41.2,36.2,Missouri
+1571,"Ralls County, Missouri",2020,41.1,37.4,Missouri
+1572,"Randolph County, Missouri",2020,41.6,36.8,Missouri
+1573,"Ray County, Missouri",2020,42.5,36.6,Missouri
+1574,"Reynolds County, Missouri",2020,42.2,35.7,Missouri
+1575,"Ripley County, Missouri",2020,41.8,36.4,Missouri
+1576,"Saline County, Missouri",2020,40.9,37,Missouri
+1577,"Schuyler County, Missouri",2020,38.5,38.3,Missouri
+1578,"Scotland County, Missouri",2020,43.9,34,Missouri
+1579,"Scott County, Missouri",2020,42.6,35.9,Missouri
+1580,"Shannon County, Missouri",2020,43.6,34,Missouri
+1581,"Shelby County, Missouri",2020,43.5,37.3,Missouri
+1582,"St. Charles County, Missouri",2020,41,36.3,Missouri
+1583,"St. Clair County, Missouri",2020,42.3,37.2,Missouri
+1584,"St. Francois County, Missouri",2020,41.2,36,Missouri
+1585,"St. Louis city, Missouri",2020,40.3,37.3,Missouri
+1586,"St. Louis County, Missouri",2020,40.6,36.8,Missouri
+1587,"Ste. Genevieve County, Missouri",2020,41.5,35.7,Missouri
+1588,"Stoddard County, Missouri",2020,42.6,36.2,Missouri
+1589,"Stone County, Missouri",2020,41.2,36.7,Missouri
+1590,"Sullivan County, Missouri",2020,43.9,38.4,Missouri
+1591,"Taney County, Missouri",2020,40.8,36.5,Missouri
+1592,"Texas County, Missouri",2020,42.3,35.6,Missouri
+1593,"Vernon County, Missouri",2020,42,36.8,Missouri
+1594,"Warren County, Missouri",2020,40.6,37,Missouri
+1595,"Washington County, Missouri",2020,40.5,34.8,Missouri
+1596,"Wayne County, Missouri",2020,41.1,38.5,Missouri
+1597,"Webster County, Missouri",2020,42,37.4,Missouri
+1598,"Worth County, Missouri",2020,45.7,37,Missouri
+1599,"Wright County, Missouri",2020,41.6,34.9,Montana
+1600,"Beaverhead County, Montana",2020,42.1,34.7,Montana
+1601,"Big Horn County, Montana",2020,40.1,36.8,Montana
+1602,"Blaine County, Montana",2020,43.8,36.3,Montana
+1603,"Broadwater County, Montana",2020,44,37.4,Montana
+1604,"Carbon County, Montana",2020,43.2,34.8,Montana
+1605,"Carter County, Montana",2020,49.2,34,Montana
+1606,"Cascade County, Montana",2020,40.2,36,Montana
+1607,"Chouteau County, Montana",2020,42.1,35.3,Montana
+1608,"Custer County, Montana",2020,42.4,35.6,Montana
+1609,"Daniels County, Montana",2020,47.8,37.2,Montana
+1610,"Dawson County, Montana",2020,43.6,35.2,Montana
+1611,"Deer Lodge County, Montana",2020,39.6,36.8,Montana
+1612,"Fallon County, Montana",2020,50.9,33.6,Montana
+1613,"Fergus County, Montana",2020,44.3,33.5,Montana
+1614,"Flathead County, Montana",2020,41.3,34.6,Montana
+1615,"Gallatin County, Montana",2020,40.5,34,Montana
+1616,"Garfield County, Montana",2020,51.4,37.2,Montana
+1617,"Glacier County, Montana",2020,40.4,37.3,Montana
+1618,"Golden Valley County, Montana",2020,48.5,35.4,Montana
+1619,"Granite County, Montana",2020,41,32.7,Montana
+1620,"Hill County, Montana",2020,40.9,34.8,Montana
+1621,"Jefferson County, Montana",2020,42.5,32.6,Montana
+1622,"Judith Basin County, Montana",2020,47.3,37,Montana
+1623,"Lake County, Montana",2020,40.5,34.1,Montana
+1624,"Lewis and Clark County, Montana",2020,39.4,35.7,Montana
+1625,"Liberty County, Montana",2020,47.5,36.6,Montana
+1626,"Lincoln County, Montana",2020,41.1,34.9,Montana
+1627,"Madison County, Montana",2020,44.4,33.9,Montana
+1628,"McCone County, Montana",2020,50.2,35.6,Montana
+1629,"Meagher County, Montana",2020,43.8,32.2,Montana
+1630,"Mineral County, Montana",2020,41.9,36.3,Montana
+1631,"Missoula County, Montana",2020,39,34.6,Montana
+1632,"Musselshell County, Montana",2020,40.6,36.1,Montana
+1633,"Park County, Montana",2020,42.3,34.6,Montana
+1634,"Petroleum County, Montana",2020,55.1,44.1,Montana
+1635,"Phillips County, Montana",2020,49,38,Montana
+1636,"Pondera County, Montana",2020,43.7,34.2,Montana
+1637,"Powder River County, Montana",2020,48.7,37.6,Montana
+1638,"Powell County, Montana",2020,38.6,35.7,Montana
+1639,"Prairie County, Montana",2020,48.3,35.9,Montana
+1640,"Ravalli County, Montana",2020,41.8,33.9,Montana
+1641,"Richland County, Montana",2020,44,36.3,Montana
+1642,"Roosevelt County, Montana",2020,42.1,36.8,Montana
+1643,"Rosebud County, Montana",2020,42.7,37.2,Montana
+1644,"Sanders County, Montana",2020,39.5,35.1,Montana
+1645,"Sheridan County, Montana",2020,47.4,34.4,Montana
+1646,"Silver Bow County, Montana",2020,38.9,34,Montana
+1647,"Stillwater County, Montana",2020,43.4,34.4,Montana
+1648,"Sweet Grass County, Montana",2020,45.6,33.7,Montana
+1649,"Teton County, Montana",2020,43.8,35,Montana
+1650,"Toole County, Montana",2020,43.8,34.3,Montana
+1651,"Treasure County, Montana",2020,52.2,31,Montana
+1652,"Valley County, Montana",2020,44.4,36.8,Montana
+1653,"Wheatland County, Montana",2020,51.9,38.9,Montana
+1654,"Wibaux County, Montana",2020,51.3,36.6,Montana
+1655,"Yellowstone County, Montana",2020,41.6,35.9,Nebraska
+1656,"Adams County, Nebraska",2020,42.4,34.4,Nebraska
+1657,"Antelope County, Nebraska",2020,50.6,35.6,Nebraska
+1658,"Arthur County, Nebraska",2020,54.7,42.3,Nebraska
+1659,"Banner County, Nebraska",2020,53.1,39.2,Nebraska
+1660,"Blaine County, Nebraska",2020,55.6,40.2,Nebraska
+1661,"Boone County, Nebraska",2020,44.7,37.7,Nebraska
+1662,"Box Butte County, Nebraska",2020,45.2,34.6,Nebraska
+1663,"Boyd County, Nebraska",2020,50.4,36.9,Nebraska
+1664,"Brown County, Nebraska",2020,45.3,32.6,Nebraska
+1665,"Buffalo County, Nebraska",2020,41.3,34.8,Nebraska
+1666,"Burt County, Nebraska",2020,43.8,36.3,Nebraska
+1667,"Butler County, Nebraska",2020,43.2,37,Nebraska
+1668,"Cass County, Nebraska",2020,42.9,37.2,Nebraska
+1669,"Cedar County, Nebraska",2020,48.8,36.8,Nebraska
+1670,"Chase County, Nebraska",2020,47.2,33.4,Nebraska
+1671,"Cherry County, Nebraska",2020,47.2,38.1,Nebraska
+1672,"Cheyenne County, Nebraska",2020,44.5,39,Nebraska
+1673,"Clay County, Nebraska",2020,45.4,37.6,Nebraska
+1674,"Colfax County, Nebraska",2020,43.3,38.6,Nebraska
+1675,"Cuming County, Nebraska",2020,46.5,38.4,Nebraska
+1676,"Custer County, Nebraska",2020,47.2,36.6,Nebraska
+1677,"Dakota County, Nebraska",2020,44,36.4,Nebraska
+1678,"Dawes County, Nebraska",2020,40.7,33.4,Nebraska
+1679,"Dawson County, Nebraska",2020,43.3,35.5,Nebraska
+1680,"Deuel County, Nebraska",2020,46.4,36.7,Nebraska
+1681,"Dixon County, Nebraska",2020,45.8,36.8,Nebraska
+1682,"Dodge County, Nebraska",2020,43.1,35.7,Nebraska
+1683,"Douglas County, Nebraska",2020,41,36.6,Nebraska
+1684,"Dundy County, Nebraska",2020,47.3,37.4,Nebraska
+1685,"Fillmore County, Nebraska",2020,45.8,38.9,Nebraska
+1686,"Franklin County, Nebraska",2020,46.7,35.5,Nebraska
+1687,"Frontier County, Nebraska",2020,46.2,33.9,Nebraska
+1688,"Furnas County, Nebraska",2020,46.5,37.2,Nebraska
+1689,"Gage County, Nebraska",2020,42.1,36.4,Nebraska
+1690,"Garden County, Nebraska",2020,45.7,32.9,Nebraska
+1691,"Garfield County, Nebraska",2020,44.5,38.2,Nebraska
+1692,"Gosper County, Nebraska",2020,46.9,36.3,Nebraska
+1693,"Grant County, Nebraska",2020,52.9,37.1,Nebraska
+1694,"Greeley County, Nebraska",2020,47,35,Nebraska
+1695,"Hall County, Nebraska",2020,42,37.6,Nebraska
+1696,"Hamilton County, Nebraska",2020,45.8,36.2,Nebraska
+1697,"Harlan County, Nebraska",2020,45.5,36.6,Nebraska
+1698,"Hayes County, Nebraska",2020,50.2,35.9,Nebraska
+1699,"Hitchcock County, Nebraska",2020,42.9,33.8,Nebraska
+1700,"Holt County, Nebraska",2020,47.6,38,Nebraska
+1701,"Hooker County, Nebraska",2020,56.6,39.6,Nebraska
+1702,"Howard County, Nebraska",2020,45.7,38,Nebraska
+1703,"Jefferson County, Nebraska",2020,46.1,38.7,Nebraska
+1704,"Johnson County, Nebraska",2020,46.9,39,Nebraska
+1705,"Kearney County, Nebraska",2020,43.5,34.7,Nebraska
+1706,"Keith County, Nebraska",2020,43.2,37.4,Nebraska
+1707,"Keya Paha County, Nebraska",2020,54.6,38.6,Nebraska
+1708,"Kimball County, Nebraska",2020,45.4,34.6,Nebraska
+1709,"Knox County, Nebraska",2020,48.4,36.4,Nebraska
+1710,"Lancaster County, Nebraska",2020,40.1,34.9,Nebraska
+1711,"Lincoln County, Nebraska",2020,43.1,35.9,Nebraska
+1712,"Logan County, Nebraska",2020,48.7,30.5,Nebraska
+1713,"Loup County, Nebraska",2020,50.2,37.7,Nebraska
+1714,"Madison County, Nebraska",2020,40.8,36.4,Nebraska
+1715,"McPherson County, Nebraska",2020,49.4,36,Nebraska
+1716,"Merrick County, Nebraska",2020,45,35.4,Nebraska
+1717,"Morrill County, Nebraska",2020,47.3,36.2,Nebraska
+1718,"Nance County, Nebraska",2020,45.3,36,Nebraska
+1719,"Nemaha County, Nebraska",2020,42.9,33.7,Nebraska
+1720,"Nuckolls County, Nebraska",2020,45.9,35.5,Nebraska
+1721,"Otoe County, Nebraska",2020,43.7,37.7,Nebraska
+1722,"Pawnee County, Nebraska",2020,45,37.4,Nebraska
+1723,"Perkins County, Nebraska",2020,46.8,36.2,Nebraska
+1724,"Phelps County, Nebraska",2020,44.8,36.3,Nebraska
+1725,"Pierce County, Nebraska",2020,44.6,36.5,Nebraska
+1726,"Platte County, Nebraska",2020,42.7,36.6,Nebraska
+1727,"Polk County, Nebraska",2020,46.9,35.1,Nebraska
+1728,"Red Willow County, Nebraska",2020,41.6,36.8,Nebraska
+1729,"Richardson County, Nebraska",2020,44,36.6,Nebraska
+1730,"Rock County, Nebraska",2020,46.9,35.1,Nebraska
+1731,"Saline County, Nebraska",2020,42.2,35.6,Nebraska
+1732,"Sarpy County, Nebraska",2020,42,36.7,Nebraska
+1733,"Saunders County, Nebraska",2020,41.5,36.9,Nebraska
+1734,"Scotts Bluff County, Nebraska",2020,42.6,37.2,Nebraska
+1735,"Seward County, Nebraska",2020,40.8,35.1,Nebraska
+1736,"Sheridan County, Nebraska",2020,48.9,36.1,Nebraska
+1737,"Sherman County, Nebraska",2020,46.4,38.6,Nebraska
+1738,"Sioux County, Nebraska",2020,52.7,33.5,Nebraska
+1739,"Stanton County, Nebraska",2020,43.7,35,Nebraska
+1740,"Thayer County, Nebraska",2020,47.7,35.9,Nebraska
+1741,"Thomas County, Nebraska",2020,53.3,35.9,Nebraska
+1742,"Thurston County, Nebraska",2020,43,37.8,Nebraska
+1743,"Valley County, Nebraska",2020,44,36.3,Nebraska
+1744,"Washington County, Nebraska",2020,44.2,35.2,Nebraska
+1745,"Wayne County, Nebraska",2020,39.7,32.1,Nebraska
+1746,"Webster County, Nebraska",2020,44.2,37.6,Nebraska
+1747,"Wheeler County, Nebraska",2020,54.5,44.6,Nebraska
+1748,"York County, Nebraska",2020,43.7,35.7,Nevada
+1749,"Carson City, Nevada",2020,40.6,37,Nevada
+1750,"Churchill County, Nevada",2020,41.5,36.9,Nevada
+1751,"Clark County, Nevada",2020,40.2,36.9,Nevada
+1752,"Douglas County, Nevada",2020,40.4,36.1,Nevada
+1753,"Elko County, Nevada",2020,44.3,36.4,Nevada
+1754,"Esmeralda County, Nevada",2020,44.4,31.7,Nevada
+1755,"Eureka County, Nevada",2020,47.5,30.1,Nevada
+1756,"Humboldt County, Nevada",2020,45.6,35.6,Nevada
+1757,"Lander County, Nevada",2020,47.3,38.9,Nevada
+1758,"Lincoln County, Nevada",2020,41.3,37.8,Nevada
+1759,"Lyon County, Nevada",2020,41.5,36.4,Nevada
+1760,"Mineral County, Nevada",2020,40.5,36.1,Nevada
+1761,"Nye County, Nevada",2020,41.5,35.7,Nevada
+1762,"Pershing County, Nevada",2020,40.2,34.6,Nevada
+1763,"Storey County, Nevada",2020,39.4,33.8,Nevada
+1764,"Washoe County, Nevada",2020,40.9,36.6,Nevada
+1765,"White Pine County, Nevada",2020,44.8,37.8,New Hampshire
+1766,"Belknap County, New Hampshire",2020,40.8,36.2,New Hampshire
+1767,"Carroll County, New Hampshire",2020,41,36.5,New Hampshire
+1768,"Cheshire County, New Hampshire",2020,40.5,36.1,New Hampshire
+1769,"Coos County, New Hampshire",2020,41.1,36.4,New Hampshire
+1770,"Grafton County, New Hampshire",2020,39.8,35.2,New Hampshire
+1771,"Hillsborough County, New Hampshire",2020,41.4,36,New Hampshire
+1772,"Merrimack County, New Hampshire",2020,40.8,35.8,New Hampshire
+1773,"Rockingham County, New Hampshire",2020,42.1,35.8,New Hampshire
+1774,"Strafford County, New Hampshire",2020,40.1,34.3,New Hampshire
+1775,"Sullivan County, New Hampshire",2020,40.8,36.6,New Jersey
+1776,"Atlantic County, New Jersey",2020,38.9,35.1,New Jersey
+1777,"Bergen County, New Jersey",2020,41.5,36.2,New Jersey
+1778,"Burlington County, New Jersey",2020,41.2,36.4,New Jersey
+1779,"Camden County, New Jersey",2020,40.2,36,New Jersey
+1780,"Cape May County, New Jersey",2020,40.9,34.6,New Jersey
+1781,"Cumberland County, New Jersey",2020,37.2,36.4,New Jersey
+1782,"Essex County, New Jersey",2020,40.4,36,New Jersey
+1783,"Gloucester County, New Jersey",2020,41,35.6,New Jersey
+1784,"Hudson County, New Jersey",2020,41.3,37.5,New Jersey
+1785,"Hunterdon County, New Jersey",2020,41.6,36.2,New Jersey
+1786,"Mercer County, New Jersey",2020,40,35.6,New Jersey
+1787,"Middlesex County, New Jersey",2020,40.7,36,New Jersey
+1788,"Monmouth County, New Jersey",2020,41.5,35.1,New Jersey
+1789,"Morris County, New Jersey",2020,42,35.8,New Jersey
+1790,"Ocean County, New Jersey",2020,40.8,34.5,New Jersey
+1791,"Passaic County, New Jersey",2020,40,35.4,New Jersey
+1792,"Salem County, New Jersey",2020,41.3,35.8,New Jersey
+1793,"Somerset County, New Jersey",2020,41.4,36.6,New Jersey
+1794,"Sussex County, New Jersey",2020,41.7,35.1,New Jersey
+1795,"Union County, New Jersey",2020,41.3,36.5,New Jersey
+1796,"Warren County, New Jersey",2020,41.6,34.6,New Mexico
+1797,"Bernalillo County, New Mexico",2020,39.5,36.2,New Mexico
+1798,"Catron County, New Mexico",2020,30.8,37.3,New Mexico
+1799,"Chaves County, New Mexico",2020,42.6,36.2,New Mexico
+1800,"Cibola County, New Mexico",2020,39.2,36.1,New Mexico
+1801,"Colfax County, New Mexico",2020,42.6,36,New Mexico
+1802,"Curry County, New Mexico",2020,43,37.1,New Mexico
+1803,"De Baca County, New Mexico",2020,40.8,35.5,New Mexico
+1804,"Doña Ana County, New Mexico",2020,39,34.6,New Mexico
+1805,"Eddy County, New Mexico",2020,45.5,36,New Mexico
+1806,"Grant County, New Mexico",2020,38.1,35.3,New Mexico
+1807,"Guadalupe County, New Mexico",2020,35.9,38.4,New Mexico
+1808,"Harding County, New Mexico",2020,43.2,35.3,New Mexico
+1809,"Hidalgo County, New Mexico",2020,43.7,33.5,New Mexico
+1810,"Lea County, New Mexico",2020,46.6,36.6,New Mexico
+1811,"Lincoln County, New Mexico",2020,38.2,36.6,New Mexico
+1812,"Los Alamos County, New Mexico",2020,40.3,36.8,New Mexico
+1813,"Luna County, New Mexico",2020,44.1,36.1,New Mexico
+1814,"McKinley County, New Mexico",2020,38.8,36.3,New Mexico
+1815,"Mora County, New Mexico",2020,34.9,37.5,New Mexico
+1816,"Otero County, New Mexico",2020,41.6,35.7,New Mexico
+1817,"Quay County, New Mexico",2020,37,36,New Mexico
+1818,"Rio Arriba County, New Mexico",2020,40.1,37.5,New Mexico
+1819,"Roosevelt County, New Mexico",2020,42.1,34.5,New Mexico
+1820,"San Juan County, New Mexico",2020,41.9,36,New Mexico
+1821,"San Miguel County, New Mexico",2020,37.9,34.4,New Mexico
+1822,"Sandoval County, New Mexico",2020,40.2,35.8,New Mexico
+1823,"Santa Fe County, New Mexico",2020,38.6,35.2,New Mexico
+1824,"Sierra County, New Mexico",2020,39.4,36.3,New Mexico
+1825,"Socorro County, New Mexico",2020,34.5,35.2,New Mexico
+1826,"Taos County, New Mexico",2020,37.1,34.1,New Mexico
+1827,"Torrance County, New Mexico",2020,44.5,32.8,New Mexico
+1828,"Union County, New Mexico",2020,42.1,37.5,New Mexico
+1829,"Valencia County, New Mexico",2020,40.2,35.1,New York
+1830,"Albany County, New York",2020,39.1,35,New York
+1831,"Allegany County, New York",2020,40.2,32.6,New York
+1832,"Bronx County, New York",2020,38.5,34.8,New York
+1833,"Broome County, New York",2020,38.3,33.7,New York
+1834,"Cattaraugus County, New York",2020,40.4,34.9,New York
+1835,"Cayuga County, New York",2020,41.2,34.6,New York
+1836,"Chautauqua County, New York",2020,40.3,34.6,New York
+1837,"Chemung County, New York",2020,39.8,35.4,New York
+1838,"Chenango County, New York",2020,41.1,35.6,New York
+1839,"Clinton County, New York",2020,40,35.4,New York
+1840,"Columbia County, New York",2020,40,36.5,New York
+1841,"Cortland County, New York",2020,39.7,34.6,New York
+1842,"Delaware County, New York",2020,39.7,35.9,New York
+1843,"Dutchess County, New York",2020,40.1,35.1,New York
+1844,"Erie County, New York",2020,39.7,35.3,New York
+1845,"Essex County, New York",2020,40.7,35.7,New York
+1846,"Franklin County, New York",2020,40,36.1,New York
+1847,"Fulton County, New York",2020,41.2,36,New York
+1848,"Genesee County, New York",2020,41.9,35,New York
+1849,"Greene County, New York",2020,39.8,35.6,New York
+1850,"Hamilton County, New York",2020,39.2,34.1,New York
+1851,"Herkimer County, New York",2020,40.4,35.2,New York
+1852,"Jefferson County, New York",2020,44.7,36.1,New York
+1853,"Kings County, New York",2020,40.2,36.9,New York
+1854,"Lewis County, New York",2020,43.2,35.7,New York
+1855,"Livingston County, New York",2020,39.5,33.5,New York
+1856,"Madison County, New York",2020,40.8,34.2,New York
+1857,"Monroe County, New York",2020,39.6,35.5,New York
+1858,"Montgomery County, New York",2020,40.3,35.6,New York
+1859,"Nassau County, New York",2020,41.3,35.6,New York
+1860,"New York County, New York",2020,44.1,39.8,New York
+1861,"Niagara County, New York",2020,39.4,35,New York
+1862,"Oneida County, New York",2020,39.5,35.2,New York
+1863,"Onondaga County, New York",2020,39.7,35.6,New York
+1864,"Ontario County, New York",2020,40.5,35.1,New York
+1865,"Orange County, New York",2020,41.1,35.1,New York
+1866,"Orleans County, New York",2020,41,35.8,New York
+1867,"Oswego County, New York",2020,40.1,34.1,New York
+1868,"Otsego County, New York",2020,39.7,33.7,New York
+1869,"Putnam County, New York",2020,41.4,35.4,New York
+1870,"Queens County, New York",2020,39.8,36.2,New York
+1871,"Rensselaer County, New York",2020,39.8,36.3,New York
+1872,"Richmond County, New York",2020,39.6,35.5,New York
+1873,"Rockland County, New York",2020,40.1,34.2,New York
+1874,"Saratoga County, New York",2020,41.7,35.9,New York
+1875,"Schenectady County, New York",2020,39.7,35.5,New York
+1876,"Schoharie County, New York",2020,40.7,35.3,New York
+1877,"Schuyler County, New York",2020,39.3,35.9,New York
+1878,"Seneca County, New York",2020,41.4,35.1,New York
+1879,"St. Lawrence County, New York",2020,39.3,34.2,New York
+1880,"Steuben County, New York",2020,40.7,35.6,New York
+1881,"Suffolk County, New York",2020,40.7,35.4,New York
+1882,"Sullivan County, New York",2020,41.1,36,New York
+1883,"Tioga County, New York",2020,41.3,35.5,New York
+1884,"Tompkins County, New York",2020,36.5,32.1,New York
+1885,"Ulster County, New York",2020,39.1,35.1,New York
+1886,"Warren County, New York",2020,40.9,36.7,New York
+1887,"Washington County, New York",2020,41,36.3,New York
+1888,"Wayne County, New York",2020,40.9,36,New York
+1889,"Westchester County, New York",2020,41.9,35.8,New York
+1890,"Wyoming County, New York",2020,43,35.6,New York
+1891,"Yates County, New York",2020,40.7,34.1,North Carolina
+1892,"Alamance County, North Carolina",2020,40.9,36.7,North Carolina
+1893,"Alexander County, North Carolina",2020,43.1,36.3,North Carolina
+1894,"Alleghany County, North Carolina",2020,40.9,37.1,North Carolina
+1895,"Anson County, North Carolina",2020,42.4,38.2,North Carolina
+1896,"Ashe County, North Carolina",2020,40.2,36.8,North Carolina
+1897,"Avery County, North Carolina",2020,40.4,34.4,North Carolina
+1898,"Beaufort County, North Carolina",2020,40.3,36.1,North Carolina
+1899,"Bertie County, North Carolina",2020,41.7,35.5,North Carolina
+1900,"Bladen County, North Carolina",2020,42.6,37.2,North Carolina
+1901,"Brunswick County, North Carolina",2020,40.2,35.8,North Carolina
+1902,"Buncombe County, North Carolina",2020,40,35.9,North Carolina
+1903,"Burke County, North Carolina",2020,41.3,36,North Carolina
+1904,"Cabarrus County, North Carolina",2020,41.8,36.3,North Carolina
+1905,"Caldwell County, North Carolina",2020,40.9,36.4,North Carolina
+1906,"Camden County, North Carolina",2020,41.9,37.8,North Carolina
+1907,"Carteret County, North Carolina",2020,41.6,35.7,North Carolina
+1908,"Caswell County, North Carolina",2020,40.8,35.1,North Carolina
+1909,"Catawba County, North Carolina",2020,41.4,36.8,North Carolina
+1910,"Chatham County, North Carolina",2020,42.5,38,North Carolina
+1911,"Cherokee County, North Carolina",2020,42.9,35.5,North Carolina
+1912,"Chowan County, North Carolina",2020,41.1,35.6,North Carolina
+1913,"Clay County, North Carolina",2020,41.1,35.4,North Carolina
+1914,"Cleveland County, North Carolina",2020,40.3,36.1,North Carolina
+1915,"Columbus County, North Carolina",2020,41.6,37.2,North Carolina
+1916,"Craven County, North Carolina",2020,43,36.5,North Carolina
+1917,"Cumberland County, North Carolina",2020,43.5,37.1,North Carolina
+1918,"Currituck County, North Carolina",2020,43.3,36.7,North Carolina
+1919,"Dare County, North Carolina",2020,43,36.9,North Carolina
+1920,"Davidson County, North Carolina",2020,42.1,36.9,North Carolina
+1921,"Davie County, North Carolina",2020,41.3,36.4,North Carolina
+1922,"Duplin County, North Carolina",2020,42,36.5,North Carolina
+1923,"Durham County, North Carolina",2020,40.8,37.5,North Carolina
+1924,"Edgecombe County, North Carolina",2020,38.6,36.9,North Carolina
+1925,"Forsyth County, North Carolina",2020,41.3,36.7,North Carolina
+1926,"Franklin County, North Carolina",2020,41.8,36.9,North Carolina
+1927,"Gaston County, North Carolina",2020,41,36.7,North Carolina
+1928,"Gates County, North Carolina",2020,42.3,38.2,North Carolina
+1929,"Graham County, North Carolina",2020,39.8,35.5,North Carolina
+1930,"Granville County, North Carolina",2020,42.2,37.2,North Carolina
+1931,"Greene County, North Carolina",2020,42.5,36.9,North Carolina
+1932,"Guilford County, North Carolina",2020,40.7,36,North Carolina
+1933,"Halifax County, North Carolina",2020,40.2,37.2,North Carolina
+1934,"Harnett County, North Carolina",2020,42.6,36.3,North Carolina
+1935,"Haywood County, North Carolina",2020,42.5,37.3,North Carolina
+1936,"Henderson County, North Carolina",2020,40.5,35.8,North Carolina
+1937,"Hertford County, North Carolina",2020,40.4,37.6,North Carolina
+1938,"Hoke County, North Carolina",2020,43.7,36.9,North Carolina
+1939,"Hyde County, North Carolina",2020,43.6,36.1,North Carolina
+1940,"Iredell County, North Carolina",2020,42.5,35.9,North Carolina
+1941,"Jackson County, North Carolina",2020,36.9,33.7,North Carolina
+1942,"Johnston County, North Carolina",2020,41.6,36.9,North Carolina
+1943,"Jones County, North Carolina",2020,43.6,35.4,North Carolina
+1944,"Lee County, North Carolina",2020,41.2,36.7,North Carolina
+1945,"Lenoir County, North Carolina",2020,40.9,37,North Carolina
+1946,"Lincoln County, North Carolina",2020,42,36.7,North Carolina
+1947,"Macon County, North Carolina",2020,39.4,35.9,North Carolina
+1948,"Madison County, North Carolina",2020,40.7,35.5,North Carolina
+1949,"Martin County, North Carolina",2020,41,36.5,North Carolina
+1950,"McDowell County, North Carolina",2020,41.1,37.2,North Carolina
+1951,"Mecklenburg County, North Carolina",2020,41.6,37.6,North Carolina
+1952,"Mitchell County, North Carolina",2020,40.6,36.9,North Carolina
+1953,"Montgomery County, North Carolina",2020,41.9,36.5,North Carolina
+1954,"Moore County, North Carolina",2020,42.7,35.1,North Carolina
+1955,"Nash County, North Carolina",2020,41.4,36.2,North Carolina
+1956,"New Hanover County, North Carolina",2020,40.5,34.9,North Carolina
+1957,"Northampton County, North Carolina",2020,42.2,39.4,North Carolina
+1958,"Onslow County, North Carolina",2020,47.4,37,North Carolina
+1959,"Orange County, North Carolina",2020,39,33.4,North Carolina
+1960,"Pamlico County, North Carolina",2020,40.3,35.1,North Carolina
+1961,"Pasquotank County, North Carolina",2020,41.9,35.1,North Carolina
+1962,"Pender County, North Carolina",2020,40.9,35.9,North Carolina
+1963,"Perquimans County, North Carolina",2020,42.9,36.2,North Carolina
+1964,"Person County, North Carolina",2020,41,37.8,North Carolina
+1965,"Pitt County, North Carolina",2020,40.7,35.1,North Carolina
+1966,"Polk County, North Carolina",2020,42.1,33.8,North Carolina
+1967,"Randolph County, North Carolina",2020,42.1,37,North Carolina
+1968,"Richmond County, North Carolina",2020,41.3,36.8,North Carolina
+1969,"Robeson County, North Carolina",2020,40.2,36.8,North Carolina
+1970,"Rockingham County, North Carolina",2020,41.2,36.6,North Carolina
+1971,"Rowan County, North Carolina",2020,41.9,35.6,North Carolina
+1972,"Rutherford County, North Carolina",2020,41.6,37.1,North Carolina
+1973,"Sampson County, North Carolina",2020,42.7,36.7,North Carolina
+1974,"Scotland County, North Carolina",2020,39.7,36.5,North Carolina
+1975,"Stanly County, North Carolina",2020,42.2,36.5,North Carolina
+1976,"Stokes County, North Carolina",2020,41.6,37.3,North Carolina
+1977,"Surry County, North Carolina",2020,42,37.3,North Carolina
+1978,"Swain County, North Carolina",2020,39.7,37.2,North Carolina
+1979,"Transylvania County, North Carolina",2020,38.5,35,North Carolina
+1980,"Tyrrell County, North Carolina",2020,43.5,35.1,North Carolina
+1981,"Union County, North Carolina",2020,41.9,35.5,North Carolina
+1982,"Vance County, North Carolina",2020,41,36.9,North Carolina
+1983,"Wake County, North Carolina",2020,41.4,37,North Carolina
+1984,"Warren County, North Carolina",2020,41.2,36.6,North Carolina
+1985,"Washington County, North Carolina",2020,43.8,35.4,North Carolina
+1986,"Watauga County, North Carolina",2020,36,31.8,North Carolina
+1987,"Wayne County, North Carolina",2020,41.1,36.9,North Carolina
+1988,"Wilkes County, North Carolina",2020,41.5,36.6,North Carolina
+1989,"Wilson County, North Carolina",2020,40.8,37,North Carolina
+1990,"Yadkin County, North Carolina",2020,41.2,37.8,North Carolina
+1991,"Yancey County, North Carolina",2020,42.6,35.6,North Dakota
+1992,"Adams County, North Dakota",2020,48.4,37.5,North Dakota
+1993,"Barnes County, North Dakota",2020,43.2,34.8,North Dakota
+1994,"Benson County, North Dakota",2020,45.5,35.6,North Dakota
+1995,"Billings County, North Dakota",2020,46.8,29.6,North Dakota
+1996,"Bottineau County, North Dakota",2020,45.9,35.7,North Dakota
+1997,"Bowman County, North Dakota",2020,46.1,35.4,North Dakota
+1998,"Burke County, North Dakota",2020,52.6,35.5,North Dakota
+1999,"Burleigh County, North Dakota",2020,42.1,36.6,North Dakota
+2000,"Cass County, North Dakota",2020,41.2,35.5,North Dakota
+2001,"Cavalier County, North Dakota",2020,47.6,34.9,North Dakota
+2002,"Dickey County, North Dakota",2020,45.7,37.3,North Dakota
+2003,"Divide County, North Dakota",2020,52.6,31.2,North Dakota
+2004,"Dunn County, North Dakota",2020,50.3,37.5,North Dakota
+2005,"Eddy County, North Dakota",2020,46.8,37.3,North Dakota
+2006,"Emmons County, North Dakota",2020,50,35.5,North Dakota
+2007,"Foster County, North Dakota",2020,49.4,35.7,North Dakota
+2008,"Golden Valley County, North Dakota",2020,52.2,37.4,North Dakota
+2009,"Grand Forks County, North Dakota",2020,40.1,35,North Dakota
+2010,"Grant County, North Dakota",2020,49.7,37.8,North Dakota
+2011,"Griggs County, North Dakota",2020,46.6,36.4,North Dakota
+2012,"Hettinger County, North Dakota",2020,48.1,35.4,North Dakota
+2013,"Kidder County, North Dakota",2020,44.8,38,North Dakota
+2014,"LaMoure County, North Dakota",2020,47.2,37.3,North Dakota
+2015,"Logan County, North Dakota",2020,49.2,37.3,North Dakota
+2016,"McHenry County, North Dakota",2020,46.4,36.9,North Dakota
+2017,"McIntosh County, North Dakota",2020,50.6,39.8,North Dakota
+2018,"McKenzie County, North Dakota",2020,48.6,37.9,North Dakota
+2019,"McLean County, North Dakota",2020,45.4,37.1,North Dakota
+2020,"Mercer County, North Dakota",2020,44.3,34.9,North Dakota
+2021,"Morton County, North Dakota",2020,43.9,36.9,North Dakota
+2022,"Mountrail County, North Dakota",2020,45.3,37,North Dakota
+2023,"Nelson County, North Dakota",2020,45.2,37.6,North Dakota
+2024,"Oliver County, North Dakota",2020,47,36.6,North Dakota
+2025,"Pembina County, North Dakota",2020,44.7,36.2,North Dakota
+2026,"Pierce County, North Dakota",2020,47.7,36.1,North Dakota
+2027,"Ramsey County, North Dakota",2020,43.1,36.2,North Dakota
+2028,"Ransom County, North Dakota",2020,44.2,39.2,North Dakota
+2029,"Renville County, North Dakota",2020,48.8,37.1,North Dakota
+2030,"Richland County, North Dakota",2020,43,34.5,North Dakota
+2031,"Rolette County, North Dakota",2020,40.4,36.8,North Dakota
+2032,"Sargent County, North Dakota",2020,45.1,38.2,North Dakota
+2033,"Sheridan County, North Dakota",2020,50.6,38.9,North Dakota
+2034,"Sioux County, North Dakota",2020,43.9,37.5,North Dakota
+2035,"Slope County, North Dakota",2020,52.6,35.3,North Dakota
+2036,"Stark County, North Dakota",2020,48,35.9,North Dakota
+2037,"Steele County, North Dakota",2020,50.4,38.1,North Dakota
+2038,"Stutsman County, North Dakota",2020,41.4,35.9,North Dakota
+2039,"Towner County, North Dakota",2020,44.9,36.5,North Dakota
+2040,"Traill County, North Dakota",2020,43.5,35,North Dakota
+2041,"Walsh County, North Dakota",2020,45,36.7,North Dakota
+2042,"Ward County, North Dakota",2020,43.8,36.7,North Dakota
+2043,"Wells County, North Dakota",2020,45.7,37.6,North Dakota
+2044,"Williams County, North Dakota",2020,50,36.1,Ohio
+2045,"Adams County, Ohio",2020,40.6,36.1,Ohio
+2046,"Allen County, Ohio",2020,40.9,34.6,Ohio
+2047,"Ashland County, Ohio",2020,41,34.3,Ohio
+2048,"Ashtabula County, Ohio",2020,40.4,34.9,Ohio
+2049,"Athens County, Ohio",2020,35.1,30.5,Ohio
+2050,"Auglaize County, Ohio",2020,42.9,36.4,Ohio
+2051,"Belmont County, Ohio",2020,38.3,35.1,Ohio
+2052,"Brown County, Ohio",2020,41.8,36.2,Ohio
+2053,"Butler County, Ohio",2020,40.4,35.2,Ohio
+2054,"Carroll County, Ohio",2020,43,34.1,Ohio
+2055,"Champaign County, Ohio",2020,42.7,37,Ohio
+2056,"Clark County, Ohio",2020,40.9,35.7,Ohio
+2057,"Clermont County, Ohio",2020,41.3,35.9,Ohio
+2058,"Clinton County, Ohio",2020,41.2,35.5,Ohio
+2059,"Columbiana County, Ohio",2020,41.4,35,Ohio
+2060,"Coshocton County, Ohio",2020,42.2,35.9,Ohio
+2061,"Crawford County, Ohio",2020,40.7,36.1,Ohio
+2062,"Cuyahoga County, Ohio",2020,40.3,36.2,Ohio
+2063,"Darke County, Ohio",2020,43.2,35.2,Ohio
+2064,"Defiance County, Ohio",2020,42.6,35.7,Ohio
+2065,"Delaware County, Ohio",2020,41.6,35.8,Ohio
+2066,"Erie County, Ohio",2020,42.4,35.9,Ohio
+2067,"Fairfield County, Ohio",2020,41.5,36.3,Ohio
+2068,"Fayette County, Ohio",2020,41.2,36.1,Ohio
+2069,"Franklin County, Ohio",2020,40.3,36.7,Ohio
+2070,"Fulton County, Ohio",2020,41.7,35.9,Ohio
+2071,"Gallia County, Ohio",2020,41.2,35.2,Ohio
+2072,"Geauga County, Ohio",2020,42.3,34.8,Ohio
+2073,"Greene County, Ohio",2020,39.5,34.2,Ohio
+2074,"Guernsey County, Ohio",2020,42,36.2,Ohio
+2075,"Hamilton County, Ohio",2020,40.6,36.1,Ohio
+2076,"Hancock County, Ohio",2020,41.9,36,Ohio
+2077,"Hardin County, Ohio",2020,40.5,34.2,Ohio
+2078,"Harrison County, Ohio",2020,44.2,35.4,Ohio
+2079,"Henry County, Ohio",2020,43.5,35.8,Ohio
+2080,"Highland County, Ohio",2020,41.4,36.6,Ohio
+2081,"Hocking County, Ohio",2020,40.7,34.4,Ohio
+2082,"Holmes County, Ohio",2020,44.7,34.1,Ohio
+2083,"Huron County, Ohio",2020,42.2,35.4,Ohio
+2084,"Jackson County, Ohio",2020,40.3,35.9,Ohio
+2085,"Jefferson County, Ohio",2020,41.6,35.1,Ohio
+2086,"Knox County, Ohio",2020,40.8,33.4,Ohio
+2087,"Lake County, Ohio",2020,40.5,36.3,Ohio
+2088,"Lawrence County, Ohio",2020,40.3,35.5,Ohio
+2089,"Licking County, Ohio",2020,41.1,36.5,Ohio
+2090,"Logan County, Ohio",2020,42,36.2,Ohio
+2091,"Lorain County, Ohio",2020,40.5,35.4,Ohio
+2092,"Lucas County, Ohio",2020,40.5,35.9,Ohio
+2093,"Madison County, Ohio",2020,40.8,36.6,Ohio
+2094,"Mahoning County, Ohio",2020,40.7,35,Ohio
+2095,"Marion County, Ohio",2020,41.3,37.1,Ohio
+2096,"Medina County, Ohio",2020,41.7,35.8,Ohio
+2097,"Meigs County, Ohio",2020,40.8,35.3,Ohio
+2098,"Mercer County, Ohio",2020,43.4,34.9,Ohio
+2099,"Miami County, Ohio",2020,41.8,36.2,Ohio
+2100,"Monroe County, Ohio",2020,43.8,36,Ohio
+2101,"Montgomery County, Ohio",2020,40,35.7,Ohio
+2102,"Morgan County, Ohio",2020,41.5,36,Ohio
+2103,"Morrow County, Ohio",2020,43.3,37.3,Ohio
+2104,"Muskingum County, Ohio",2020,40.9,35.9,Ohio
+2105,"Noble County, Ohio",2020,30.3,33.2,Ohio
+2106,"Ottawa County, Ohio",2020,42.8,35.9,Ohio
+2107,"Paulding County, Ohio",2020,42.4,35.6,Ohio
+2108,"Perry County, Ohio",2020,41.8,36.8,Ohio
+2109,"Pickaway County, Ohio",2020,41.6,36.5,Ohio
+2110,"Pike County, Ohio",2020,40.5,35.8,Ohio
+2111,"Portage County, Ohio",2020,39.8,34.6,Ohio
+2112,"Preble County, Ohio",2020,41.8,36,Ohio
+2113,"Putnam County, Ohio",2020,43.2,35.2,Ohio
+2114,"Richland County, Ohio",2020,40.9,35.5,Ohio
+2115,"Ross County, Ohio",2020,41.4,34.6,Ohio
+2116,"Sandusky County, Ohio",2020,41,35.4,Ohio
+2117,"Scioto County, Ohio",2020,40.7,35.3,Ohio
+2118,"Seneca County, Ohio",2020,41,34.3,Ohio
+2119,"Shelby County, Ohio",2020,41.4,37.4,Ohio
+2120,"Stark County, Ohio",2020,41.1,35.1,Ohio
+2121,"Summit County, Ohio",2020,40.9,35.7,Ohio
+2122,"Trumbull County, Ohio",2020,40.1,35.3,Ohio
+2123,"Tuscarawas County, Ohio",2020,43,35.1,Ohio
+2124,"Union County, Ohio",2020,42.9,36.6,Ohio
+2125,"Van Wert County, Ohio",2020,42,35.8,Ohio
+2126,"Vinton County, Ohio",2020,41.8,36.6,Ohio
+2127,"Warren County, Ohio",2020,41.7,35.2,Ohio
+2128,"Washington County, Ohio",2020,40.7,35.5,Ohio
+2129,"Wayne County, Ohio",2020,42.6,35,Ohio
+2130,"Williams County, Ohio",2020,41.7,36.2,Ohio
+2131,"Wood County, Ohio",2020,39.6,33.4,Ohio
+2132,"Wyandot County, Ohio",2020,42,35.9,Oklahama
+2133,"Adair County, Oklahoma",2020,40.9,38.1,Oklahama
+2134,"Alfalfa County, Oklahoma",2020,46.5,35.8,Oklahama
+2135,"Atoka County, Oklahoma",2020,43.5,37.9,Oklahama
+2136,"Beaver County, Oklahoma",2020,47.3,36.1,Oklahama
+2137,"Beckham County, Oklahoma",2020,45.1,37,Oklahama
+2138,"Blaine County, Oklahoma",2020,48.9,37.7,Oklahama
+2139,"Bryan County, Oklahoma",2020,42.5,36.9,Oklahama
+2140,"Caddo County, Oklahoma",2020,45.8,37.7,Oklahama
+2141,"Canadian County, Oklahoma",2020,42.5,36.6,Oklahama
+2142,"Carter County, Oklahoma",2020,42.6,37.9,Oklahama
+2143,"Cherokee County, Oklahoma",2020,40.1,35.6,Oklahama
+2144,"Choctaw County, Oklahoma",2020,45.1,35.9,Oklahama
+2145,"Cimarron County, Oklahoma",2020,49.2,36.1,Oklahama
+2146,"Cleveland County, Oklahoma",2020,40.8,35.5,Oklahama
+2147,"Coal County, Oklahoma",2020,46.2,38.1,Oklahama
+2148,"Comanche County, Oklahoma",2020,43.9,38.2,Oklahama
+2149,"Cotton County, Oklahoma",2020,44.5,39.4,Oklahama
+2150,"Craig County, Oklahoma",2020,42,37.7,Oklahama
+2151,"Creek County, Oklahoma",2020,42.2,37.4,Oklahama
+2152,"Custer County, Oklahoma",2020,44.1,34.5,Oklahama
+2153,"Delaware County, Oklahoma",2020,41.7,37.1,Oklahama
+2154,"Dewey County, Oklahoma",2020,46.5,36.6,Oklahama
+2155,"Ellis County, Oklahoma",2020,44.4,37.1,Oklahama
+2156,"Garfield County, Oklahoma",2020,44.5,37.2,Oklahama
+2157,"Garvin County, Oklahoma",2020,44.3,38.1,Oklahama
+2158,"Grady County, Oklahoma",2020,44.8,36.6,Oklahama
+2159,"Grant County, Oklahoma",2020,44.9,39.3,Oklahama
+2160,"Greer County, Oklahoma",2020,44.6,39.1,Oklahama
+2161,"Harmon County, Oklahoma",2020,44.2,36.7,Oklahama
+2162,"Harper County, Oklahoma",2020,46.4,41.1,Oklahama
+2163,"Haskell County, Oklahoma",2020,44.4,37.3,Oklahama
+2164,"Hughes County, Oklahoma",2020,42,37.3,Oklahama
+2165,"Jackson County, Oklahoma",2020,42.9,35.8,Oklahama
+2166,"Jefferson County, Oklahoma",2020,44.5,38.6,Oklahama
+2167,"Johnston County, Oklahoma",2020,44.7,36.1,Oklahama
+2168,"Kay County, Oklahoma",2020,41.8,36.7,Oklahama
+2169,"Kingfisher County, Oklahoma",2020,43.4,37.5,Oklahama
+2170,"Kiowa County, Oklahoma",2020,45.6,36.5,Oklahama
+2171,"Latimer County, Oklahoma",2020,43.8,36.4,Oklahama
+2172,"Le Flore County, Oklahoma",2020,42.6,36.9,Oklahama
+2173,"Lincoln County, Oklahoma",2020,42.2,38,Oklahama
+2174,"Logan County, Oklahoma",2020,41.3,35.5,Oklahama
+2175,"Love County, Oklahoma",2020,42.2,39.2,Oklahama
+2176,"Major County, Oklahoma",2020,44.7,35.8,Oklahama
+2177,"Marshall County, Oklahoma",2020,43.6,37.2,Oklahama
+2178,"Mayes County, Oklahoma",2020,43.2,37.4,Oklahama
+2179,"McClain County, Oklahoma",2020,44.5,37,Oklahama
+2180,"McCurtain County, Oklahoma",2020,44.6,37.8,Oklahama
+2181,"McIntosh County, Oklahoma",2020,42.5,36,Oklahama
+2182,"Murray County, Oklahoma",2020,41.3,38.7,Oklahama
+2183,"Muskogee County, Oklahoma",2020,41.6,36.8,Oklahama
+2184,"Noble County, Oklahoma",2020,44.8,38.1,Oklahama
+2185,"Nowata County, Oklahoma",2020,43.9,36.2,Oklahama
+2186,"Okfuskee County, Oklahoma",2020,41.8,37.6,Oklahama
+2187,"Oklahoma County, Oklahoma",2020,41.4,36.9,Oklahama
+2188,"Okmulgee County, Oklahoma",2020,41.4,35.8,Oklahama
+2189,"Osage County, Oklahoma",2020,41.9,36.9,Oklahama
+2190,"Ottawa County, Oklahoma",2020,41.9,37.1,Oklahama
+2191,"Pawnee County, Oklahoma",2020,44,37.5,Oklahama
+2192,"Payne County, Oklahoma",2020,37.7,33.7,Oklahama
+2193,"Pittsburg County, Oklahoma",2020,44,39.3,Oklahama
+2194,"Pontotoc County, Oklahoma",2020,40.9,37.3,Oklahama
+2195,"Pottawatomie County, Oklahoma",2020,41.9,35.8,Oklahama
+2196,"Pushmataha County, Oklahoma",2020,43.2,36.8,Oklahama
+2197,"Roger Mills County, Oklahoma",2020,49.5,38.7,Oklahama
+2198,"Rogers County, Oklahoma",2020,42,36.9,Oklahama
+2199,"Seminole County, Oklahoma",2020,42.9,37.1,Oklahama
+2200,"Sequoyah County, Oklahoma",2020,41.5,37.3,Oklahama
+2201,"Stephens County, Oklahoma",2020,44.5,36.9,Oklahama
+2202,"Texas County, Oklahoma",2020,43.2,38,Oklahama
+2203,"Tillman County, Oklahoma",2020,42.9,38.3,Oklahama
+2204,"Tulsa County, Oklahoma",2020,41.7,37,Oklahama
+2205,"Wagoner County, Oklahoma",2020,42.6,36.8,Oklahama
+2206,"Washington County, Oklahoma",2020,41.9,36.6,Oklahama
+2207,"Washita County, Oklahoma",2020,45.6,37.3,Oklahama
+2208,"Woods County, Oklahoma",2020,40.7,34.4,Oklahama
+2209,"Woodward County, Oklahoma",2020,43.5,38.5,Oregon
+2210,"Baker County, Oregon",2020,42.5,33.5,Oregon
+2211,"Benton County, Oregon",2020,36.8,33,Oregon
+2212,"Clackamas County, Oregon",2020,41.3,35.5,Oregon
+2213,"Clatsop County, Oregon",2020,41.1,34.8,Oregon
+2214,"Columbia County, Oregon",2020,41.4,34.6,Oregon
+2215,"Coos County, Oregon",2020,40.8,34.4,Oregon
+2216,"Crook County, Oregon",2020,41.4,36.6,Oregon
+2217,"Curry County, Oregon",2020,40.1,36,Oregon
+2218,"Deschutes County, Oregon",2020,40.4,34.8,Oregon
+2219,"Douglas County, Oregon",2020,41.4,34.8,Oregon
+2220,"Gilliam County, Oregon",2020,44,37.5,Oregon
+2221,"Grant County, Oregon",2020,43.9,36.4,Oregon
+2222,"Harney County, Oregon",2020,40.9,33.6,Oregon
+2223,"Hood River County, Oregon",2020,40.1,35,Oregon
+2224,"Jackson County, Oregon",2020,39.9,35,Oregon
+2225,"Jefferson County, Oregon",2020,41,36.8,Oregon
+2226,"Josephine County, Oregon",2020,38.9,33.8,Oregon
+2227,"Klamath County, Oregon",2020,41.8,36,Oregon
+2228,"Lake County, Oregon",2020,42.5,34.2,Oregon
+2229,"Lane County, Oregon",2020,38.6,33.5,Oregon
+2230,"Lincoln County, Oregon",2020,39.1,35.4,Oregon
+2231,"Linn County, Oregon",2020,41.9,35.3,Oregon
+2232,"Malheur County, Oregon",2020,41.1,36.2,Oregon
+2233,"Marion County, Oregon",2020,40.2,35.7,Oregon
+2234,"Morrow County, Oregon",2020,44,38,Oregon
+2235,"Multnomah County, Oregon",2020,39.6,35.9,Oregon
+2236,"Polk County, Oregon",2020,40.7,34.4,Oregon
+2237,"Sherman County, Oregon",2020,47,34.4,Oregon
+2238,"Tillamook County, Oregon",2020,40.4,35.8,Oregon
+2239,"Umatilla County, Oregon",2020,42.2,36.6,Oregon
+2240,"Union County, Oregon",2020,41.3,34.5,Oregon
+2241,"Wallowa County, Oregon",2020,39.7,34.8,Oregon
+2242,"Wasco County, Oregon",2020,40.9,35.8,Oregon
+2243,"Washington County, Oregon",2020,40.7,35.8,Oregon
+2244,"Wheeler County, Oregon",2020,45.5,34.8,Oregon
+2245,"Yamhill County, Oregon",2020,39.6,35,Pennsylvania
+2246,"Adams County, Pennsylvania",2020,40.6,35.3,Pennsylvania
+2247,"Allegheny County, Pennsylvania",2020,41,36.2,Pennsylvania
+2248,"Armstrong County, Pennsylvania",2020,42.8,36.1,Pennsylvania
+2249,"Beaver County, Pennsylvania",2020,41.4,36.1,Pennsylvania
+2250,"Bedford County, Pennsylvania",2020,42,35.1,Pennsylvania
+2251,"Berks County, Pennsylvania",2020,41.3,35.5,Pennsylvania
+2252,"Blair County, Pennsylvania",2020,40.4,36,Pennsylvania
+2253,"Bradford County, Pennsylvania",2020,43.1,36.5,Pennsylvania
+2254,"Bucks County, Pennsylvania",2020,41.9,36,Pennsylvania
+2255,"Butler County, Pennsylvania",2020,42.8,35.6,Pennsylvania
+2256,"Cambria County, Pennsylvania",2020,40.6,34.8,Pennsylvania
+2257,"Cameron County, Pennsylvania",2020,41.3,33.2,Pennsylvania
+2258,"Carbon County, Pennsylvania",2020,42.4,35.5,Pennsylvania
+2259,"Centre County, Pennsylvania",2020,38.2,33.7,Pennsylvania
+2260,"Chester County, Pennsylvania",2020,42,35.5,Pennsylvania
+2261,"Clarion County, Pennsylvania",2020,42.1,34.1,Pennsylvania
+2262,"Clearfield County, Pennsylvania",2020,41.5,34.8,Pennsylvania
+2263,"Clinton County, Pennsylvania",2020,41.7,35.8,Pennsylvania
+2264,"Columbia County, Pennsylvania",2020,40.5,34.9,Pennsylvania
+2265,"Crawford County, Pennsylvania",2020,41.6,35.8,Pennsylvania
+2266,"Cumberland County, Pennsylvania",2020,41,35.6,Pennsylvania
+2267,"Dauphin County, Pennsylvania",2020,40.9,37.3,Pennsylvania
+2268,"Delaware County, Pennsylvania",2020,40.4,35.8,Pennsylvania
+2269,"Elk County, Pennsylvania",2020,41.8,35.8,Pennsylvania
+2270,"Erie County, Pennsylvania",2020,40.2,34.9,Pennsylvania
+2271,"Fayette County, Pennsylvania",2020,42.3,35.8,Pennsylvania
+2272,"Forest County, Pennsylvania",2020,36.2,35,Pennsylvania
+2273,"Franklin County, Pennsylvania",2020,42.5,35.9,Pennsylvania
+2274,"Fulton County, Pennsylvania",2020,40.4,35.9,Pennsylvania
+2275,"Greene County, Pennsylvania",2020,42.7,34.1,Pennsylvania
+2276,"Huntingdon County, Pennsylvania",2020,40.8,35.2,Pennsylvania
+2277,"Indiana County, Pennsylvania",2020,41.4,33.7,Pennsylvania
+2278,"Jefferson County, Pennsylvania",2020,42.3,35.2,Pennsylvania
+2279,"Juniata County, Pennsylvania",2020,42.8,35.2,Pennsylvania
+2280,"Lackawanna County, Pennsylvania",2020,40.7,35.3,Pennsylvania
+2281,"Lancaster County, Pennsylvania",2020,42.4,34.4,Pennsylvania
+2282,"Lawrence County, Pennsylvania",2020,42,34.8,Pennsylvania
+2283,"Lebanon County, Pennsylvania",2020,42.3,35.4,Pennsylvania
+2284,"Lehigh County, Pennsylvania",2020,40.8,35.9,Pennsylvania
+2285,"Luzerne County, Pennsylvania",2020,40.8,36.1,Pennsylvania
+2286,"Lycoming County, Pennsylvania",2020,41.8,35.9,Pennsylvania
+2287,"McKean County, Pennsylvania",2020,40.7,35.7,Pennsylvania
+2288,"Mercer County, Pennsylvania",2020,41.1,34.7,Pennsylvania
+2289,"Mifflin County, Pennsylvania",2020,41.4,35.1,Pennsylvania
+2290,"Monroe County, Pennsylvania",2020,40.1,35.1,Pennsylvania
+2291,"Montgomery County, Pennsylvania",2020,41.8,36.2,Pennsylvania
+2292,"Montour County, Pennsylvania",2020,40.4,37.4,Pennsylvania
+2293,"Northampton County, Pennsylvania",2020,41,36.1,Pennsylvania
+2294,"Northumberland County, Pennsylvania",2020,40.9,35.6,Pennsylvania
+2295,"Perry County, Pennsylvania",2020,42.7,36,Pennsylvania
+2296,"Philadelphia County, Pennsylvania",2020,39.9,37,Pennsylvania
+2297,"Pike County, Pennsylvania",2020,40.9,35.2,Pennsylvania
+2298,"Potter County, Pennsylvania",2020,43.4,35.6,Pennsylvania
+2299,"Schuylkill County, Pennsylvania",2020,42.1,36.5,Pennsylvania
+2300,"Snyder County, Pennsylvania",2020,40.8,34.9,Pennsylvania
+2301,"Somerset County, Pennsylvania",2020,42.9,35.9,Pennsylvania
+2302,"Sullivan County, Pennsylvania",2020,44.1,36,Pennsylvania
+2303,"Susquehanna County, Pennsylvania",2020,43.1,36.2,Pennsylvania
+2304,"Tioga County, Pennsylvania",2020,43.4,34.9,Pennsylvania
+2305,"Union County, Pennsylvania",2020,39.5,33.8,Pennsylvania
+2306,"Venango County, Pennsylvania",2020,41.8,35.6,Pennsylvania
+2307,"Warren County, Pennsylvania",2020,41.2,36,Pennsylvania
+2308,"Washington County, Pennsylvania",2020,42.3,35.8,Pennsylvania
+2309,"Wayne County, Pennsylvania",2020,40,35.6,Pennsylvania
+2310,"Westmoreland County, Pennsylvania",2020,41.3,35.2,Pennsylvania
+2311,"Wyoming County, Pennsylvania",2020,41.6,34.9,Pennsylvania
+2312,"York County, Pennsylvania",2020,41.8,36.3,Puerto Rico
+2313,"Adjuntas Municipio, Puerto Rico",2020,33.1,31,Puerto Rico
+2314,"Aguada Municipio, Puerto Rico",2020,33.7,32.3,Puerto Rico
+2315,"Aguadilla Municipio, Puerto Rico",2020,36.7,33.7,Puerto Rico
+2316,"Aguas Buenas Municipio, Puerto Rico",2020,36.1,34.7,Puerto Rico
+2317,"Aibonito Municipio, Puerto Rico",2020,35,34.1,Puerto Rico
+2318,"Añasco Municipio, Puerto Rico",2020,34.6,33.1,Puerto Rico
+2319,"Arecibo Municipio, Puerto Rico",2020,36.5,32.9,Puerto Rico
+2320,"Arroyo Municipio, Puerto Rico",2020,35.4,34.1,Puerto Rico
+2321,"Barceloneta Municipio, Puerto Rico",2020,37.8,33.4,Puerto Rico
+2322,"Barranquitas Municipio, Puerto Rico",2020,37.2,35,Puerto Rico
+2323,"Bayamón Municipio, Puerto Rico",2020,36.8,34.4,Puerto Rico
+2324,"Cabo Rojo Municipio, Puerto Rico",2020,35.4,34.5,Puerto Rico
+2325,"Caguas Municipio, Puerto Rico",2020,37.8,35.3,Puerto Rico
+2326,"Camuy Municipio, Puerto Rico",2020,33.7,31.9,Puerto Rico
+2327,"Canóvanas Municipio, Puerto Rico",2020,37,35.2,Puerto Rico
+2328,"Carolina Municipio, Puerto Rico",2020,38.2,35.1,Puerto Rico
+2329,"Cataño Municipio, Puerto Rico",2020,36.4,34.8,Puerto Rico
+2330,"Cayey Municipio, Puerto Rico",2020,36.3,35.2,Puerto Rico
+2331,"Ceiba Municipio, Puerto Rico",2020,33.3,33.6,Puerto Rico
+2332,"Ciales Municipio, Puerto Rico",2020,35.2,33.7,Puerto Rico
+2333,"Cidra Municipio, Puerto Rico",2020,37.4,34,Puerto Rico
+2334,"Coamo Municipio, Puerto Rico",2020,36.2,33.5,Puerto Rico
+2335,"Comerío Municipio, Puerto Rico",2020,36.4,36.8,Puerto Rico
+2336,"Corozal Municipio, Puerto Rico",2020,36.6,34.1,Puerto Rico
+2337,"Culebra Municipio, Puerto Rico",2020,39.4,35.7,Puerto Rico
+2338,"Dorado Municipio, Puerto Rico",2020,39.2,35.4,Puerto Rico
+2339,"Fajardo Municipio, Puerto Rico",2020,35.8,33.5,Puerto Rico
+2340,"Florida Municipio, Puerto Rico",2020,32.7,33.6,Puerto Rico
+2341,"Guánica Municipio, Puerto Rico",2020,32.9,33.5,Puerto Rico
+2342,"Guayama Municipio, Puerto Rico",2020,34.6,36,Puerto Rico
+2343,"Guayanilla Municipio, Puerto Rico",2020,34,32.5,Puerto Rico
+2344,"Guaynabo Municipio, Puerto Rico",2020,38.7,36.7,Puerto Rico
+2345,"Gurabo Municipio, Puerto Rico",2020,37.3,36.3,Puerto Rico
+2346,"Hatillo Municipio, Puerto Rico",2020,33.9,32.2,Puerto Rico
+2347,"Hormigueros Municipio, Puerto Rico",2020,35,32.6,Puerto Rico
+2348,"Humacao Municipio, Puerto Rico",2020,36.4,33.9,Puerto Rico
+2349,"Isabela Municipio, Puerto Rico",2020,36.1,33.2,Puerto Rico
+2350,"Jayuya Municipio, Puerto Rico",2020,36,34.9,Puerto Rico
+2351,"Juana Díaz Municipio, Puerto Rico",2020,33.7,32.4,Puerto Rico
+2352,"Juncos Municipio, Puerto Rico",2020,37.5,34.5,Puerto Rico
+2353,"Lajas Municipio, Puerto Rico",2020,34.2,34.6,Puerto Rico
+2354,"Lares Municipio, Puerto Rico",2020,33.7,30.6,Puerto Rico
+2355,"Las Marías Municipio, Puerto Rico",2020,32.9,33.2,Puerto Rico
+2356,"Las Piedras Municipio, Puerto Rico",2020,38.8,35.6,Puerto Rico
+2357,"Loíza Municipio, Puerto Rico",2020,35.8,33.5,Puerto Rico
+2358,"Luquillo Municipio, Puerto Rico",2020,35.9,33.3,Puerto Rico
+2359,"Manatí Municipio, Puerto Rico",2020,36.8,34.7,Puerto Rico
+2360,"Maricao Municipio, Puerto Rico",2020,31.4,33.1,Puerto Rico
+2361,"Maunabo Municipio, Puerto Rico",2020,35.1,33.2,Puerto Rico
+2362,"Mayagüez Municipio, Puerto Rico",2020,35.5,31.9,Puerto Rico
+2363,"Moca Municipio, Puerto Rico",2020,35.3,33.5,Puerto Rico
+2364,"Morovis Municipio, Puerto Rico",2020,37.6,34.1,Puerto Rico
+2365,"Naguabo Municipio, Puerto Rico",2020,36,35.3,Puerto Rico
+2366,"Naranjito Municipio, Puerto Rico",2020,35.4,33.9,Puerto Rico
+2367,"Orocovis Municipio, Puerto Rico",2020,35.4,34,Puerto Rico
+2368,"Patillas Municipio, Puerto Rico",2020,36.7,34.6,Puerto Rico
+2369,"Peñuelas Municipio, Puerto Rico",2020,33.9,32.4,Puerto Rico
+2370,"Ponce Municipio, Puerto Rico",2020,34.7,33.7,Puerto Rico
+2371,"Quebradillas Municipio, Puerto Rico",2020,35.5,31.6,Puerto Rico
+2372,"Rincón Municipio, Puerto Rico",2020,36.1,32.1,Puerto Rico
+2373,"Río Grande Municipio, Puerto Rico",2020,36.3,34.6,Puerto Rico
+2374,"Sabana Grande Municipio, Puerto Rico",2020,34.4,33.3,Puerto Rico
+2375,"Salinas Municipio, Puerto Rico",2020,36.1,33.8,Puerto Rico
+2376,"San Germán Municipio, Puerto Rico",2020,34.2,33.7,Puerto Rico
+2377,"San Juan Municipio, Puerto Rico",2020,37.2,34.7,Puerto Rico
+2378,"San Lorenzo Municipio, Puerto Rico",2020,36.8,35.3,Puerto Rico
+2379,"San Sebastián Municipio, Puerto Rico",2020,36.3,33.3,Puerto Rico
+2380,"Santa Isabel Municipio, Puerto Rico",2020,33.7,34.1,Puerto Rico
+2381,"Toa Alta Municipio, Puerto Rico",2020,38.1,35.8,Puerto Rico
+2382,"Toa Baja Municipio, Puerto Rico",2020,36.8,34.7,Puerto Rico
+2383,"Trujillo Alto Municipio, Puerto Rico",2020,38,36.2,Puerto Rico
+2384,"Utuado Municipio, Puerto Rico",2020,35.3,33.1,Puerto Rico
+2385,"Vega Alta Municipio, Puerto Rico",2020,37.7,33.7,Puerto Rico
+2386,"Vega Baja Municipio, Puerto Rico",2020,37.6,35,Puerto Rico
+2387,"Vieques Municipio, Puerto Rico",2020,35.9,31.4,Puerto Rico
+2388,"Villalba Municipio, Puerto Rico",2020,33.9,33.6,Puerto Rico
+2389,"Yabucoa Municipio, Puerto Rico",2020,36.2,34.5,Puerto Rico
+2390,"Yauco Municipio, Puerto Rico",2020,34.5,34.6,Rhode Island
+2391,"Bristol County, Rhode Island",2020,40.2,34.5,Rhode Island
+2392,"Kent County, Rhode Island",2020,41.3,36.3,Rhode Island
+2393,"Newport County, Rhode Island",2020,41.6,36.2,Rhode Island
+2394,"Providence County, Rhode Island",2020,39.8,35.5,Rhode Island
+2395,"Washington County, Rhode Island",2020,39.6,33.9,South Carolina
+2396,"Abbeville County, South Carolina",2020,39.9,37,South Carolina
+2397,"Aiken County, South Carolina",2020,42.1,36.7,South Carolina
+2398,"Allendale County, South Carolina",2020,41,36.2,South Carolina
+2399,"Anderson County, South Carolina",2020,41.6,35.9,South Carolina
+2400,"Bamberg County, South Carolina",2020,35.9,37.6,South Carolina
+2401,"Barnwell County, South Carolina",2020,41,36.4,South Carolina
+2402,"Beaufort County, South Carolina",2020,42.1,36.8,South Carolina
+2403,"Berkeley County, South Carolina",2020,43.6,37,South Carolina
+2404,"Calhoun County, South Carolina",2020,42.2,35.5,South Carolina
+2405,"Charleston County, South Carolina",2020,42.8,37.8,South Carolina
+2406,"Cherokee County, South Carolina",2020,40.5,36.8,South Carolina
+2407,"Chester County, South Carolina",2020,41.3,36.6,South Carolina
+2408,"Chesterfield County, South Carolina",2020,40.8,38.3,South Carolina
+2409,"Clarendon County, South Carolina",2020,41,36.1,South Carolina
+2410,"Colleton County, South Carolina",2020,39.5,35.5,South Carolina
+2411,"Darlington County, South Carolina",2020,41,36.2,South Carolina
+2412,"Dillon County, South Carolina",2020,39.9,36,South Carolina
+2413,"Dorchester County, South Carolina",2020,41.1,36.7,South Carolina
+2414,"Edgefield County, South Carolina",2020,40.6,36.9,South Carolina
+2415,"Fairfield County, South Carolina",2020,40.1,35.5,South Carolina
+2416,"Florence County, South Carolina",2020,41.1,36.9,South Carolina
+2417,"Georgetown County, South Carolina",2020,41.1,35.7,South Carolina
+2418,"Greenville County, South Carolina",2020,41.5,36.2,South Carolina
+2419,"Greenwood County, South Carolina",2020,40.1,35.5,South Carolina
+2420,"Hampton County, South Carolina",2020,41.6,37.3,South Carolina
+2421,"Horry County, South Carolina",2020,40,35.8,South Carolina
+2422,"Jasper County, South Carolina",2020,41.9,38.3,South Carolina
+2423,"Kershaw County, South Carolina",2020,41.9,36.7,South Carolina
+2424,"Lancaster County, South Carolina",2020,42.1,37.4,South Carolina
+2425,"Laurens County, South Carolina",2020,40.4,36.3,South Carolina
+2426,"Lee County, South Carolina",2020,40,37,South Carolina
+2427,"Lexington County, South Carolina",2020,42.2,36.8,South Carolina
+2428,"Marion County, South Carolina",2020,40.4,37.1,South Carolina
+2429,"Marlboro County, South Carolina",2020,39.5,37.7,South Carolina
+2430,"McCormick County, South Carolina",2020,40.8,35.1,South Carolina
+2431,"Newberry County, South Carolina",2020,40.5,36.2,South Carolina
+2432,"Oconee County, South Carolina",2020,41,35.6,South Carolina
+2433,"Orangeburg County, South Carolina",2020,40.7,36.8,South Carolina
+2434,"Pickens County, South Carolina",2020,39.3,34,South Carolina
+2435,"Richland County, South Carolina",2020,40.3,36.5,South Carolina
+2436,"Saluda County, South Carolina",2020,39.9,37.5,South Carolina
+2437,"Spartanburg County, South Carolina",2020,41.9,36.4,South Carolina
+2438,"Sumter County, South Carolina",2020,42.2,37.1,South Carolina
+2439,"Union County, South Carolina",2020,41.5,39.1,South Carolina
+2440,"Williamsburg County, South Carolina",2020,41.2,37,South Carolina
+2441,"York County, South Carolina",2020,42.1,37,South Dakota
+2442,"Aurora County, South Dakota",2020,47.7,37.1,South Dakota
+2443,"Beadle County, South Dakota",2020,44.1,37.8,South Dakota
+2444,"Bennett County, South Dakota",2020,39.1,38.7,South Dakota
+2445,"Bon Homme County, South Dakota",2020,45,38.9,South Dakota
+2446,"Brookings County, South Dakota",2020,40.9,35.2,South Dakota
+2447,"Brown County, South Dakota",2020,42.5,37.2,South Dakota
+2448,"Brule County, South Dakota",2020,48.4,39.2,South Dakota
+2449,"Buffalo County, South Dakota",2020,40.9,38.4,South Dakota
+2450,"Butte County, South Dakota",2020,44.5,35,South Dakota
+2451,"Campbell County, South Dakota",2020,50.4,37.4,South Dakota
+2452,"Charles Mix County, South Dakota",2020,45.4,35,South Dakota
+2453,"Clark County, South Dakota",2020,50.5,36.5,South Dakota
+2454,"Clay County, South Dakota",2020,38.4,31,South Dakota
+2455,"Codington County, South Dakota",2020,41.9,35.3,South Dakota
+2456,"Corson County, South Dakota",2020,45,37.9,South Dakota
+2457,"Custer County, South Dakota",2020,44.6,35.1,South Dakota
+2458,"Davison County, South Dakota",2020,41.9,36,South Dakota
+2459,"Day County, South Dakota",2020,43.8,34.5,South Dakota
+2460,"Deuel County, South Dakota",2020,45.3,38.3,South Dakota
+2461,"Dewey County, South Dakota",2020,40.6,38.5,South Dakota
+2462,"Douglas County, South Dakota",2020,47.4,35.1,South Dakota
+2463,"Edmunds County, South Dakota",2020,47,36.4,South Dakota
+2464,"Fall River County, South Dakota",2020,42.3,31.3,South Dakota
+2465,"Faulk County, South Dakota",2020,53.7,36.8,South Dakota
+2466,"Grant County, South Dakota",2020,43.2,35.9,South Dakota
+2467,"Gregory County, South Dakota",2020,45.9,35.8,South Dakota
+2468,"Haakon County, South Dakota",2020,48.8,37.6,South Dakota
+2469,"Hamlin County, South Dakota",2020,46,35,South Dakota
+2470,"Hand County, South Dakota",2020,50.2,39,South Dakota
+2471,"Hanson County, South Dakota",2020,44.5,37.9,South Dakota
+2472,"Harding County, South Dakota",2020,45.5,42,South Dakota
+2473,"Hughes County, South Dakota",2020,42.4,37.9,South Dakota
+2474,"Hutchinson County, South Dakota",2020,47.1,36.1,South Dakota
+2475,"Hyde County, South Dakota",2020,47.9,39.3,South Dakota
+2476,"Jackson County, South Dakota",2020,42.9,38.8,South Dakota
+2477,"Jerauld County, South Dakota",2020,46.2,36.9,South Dakota
+2478,"Jones County, South Dakota",2020,47.9,40.3,South Dakota
+2479,"Kingsbury County, South Dakota",2020,46,36.6,South Dakota
+2480,"Lake County, South Dakota",2020,40.7,37.1,South Dakota
+2481,"Lawrence County, South Dakota",2020,41.3,35.2,South Dakota
+2482,"Lincoln County, South Dakota",2020,43.2,37.3,South Dakota
+2483,"Lyman County, South Dakota",2020,46.2,33.9,South Dakota
+2484,"Marshall County, South Dakota",2020,46,37.7,South Dakota
+2485,"McCook County, South Dakota",2020,46.8,35.7,South Dakota
+2486,"McPherson County, South Dakota",2020,44.9,35.9,South Dakota
+2487,"Meade County, South Dakota",2020,43.2,35.9,South Dakota
+2488,"Mellette County, South Dakota",2020,42.4,33.7,South Dakota
+2489,"Miner County, South Dakota",2020,47.2,39.1,South Dakota
+2490,"Minnehaha County, South Dakota",2020,41.7,36.9,South Dakota
+2491,"Moody County, South Dakota",2020,43.1,38.2,South Dakota
+2492,"Oglala Lakota County, South Dakota",2020,38.5,35.6,South Dakota
+2493,"Pennington County, South Dakota",2020,40.7,36.4,South Dakota
+2494,"Perkins County, South Dakota",2020,48,35.6,South Dakota
+2495,"Potter County, South Dakota",2020,48.9,35.8,South Dakota
+2496,"Roberts County, South Dakota",2020,43.6,37.2,South Dakota
+2497,"Sanborn County, South Dakota",2020,45.6,37.1,South Dakota
+2498,"Spink County, South Dakota",2020,47.7,39.2,South Dakota
+2499,"Stanley County, South Dakota",2020,42.3,37.7,South Dakota
+2500,"Sully County, South Dakota",2020,46.1,38.6,South Dakota
+2501,"Todd County, South Dakota",2020,40.7,37.2,South Dakota
+2502,"Tripp County, South Dakota",2020,47,36.7,South Dakota
+2503,"Turner County, South Dakota",2020,43.8,35.8,South Dakota
+2504,"Union County, South Dakota",2020,43.9,37.8,South Dakota
+2505,"Walworth County, South Dakota",2020,42.7,37.9,South Dakota
+2506,"Yankton County, South Dakota",2020,42.8,36.5,South Dakota
+2507,"Ziebach County, South Dakota",2020,40.6,38.1,Tennessee
+2508,"Anderson County, Tennessee",2020,41.6,36.7,Tennessee
+2509,"Bedford County, Tennessee",2020,42.4,37.9,Tennessee
+2510,"Benton County, Tennessee",2020,42.9,35.2,Tennessee
+2511,"Bledsoe County, Tennessee",2020,41.5,34.5,Tennessee
+2512,"Blount County, Tennessee",2020,41.4,36.8,Tennessee
+2513,"Bradley County, Tennessee",2020,41,36.1,Tennessee
+2514,"Campbell County, Tennessee",2020,42.6,36.9,Tennessee
+2515,"Cannon County, Tennessee",2020,40.6,37.3,Tennessee
+2516,"Carroll County, Tennessee",2020,41.5,36.1,Tennessee
+2517,"Carter County, Tennessee",2020,41,36.7,Tennessee
+2518,"Cheatham County, Tennessee",2020,42.4,37.1,Tennessee
+2519,"Chester County, Tennessee",2020,43.3,36.4,Tennessee
+2520,"Claiborne County, Tennessee",2020,42.8,37.9,Tennessee
+2521,"Clay County, Tennessee",2020,40,33.7,Tennessee
+2522,"Cocke County, Tennessee",2020,40,37.5,Tennessee
+2523,"Coffee County, Tennessee",2020,42.2,36.6,Tennessee
+2524,"Crockett County, Tennessee",2020,42.4,37.8,Tennessee
+2525,"Cumberland County, Tennessee",2020,42.6,36.6,Tennessee
+2526,"Davidson County, Tennessee",2020,41.1,37.4,Tennessee
+2527,"Decatur County, Tennessee",2020,43.1,38.1,Tennessee
+2528,"DeKalb County, Tennessee",2020,41.1,38.7,Tennessee
+2529,"Dickson County, Tennessee",2020,41.7,38.6,Tennessee
+2530,"Dyer County, Tennessee",2020,41.3,37.6,Tennessee
+2531,"Fayette County, Tennessee",2020,43.6,37.5,Tennessee
+2532,"Fentress County, Tennessee",2020,40.7,36.7,Tennessee
+2533,"Franklin County, Tennessee",2020,41,36.5,Tennessee
+2534,"Gibson County, Tennessee",2020,42.3,36.6,Tennessee
+2535,"Giles County, Tennessee",2020,42.3,36.5,Tennessee
+2536,"Grainger County, Tennessee",2020,41.2,35.3,Tennessee
+2537,"Greene County, Tennessee",2020,41.1,37.5,Tennessee
+2538,"Grundy County, Tennessee",2020,42.2,36.7,Tennessee
+2539,"Hamblen County, Tennessee",2020,40.7,36.7,Tennessee
+2540,"Hamilton County, Tennessee",2020,41.6,36.8,Tennessee
+2541,"Hancock County, Tennessee",2020,41.8,34.7,Tennessee
+2542,"Hardeman County, Tennessee",2020,40.1,37.4,Tennessee
+2543,"Hardin County, Tennessee",2020,42,36.2,Tennessee
+2544,"Hawkins County, Tennessee",2020,41.4,36.7,Tennessee
+2545,"Haywood County, Tennessee",2020,42.1,37.3,Tennessee
+2546,"Henderson County, Tennessee",2020,43.4,36.7,Tennessee
+2547,"Henry County, Tennessee",2020,41.6,36,Tennessee
+2548,"Hickman County, Tennessee",2020,41.4,38,Tennessee
+2549,"Houston County, Tennessee",2020,39,37.5,Tennessee
+2550,"Humphreys County, Tennessee",2020,41.9,35.6,Tennessee
+2551,"Jackson County, Tennessee",2020,40.6,34.2,Tennessee
+2552,"Jefferson County, Tennessee",2020,42,37.4,Tennessee
+2553,"Johnson County, Tennessee",2020,39.1,37.5,Tennessee
+2554,"Knox County, Tennessee",2020,40.7,36.2,Tennessee
+2555,"Lake County, Tennessee",2020,43.9,39.3,Tennessee
+2556,"Lauderdale County, Tennessee",2020,42.2,39,Tennessee
+2557,"Lawrence County, Tennessee",2020,42.3,36,Tennessee
+2558,"Lewis County, Tennessee",2020,41.9,35.9,Tennessee
+2559,"Lincoln County, Tennessee",2020,41.8,36.9,Tennessee
+2560,"Loudon County, Tennessee",2020,42,35.9,Tennessee
+2561,"Macon County, Tennessee",2020,42.3,36.6,Tennessee
+2562,"Madison County, Tennessee",2020,41.1,36.7,Tennessee
+2563,"Marion County, Tennessee",2020,42.8,36.8,Tennessee
+2564,"Marshall County, Tennessee",2020,42.3,37.5,Tennessee
+2565,"Maury County, Tennessee",2020,41.8,37,Tennessee
+2566,"McMinn County, Tennessee",2020,42.2,36.1,Tennessee
+2567,"McNairy County, Tennessee",2020,42.7,37.9,Tennessee
+2568,"Meigs County, Tennessee",2020,42.9,35.2,Tennessee
+2569,"Monroe County, Tennessee",2020,42.5,38,Tennessee
+2570,"Montgomery County, Tennessee",2020,44.2,37.1,Tennessee
+2571,"Moore County, Tennessee",2020,43,37.3,Tennessee
+2572,"Morgan County, Tennessee",2020,40.8,35.6,Tennessee
+2573,"Obion County, Tennessee",2020,41.5,36.9,Tennessee
+2574,"Overton County, Tennessee",2020,39.9,37.8,Tennessee
+2575,"Perry County, Tennessee",2020,43.2,34.8,Tennessee
+2576,"Pickett County, Tennessee",2020,41.4,36.5,Tennessee
+2577,"Polk County, Tennessee",2020,42.8,36.4,Tennessee
+2578,"Putnam County, Tennessee",2020,40.5,36.2,Tennessee
+2579,"Rhea County, Tennessee",2020,40.8,35.3,Tennessee
+2580,"Roane County, Tennessee",2020,41.5,35.7,Tennessee
+2581,"Robertson County, Tennessee",2020,42.5,37.7,Tennessee
+2582,"Rutherford County, Tennessee",2020,41.5,37.2,Tennessee
+2583,"Scott County, Tennessee",2020,43.2,36.4,Tennessee
+2584,"Sequatchie County, Tennessee",2020,41.9,35.7,Tennessee
+2585,"Sevier County, Tennessee",2020,41.2,36.3,Tennessee
+2586,"Shelby County, Tennessee",2020,40.7,37,Tennessee
+2587,"Smith County, Tennessee",2020,42.3,37.3,Tennessee
+2588,"Stewart County, Tennessee",2020,41.1,38.1,Tennessee
+2589,"Sullivan County, Tennessee",2020,41.4,36.1,Tennessee
+2590,"Sumner County, Tennessee",2020,42.2,36.4,Tennessee
+2591,"Tipton County, Tennessee",2020,43,37.3,Tennessee
+2592,"Trousdale County, Tennessee",2020,39.6,37.9,Tennessee
+2593,"Unicoi County, Tennessee",2020,40.9,37.4,Tennessee
+2594,"Union County, Tennessee",2020,41.4,37.4,Tennessee
+2595,"Van Buren County, Tennessee",2020,43.1,37.9,Tennessee
+2596,"Warren County, Tennessee",2020,42,37.2,Tennessee
+2597,"Washington County, Tennessee",2020,40.1,35.6,Tennessee
+2598,"Wayne County, Tennessee",2020,42.5,36,Tennessee
+2599,"Weakley County, Tennessee",2020,40.8,35.8,Tennessee
+2600,"White County, Tennessee",2020,42.9,38.1,Tennessee
+2601,"Williamson County, Tennessee",2020,42.4,34.9,Tennessee
+2602,"Wilson County, Tennessee",2020,42.9,37.3,Texas
+2603,"Anderson County, Texas",2020,43.7,37.5,Texas
+2604,"Andrews County, Texas",2020,45.8,38.5,Texas
+2605,"Angelina County, Texas",2020,43.9,37.7,Texas
+2606,"Aransas County, Texas",2020,40.1,33.8,Texas
+2607,"Archer County, Texas",2020,42.8,37,Texas
+2608,"Armstrong County, Texas",2020,45.9,37.2,Texas
+2609,"Atascosa County, Texas",2020,42.1,36.3,Texas
+2610,"Austin County, Texas",2020,44.6,36.7,Texas
+2611,"Bailey County, Texas",2020,41.3,36.1,Texas
+2612,"Bandera County, Texas",2020,39.7,34.4,Texas
+2613,"Bastrop County, Texas",2020,42.3,37.9,Texas
+2614,"Baylor County, Texas",2020,47.2,34.2,Texas
+2615,"Bee County, Texas",2020,41.4,37.5,Texas
+2616,"Bell County, Texas",2020,43.5,37.2,Texas
+2617,"Bexar County, Texas",2020,40.9,37.3,Texas
+2618,"Blanco County, Texas",2020,43.1,37.8,Texas
+2619,"Borden County, Texas",2020,44.2,30.4,Texas
+2620,"Bosque County, Texas",2020,43.3,36.6,Texas
+2621,"Bowie County, Texas",2020,42.3,37.4,Texas
+2622,"Brazoria County, Texas",2020,43.2,38.2,Texas
+2623,"Brazos County, Texas",2020,39.3,33.9,Texas
+2624,"Brewster County, Texas",2020,44.9,38,Texas
+2625,"Briscoe County, Texas",2020,42.6,37.1,Texas
+2626,"Brooks County, Texas",2020,38.1,35.9,Texas
+2627,"Brown County, Texas",2020,43.3,36,Texas
+2628,"Burleson County, Texas",2020,45.3,37.4,Texas
+2629,"Burnet County, Texas",2020,41.3,36,Texas
+2630,"Caldwell County, Texas",2020,43,36.8,Texas
+2631,"Calhoun County, Texas",2020,44.3,38.8,Texas
+2632,"Callahan County, Texas",2020,43.8,37.3,Texas
+2633,"Cameron County, Texas",2020,40.6,35.8,Texas
+2634,"Camp County, Texas",2020,43.2,37.9,Texas
+2635,"Carson County, Texas",2020,45,39.1,Texas
+2636,"Cass County, Texas",2020,42.6,37.6,Texas
+2637,"Castro County, Texas",2020,46.2,38,Texas
+2638,"Chambers County, Texas",2020,43.1,37.3,Texas
+2639,"Cherokee County, Texas",2020,43.9,37.6,Texas
+2640,"Childress County, Texas",2020,46.7,38,Texas
+2641,"Clay County, Texas",2020,45.3,37.7,Texas
+2642,"Cochran County, Texas",2020,48.1,41.6,Texas
+2643,"Coke County, Texas",2020,45.5,36.9,Texas
+2644,"Coleman County, Texas",2020,43.5,35.8,Texas
+2645,"Collin County, Texas",2020,42.3,37.5,Texas
+2646,"Collingsworth County, Texas",2020,38.2,30.9,Texas
+2647,"Colorado County, Texas",2020,42.9,39.2,Texas
+2648,"Comal County, Texas",2020,42.1,37.2,Texas
+2649,"Comanche County, Texas",2020,44,38.9,Texas
+2650,"Concho County, Texas",2020,43.1,39.7,Texas
+2651,"Cooke County, Texas",2020,43.4,37,Texas
+2652,"Coryell County, Texas",2020,45.8,38.6,Texas
+2653,"Cottle County, Texas",2020,46.2,38.6,Texas
+2654,"Crane County, Texas",2020,48.1,30.1,Texas
+2655,"Crockett County, Texas",2020,51.1,40.5,Texas
+2656,"Crosby County, Texas",2020,41.2,33.6,Texas
+2657,"Culberson County, Texas",2020,46.2,40.4,Texas
+2658,"Dallam County, Texas",2020,48,35.2,Texas
+2659,"Dallas County, Texas",2020,42.1,38.1,Texas
+2660,"Dawson County, Texas",2020,44.7,37.1,Texas
+2661,"Deaf Smith County, Texas",2020,46.1,38.5,Texas
+2662,"Delta County, Texas",2020,43.6,38.1,Texas
+2663,"Denton County, Texas",2020,42.1,37.5,Texas
+2664,"DeWitt County, Texas",2020,45.8,37.9,Texas
+2665,"Dickens County, Texas",2020,40.3,37.4,Texas
+2666,"Dimmit County, Texas",2020,36.1,36,Texas
+2667,"Donley County, Texas",2020,44.5,36.9,Texas
+2668,"Duval County, Texas",2020,43.9,35.4,Texas
+2669,"Eastland County, Texas",2020,42.8,35.4,Texas
+2670,"Ector County, Texas",2020,46.9,37.4,Texas
+2671,"Edwards County, Texas",2020,40.5,39.4,Texas
+2672,"El Paso County, Texas",2020,41.4,36.1,Texas
+2673,"Ellis County, Texas",2020,43,37.5,Texas
+2674,"Erath County, Texas",2020,40.7,33.6,Texas
+2675,"Falls County, Texas",2020,43.1,37,Texas
+2676,"Fannin County, Texas",2020,43.8,37.9,Texas
+2677,"Fayette County, Texas",2020,43.2,36,Texas
+2678,"Fisher County, Texas",2020,46.9,36.7,Texas
+2679,"Floyd County, Texas",2020,46.1,36.3,Texas
+2680,"Foard County, Texas",2020,43.4,40.8,Texas
+2681,"Fort Bend County, Texas",2020,41.7,36.6,Texas
+2682,"Franklin County, Texas",2020,44.1,39.6,Texas
+2683,"Freestone County, Texas",2020,46.4,39.8,Texas
+2684,"Frio County, Texas",2020,43.1,36.9,Texas
+2685,"Gaines County, Texas",2020,47.9,38.1,Texas
+2686,"Galveston County, Texas",2020,42.9,37.2,Texas
+2687,"Garza County, Texas",2020,44.2,36.6,Texas
+2688,"Gillespie County, Texas",2020,42,35.6,Texas
+2689,"Glasscock County, Texas",2020,51,34.8,Texas
+2690,"Goliad County, Texas",2020,43.2,35.9,Texas
+2691,"Gonzales County, Texas",2020,46.9,38.7,Texas
+2692,"Gray County, Texas",2020,44.7,37.1,Texas
+2693,"Grayson County, Texas",2020,42.5,37.3,Texas
+2694,"Gregg County, Texas",2020,43.2,36.5,Texas
+2695,"Grimes County, Texas",2020,43.9,36.9,Texas
+2696,"Guadalupe County, Texas",2020,42.8,37.4,Texas
+2697,"Hale County, Texas",2020,43.3,36.7,Texas
+2698,"Hall County, Texas",2020,44.9,34.6,Texas
+2699,"Hamilton County, Texas",2020,44.6,36,Texas
+2700,"Hansford County, Texas",2020,45.5,37.6,Texas
+2701,"Hardeman County, Texas",2020,41.9,38.4,Texas
+2702,"Hardin County, Texas",2020,43.1,36.9,Texas
+2703,"Harris County, Texas",2020,42.4,37.4,Texas
+2704,"Harrison County, Texas",2020,44.5,35.7,Texas
+2705,"Hartley County, Texas",2020,51.6,40,Texas
+2706,"Haskell County, Texas",2020,46.5,37.1,Texas
+2707,"Hays County, Texas",2020,41.1,35.6,Texas
+2708,"Hemphill County, Texas",2020,44.9,36.2,Texas
+2709,"Henderson County, Texas",2020,43.3,37.3,Texas
+2710,"Hidalgo County, Texas",2020,41.9,35.7,Texas
+2711,"Hill County, Texas",2020,43.1,36.5,Texas
+2712,"Hockley County, Texas",2020,44.4,36.4,Texas
+2713,"Hood County, Texas",2020,45.7,37.8,Texas
+2714,"Hopkins County, Texas",2020,44.3,37.7,Texas
+2715,"Houston County, Texas",2020,44.4,37.6,Texas
+2716,"Howard County, Texas",2020,44.4,36.6,Texas
+2717,"Hudspeth County, Texas",2020,44.9,38.6,Texas
+2718,"Hunt County, Texas",2020,41.8,36,Texas
+2719,"Hutchinson County, Texas",2020,41.7,35.8,Texas
+2720,"Irion County, Texas",2020,49,39,Texas
+2721,"Jack County, Texas",2020,48.2,35.3,Texas
+2722,"Jackson County, Texas",2020,43,37,Texas
+2723,"Jasper County, Texas",2020,43.7,35.9,Texas
+2724,"Jeff Davis County, Texas",2020,37.2,40.2,Texas
+2725,"Jefferson County, Texas",2020,41.2,36.5,Texas
+2726,"Jim Hogg County, Texas",2020,42,30.9,Texas
+2727,"Jim Wells County, Texas",2020,44.6,36.4,Texas
+2728,"Johnson County, Texas",2020,43.5,37.3,Texas
+2729,"Jones County, Texas",2020,44.4,36.3,Texas
+2730,"Karnes County, Texas",2020,42.2,38.5,Texas
+2731,"Kaufman County, Texas",2020,42.7,37.6,Texas
+2732,"Kendall County, Texas",2020,43.2,34.4,Texas
+2733,"Kenedy County, Texas",2020,NA,36.1,Texas
+2734,"Kent County, Texas",2020,46.7,43.2,Texas
+2735,"Kerr County, Texas",2020,42.3,38.1,Texas
+2736,"Kimble County, Texas",2020,44.1,36,Texas
+2737,"King County, Texas",2020,46.6,50.7,Texas
+2738,"Kinney County, Texas",2020,44.8,36.8,Texas
+2739,"Kleberg County, Texas",2020,41.4,33.5,Texas
+2740,"Knox County, Texas",2020,45.5,39.5,Texas
+2741,"La Salle County, Texas",2020,39.3,37.1,Texas
+2742,"Lamar County, Texas",2020,43.5,37.4,Texas
+2743,"Lamb County, Texas",2020,45.9,36.7,Texas
+2744,"Lampasas County, Texas",2020,41.1,36.9,Texas
+2745,"Lavaca County, Texas",2020,44,37.8,Texas
+2746,"Lee County, Texas",2020,44.3,35.9,Texas
+2747,"Leon County, Texas",2020,43.1,36.9,Texas
+2748,"Liberty County, Texas",2020,44.4,38,Texas
+2749,"Limestone County, Texas",2020,43.7,37.4,Texas
+2750,"Lipscomb County, Texas",2020,44.9,38.4,Texas
+2751,"Live Oak County, Texas",2020,43.9,36.7,Texas
+2752,"Llano County, Texas",2020,42.4,36.3,Texas
+2753,"Loving County, Texas",2020,NA,NA,Texas
+2754,"Lubbock County, Texas",2020,41.5,35.4,Texas
+2755,"Lynn County, Texas",2020,45.9,36.6,Texas
+2756,"Madison County, Texas",2020,46.9,39.1,Texas
+2757,"Marion County, Texas",2020,42.6,36.1,Texas
+2758,"Martin County, Texas",2020,46.7,34.9,Texas
+2759,"Mason County, Texas",2020,45,38.9,Texas
+2760,"Matagorda County, Texas",2020,42,37.7,Texas
+2761,"Maverick County, Texas",2020,43.5,34.6,Texas
+2762,"McCulloch County, Texas",2020,48.3,38.3,Texas
+2763,"McLennan County, Texas",2020,40.4,36.2,Texas
+2764,"McMullen County, Texas",2020,48.2,40.5,Texas
+2765,"Medina County, Texas",2020,43,38,Texas
+2766,"Menard County, Texas",2020,48.1,38.6,Texas
+2767,"Midland County, Texas",2020,46.4,38.2,Texas
+2768,"Milam County, Texas",2020,43.4,36.4,Texas
+2769,"Mills County, Texas",2020,40.1,37.7,Texas
+2770,"Mitchell County, Texas",2020,44,36.9,Texas
+2771,"Montague County, Texas",2020,47.2,34.9,Texas
+2772,"Montgomery County, Texas",2020,43.6,37.2,Texas
+2773,"Moore County, Texas",2020,46.7,39.1,Texas
+2774,"Morris County, Texas",2020,41.6,37.7,Texas
+2775,"Motley County, Texas",2020,47.7,35.5,Texas
+2776,"Nacogdoches County, Texas",2020,41.1,34.4,Texas
+2777,"Navarro County, Texas",2020,43.3,35.9,Texas
+2778,"Newton County, Texas",2020,43.4,34.9,Texas
+2779,"Nolan County, Texas",2020,44.2,37.2,Texas
+2780,"Nueces County, Texas",2020,42.6,37.3,Texas
+2781,"Ochiltree County, Texas",2020,46,35.5,Texas
+2782,"Oldham County, Texas",2020,49.7,40.4,Texas
+2783,"Orange County, Texas",2020,41.5,37,Texas
+2784,"Palo Pinto County, Texas",2020,44.9,37.3,Texas
+2785,"Panola County, Texas",2020,44.5,36.9,Texas
+2786,"Parker County, Texas",2020,42.9,36.7,Texas
+2787,"Parmer County, Texas",2020,46.7,38.7,Texas
+2788,"Pecos County, Texas",2020,45.8,37.2,Texas
+2789,"Polk County, Texas",2020,45.8,35.7,Texas
+2790,"Potter County, Texas",2020,42,37.8,Texas
+2791,"Presidio County, Texas",2020,40.5,34.4,Texas
+2792,"Rains County, Texas",2020,42.4,37.8,Texas
+2793,"Randall County, Texas",2020,42.3,36.5,Texas
+2794,"Reagan County, Texas",2020,49.8,39.8,Texas
+2795,"Real County, Texas",2020,42.6,38.8,Texas
+2796,"Red River County, Texas",2020,44.7,34.6,Texas
+2797,"Reeves County, Texas",2020,46.2,39.5,Texas
+2798,"Refugio County, Texas",2020,40.6,39.7,Texas
+2799,"Roberts County, Texas",2020,45.4,35.9,Texas
+2800,"Robertson County, Texas",2020,42.4,34.4,Texas
+2801,"Rockwall County, Texas",2020,43.3,38,Texas
+2802,"Runnels County, Texas",2020,45,37.5,Texas
+2803,"Rusk County, Texas",2020,45.1,36.3,Texas
+2804,"Sabine County, Texas",2020,46.1,35.9,Texas
+2805,"San Augustine County, Texas",2020,48.1,34.2,Texas
+2806,"San Jacinto County, Texas",2020,42.8,38.6,Texas
+2807,"San Patricio County, Texas",2020,43.3,36.8,Texas
+2808,"San Saba County, Texas",2020,41.3,32.5,Texas
+2809,"Schleicher County, Texas",2020,51.2,35.2,Texas
+2810,"Scurry County, Texas",2020,44.3,35.7,Texas
+2811,"Shackelford County, Texas",2020,45,35.9,Texas
+2812,"Shelby County, Texas",2020,45.5,35.1,Texas
+2813,"Sherman County, Texas",2020,49.4,39.7,Texas
+2814,"Smith County, Texas",2020,42.1,37.3,Texas
+2815,"Somervell County, Texas",2020,45.8,36.5,Texas
+2816,"Starr County, Texas",2020,41.4,34.3,Texas
+2817,"Stephens County, Texas",2020,43.5,36.3,Texas
+2818,"Sterling County, Texas",2020,50.3,40.7,Texas
+2819,"Stonewall County, Texas",2020,46.3,33.1,Texas
+2820,"Sutton County, Texas",2020,47.1,35.8,Texas
+2821,"Swisher County, Texas",2020,46,36.1,Texas
+2822,"Tarrant County, Texas",2020,42.3,37.5,Texas
+2823,"Taylor County, Texas",2020,42.5,35.9,Texas
+2824,"Terrell County, Texas",2020,39,36.5,Texas
+2825,"Terry County, Texas",2020,49.9,36.7,Texas
+2826,"Throckmorton County, Texas",2020,46.3,34.8,Texas
+2827,"Titus County, Texas",2020,41.5,37.5,Texas
+2828,"Tom Green County, Texas",2020,43.7,37.2,Texas
+2829,"Travis County, Texas",2020,41.7,37.5,Texas
+2830,"Trinity County, Texas",2020,45.2,39,Texas
+2831,"Tyler County, Texas",2020,45.2,35.8,Texas
+2832,"Upshur County, Texas",2020,45.4,36.8,Texas
+2833,"Upton County, Texas",2020,48,37.7,Texas
+2834,"Uvalde County, Texas",2020,38.9,34,Texas
+2835,"Val Verde County, Texas",2020,43.1,35.4,Texas
+2836,"Van Zandt County, Texas",2020,44.6,36.8,Texas
+2837,"Victoria County, Texas",2020,42.4,37.3,Texas
+2838,"Walker County, Texas",2020,38.6,35.4,Texas
+2839,"Waller County, Texas",2020,41.2,35.4,Texas
+2840,"Ward County, Texas",2020,46.2,38.8,Texas
+2841,"Washington County, Texas",2020,40.7,37.8,Texas
+2842,"Webb County, Texas",2020,41.2,35.7,Texas
+2843,"Wharton County, Texas",2020,44.7,37.6,Texas
+2844,"Wheeler County, Texas",2020,48.4,35.3,Texas
+2845,"Wichita County, Texas",2020,41.7,35.9,Texas
+2846,"Wilbarger County, Texas",2020,41.1,37.2,Texas
+2847,"Willacy County, Texas",2020,41.2,37.3,Texas
+2848,"Williamson County, Texas",2020,42.1,37.1,Texas
+2849,"Wilson County, Texas",2020,44.6,37.8,Texas
+2850,"Winkler County, Texas",2020,46.6,36.8,Texas
+2851,"Wise County, Texas",2020,43.3,36.7,Texas
+2852,"Wood County, Texas",2020,43.6,37.1,Texas
+2853,"Yoakum County, Texas",2020,48.2,37.8,Texas
+2854,"Young County, Texas",2020,45.8,35,Texas
+2855,"Zapata County, Texas",2020,40,33,Texas
+2856,"Zavala County, Texas",2020,40.7,34.6,Utah
+2857,"Beaver County, Utah",2020,44.5,29.8,Utah
+2858,"Box Elder County, Utah",2020,41.9,31.3,Utah
+2859,"Cache County, Utah",2020,38.6,30.9,Utah
+2860,"Carbon County, Utah",2020,40.6,31.7,Utah
+2861,"Daggett County, Utah",2020,42.8,30.5,Utah
+2862,"Davis County, Utah",2020,40.6,32.9,Utah
+2863,"Duchesne County, Utah",2020,45.3,32.9,Utah
+2864,"Emery County, Utah",2020,41.7,33.2,Utah
+2865,"Garfield County, Utah",2020,39.3,33.5,Utah
+2866,"Grand County, Utah",2020,41.7,34.4,Utah
+2867,"Iron County, Utah",2020,39.6,30.9,Utah
+2868,"Juab County, Utah",2020,42.5,31.1,Utah
+2869,"Kane County, Utah",2020,44.4,33.9,Utah
+2870,"Millard County, Utah",2020,41.5,31.5,Utah
+2871,"Morgan County, Utah",2020,42,30.5,Utah
+2872,"Piute County, Utah",2020,44.1,31.3,Utah
+2873,"Rich County, Utah",2020,46.2,32.9,Utah
+2874,"Salt Lake County, Utah",2020,40.9,35.1,Utah
+2875,"San Juan County, Utah",2020,42.5,35,Utah
+2876,"Sanpete County, Utah",2020,40.4,28.6,Utah
+2877,"Sevier County, Utah",2020,42,31.1,Utah
+2878,"Summit County, Utah",2020,41.5,34.9,Utah
+2879,"Tooele County, Utah",2020,41.6,34.8,Utah
+2880,"Uintah County, Utah",2020,42.4,30.9,Utah
+2881,"Utah County, Utah",2020,38.8,30.3,Utah
+2882,"Wasatch County, Utah",2020,41.6,32.5,Utah
+2883,"Washington County, Utah",2020,40.1,32.4,Utah
+2884,"Wayne County, Utah",2020,45.2,39.4,Utah
+2885,"Weber County, Utah",2020,41.1,34.7,Vermont
+2886,"Addison County, Vermont",2020,40.4,34.7,Vermont
+2887,"Bennington County, Vermont",2020,39.4,34.9,Vermont
+2888,"Caledonia County, Vermont",2020,40.9,35.1,Vermont
+2889,"Chittenden County, Vermont",2020,39.3,34.5,Vermont
+2890,"Essex County, Vermont",2020,41.9,34.5,Vermont
+2891,"Franklin County, Vermont",2020,41.6,36.6,Vermont
+2892,"Grand Isle County, Vermont",2020,41.7,37.1,Vermont
+2893,"Lamoille County, Vermont",2020,40.5,35.9,Vermont
+2894,"Orange County, Vermont",2020,41.5,36.5,Vermont
+2895,"Orleans County, Vermont",2020,43.3,35,Vermont
+2896,"Rutland County, Vermont",2020,40.6,36.1,Vermont
+2897,"Washington County, Vermont",2020,40.5,35.9,Vermont
+2898,"Windham County, Vermont",2020,38.9,35.3,Vermont
+2899,"Windsor County, Vermont",2020,40.3,36.5,Virginia
+2900,"Accomack County, Virginia",2020,43.5,37.6,Virginia
+2901,"Albemarle County, Virginia",2020,39.7,34.9,Virginia
+2902,"Alexandria city, Virginia",2020,42.7,40,Virginia
+2903,"Alleghany County, Virginia",2020,41.3,36.8,Virginia
+2904,"Amelia County, Virginia",2020,42.5,33.8,Virginia
+2905,"Amherst County, Virginia",2020,41,36.5,Virginia
+2906,"Appomattox County, Virginia",2020,41.7,36.8,Virginia
+2907,"Arlington County, Virginia",2020,43.2,40,Virginia
+2908,"Augusta County, Virginia",2020,42.7,36.3,Virginia
+2909,"Bath County, Virginia",2020,42.1,38.3,Virginia
+2910,"Bedford County, Virginia",2020,41.6,36.1,Virginia
+2911,"Bland County, Virginia",2020,39.5,39.4,Virginia
+2912,"Botetourt County, Virginia",2020,42,35.4,Virginia
+2913,"Bristol city, Virginia",2020,38.9,36,Virginia
+2914,"Brunswick County, Virginia",2020,40.8,35.7,Virginia
+2915,"Buchanan County, Virginia",2020,41,37,Virginia
+2916,"Buckingham County, Virginia",2020,41.4,37.1,Virginia
+2917,"Buena Vista city, Virginia",2020,37.5,33.9,Virginia
+2918,"Campbell County, Virginia",2020,41.1,36.4,Virginia
+2919,"Caroline County, Virginia",2020,42.9,38.4,Virginia
+2920,"Carroll County, Virginia",2020,41.8,36.4,Virginia
+2921,"Charles City County, Virginia",2020,40.9,37.2,Virginia
+2922,"Charlotte County, Virginia",2020,40.2,37.3,Virginia
+2923,"Charlottesville city, Virginia",2020,39,35.3,Virginia
+2924,"Chesapeake city, Virginia",2020,41.8,36.7,Virginia
+2925,"Chesterfield County, Virginia",2020,41.3,37,Virginia
+2926,"Clarke County, Virginia",2020,41.1,36.1,Virginia
+2927,"Colonial Heights city, Virginia",2020,40,36.6,Virginia
+2928,"Covington city, Virginia",2020,42,33.4,Virginia
+2929,"Craig County, Virginia",2020,41,34.6,Virginia
+2930,"Culpeper County, Virginia",2020,41.8,36.6,Virginia
+2931,"Cumberland County, Virginia",2020,40.5,40.5,Virginia
+2932,"Danville city, Virginia",2020,40.5,36.4,Virginia
+2933,"Dickenson County, Virginia",2020,43.6,36.6,Virginia
+2934,"Dinwiddie County, Virginia",2020,41,35.8,Virginia
+2935,"Emporia city, Virginia",2020,40.1,36.9,Virginia
+2936,"Essex County, Virginia",2020,42.2,35.4,Virginia
+2937,"Fairfax city, Virginia",2020,40.7,36.3,Virginia
+2938,"Fairfax County, Virginia",2020,41.1,37,Virginia
+2939,"Falls Church city, Virginia",2020,41,38.4,Virginia
+2940,"Fauquier County, Virginia",2020,42.1,36.5,Virginia
+2941,"Floyd County, Virginia",2020,41.4,36,Virginia
+2942,"Fluvanna County, Virginia",2020,40.7,37.4,Virginia
+2943,"Franklin city, Virginia",2020,41.7,37.4,Virginia
+2944,"Franklin County, Virginia",2020,41.1,35.1,Virginia
+2945,"Frederick County, Virginia",2020,41.9,36.5,Virginia
+2946,"Fredericksburg city, Virginia",2020,40.7,34.1,Virginia
+2947,"Galax city, Virginia",2020,41.1,34.3,Virginia
+2948,"Giles County, Virginia",2020,39.1,38.1,Virginia
+2949,"Gloucester County, Virginia",2020,42,36.8,Virginia
+2950,"Goochland County, Virginia",2020,40.4,37.7,Virginia
+2951,"Grayson County, Virginia",2020,40.7,36.7,Virginia
+2952,"Greene County, Virginia",2020,40.1,36.6,Virginia
+2953,"Greensville County, Virginia",2020,37.7,37.9,Virginia
+2954,"Halifax County, Virginia",2020,42.4,38,Virginia
+2955,"Hampton city, Virginia",2020,39.9,36.5,Virginia
+2956,"Hanover County, Virginia",2020,40.5,36.1,Virginia
+2957,"Harrisonburg city, Virginia",2020,36.7,31.9,Virginia
+2958,"Henrico County, Virginia",2020,41.2,37.3,Virginia
+2959,"Henry County, Virginia",2020,40.7,37.4,Virginia
+2960,"Highland County, Virginia",2020,36.8,34.6,Virginia
+2961,"Hopewell city, Virginia",2020,42.3,37.7,Virginia
+2962,"Isle of Wight County, Virginia",2020,42,35.8,Virginia
+2963,"James City County, Virginia",2020,41.3,36.3,Virginia
+2964,"King and Queen County, Virginia",2020,41.3,35.5,Virginia
+2965,"King George County, Virginia",2020,41.2,36,Virginia
+2966,"King William County, Virginia",2020,42,36.8,Virginia
+2967,"Lancaster County, Virginia",2020,42.4,36.6,Virginia
+2968,"Lee County, Virginia",2020,39.4,36.1,Virginia
+2969,"Lexington city, Virginia",2020,36.4,28.9,Virginia
+2970,"Loudoun County, Virginia",2020,41.7,36.9,Virginia
+2971,"Louisa County, Virginia",2020,41.2,37.6,Virginia
+2972,"Lunenburg County, Virginia",2020,41.9,35.4,Virginia
+2973,"Lynchburg city, Virginia",2020,37.1,33,Virginia
+2974,"Madison County, Virginia",2020,42.4,34.9,Virginia
+2975,"Manassas city, Virginia",2020,41,36.5,Virginia
+2976,"Manassas Park city, Virginia",2020,39.4,36.2,Virginia
+2977,"Martinsville city, Virginia",2020,41,37.9,Virginia
+2978,"Mathews County, Virginia",2020,43.6,39.4,Virginia
+2979,"Mecklenburg County, Virginia",2020,42.3,37.3,Virginia
+2980,"Middlesex County, Virginia",2020,41.6,35.5,Virginia
+2981,"Montgomery County, Virginia",2020,36.9,33.2,Virginia
+2982,"Nelson County, Virginia",2020,40.9,37.3,Virginia
+2983,"New Kent County, Virginia",2020,41.4,38,Virginia
+2984,"Newport News city, Virginia",2020,41.3,36.7,Virginia
+2985,"Norfolk city, Virginia",2020,43.1,37.3,Virginia
+2986,"Northampton County, Virginia",2020,41.3,39.1,Virginia
+2987,"Northumberland County, Virginia",2020,42.9,34.7,Virginia
+2988,"Norton city, Virginia",2020,42.2,40.1,Virginia
+2989,"Nottoway County, Virginia",2020,41.4,37.7,Virginia
+2990,"Orange County, Virginia",2020,41.1,37.7,Virginia
+2991,"Page County, Virginia",2020,41.4,37.2,Virginia
+2992,"Patrick County, Virginia",2020,42.3,36.9,Virginia
+2993,"Petersburg city, Virginia",2020,38.9,38.8,Virginia
+2994,"Pittsylvania County, Virginia",2020,41.8,36.1,Virginia
+2995,"Poquoson city, Virginia",2020,41.5,36.9,Virginia
+2996,"Portsmouth city, Virginia",2020,41.6,36.9,Virginia
+2997,"Powhatan County, Virginia",2020,41.5,37.4,Virginia
+2998,"Prince Edward County, Virginia",2020,36.9,32.9,Virginia
+2999,"Prince George County, Virginia",2020,42.1,37.4,Virginia
+3000,"Prince William County, Virginia",2020,41.3,36.5,Virginia
+3001,"Pulaski County, Virginia",2020,40.4,37.2,Virginia
+3002,"Radford city, Virginia",2020,33.9,30.7,Virginia
+3003,"Rappahannock County, Virginia",2020,40.6,35.3,Virginia
+3004,"Richmond city, Virginia",2020,39.6,36.2,Virginia
+3005,"Richmond County, Virginia",2020,39.7,38.9,Virginia
+3006,"Roanoke city, Virginia",2020,40,37.2,Virginia
+3007,"Roanoke County, Virginia",2020,41.5,36.9,Virginia
+3008,"Rockbridge County, Virginia",2020,40.4,36.1,Virginia
+3009,"Rockingham County, Virginia",2020,41.9,35.2,Virginia
+3010,"Russell County, Virginia",2020,40.6,35.2,Virginia
+3011,"Salem city, Virginia",2020,40.9,35.5,Virginia
+3012,"Scott County, Virginia",2020,39.5,36.1,Virginia
+3013,"Shenandoah County, Virginia",2020,42,36.5,Virginia
+3014,"Smyth County, Virginia",2020,40.3,36.7,Virginia
+3015,"Southampton County, Virginia",2020,40.5,37.3,Virginia
+3016,"Spotsylvania County, Virginia",2020,41.4,36.3,Virginia
+3017,"Stafford County, Virginia",2020,41.5,36.5,Virginia
+3018,"Staunton city, Virginia",2020,40.6,36.2,Virginia
+3019,"Suffolk city, Virginia",2020,42.1,37.1,Virginia
+3020,"Surry County, Virginia",2020,43.2,36.8,Virginia
+3021,"Sussex County, Virginia",2020,40.5,37.9,Virginia
+3022,"Tazewell County, Virginia",2020,40.3,35.4,Virginia
+3023,"Virginia Beach city, Virginia",2020,42.6,37.1,Virginia
+3024,"Warren County, Virginia",2020,40.7,36.3,Virginia
+3025,"Washington County, Virginia",2020,40.9,36.6,Virginia
+3026,"Waynesboro city, Virginia",2020,41.7,37.5,Virginia
+3027,"Westmoreland County, Virginia",2020,42.5,37.4,Virginia
+3028,"Williamsburg city, Virginia",2020,34.1,29.6,Virginia
+3029,"Winchester city, Virginia",2020,40.2,36,Virginia
+3030,"Wise County, Virginia",2020,41.6,35.7,Virginia
+3031,"Wythe County, Virginia",2020,40.9,35.5,Virginia
+3032,"York County, Virginia",2020,41.9,36.2,Virginia
+3033,"Adams County, Washington",2020,44.5,37.5,Washington
+3034,"Asotin County, Washington",2020,41.5,35.8,Washington
+3035,"Benton County, Washington",2020,40.7,35.9,Washington
+3036,"Chelan County, Washington",2020,40.1,35.6,Washington
+3037,"Clallam County, Washington",2020,39.6,33.8,Washington
+3038,"Clark County, Washington",2020,41.2,35.1,Washington
+3039,"Columbia County, Washington",2020,41.9,35.5,Washington
+3040,"Cowlitz County, Washington",2020,40.7,35.3,Washington
+3041,"Douglas County, Washington",2020,41.8,35,Washington
+3042,"Ferry County, Washington",2020,39.7,36.8,Washington
+3043,"Franklin County, Washington",2020,41.2,37.1,Washington
+3044,"Garfield County, Washington",2020,40.4,36.2,Washington
+3045,"Grant County, Washington",2020,42.5,37.2,Washington
+3046,"Grays Harbor County, Washington",2020,40.1,35.1,Washington
+3047,"Island County, Washington",2020,41.7,35.5,Washington
+3048,"Jefferson County, Washington",2020,41,32.8,Washington
+3049,"King County, Washington",2020,41,36.6,Washington
+3050,"Kitsap County, Washington",2020,45.5,36.2,Washington
+3051,"Kittitas County, Washington",2020,38.9,33.1,Washington
+3052,"Klickitat County, Washington",2020,41,34.9,Washington
+3053,"Lewis County, Washington",2020,40.8,34.9,Washington
+3054,"Lincoln County, Washington",2020,44.6,34.3,Washington
+3055,"Mason County, Washington",2020,39.2,34.7,Washington
+3056,"Okanogan County, Washington",2020,40.1,34.5,Washington
+3057,"Pacific County, Washington",2020,40.7,35.5,Washington
+3058,"Pend Oreille County, Washington",2020,42.9,35,Washington
+3059,"Pierce County, Washington",2020,41.2,36.1,Washington
+3060,"San Juan County, Washington",2020,39.6,33.5,Washington
+3061,"Skagit County, Washington",2020,40.6,34.9,Washington
+3062,"Skamania County, Washington",2020,41.6,35.4,Washington
+3063,"Snohomish County, Washington",2020,40.9,35.8,Washington
+3064,"Spokane County, Washington",2020,40,34.9,Washington
+3065,"Stevens County, Washington",2020,42.8,34.2,Washington
+3066,"Thurston County, Washington",2020,40.6,35.9,Washington
+3067,"Wahkiakum County, Washington",2020,44.7,33.8,Washington
+3068,"Walla Walla County, Washington",2020,38.8,33.8,Washington
+3069,"Whatcom County, Washington",2020,39.6,33,Washington
+3070,"Whitman County, Washington",2020,36.6,30.6,Washington
+3071,"Yakima County, Washington",2020,41.1,36.3,Washington
+3072,"Barbour County, West Virginia",2020,41.7,33.5,West Virginia
+3073,"Berkeley County, West Virginia",2020,41.4,37,West Virginia
+3074,"Boone County, West Virginia",2020,45.9,35.7,West Virginia
+3075,"Braxton County, West Virginia",2020,41.5,36.8,West Virginia
+3076,"Brooke County, West Virginia",2020,41.7,35.4,West Virginia
+3077,"Cabell County, West Virginia",2020,39.8,35.4,West Virginia
+3078,"Calhoun County, West Virginia",2020,44.9,34.8,West Virginia
+3079,"Clay County, West Virginia",2020,41.4,36,West Virginia
+3080,"Doddridge County, West Virginia",2020,43.5,35.5,West Virginia
+3081,"Fayette County, West Virginia",2020,41.9,36.2,West Virginia
+3082,"Gilmer County, West Virginia",2020,39.4,32.7,West Virginia
+3083,"Grant County, West Virginia",2020,40.3,37.4,West Virginia
+3084,"Greenbrier County, West Virginia",2020,40.3,35.7,West Virginia
+3085,"Hampshire County, West Virginia",2020,41.3,37.5,West Virginia
+3086,"Hancock County, West Virginia",2020,42.4,35.5,West Virginia
+3087,"Hardy County, West Virginia",2020,41.6,37.9,West Virginia
+3088,"Harrison County, West Virginia",2020,42.1,36.3,West Virginia
+3089,"Jackson County, West Virginia",2020,41.9,38,West Virginia
+3090,"Jefferson County, West Virginia",2020,41,36.4,West Virginia
+3091,"Kanawha County, West Virginia",2020,41.1,37,West Virginia
+3092,"Lewis County, West Virginia",2020,43.4,36.3,West Virginia
+3093,"Lincoln County, West Virginia",2020,42.3,37.1,West Virginia
+3094,"Logan County, West Virginia",2020,44.6,37.1,West Virginia
+3095,"Marion County, West Virginia",2020,41.3,36.1,West Virginia
+3096,"Marshall County, West Virginia",2020,41.7,35.6,West Virginia
+3097,"Mason County, West Virginia",2020,42.3,35.6,West Virginia
+3098,"McDowell County, West Virginia",2020,41.1,37,West Virginia
+3099,"Mercer County, West Virginia",2020,42,37.2,West Virginia
+3100,"Mineral County, West Virginia",2020,41.1,36,West Virginia
+3101,"Mingo County, West Virginia",2020,44.6,36,West Virginia
+3102,"Monongalia County, West Virginia",2020,39.2,34.7,West Virginia
+3103,"Monroe County, West Virginia",2020,44.8,38.5,West Virginia
+3104,"Morgan County, West Virginia",2020,42,36.7,West Virginia
+3105,"Nicholas County, West Virginia",2020,42.3,35.8,West Virginia
+3106,"Ohio County, West Virginia",2020,39.5,35.1,West Virginia
+3107,"Pendleton County, West Virginia",2020,43,36.9,West Virginia
+3108,"Pleasants County, West Virginia",2020,45.3,35.4,West Virginia
+3109,"Pocahontas County, West Virginia",2020,40.1,35.4,West Virginia
+3110,"Preston County, West Virginia",2020,43.1,35.9,West Virginia
+3111,"Putnam County, West Virginia",2020,41,36.7,West Virginia
+3112,"Raleigh County, West Virginia",2020,41.6,35.9,West Virginia
+3113,"Randolph County, West Virginia",2020,42,35.1,West Virginia
+3114,"Ritchie County, West Virginia",2020,43.7,36.5,West Virginia
+3115,"Roane County, West Virginia",2020,44.4,35.5,West Virginia
+3116,"Summers County, West Virginia",2020,42.5,36.2,West Virginia
+3117,"Taylor County, West Virginia",2020,44.2,38.1,West Virginia
+3118,"Tucker County, West Virginia",2020,42.7,37,West Virginia
+3119,"Tyler County, West Virginia",2020,42,36.4,West Virginia
+3120,"Upshur County, West Virginia",2020,39.7,35.6,West Virginia
+3121,"Wayne County, West Virginia",2020,40.7,36.7,West Virginia
+3122,"Webster County, West Virginia",2020,42,34.1,West Virginia
+3123,"Wetzel County, West Virginia",2020,42.5,35.3,West Virginia
+3124,"Wirt County, West Virginia",2020,45.5,33.4,West Virginia
+3125,"Wood County, West Virginia",2020,41.9,36.3,West Virginia
+3126,"Wyoming County, West Virginia",2020,43.2,37.7,West Virginia
+3127,"Adams County, Wisconsin",2020,41,35.2,Wisconsin
+3128,"Ashland County, Wisconsin",2020,39.2,33.9,Wisconsin
+3129,"Barron County, Wisconsin",2020,42.5,36,Wisconsin
+3130,"Bayfield County, Wisconsin",2020,41.1,35,Wisconsin
+3131,"Brown County, Wisconsin",2020,41.2,36,Wisconsin
+3132,"Buffalo County, Wisconsin",2020,44.5,37,Wisconsin
+3133,"Burnett County, Wisconsin",2020,42,35.1,Wisconsin
+3134,"Calumet County, Wisconsin",2020,42.7,36.2,Wisconsin
+3135,"Chippewa County, Wisconsin",2020,42.6,36.3,Wisconsin
+3136,"Clark County, Wisconsin",2020,46.8,36.9,Wisconsin
+3137,"Columbia County, Wisconsin",2020,42.5,37.5,Wisconsin
+3138,"Crawford County, Wisconsin",2020,41.4,37.5,Wisconsin
+3139,"Dane County, Wisconsin",2020,40.1,35.5,Wisconsin
+3140,"Dodge County, Wisconsin",2020,42.4,36,Wisconsin
+3141,"Door County, Wisconsin",2020,41.5,36,Wisconsin
+3142,"Douglas County, Wisconsin",2020,40.5,35.2,Wisconsin
+3143,"Dunn County, Wisconsin",2020,39.8,34.7,Wisconsin
+3144,"Eau Claire County, Wisconsin",2020,40.5,33.8,Wisconsin
+3145,"Florence County, Wisconsin",2020,41.1,33.7,Wisconsin
+3146,"Fond du Lac County, Wisconsin",2020,42.4,35.6,Wisconsin
+3147,"Forest County, Wisconsin",2020,39.4,35.4,Wisconsin
+3148,"Grant County, Wisconsin",2020,41.3,35.6,Wisconsin
+3149,"Green County, Wisconsin",2020,43.6,35.9,Wisconsin
+3150,"Green Lake County, Wisconsin",2020,42.5,35.6,Wisconsin
+3151,"Iowa County, Wisconsin",2020,43.9,37.3,Wisconsin
+3152,"Iron County, Wisconsin",2020,40.9,34.5,Wisconsin
+3153,"Jackson County, Wisconsin",2020,43.2,36.5,Wisconsin
+3154,"Jefferson County, Wisconsin",2020,41.5,35.6,Wisconsin
+3155,"Juneau County, Wisconsin",2020,41.4,37.6,Wisconsin
+3156,"Kenosha County, Wisconsin",2020,40.5,36,Wisconsin
+3157,"Kewaunee County, Wisconsin",2020,43.6,36.7,Wisconsin
+3158,"La Crosse County, Wisconsin",2020,39.6,35,Wisconsin
+3159,"Lafayette County, Wisconsin",2020,45.3,37.6,Wisconsin
+3160,"Langlade County, Wisconsin",2020,41.7,36.6,Wisconsin
+3161,"Lincoln County, Wisconsin",2020,41.6,36.2,Wisconsin
+3162,"Manitowoc County, Wisconsin",2020,42.2,35.8,Wisconsin
+3163,"Marathon County, Wisconsin",2020,42.5,36.7,Wisconsin
+3164,"Marinette County, Wisconsin",2020,42.2,35.8,Wisconsin
+3165,"Marquette County, Wisconsin",2020,42.1,36.6,Wisconsin
+3166,"Menominee County, Wisconsin",2020,36.9,35.3,Wisconsin
+3167,"Milwaukee County, Wisconsin",2020,39.7,36.3,Wisconsin
+3168,"Monroe County, Wisconsin",2020,43,36.6,Wisconsin
+3169,"Oconto County, Wisconsin",2020,42,36.3,Wisconsin
+3170,"Oneida County, Wisconsin",2020,41,35.7,Wisconsin
+3171,"Outagamie County, Wisconsin",2020,41.9,35.4,Wisconsin
+3172,"Ozaukee County, Wisconsin",2020,41.5,35.4,Wisconsin
+3173,"Pepin County, Wisconsin",2020,44.6,36.9,Wisconsin
+3174,"Pierce County, Wisconsin",2020,40.6,34,Wisconsin
+3175,"Polk County, Wisconsin",2020,41.3,35.7,Wisconsin
+3176,"Portage County, Wisconsin",2020,40.5,34.6,Wisconsin
+3177,"Price County, Wisconsin",2020,41.9,35.9,Wisconsin
+3178,"Racine County, Wisconsin",2020,41.2,35.5,Wisconsin
+3179,"Richland County, Wisconsin",2020,42.8,36.5,Wisconsin
+3180,"Rock County, Wisconsin",2020,41.6,35.5,Wisconsin
+3181,"Rusk County, Wisconsin",2020,44.3,36.3,Wisconsin
+3182,"Sauk County, Wisconsin",2020,42.7,36.1,Wisconsin
+3183,"Sawyer County, Wisconsin",2020,40.6,36.2,Wisconsin
+3184,"Shawano County, Wisconsin",2020,42.2,36.2,Wisconsin
+3185,"Sheboygan County, Wisconsin",2020,41.3,35.8,Wisconsin
+3186,"St. Croix County, Wisconsin",2020,41.8,36.4,Wisconsin
+3187,"Taylor County, Wisconsin",2020,45.3,37.1,Wisconsin
+3188,"Trempealeau County, Wisconsin",2020,43.7,37.8,Wisconsin
+3189,"Vernon County, Wisconsin",2020,42.7,36.2,Wisconsin
+3190,"Vilas County, Wisconsin",2020,41.4,35.5,Wisconsin
+3191,"Walworth County, Wisconsin",2020,40.8,34.7,Wisconsin
+3192,"Washburn County, Wisconsin",2020,41.8,35.1,Wisconsin
+3193,"Washington County, Wisconsin",2020,42.2,36.4,Wisconsin
+3194,"Waukesha County, Wisconsin",2020,41.5,35.6,Wisconsin
+3195,"Waupaca County, Wisconsin",2020,43.3,36.2,Wisconsin
+3196,"Waushara County, Wisconsin",2020,42.7,35.7,Wisconsin
+3197,"Winnebago County, Wisconsin",2020,40.7,35.7,Wisconsin
+3198,"Wood County, Wisconsin",2020,42.3,37.2,Wisconsin
+3199,"Albany County, Wyoming",2020,39.2,33.4,Wyoming
+3200,"Big Horn County, Wyoming",2020,43.9,35.9,Wyoming
+3201,"Campbell County, Wyoming",2020,45.7,38.1,Wyoming
+3202,"Carbon County, Wyoming",2020,45.1,36.8,Wyoming
+3203,"Converse County, Wyoming",2020,46.6,35.1,Wyoming
+3204,"Crook County, Wyoming",2020,46.1,37.2,Wyoming
+3205,"Fremont County, Wyoming",2020,42.7,35.9,Wyoming
+3206,"Goshen County, Wyoming",2020,42.3,33.8,Wyoming
+3207,"Hot Springs County, Wyoming",2020,44.9,39,Wyoming
+3208,"Johnson County, Wyoming",2020,44.4,39.2,Wyoming
+3209,"Laramie County, Wyoming",2020,43.5,36.8,Wyoming
+3210,"Lincoln County, Wyoming",2020,43.1,34.4,Wyoming
+3211,"Natrona County, Wyoming",2020,43.8,37.1,Wyoming
+3212,"Niobrara County, Wyoming",2020,42.5,33.9,Wyoming
+3213,"Park County, Wyoming",2020,42.1,36,Wyoming
+3214,"Platte County, Wyoming",2020,45.1,35.4,Wyoming
+3215,"Sheridan County, Wyoming",2020,42.5,36.5,Wyoming
+3216,"Sublette County, Wyoming",2020,41.8,36.4,Wyoming
+3217,"Sweetwater County, Wyoming",2020,43.6,35.8,Wyoming
+3218,"Teton County, Wyoming",2020,42.4,37,Wyoming
+3219,"Uinta County, Wyoming",2020,43.6,35,Wyoming
+3220,"Washakie County, Wyoming",2020,44.3,34.2,Wyoming
+3221,"Weston County, Wyoming",2020,42.1,31.9,Wyoming

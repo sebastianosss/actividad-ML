@@ -1,0 +1,3223 @@
+hours_allcounty_10
+,County,year,Male,Female,State
+1,"Autauga County, Alabama",2010,42.3,36.5,Alabama
+2,"Baldwin County, Alabama",2010,43.2,36.1,Alabama
+3,"Barbour County, Alabama",2010,42.1,36.3,Alabama
+4,"Bibb County, Alabama",2010,42.2,35.4,Alabama
+5,"Blount County, Alabama",2010,43.2,37.1,Alabama
+6,"Bullock County, Alabama",2010,42,38.5,Alabama
+7,"Butler County, Alabama",2010,42,36.5,Alabama
+8,"Calhoun County, Alabama",2010,42.3,35.7,Alabama
+9,"Chambers County, Alabama",2010,41,37.2,Alabama
+10,"Cherokee County, Alabama",2010,44,37.7,Alabama
+11,"Chilton County, Alabama",2010,42.7,36.1,Alabama
+12,"Choctaw County, Alabama",2010,43.5,38.7,Alabama
+13,"Clarke County, Alabama",2010,42.9,37.3,Alabama
+14,"Clay County, Alabama",2010,44.1,38.5,Alabama
+15,"Cleburne County, Alabama",2010,42.9,36.3,Alabama
+16,"Coffee County, Alabama",2010,43.3,37.5,Alabama
+17,"Colbert County, Alabama",2010,42.5,35.7,Alabama
+18,"Conecuh County, Alabama",2010,41.2,35.8,Alabama
+19,"Coosa County, Alabama",2010,43.5,37,Alabama
+20,"Covington County, Alabama",2010,43.1,36.3,Alabama
+21,"Crenshaw County, Alabama",2010,42.1,38.4,Alabama
+22,"Cullman County, Alabama",2010,42.3,36.2,Alabama
+23,"Dale County, Alabama",2010,43.2,36.8,Alabama
+24,"Dallas County, Alabama",2010,41.4,36.3,Alabama
+25,"DeKalb County, Alabama",2010,41.9,36.9,Alabama
+26,"Elmore County, Alabama",2010,42.3,37.4,Alabama
+27,"Escambia County, Alabama",2010,44.2,37,Alabama
+28,"Etowah County, Alabama",2010,42.2,36.8,Alabama
+29,"Fayette County, Alabama",2010,41.7,36.6,Alabama
+30,"Franklin County, Alabama",2010,42.5,36.5,Alabama
+31,"Geneva County, Alabama",2010,42.6,36.2,Alabama
+32,"Greene County, Alabama",2010,39.1,35.3,Alabama
+33,"Hale County, Alabama",2010,42.8,37.4,Alabama
+34,"Henry County, Alabama",2010,42.7,36.1,Alabama
+35,"Houston County, Alabama",2010,42.2,36.4,Alabama
+36,"Jackson County, Alabama",2010,40.9,36.2,Alabama
+37,"Jefferson County, Alabama",2010,41.8,37,Alabama
+38,"Lamar County, Alabama",2010,42,36.5,Alabama
+39,"Lauderdale County, Alabama",2010,40.9,34.4,Alabama
+40,"Lawrence County, Alabama",2010,41.7,36.5,Alabama
+41,"Lee County, Alabama",2010,40,34.1,Alabama
+42,"Limestone County, Alabama",2010,42,36.4,Alabama
+43,"Lowndes County, Alabama",2010,41.5,35.9,Alabama
+44,"Macon County, Alabama",2010,37.1,35.1,Alabama
+45,"Madison County, Alabama",2010,41.1,36.1,Alabama
+46,"Marengo County, Alabama",2010,41.6,37,Alabama
+47,"Marion County, Alabama",2010,43.4,37.1,Alabama
+48,"Marshall County, Alabama",2010,41.7,36.1,Alabama
+49,"Mobile County, Alabama",2010,42.1,36.3,Alabama
+50,"Monroe County, Alabama",2010,43.7,36.7,Alabama
+51,"Montgomery County, Alabama",2010,40.9,36.5,Alabama
+52,"Morgan County, Alabama",2010,41.9,36.1,Alabama
+53,"Perry County, Alabama",2010,40,34.2,Alabama
+54,"Pickens County, Alabama",2010,41,36,Alabama
+55,"Pike County, Alabama",2010,39.6,34.4,Alabama
+56,"Randolph County, Alabama",2010,42.5,36.6,Alabama
+57,"Russell County, Alabama",2010,42,36,Alabama
+58,"Shelby County, Alabama",2010,43.6,36.2,Alabama
+59,"St. Clair County, Alabama",2010,43.1,37.4,Alabama
+60,"Sumter County, Alabama",2010,40.4,34.2,Alabama
+61,"Talladega County, Alabama",2010,41.4,36.6,Alabama
+62,"Tallapoosa County, Alabama",2010,41.5,38,Alabama
+63,"Tuscaloosa County, Alabama",2010,40,34.7,Alabama
+64,"Walker County, Alabama",2010,43.3,35.6,Alabama
+65,"Washington County, Alabama",2010,45.8,38.3,Alabama
+66,"Wilcox County, Alabama",2010,41,37,Alabama
+67,"Winston County, Alabama",2010,43,35.9,Alabama
+68,"Aleutians East Borough, Alaska",2010,74.6,66.5,Alaska
+69,"Aleutians West Census Area, Alaska",2010,62.6,54.9,Alaska
+70,"Anchorage Municipality, Alaska",2010,44.5,38.1,Alaska
+71,"Bethel Census Area, Alaska",2010,41.6,34.7,Alaska
+72,"Bristol Bay Borough, Alaska",2010,48.6,42.5,Alaska
+73,"Denali Borough, Alaska",2010,47.2,38.2,Alaska
+74,"Dillingham Census Area, Alaska",2010,42.3,34.9,Alaska
+75,"Fairbanks North Star Borough, Alaska",2010,45.5,37.3,Alaska
+76,"Haines Borough, Alaska",2010,42.3,33.9,Alaska
+77,"Hoonah-Angoon Census Area, Alaska",2010,48.2,38.9,Alaska
+78,"Juneau City and Borough, Alaska",2010,43.4,37.3,Alaska
+79,"Kenai Peninsula Borough, Alaska",2010,49.8,36.3,Alaska
+80,"Ketchikan Gateway Borough, Alaska",2010,47.2,38,Alaska
+81,"Kodiak Island Borough, Alaska",2010,49.7,37.6,Alaska
+82,"Lake and Peninsula Borough, Alaska",2010,44,35.3,Alaska
+83,"Matanuska-Susitna Borough, Alaska",2010,46.9,37.1,Alaska
+84,"Nome Census Area, Alaska",2010,42.6,34.3,Alaska
+85,"North Slope Borough, Alaska",2010,41.2,37,Alaska
+86,"Northwest Arctic Borough, Alaska",2010,49.1,38.7,Alaska
+87,"Petersburg Census Area, Alaska",2010,49.7,37.7,Alaska
+88,"Prince of Wales-Hyder Census Area, Alaska",2010,46.6,37.2,Alaska
+89,"Sitka City and Borough, Alaska",2010,46.7,38.8,Alaska
+90,"Skagway Municipality, Alaska",2010,43.9,39.1,Alaska
+91,"Southeast Fairbanks Census Area, Alaska",2010,46.2,37.3,Alaska
+92,"Valdez-Cordova Census Area, Alaska",2010,53,37.4,Alaska
+93,"Wade Hampton Census Area, Alaska",2010,40.8,32.7,Alaska
+94,"Wrangell City and Borough, Alaska",2010,48.8,34.3,Alaska
+95,"Yakutat City and Borough, Alaska",2010,46,39,Alaska
+96,"Yukon-Koyukuk Census Area, Alaska",2010,45.5,36,Alaska
+97,"Apache County, Arizona",2010,40.4,37.2,Arizona
+98,"Cochise County, Arizona",2010,41.7,36.2,Arizona
+99,"Coconino County, Arizona",2010,38.9,35.4,Arizona
+100,"Gila County, Arizona",2010,40.8,36.2,Arizona
+101,"Graham County, Arizona",2010,42.8,35.4,Arizona
+102,"Greenlee County, Arizona",2010,46.4,38.5,Arizona
+103,"La Paz County, Arizona",2010,43.9,35.8,Arizona
+104,"Maricopa County, Arizona",2010,41.3,37,Arizona
+105,"Mohave County, Arizona",2010,40.6,36.3,Arizona
+106,"Navajo County, Arizona",2010,40.6,36.1,Arizona
+107,"Pima County, Arizona",2010,40.5,35.8,Arizona
+108,"Pinal County, Arizona",2010,42.7,37.4,Arizona
+109,"Santa Cruz County, Arizona",2010,40.4,35.5,Arizona
+110,"Yavapai County, Arizona",2010,39.5,35.2,Arizona
+111,"Yuma County, Arizona",2010,43.3,37.4,Arizona
+112,"Arkansas County, Arkansas",2010,43.3,37.7,Arkansas
+113,"Ashley County, Arkansas",2010,43.6,36.5,Arkansas
+114,"Baxter County, Arkansas",2010,41.4,36.8,Arkansas
+115,"Benton County, Arkansas",2010,43,37.6,Arkansas
+116,"Boone County, Arkansas",2010,43,35.9,Arkansas
+117,"Bradley County, Arkansas",2010,43.1,35.6,Arkansas
+118,"Calhoun County, Arkansas",2010,44.6,38.9,Arkansas
+119,"Carroll County, Arkansas",2010,42.3,37.4,Arkansas
+120,"Chicot County, Arkansas",2010,44,37.9,Arkansas
+121,"Clark County, Arkansas",2010,38.2,34.2,Arkansas
+122,"Clay County, Arkansas",2010,43.2,37.7,Arkansas
+123,"Cleburne County, Arkansas",2010,41.6,36.1,Arkansas
+124,"Cleveland County, Arkansas",2010,43.2,37.7,Arkansas
+125,"Columbia County, Arkansas",2010,40.5,35.1,Arkansas
+126,"Conway County, Arkansas",2010,43.1,36.9,Arkansas
+127,"Craighead County, Arkansas",2010,40.8,35.1,Arkansas
+128,"Crawford County, Arkansas",2010,41.9,36.6,Arkansas
+129,"Crittenden County, Arkansas",2010,41.8,37,Arkansas
+130,"Cross County, Arkansas",2010,43.1,37.2,Arkansas
+131,"Dallas County, Arkansas",2010,41.9,35.4,Arkansas
+132,"Desha County, Arkansas",2010,44.2,38,Arkansas
+133,"Drew County, Arkansas",2010,42.9,36.5,Arkansas
+134,"Faulkner County, Arkansas",2010,41.3,35.5,Arkansas
+135,"Franklin County, Arkansas",2010,42.2,36,Arkansas
+136,"Fulton County, Arkansas",2010,41.4,35.3,Arkansas
+137,"Garland County, Arkansas",2010,40.9,35.6,Arkansas
+138,"Grant County, Arkansas",2010,42,37.5,Arkansas
+139,"Greene County, Arkansas",2010,41.9,36.6,Arkansas
+140,"Hempstead County, Arkansas",2010,42.8,36.9,Arkansas
+141,"Hot Spring County, Arkansas",2010,41.4,37,Arkansas
+142,"Howard County, Arkansas",2010,41.5,36.2,Arkansas
+143,"Independence County, Arkansas",2010,42.8,36.4,Arkansas
+144,"Izard County, Arkansas",2010,41.7,36.3,Arkansas
+145,"Jackson County, Arkansas",2010,41.8,35.8,Arkansas
+146,"Jefferson County, Arkansas",2010,41.9,37.1,Arkansas
+147,"Johnson County, Arkansas",2010,41.1,37.2,Arkansas
+148,"Lafayette County, Arkansas",2010,41.7,35.8,Arkansas
+149,"Lawrence County, Arkansas",2010,44,33.2,Arkansas
+150,"Lee County, Arkansas",2010,45.4,35.5,Arkansas
+151,"Lincoln County, Arkansas",2010,42.7,37.8,Arkansas
+152,"Little River County, Arkansas",2010,42.9,36.9,Arkansas
+153,"Logan County, Arkansas",2010,43.9,37.4,Arkansas
+154,"Lonoke County, Arkansas",2010,43.2,36.7,Arkansas
+155,"Madison County, Arkansas",2010,43.5,36.6,Arkansas
+156,"Marion County, Arkansas",2010,40.6,36.1,Arkansas
+157,"Miller County, Arkansas",2010,42.6,36.8,Arkansas
+158,"Mississippi County, Arkansas",2010,42.5,36.8,Arkansas
+159,"Monroe County, Arkansas",2010,48.2,37.3,Arkansas
+160,"Montgomery County, Arkansas",2010,44.6,35.2,Arkansas
+161,"Nevada County, Arkansas",2010,42.7,37.8,Arkansas
+162,"Newton County, Arkansas",2010,40.8,35.7,Arkansas
+163,"Ouachita County, Arkansas",2010,42,36.8,Arkansas
+164,"Perry County, Arkansas",2010,43.3,36.8,Arkansas
+165,"Phillips County, Arkansas",2010,45.3,36.4,Arkansas
+166,"Pike County, Arkansas",2010,43.2,36.8,Arkansas
+167,"Poinsett County, Arkansas",2010,43.2,37.3,Arkansas
+168,"Polk County, Arkansas",2010,43.9,34.9,Arkansas
+169,"Pope County, Arkansas",2010,41.3,34.9,Arkansas
+170,"Prairie County, Arkansas",2010,45.5,37.5,Arkansas
+171,"Pulaski County, Arkansas",2010,41.5,37.4,Arkansas
+172,"Randolph County, Arkansas",2010,44.1,36.8,Arkansas
+173,"Saline County, Arkansas",2010,42.2,37.8,Arkansas
+174,"Scott County, Arkansas",2010,46.2,37.1,Arkansas
+175,"Searcy County, Arkansas",2010,40.7,35.9,Arkansas
+176,"Sebastian County, Arkansas",2010,42.5,37,Arkansas
+177,"Sevier County, Arkansas",2010,42.3,38,Arkansas
+178,"Sharp County, Arkansas",2010,41.7,34.6,Arkansas
+179,"St. Francis County, Arkansas",2010,40.6,36.8,Arkansas
+180,"Stone County, Arkansas",2010,39.2,35.3,Arkansas
+181,"Union County, Arkansas",2010,42.2,36.5,Arkansas
+182,"Van Buren County, Arkansas",2010,42.2,35.2,Arkansas
+183,"Washington County, Arkansas",2010,40.3,35.8,Arkansas
+184,"White County, Arkansas",2010,42.7,35.7,Arkansas
+185,"Woodruff County, Arkansas",2010,44.2,37.4,Arkansas
+186,"Yell County, Arkansas",2010,42.2,37,Arkansas
+187,"Alameda County, California",2010,39.8,36,California
+188,"Alpine County, California",2010,41.1,32,California
+189,"Amador County, California",2010,40.4,35.3,California
+190,"Butte County, California",2010,38.5,33,California
+191,"Calaveras County, California",2010,41.4,35.7,California
+192,"Colusa County, California",2010,47.3,37.1,California
+193,"Contra Costa County, California",2010,40.7,35.7,California
+194,"Del Norte County, California",2010,40.9,33.2,California
+195,"El Dorado County, California",2010,40.7,34.8,California
+196,"Fresno County, California",2010,40.6,35.6,California
+197,"Glenn County, California",2010,41.7,34.6,California
+198,"Humboldt County, California",2010,39,33.5,California
+199,"Imperial County, California",2010,41.6,35.1,California
+200,"Inyo County, California",2010,39.9,35.2,California
+201,"Kern County, California",2010,42.3,36.1,California
+202,"Kings County, California",2010,43.8,36.8,California
+203,"Lake County, California",2010,39.6,33.8,California
+204,"Lassen County, California",2010,42.2,35.4,California
+205,"Los Angeles County, California",2010,40.4,36.3,California
+206,"Madera County, California",2010,40.8,35.8,California
+207,"Marin County, California",2010,41,35.4,California
+208,"Mariposa County, California",2010,40.6,37.1,California
+209,"Mendocino County, California",2010,40.4,34,California
+210,"Merced County, California",2010,40.6,34.8,California
+211,"Modoc County, California",2010,42.7,37.1,California
+212,"Mono County, California",2010,39.8,34.7,California
+213,"Monterey County, California",2010,41.6,36.4,California
+214,"Napa County, California",2010,41,34.7,California
+215,"Nevada County, California",2010,39.4,34.1,California
+216,"Orange County, California",2010,41,35.8,California
+217,"Placer County, California",2010,41.9,35,California
+218,"Plumas County, California",2010,41,35.2,California
+219,"Riverside County, California",2010,40.8,35.4,California
+220,"Sacramento County, California",2010,40.1,36.2,California
+221,"San Benito County, California",2010,42.6,35.4,California
+222,"San Bernardino County, California",2010,41.1,35.6,California
+223,"San Diego County, California",2010,41.4,36,California
+224,"San Francisco County, California",2010,41,37.6,California
+225,"San Joaquin County, California",2010,41,36,California
+226,"San Luis Obispo County, California",2010,39.1,33,California
+227,"San Mateo County, California",2010,41.3,36.8,California
+228,"Santa Barbara County, California",2010,39.2,33.8,California
+229,"Santa Clara County, California",2010,41.2,36.3,California
+230,"Santa Cruz County, California",2010,39,33.2,California
+231,"Shasta County, California",2010,40.5,34.8,California
+232,"Sierra County, California",2010,42.6,34.6,California
+233,"Siskiyou County, California",2010,40.9,33.7,California
+234,"Solano County, California",2010,40.3,36.1,California
+235,"Sonoma County, California",2010,39.6,34.8,California
+236,"Stanislaus County, California",2010,41.3,35.4,California
+237,"Sutter County, California",2010,41.7,34.6,California
+238,"Tehama County, California",2010,40.1,34.7,California
+239,"Trinity County, California",2010,37.4,31.7,California
+240,"Tulare County, California",2010,41.3,35.8,California
+241,"Tuolumne County, California",2010,40.5,33.9,California
+242,"Ventura County, California",2010,41.4,35.8,California
+243,"Yolo County, California",2010,39,33.8,California
+244,"Yuba County, California",2010,40.7,34.9,California
+245,"Adams County, Colorado",2010,41.6,36.8,Colorado
+246,"Alamosa County, Colorado",2010,39.2,34.4,Colorado
+247,"Arapahoe County, Colorado",2010,41.7,36.7,Colorado
+248,"Archuleta County, Colorado",2010,36.1,32.5,Colorado
+249,"Baca County, Colorado",2010,46.8,36.2,Colorado
+250,"Bent County, Colorado",2010,42.4,36.7,Colorado
+251,"Boulder County, Colorado",2010,39.5,33.8,Colorado
+252,"Broomfield County, Colorado",2010,42.1,36.8,Colorado
+253,"Chaffee County, Colorado",2010,40,33.8,Colorado
+254,"Cheyenne County, Colorado",2010,46.3,34.5,Colorado
+255,"Clear Creek County, Colorado",2010,42.1,36.6,Colorado
+256,"Conejos County, Colorado",2010,41.8,32.9,Colorado
+257,"Costilla County, Colorado",2010,41,33.5,Colorado
+258,"Crowley County, Colorado",2010,45.4,36,Colorado
+259,"Custer County, Colorado",2010,41.3,33.5,Colorado
+260,"Delta County, Colorado",2010,42.1,34.8,Colorado
+261,"Denver County, Colorado",2010,40.9,37,Colorado
+262,"Dolores County, Colorado",2010,47.9,32.4,Colorado
+263,"Douglas County, Colorado",2010,43.9,36.4,Colorado
+264,"Eagle County, Colorado",2010,42.5,36.1,Colorado
+265,"El Paso County, Colorado",2010,42.4,36.1,Colorado
+266,"Elbert County, Colorado",2010,42.3,37,Colorado
+267,"Fremont County, Colorado",2010,37.3,36,Colorado
+268,"Garfield County, Colorado",2010,43.6,35.5,Colorado
+269,"Gilpin County, Colorado",2010,41.8,36.7,Colorado
+270,"Grand County, Colorado",2010,42.3,36.7,Colorado
+271,"Gunnison County, Colorado",2010,38.9,34,Colorado
+272,"Hinsdale County, Colorado",2010,39.9,32.8,Colorado
+273,"Huerfano County, Colorado",2010,42.3,36.6,Colorado
+274,"Jackson County, Colorado",2010,47.6,36.1,Colorado
+275,"Jefferson County, Colorado",2010,41.6,36.1,Colorado
+276,"Kiowa County, Colorado",2010,44.3,33.7,Colorado
+277,"Kit Carson County, Colorado",2010,44.2,37.6,Colorado
+278,"La Plata County, Colorado",2010,40.9,35.8,Colorado
+279,"Lake County, Colorado",2010,41.1,33.5,Colorado
+280,"Larimer County, Colorado",2010,40.4,33.7,Colorado
+281,"Las Animas County, Colorado",2010,41.6,34.8,Colorado
+282,"Lincoln County, Colorado",2010,45.1,37.2,Colorado
+283,"Logan County, Colorado",2010,43.6,34.8,Colorado
+284,"Mesa County, Colorado",2010,43.9,35.6,Colorado
+285,"Mineral County, Colorado",2010,40.8,35.5,Colorado
+286,"Moffat County, Colorado",2010,46.3,34.4,Colorado
+287,"Montezuma County, Colorado",2010,42.8,35.5,Colorado
+288,"Montrose County, Colorado",2010,42.6,34.3,Colorado
+289,"Morgan County, Colorado",2010,45.1,36.4,Colorado
+290,"Otero County, Colorado",2010,41.9,35.4,Colorado
+291,"Ouray County, Colorado",2010,40.4,34.4,Colorado
+292,"Park County, Colorado",2010,43.2,36.6,Colorado
+293,"Phillips County, Colorado",2010,47.9,35,Colorado
+294,"Pitkin County, Colorado",2010,42.9,34.8,Colorado
+295,"Prowers County, Colorado",2010,44.5,35.9,Colorado
+296,"Pueblo County, Colorado",2010,40.5,35,Colorado
+297,"Rio Blanco County, Colorado",2010,50.6,34.8,Colorado
+298,"Rio Grande County, Colorado",2010,40.3,30.8,Colorado
+299,"Routt County, Colorado",2010,41.8,35,Colorado
+300,"Saguache County, Colorado",2010,46,35.3,Colorado
+301,"San Juan County, Colorado",2010,42.2,40.3,Colorado
+302,"San Miguel County, Colorado",2010,42.2,37.1,Colorado
+303,"Sedgwick County, Colorado",2010,45.4,34.3,Colorado
+304,"Summit County, Colorado",2010,42.2,36.3,Colorado
+305,"Teller County, Colorado",2010,41.2,35.2,Colorado
+306,"Washington County, Colorado",2010,48.1,37.1,Colorado
+307,"Weld County, Colorado",2010,43,35.3,Colorado
+308,"Yuma County, Colorado",2010,47.7,36.3,Colorado
+309,"Fairfield County, Connecticut",2010,42.8,35.4,Connecticut
+310,"Hartford County, Connecticut",2010,40.8,35.4,Connecticut
+311,"Litchfield County, Connecticut",2010,41.9,34.6,Connecticut
+312,"Middlesex County, Connecticut",2010,41.6,35,Connecticut
+313,"New Haven County, Connecticut",2010,40.9,34.8,Connecticut
+314,"New London County, Connecticut",2010,42.4,35.1,Connecticut
+315,"Tolland County, Connecticut",2010,39.4,33.3,Connecticut
+316,"Windham County, Connecticut",2010,40.6,34.9,Connecticut
+317,"Kent County, Delaware",2010,41.3,35.7,Delaware
+318,"New Castle County, Delaware",2010,41,36.3,Delaware
+319,"Sussex County, Delaware",2010,40.9,36.2,Delaware
+320,"District of Columbia, District of Columbia",2010,41.4,38.9,Colombia
+321,"Alachua County, Florida",2010,38.8,34.3,Florida
+322,"Baker County, Florida",2010,42.2,36.3,Florida
+323,"Bay County, Florida",2010,43.2,36.7,Florida
+324,"Bradford County, Florida",2010,40.1,37.4,Florida
+325,"Brevard County, Florida",2010,41.2,36.2,Florida
+326,"Broward County, Florida",2010,42,37.7,Florida
+327,"Calhoun County, Florida",2010,42.5,37.4,Florida
+328,"Charlotte County, Florida",2010,40.5,35.8,Florida
+329,"Citrus County, Florida",2010,40.6,36,Florida
+330,"Clay County, Florida",2010,42.5,37.3,Florida
+331,"Collier County, Florida",2010,41.1,36.9,Florida
+332,"Columbia County, Florida",2010,42.3,37.2,Florida
+333,"DeSoto County, Florida",2010,41.8,36.7,Florida
+334,"Dixie County, Florida",2010,42.5,37.7,Florida
+335,"Duval County, Florida",2010,41.6,37.4,Florida
+336,"Escambia County, Florida",2010,41.3,36.4,Florida
+337,"Flagler County, Florida",2010,41.2,36.4,Florida
+338,"Franklin County, Florida",2010,40.5,36.9,Florida
+339,"Gadsden County, Florida",2010,40.7,37.9,Florida
+340,"Gilchrist County, Florida",2010,40.2,36.8,Florida
+341,"Glades County, Florida",2010,42.1,38.5,Florida
+342,"Gulf County, Florida",2010,42.9,37.4,Florida
+343,"Hamilton County, Florida",2010,41.7,39.7,Florida
+344,"Hardee County, Florida",2010,41.4,37.6,Florida
+345,"Hendry County, Florida",2010,44.5,37.9,Florida
+346,"Hernando County, Florida",2010,41.8,36,Florida
+347,"Highlands County, Florida",2010,40.6,36.1,Florida
+348,"Hillsborough County, Florida",2010,41.6,37.3,Florida
+349,"Holmes County, Florida",2010,40.9,37.2,Florida
+350,"Indian River County, Florida",2010,40.6,35.5,Florida
+351,"Jackson County, Florida",2010,40,38.2,Florida
+352,"Jefferson County, Florida",2010,40.2,36.4,Florida
+353,"Lafayette County, Florida",2010,41.4,36.4,Florida
+354,"Lake County, Florida",2010,41.7,36.8,Florida
+355,"Lee County, Florida",2010,41,36.6,Florida
+356,"Leon County, Florida",2010,38.5,34.8,Florida
+357,"Levy County, Florida",2010,40.9,35.3,Florida
+358,"Liberty County, Florida",2010,44.1,37.6,Florida
+359,"Madison County, Florida",2010,39.9,34.4,Florida
+360,"Manatee County, Florida",2010,41.8,37,Florida
+361,"Marion County, Florida",2010,41,36.8,Florida
+362,"Martin County, Florida",2010,41.4,35.6,Florida
+363,"Miami-Dade County, Florida",2010,40.7,37.3,Florida
+364,"Monroe County, Florida",2010,41.1,38.1,Florida
+365,"Nassau County, Florida",2010,43.1,36.2,Florida
+366,"Okaloosa County, Florida",2010,42.4,36.5,Florida
+367,"Okeechobee County, Florida",2010,42.5,38,Florida
+368,"Orange County, Florida",2010,40.9,37.1,Florida
+369,"Osceola County, Florida",2010,40.6,37,Florida
+370,"Palm Beach County, Florida",2010,41.8,36.9,Florida
+371,"Pasco County, Florida",2010,41.5,37,Florida
+372,"Pinellas County, Florida",2010,41.6,37.4,Florida
+373,"Polk County, Florida",2010,41.5,37.2,Florida
+374,"Putnam County, Florida",2010,40,35.9,Florida
+375,"Santa Rosa County, Florida",2010,42.6,36.3,Florida
+376,"Sarasota County, Florida",2010,40.8,35.9,Florida
+377,"Seminole County, Florida",2010,41.6,37.1,Florida
+378,"St. Johns County, Florida",2010,42.7,35.9,Florida
+379,"St. Lucie County, Florida",2010,40.8,36.9,Florida
+380,"Sumter County, Florida",2010,40,36.8,Florida
+381,"Suwannee County, Florida",2010,43,36.7,Florida
+382,"Taylor County, Florida",2010,42.4,36,Florida
+383,"Union County, Florida",2010,40.7,38.3,Florida
+384,"Volusia County, Florida",2010,40.7,36.4,Florida
+385,"Wakulla County, Florida",2010,42,38.4,Florida
+386,"Walton County, Florida",2010,42.8,37.1,Florida
+387,"Washington County, Florida",2010,41.5,36.1,Florida
+388,"Appling County, Georgia",2010,45.1,37.1,Georgia
+389,"Atkinson County, Georgia",2010,42.5,37.9,Georgia
+390,"Bacon County, Georgia",2010,42.4,37.6,Georgia
+391,"Baker County, Georgia",2010,42.6,36.9,Georgia
+392,"Baldwin County, Georgia",2010,40.3,35,Georgia
+393,"Banks County, Georgia",2010,41,37.4,Georgia
+394,"Barrow County, Georgia",2010,42.2,36.7,Georgia
+395,"Bartow County, Georgia",2010,41.7,36.2,Georgia
+396,"Ben Hill County, Georgia",2010,40.7,37.6,Georgia
+397,"Berrien County, Georgia",2010,42.7,37.6,Georgia
+398,"Bibb County, Georgia",2010,41.1,35.6,Georgia
+399,"Bleckley County, Georgia",2010,40.2,38.8,Georgia
+400,"Brantley County, Georgia",2010,42.6,36.4,Georgia
+401,"Brooks County, Georgia",2010,42.4,36.9,Georgia
+402,"Bryan County, Georgia",2010,44.5,37.3,Georgia
+403,"Bulloch County, Georgia",2010,39.8,32.4,Georgia
+404,"Burke County, Georgia",2010,42.1,36.6,Georgia
+405,"Butts County, Georgia",2010,41.7,37.7,Georgia
+406,"Calhoun County, Georgia",2010,41.8,38.1,Georgia
+407,"Camden County, Georgia",2010,44,36.6,Georgia
+408,"Candler County, Georgia",2010,42.3,35.6,Georgia
+409,"Carroll County, Georgia",2010,41.7,36.1,Georgia
+410,"Catoosa County, Georgia",2010,42.1,36.4,Georgia
+411,"Charlton County, Georgia",2010,41.9,37.9,Georgia
+412,"Chatham County, Georgia",2010,41.7,36.9,Georgia
+413,"Chattahoochee County, Georgia",2010,52.5,38.2,Georgia
+414,"Chattooga County, Georgia",2010,41.3,36.9,Georgia
+415,"Cherokee County, Georgia",2010,43.1,36.2,Georgia
+416,"Clarke County, Georgia",2010,36.8,32.2,Georgia
+417,"Clay County, Georgia",2010,39.3,36.7,Georgia
+418,"Clayton County, Georgia",2010,41.6,38.2,Georgia
+419,"Clinch County, Georgia",2010,44.3,35,Georgia
+420,"Cobb County, Georgia",2010,42.5,37,Georgia
+421,"Coffee County, Georgia",2010,42.8,37.8,Georgia
+422,"Colquitt County, Georgia",2010,41.8,36.9,Georgia
+423,"Columbia County, Georgia",2010,43.3,36.3,Georgia
+424,"Cook County, Georgia",2010,40.7,37,Georgia
+425,"Coweta County, Georgia",2010,43.3,36.9,Georgia
+426,"Crawford County, Georgia",2010,40,36.5,Georgia
+427,"Crisp County, Georgia",2010,43.3,37.6,Georgia
+428,"Dade County, Georgia",2010,40.4,34,Georgia
+429,"Dawson County, Georgia",2010,43.2,35.6,Georgia
+430,"Decatur County, Georgia",2010,42.6,37.4,Georgia
+431,"DeKalb County, Georgia",2010,41.4,38.2,Georgia
+432,"Dodge County, Georgia",2010,41.5,37.5,Georgia
+433,"Dooly County, Georgia",2010,43.9,37.2,Georgia
+434,"Dougherty County, Georgia",2010,40.6,36.6,Georgia
+435,"Douglas County, Georgia",2010,42.2,37.8,Georgia
+436,"Early County, Georgia",2010,40.7,37.6,Georgia
+437,"Echols County, Georgia",2010,41.8,37.5,Georgia
+438,"Effingham County, Georgia",2010,43.4,35.8,Georgia
+439,"Elbert County, Georgia",2010,41.5,35.7,Georgia
+440,"Emanuel County, Georgia",2010,42.1,36.2,Georgia
+441,"Evans County, Georgia",2010,43.9,37.4,Georgia
+442,"Fannin County, Georgia",2010,42.1,35.6,Georgia
+443,"Fayette County, Georgia",2010,42.8,34.9,Georgia
+444,"Floyd County, Georgia",2010,39.7,35.3,Georgia
+445,"Forsyth County, Georgia",2010,43.4,36.3,Georgia
+446,"Franklin County, Georgia",2010,42.5,36.4,Georgia
+447,"Fulton County, Georgia",2010,42.4,37.5,Georgia
+448,"Gilmer County, Georgia",2010,41.4,35.9,Georgia
+449,"Glascock County, Georgia",2010,44.4,36.3,Georgia
+450,"Glynn County, Georgia",2010,41.2,37.2,Georgia
+451,"Gordon County, Georgia",2010,41.5,36.9,Georgia
+452,"Grady County, Georgia",2010,41.4,37.4,Georgia
+453,"Greene County, Georgia",2010,41.5,35.7,Georgia
+454,"Gwinnett County, Georgia",2010,42.3,37.4,Georgia
+455,"Habersham County, Georgia",2010,41.2,35.9,Georgia
+456,"Hall County, Georgia",2010,42.4,37.1,Georgia
+457,"Hancock County, Georgia",2010,40.2,38.9,Georgia
+458,"Haralson County, Georgia",2010,41,35.7,Georgia
+459,"Harris County, Georgia",2010,43.6,36.6,Georgia
+460,"Hart County, Georgia",2010,40.9,35.1,Georgia
+461,"Heard County, Georgia",2010,44,35.9,Georgia
+462,"Henry County, Georgia",2010,42.7,37.3,Georgia
+463,"Houston County, Georgia",2010,41.9,37.5,Georgia
+464,"Irwin County, Georgia",2010,44.2,34.8,Georgia
+465,"Jackson County, Georgia",2010,41.9,37.3,Georgia
+466,"Jasper County, Georgia",2010,42.7,35.9,Georgia
+467,"Jeff Davis County, Georgia",2010,44.3,35.5,Georgia
+468,"Jefferson County, Georgia",2010,42.2,37.3,Georgia
+469,"Jenkins County, Georgia",2010,41.5,37.9,Georgia
+470,"Johnson County, Georgia",2010,43.3,36.3,Georgia
+471,"Jones County, Georgia",2010,42.3,37.2,Georgia
+472,"Lamar County, Georgia",2010,41.3,35.8,Georgia
+473,"Lanier County, Georgia",2010,43,39.4,Georgia
+474,"Laurens County, Georgia",2010,41.3,37.6,Georgia
+475,"Lee County, Georgia",2010,43.3,37.6,Georgia
+476,"Liberty County, Georgia",2010,47,37.1,Georgia
+477,"Lincoln County, Georgia",2010,43,35.6,Georgia
+478,"Long County, Georgia",2010,42.9,37.3,Georgia
+479,"Lowndes County, Georgia",2010,41.5,34.3,Georgia
+480,"Lumpkin County, Georgia",2010,40,33.7,Georgia
+481,"Macon County, Georgia",2010,41.1,36.6,Georgia
+482,"Madison County, Georgia",2010,40.4,36.2,Georgia
+483,"Marion County, Georgia",2010,43.2,38.6,Georgia
+484,"McDuffie County, Georgia",2010,41.3,37.3,Georgia
+485,"McIntosh County, Georgia",2010,41.5,36.1,Georgia
+486,"Meriwether County, Georgia",2010,41.2,36.5,Georgia
+487,"Miller County, Georgia",2010,41.9,38.4,Georgia
+488,"Mitchell County, Georgia",2010,41.5,37.5,Georgia
+489,"Monroe County, Georgia",2010,42.2,36.9,Georgia
+490,"Montgomery County, Georgia",2010,42.5,36.7,Georgia
+491,"Morgan County, Georgia",2010,42.2,36.6,Georgia
+492,"Murray County, Georgia",2010,42.4,37.1,Georgia
+493,"Muscogee County, Georgia",2010,44.9,37.1,Georgia
+494,"Newton County, Georgia",2010,42.7,36.6,Georgia
+495,"Oconee County, Georgia",2010,42.8,36.2,Georgia
+496,"Oglethorpe County, Georgia",2010,39.1,34.7,Georgia
+497,"Paulding County, Georgia",2010,42.9,36.8,Georgia
+498,"Peach County, Georgia",2010,41,36.4,Georgia
+499,"Pickens County, Georgia",2010,42.2,36.6,Georgia
+500,"Pierce County, Georgia",2010,42.4,36.5,Georgia
+501,"Pike County, Georgia",2010,41.4,35.8,Georgia
+502,"Polk County, Georgia",2010,40.2,36.9,Georgia
+503,"Pulaski County, Georgia",2010,37,37.9,Georgia
+504,"Putnam County, Georgia",2010,42,38.1,Georgia
+505,"Quitman County, Georgia",2010,42.3,34.7,Georgia
+506,"Rabun County, Georgia",2010,41.7,36.7,Georgia
+507,"Randolph County, Georgia",2010,39.4,37.3,Georgia
+508,"Richmond County, Georgia",2010,42.6,36.9,Georgia
+509,"Rockdale County, Georgia",2010,41.2,38,Georgia
+510,"Schley County, Georgia",2010,42.3,38.3,Georgia
+511,"Screven County, Georgia",2010,42,36.2,Georgia
+512,"Seminole County, Georgia",2010,42.9,36.5,Georgia
+513,"Spalding County, Georgia",2010,42,36,Georgia
+514,"Stephens County, Georgia",2010,40.1,35.3,Georgia
+515,"Stewart County, Georgia",2010,40.8,36.5,Georgia
+516,"Sumter County, Georgia",2010,41.4,37.1,Georgia
+517,"Talbot County, Georgia",2010,42.4,38.2,Georgia
+518,"Taliaferro County, Georgia",2010,43.3,39,Georgia
+519,"Tattnall County, Georgia",2010,42.7,37.7,Georgia
+520,"Taylor County, Georgia",2010,39.8,36.8,Georgia
+521,"Telfair County, Georgia",2010,39.3,38.6,Georgia
+522,"Terrell County, Georgia",2010,42.4,37.6,Georgia
+523,"Thomas County, Georgia",2010,42.3,37.1,Georgia
+524,"Tift County, Georgia",2010,40.4,37,Georgia
+525,"Toombs County, Georgia",2010,42,36.7,Georgia
+526,"Towns County, Georgia",2010,40,28.5,Georgia
+527,"Treutlen County, Georgia",2010,42.5,36.7,Georgia
+528,"Troup County, Georgia",2010,41.5,37.2,Georgia
+529,"Turner County, Georgia",2010,45.6,39.2,Georgia
+530,"Twiggs County, Georgia",2010,39.9,37.6,Georgia
+531,"Union County, Georgia",2010,40.9,36.5,Georgia
+532,"Upson County, Georgia",2010,40.4,35.6,Georgia
+533,"Walker County, Georgia",2010,42.3,35.9,Georgia
+534,"Walton County, Georgia",2010,43,36.2,Georgia
+535,"Ware County, Georgia",2010,42.6,36.6,Georgia
+536,"Warren County, Georgia",2010,41.7,38.1,Georgia
+537,"Washington County, Georgia",2010,42.4,36,Georgia
+538,"Wayne County, Georgia",2010,42,36.6,Georgia
+539,"Webster County, Georgia",2010,43.5,37.8,Georgia
+540,"Wheeler County, Georgia",2010,44.4,39.3,Georgia
+541,"White County, Georgia",2010,44.8,36.2,Georgia
+542,"Whitfield County, Georgia",2010,41.2,36.7,Georgia
+543,"Wilcox County, Georgia",2010,45.7,38.4,Georgia
+544,"Wilkes County, Georgia",2010,42.8,35.2,Georgia
+545,"Wilkinson County, Georgia",2010,41,37.6,Georgia
+546,"Worth County, Georgia",2010,42.3,37.4,Georgia
+547,"Hawaii County, Hawaii",2010,39.6,36.1,Hawaii
+548,"Honolulu County, Hawaii",2010,41.5,37.1,Hawaii
+549,"Kalawao County, Hawaii",2010,40.2,41.3,Hawaii
+550,"Kauai County, Hawaii",2010,39.1,36.2,Hawaii
+551,"Maui County, Hawaii",2010,40,36.3,Hawaii
+552,"Ada County, Idaho",2010,41.6,35.3,Idaho
+553,"Adams County, Idaho",2010,43.7,35.3,Idaho
+554,"Bannock County, Idaho",2010,39.6,33.7,Idaho
+555,"Bear Lake County, Idaho",2010,47.1,31.3,Idaho
+556,"Benewah County, Idaho",2010,43.3,35.5,Idaho
+557,"Bingham County, Idaho",2010,41.1,33.6,Idaho
+558,"Blaine County, Idaho",2010,40.8,35.9,Idaho
+559,"Boise County, Idaho",2010,42.9,37.4,Idaho
+560,"Bonner County, Idaho",2010,41.4,34.9,Idaho
+561,"Bonneville County, Idaho",2010,41.5,33.1,Idaho
+562,"Boundary County, Idaho",2010,41.3,35,Idaho
+563,"Butte County, Idaho",2010,43.6,34.5,Idaho
+564,"Camas County, Idaho",2010,42.8,33.6,Idaho
+565,"Canyon County, Idaho",2010,41.8,35.3,Idaho
+566,"Caribou County, Idaho",2010,44.7,32.7,Idaho
+567,"Cassia County, Idaho",2010,45,34.4,Idaho
+568,"Clark County, Idaho",2010,51.5,31.8,Idaho
+569,"Clearwater County, Idaho",2010,44.3,35.5,Idaho
+570,"Custer County, Idaho",2010,47.1,35,Idaho
+571,"Elmore County, Idaho",2010,42.7,36.5,Idaho
+572,"Franklin County, Idaho",2010,43.9,28.9,Idaho
+573,"Fremont County, Idaho",2010,42.5,33.8,Idaho
+574,"Gem County, Idaho",2010,41.7,35.5,Idaho
+575,"Gooding County, Idaho",2010,46.5,35.1,Idaho
+576,"Idaho County, Idaho",2010,42.5,34.4,Idaho
+577,"Jefferson County, Idaho",2010,43,33.1,Idaho
+578,"Jerome County, Idaho",2010,43.4,35.3,Idaho
+579,"Kootenai County, Idaho",2010,41.7,35,Idaho
+580,"Latah County, Idaho",2010,37.7,32,Idaho
+581,"Lemhi County, Idaho",2010,42.6,33.7,Idaho
+582,"Lewis County, Idaho",2010,41.2,32.7,Idaho
+583,"Lincoln County, Idaho",2010,44.6,34,Idaho
+584,"Madison County, Idaho",2010,36.3,28.2,Idaho
+585,"Minidoka County, Idaho",2010,45,36.5,Idaho
+586,"Nez Perce County, Idaho",2010,40.6,34.7,Idaho
+587,"Oneida County, Idaho",2010,41.5,28.6,Idaho
+588,"Owyhee County, Idaho",2010,46.2,38.1,Idaho
+589,"Payette County, Idaho",2010,42.2,36,Idaho
+590,"Power County, Idaho",2010,44.2,34.6,Idaho
+591,"Shoshone County, Idaho",2010,40.5,35.2,Idaho
+592,"Teton County, Idaho",2010,42.3,36.7,Idaho
+593,"Twin Falls County, Idaho",2010,42.7,36,Idaho
+594,"Valley County, Idaho",2010,42.8,36.7,Idaho
+595,"Washington County, Idaho",2010,42.2,34.5,Idaho
+596,"Adams County, Illinois",2010,41.8,34.8,Illinois
+597,"Alexander County, Illinois",2010,39.1,36.6,Illinois
+598,"Bond County, Illinois",2010,41.5,35.3,Illinois
+599,"Boone County, Illinois",2010,42.1,35.8,Illinois
+600,"Brown County, Illinois",2010,44,37.8,Illinois
+601,"Bureau County, Illinois",2010,42.8,34.7,Illinois
+602,"Calhoun County, Illinois",2010,40.3,35.9,Illinois
+603,"Carroll County, Illinois",2010,43.1,34.7,Illinois
+604,"Cass County, Illinois",2010,41.1,35.6,Illinois
+605,"Champaign County, Illinois",2010,37.6,33,Illinois
+606,"Christian County, Illinois",2010,41.3,35.5,Illinois
+607,"Clark County, Illinois",2010,42.9,33.8,Illinois
+608,"Clay County, Illinois",2010,44.1,34.8,Illinois
+609,"Clinton County, Illinois",2010,41.5,35.4,Illinois
+610,"Coles County, Illinois",2010,38.3,31.6,Illinois
+611,"Cook County, Illinois",2010,40.9,36.5,Illinois
+612,"Crawford County, Illinois",2010,40.1,36.3,Illinois
+613,"Cumberland County, Illinois",2010,40.4,35,Illinois
+614,"De Witt County, Illinois",2010,42.1,36.6,Illinois
+615,"DeKalb County, Illinois",2010,38.7,33.5,Illinois
+616,"Douglas County, Illinois",2010,42.2,36.8,Illinois
+617,"DuPage County, Illinois",2010,42,35.5,Illinois
+618,"Edgar County, Illinois",2010,44.6,36.6,Illinois
+619,"Edwards County, Illinois",2010,40.5,35.8,Illinois
+620,"Effingham County, Illinois",2010,40.9,34.9,Illinois
+621,"Fayette County, Illinois",2010,40.4,35,Illinois
+622,"Ford County, Illinois",2010,42,35,Illinois
+623,"Franklin County, Illinois",2010,40.5,34.5,Illinois
+624,"Fulton County, Illinois",2010,41.6,34.6,Illinois
+625,"Gallatin County, Illinois",2010,45.7,37.5,Illinois
+626,"Greene County, Illinois",2010,41.7,34.8,Illinois
+627,"Grundy County, Illinois",2010,42.4,34.7,Illinois
+628,"Hamilton County, Illinois",2010,44.7,34.1,Illinois
+629,"Hancock County, Illinois",2010,43.3,35.5,Illinois
+630,"Hardin County, Illinois",2010,46.2,36.9,Illinois
+631,"Henderson County, Illinois",2010,44.9,35.4,Illinois
+632,"Henry County, Illinois",2010,42.6,34.9,Illinois
+633,"Iroquois County, Illinois",2010,43.4,34.4,Illinois
+634,"Jackson County, Illinois",2010,35.7,32.5,Illinois
+635,"Jasper County, Illinois",2010,44.6,33.5,Illinois
+636,"Jefferson County, Illinois",2010,41.7,35.3,Illinois
+637,"Jersey County, Illinois",2010,41,35.1,Illinois
+638,"Jo Daviess County, Illinois",2010,43.4,36.3,Illinois
+639,"Johnson County, Illinois",2010,42.6,34.3,Illinois
+640,"Kane County, Illinois",2010,41.6,35.3,Illinois
+641,"Kankakee County, Illinois",2010,41,34.8,Illinois
+642,"Kendall County, Illinois",2010,42.8,36.3,Illinois
+643,"Knox County, Illinois",2010,41.3,34.1,Illinois
+644,"Lake County, Illinois",2010,42.9,36,Illinois
+645,"LaSalle County, Illinois",2010,42,35.1,Illinois
+646,"Lawrence County, Illinois",2010,42.2,35.8,Illinois
+647,"Lee County, Illinois",2010,41.6,34.7,Illinois
+648,"Livingston County, Illinois",2010,41.5,35.2,Illinois
+649,"Logan County, Illinois",2010,41.3,34.6,Illinois
+650,"Macon County, Illinois",2010,41.4,35.8,Illinois
+651,"Macoupin County, Illinois",2010,41.2,34.4,Illinois
+652,"Madison County, Illinois",2010,40.1,34.9,Illinois
+653,"Marion County, Illinois",2010,41.7,35.9,Illinois
+654,"Marshall County, Illinois",2010,41.7,33.8,Illinois
+655,"Mason County, Illinois",2010,43.5,35.6,Illinois
+656,"Massac County, Illinois",2010,42.2,35,Illinois
+657,"McDonough County, Illinois",2010,36.1,30.5,Illinois
+658,"McHenry County, Illinois",2010,42.2,35.1,Illinois
+659,"McLean County, Illinois",2010,38.8,33.2,Illinois
+660,"Menard County, Illinois",2010,41.3,35.2,Illinois
+661,"Mercer County, Illinois",2010,43.1,34.2,Illinois
+662,"Monroe County, Illinois",2010,41.7,35.3,Illinois
+663,"Montgomery County, Illinois",2010,42.4,35.2,Illinois
+664,"Morgan County, Illinois",2010,40,35.3,Illinois
+665,"Moultrie County, Illinois",2010,41.8,35.1,Illinois
+666,"Ogle County, Illinois",2010,42,34.4,Illinois
+667,"Peoria County, Illinois",2010,40.8,35.5,Illinois
+668,"Perry County, Illinois",2010,41.3,34.7,Illinois
+669,"Piatt County, Illinois",2010,40.9,35.7,Illinois
+670,"Pike County, Illinois",2010,43.3,34.7,Illinois
+671,"Pope County, Illinois",2010,42.2,32.2,Illinois
+672,"Pulaski County, Illinois",2010,40.9,34.5,Illinois
+673,"Putnam County, Illinois",2010,42.7,35.4,Illinois
+674,"Randolph County, Illinois",2010,41.4,35.6,Illinois
+675,"Richland County, Illinois",2010,41.9,33.9,Illinois
+676,"Rock Island County, Illinois",2010,40.7,35.4,Illinois
+677,"Saline County, Illinois",2010,41.1,36.5,Illinois
+678,"Sangamon County, Illinois",2010,40.6,35.9,Illinois
+679,"Schuyler County, Illinois",2010,42.4,34,Illinois
+680,"Scott County, Illinois",2010,43.2,35,Illinois
+681,"Shelby County, Illinois",2010,40.7,34.6,Illinois
+682,"St. Clair County, Illinois",2010,40.4,35.7,Illinois
+683,"Stark County, Illinois",2010,44.2,34.8,Illinois
+684,"Stephenson County, Illinois",2010,41.6,35.4,Illinois
+685,"Tazewell County, Illinois",2010,41.6,34.7,Illinois
+686,"Union County, Illinois",2010,42.1,35.4,Illinois
+687,"Vermilion County, Illinois",2010,41.1,35.7,Illinois
+688,"Wabash County, Illinois",2010,42.2,34.3,Illinois
+689,"Warren County, Illinois",2010,39.6,33,Illinois
+690,"Washington County, Illinois",2010,45.3,35.3,Illinois
+691,"Wayne County, Illinois",2010,42.9,35.4,Illinois
+692,"White County, Illinois",2010,42.9,35.5,Illinois
+693,"Whiteside County, Illinois",2010,40.8,35.4,Illinois
+694,"Will County, Illinois",2010,42.1,35.1,Illinois
+695,"Williamson County, Illinois",2010,40.6,35.8,Illinois
+696,"Winnebago County, Illinois",2010,41.5,35.5,Illinois
+697,"Woodford County, Illinois",2010,41.3,33.2,Illinois
+698,"Adams County, Indiana",2010,41.4,32.9,Indiana
+699,"Allen County, Indiana",2010,41.1,35.4,Indiana
+700,"Bartholomew County, Indiana",2010,42.4,35.8,Indiana
+701,"Benton County, Indiana",2010,42.6,37.6,Indiana
+702,"Blackford County, Indiana",2010,41.2,36,Indiana
+703,"Boone County, Indiana",2010,43,36.3,Indiana
+704,"Brown County, Indiana",2010,40.9,37.2,Indiana
+705,"Carroll County, Indiana",2010,43,35.1,Indiana
+706,"Cass County, Indiana",2010,41.8,36.1,Indiana
+707,"Clark County, Indiana",2010,40.5,36.6,Indiana
+708,"Clay County, Indiana",2010,41.4,34.8,Indiana
+709,"Clinton County, Indiana",2010,41.8,36.1,Indiana
+710,"Crawford County, Indiana",2010,42.3,35.8,Indiana
+711,"Daviess County, Indiana",2010,43.3,35,Indiana
+712,"Dearborn County, Indiana",2010,41.7,35.7,Indiana
+713,"Decatur County, Indiana",2010,43.2,36.3,Indiana
+714,"DeKalb County, Indiana",2010,41.5,35.4,Indiana
+715,"Delaware County, Indiana",2010,39.6,32.9,Indiana
+716,"Dubois County, Indiana",2010,43.5,36.3,Indiana
+717,"Elkhart County, Indiana",2010,41.1,34.7,Indiana
+718,"Fayette County, Indiana",2010,41,36.1,Indiana
+719,"Floyd County, Indiana",2010,41.4,35.9,Indiana
+720,"Fountain County, Indiana",2010,42.3,35.3,Indiana
+721,"Franklin County, Indiana",2010,42.5,37.1,Indiana
+722,"Fulton County, Indiana",2010,42.8,35.2,Indiana
+723,"Gibson County, Indiana",2010,43.1,35.7,Indiana
+724,"Grant County, Indiana",2010,39.8,34,Indiana
+725,"Greene County, Indiana",2010,42.5,35.4,Indiana
+726,"Hamilton County, Indiana",2010,43.7,36.1,Indiana
+727,"Hancock County, Indiana",2010,43.1,35.9,Indiana
+728,"Harrison County, Indiana",2010,42,36.3,Indiana
+729,"Hendricks County, Indiana",2010,42.1,36.5,Indiana
+730,"Henry County, Indiana",2010,41.6,35.8,Indiana
+731,"Howard County, Indiana",2010,40.9,35.1,Indiana
+732,"Huntington County, Indiana",2010,41.2,34.7,Indiana
+733,"Jackson County, Indiana",2010,42.3,36.1,Indiana
+734,"Jasper County, Indiana",2010,42.2,33.9,Indiana
+735,"Jay County, Indiana",2010,41.6,36.1,Indiana
+736,"Jefferson County, Indiana",2010,41.6,34.8,Indiana
+737,"Jennings County, Indiana",2010,41.9,36.1,Indiana
+738,"Johnson County, Indiana",2010,42.5,35.7,Indiana
+739,"Knox County, Indiana",2010,41.1,34.8,Indiana
+740,"Kosciusko County, Indiana",2010,42.1,35.5,Indiana
+741,"LaGrange County, Indiana",2010,41.6,35,Indiana
+742,"Lake County, Indiana",2010,41.5,35.2,Indiana
+743,"LaPorte County, Indiana",2010,41.6,34.7,Indiana
+744,"Lawrence County, Indiana",2010,41,35.7,Indiana
+745,"Madison County, Indiana",2010,40.9,35.5,Indiana
+746,"Marion County, Indiana",2010,41.1,36.7,Indiana
+747,"Marshall County, Indiana",2010,41.8,36,Indiana
+748,"Martin County, Indiana",2010,41.5,35.1,Indiana
+749,"Miami County, Indiana",2010,41.2,33.8,Indiana
+750,"Monroe County, Indiana",2010,36.6,31.9,Indiana
+751,"Montgomery County, Indiana",2010,40.7,35.3,Indiana
+752,"Morgan County, Indiana",2010,41.8,35.4,Indiana
+753,"Newton County, Indiana",2010,42.8,36.2,Indiana
+754,"Noble County, Indiana",2010,41.9,35.6,Indiana
+755,"Ohio County, Indiana",2010,42,35.8,Indiana
+756,"Orange County, Indiana",2010,41.4,35.9,Indiana
+757,"Owen County, Indiana",2010,39.8,35.7,Indiana
+758,"Parke County, Indiana",2010,43.2,35.8,Indiana
+759,"Perry County, Indiana",2010,43.4,36.5,Indiana
+760,"Pike County, Indiana",2010,43.6,36.4,Indiana
+761,"Porter County, Indiana",2010,42.6,34.3,Indiana
+762,"Posey County, Indiana",2010,41.3,35.2,Indiana
+763,"Pulaski County, Indiana",2010,44.1,36,Indiana
+764,"Putnam County, Indiana",2010,41.6,34.5,Indiana
+765,"Randolph County, Indiana",2010,42.4,35,Indiana
+766,"Ripley County, Indiana",2010,42.2,35.5,Indiana
+767,"Rush County, Indiana",2010,41.7,36.4,Indiana
+768,"Scott County, Indiana",2010,41.4,37.1,Indiana
+769,"Shelby County, Indiana",2010,42.6,36.3,Indiana
+770,"Spencer County, Indiana",2010,44,35.1,Indiana
+771,"St. Joseph County, Indiana",2010,40.5,34.5,Indiana
+772,"Starke County, Indiana",2010,41.9,34.3,Indiana
+773,"Steuben County, Indiana",2010,42.2,35.5,Indiana
+774,"Sullivan County, Indiana",2010,42.6,35,Indiana
+775,"Switzerland County, Indiana",2010,43,37.2,Indiana
+776,"Tippecanoe County, Indiana",2010,38.3,33.5,Indiana
+777,"Tipton County, Indiana",2010,42.4,35.8,Indiana
+778,"Union County, Indiana",2010,41.9,34.8,Indiana
+779,"Vanderburgh County, Indiana",2010,40.8,35.5,Indiana
+780,"Vermillion County, Indiana",2010,41.2,35.7,Indiana
+781,"Vigo County, Indiana",2010,39.4,33.4,Indiana
+782,"Wabash County, Indiana",2010,41.3,34.8,Indiana
+783,"Warren County, Indiana",2010,44.1,36.4,Indiana
+784,"Warrick County, Indiana",2010,42.9,35.6,Indiana
+785,"Washington County, Indiana",2010,41.7,36.8,Indiana
+786,"Wayne County, Indiana",2010,41.4,36.1,Indiana
+787,"Wells County, Indiana",2010,42.4,33.8,Indiana
+788,"White County, Indiana",2010,43.3,36.6,Indiana
+789,"Whitley County, Indiana",2010,42.3,35.6,Indiana
+790,"Adair County, Iowa",2010,45.5,36.4,Iowa
+791,"Adams County, Iowa",2010,45,34.5,Iowa
+792,"Allamakee County, Iowa",2010,44.6,35.3,Iowa
+793,"Appanoose County, Iowa",2010,41.4,35.8,Iowa
+794,"Audubon County, Iowa",2010,46.4,36,Iowa
+795,"Benton County, Iowa",2010,42.5,35.4,Iowa
+796,"Black Hawk County, Iowa",2010,39.9,34.3,Iowa
+797,"Boone County, Iowa",2010,41.5,35.5,Iowa
+798,"Bremer County, Iowa",2010,42.3,35.1,Iowa
+799,"Buchanan County, Iowa",2010,43.9,35.7,Iowa
+800,"Buena Vista County, Iowa",2010,42.4,34.4,Iowa
+801,"Butler County, Iowa",2010,44.3,34.9,Iowa
+802,"Calhoun County, Iowa",2010,42.7,35.1,Iowa
+803,"Carroll County, Iowa",2010,43.8,36,Iowa
+804,"Cass County, Iowa",2010,44.5,35,Iowa
+805,"Cedar County, Iowa",2010,43.2,36.7,Iowa
+806,"Cerro Gordo County, Iowa",2010,41.3,35.6,Iowa
+807,"Cherokee County, Iowa",2010,44.1,36.2,Iowa
+808,"Chickasaw County, Iowa",2010,44.4,35.5,Iowa
+809,"Clarke County, Iowa",2010,42.4,35.8,Iowa
+810,"Clay County, Iowa",2010,44.6,35.9,Iowa
+811,"Clayton County, Iowa",2010,45.1,37,Iowa
+812,"Clinton County, Iowa",2010,41.7,35,Iowa
+813,"Crawford County, Iowa",2010,44.9,35.5,Iowa
+814,"Dallas County, Iowa",2010,42.8,37.1,Iowa
+815,"Davis County, Iowa",2010,45,36.9,Iowa
+816,"Decatur County, Iowa",2010,40.5,32.5,Iowa
+817,"Delaware County, Iowa",2010,45.6,36.8,Iowa
+818,"Des Moines County, Iowa",2010,40.7,35.5,Iowa
+819,"Dickinson County, Iowa",2010,44.2,37,Iowa
+820,"Dubuque County, Iowa",2010,41.5,34,Iowa
+821,"Emmet County, Iowa",2010,43.5,36,Iowa
+822,"Fayette County, Iowa",2010,42.8,34.8,Iowa
+823,"Floyd County, Iowa",2010,40.7,37.2,Iowa
+824,"Franklin County, Iowa",2010,43.2,35.9,Iowa
+825,"Fremont County, Iowa",2010,43.2,37.9,Iowa
+826,"Greene County, Iowa",2010,43.6,36.3,Iowa
+827,"Grundy County, Iowa",2010,43.2,35.5,Iowa
+828,"Guthrie County, Iowa",2010,43.5,37.1,Iowa
+829,"Hamilton County, Iowa",2010,43,35.2,Iowa
+830,"Hancock County, Iowa",2010,43,34.9,Iowa
+831,"Hardin County, Iowa",2010,43.3,35.5,Iowa
+832,"Harrison County, Iowa",2010,43.9,37,Iowa
+833,"Henry County, Iowa",2010,42.4,35.2,Iowa
+834,"Howard County, Iowa",2010,46.1,36.1,Iowa
+835,"Humboldt County, Iowa",2010,44.8,35.3,Iowa
+836,"Ida County, Iowa",2010,45.3,34.6,Iowa
+837,"Iowa County, Iowa",2010,44.4,35.7,Iowa
+838,"Jackson County, Iowa",2010,44,35.5,Iowa
+839,"Jasper County, Iowa",2010,41.9,36.1,Iowa
+840,"Jefferson County, Iowa",2010,41.1,33.2,Iowa
+841,"Johnson County, Iowa",2010,38.5,33.1,Iowa
+842,"Jones County, Iowa",2010,42.2,35.7,Iowa
+843,"Keokuk County, Iowa",2010,43.5,35.5,Iowa
+844,"Kossuth County, Iowa",2010,43.7,35.2,Iowa
+845,"Lee County, Iowa",2010,42.5,36,Iowa
+846,"Linn County, Iowa",2010,41.3,36.3,Iowa
+847,"Louisa County, Iowa",2010,41.9,36.9,Iowa
+848,"Lucas County, Iowa",2010,41.9,33.3,Iowa
+849,"Lyon County, Iowa",2010,46.9,33.5,Iowa
+850,"Madison County, Iowa",2010,42.3,36.3,Iowa
+851,"Mahaska County, Iowa",2010,40.8,34,Iowa
+852,"Marion County, Iowa",2010,40,33.6,Iowa
+853,"Marshall County, Iowa",2010,41.1,35.5,Iowa
+854,"Mills County, Iowa",2010,41,37,Iowa
+855,"Mitchell County, Iowa",2010,45.2,33.8,Iowa
+856,"Monona County, Iowa",2010,43.8,36.1,Iowa
+857,"Monroe County, Iowa",2010,41.4,37.4,Iowa
+858,"Montgomery County, Iowa",2010,43.1,35.4,Iowa
+859,"Muscatine County, Iowa",2010,42,36.7,Iowa
+860,"O'Brien County, Iowa",2010,44.6,34,Iowa
+861,"Osceola County, Iowa",2010,45.3,34.4,Iowa
+862,"Page County, Iowa",2010,38.2,35.5,Iowa
+863,"Palo Alto County, Iowa",2010,44.2,36.9,Iowa
+864,"Plymouth County, Iowa",2010,45.6,36.7,Iowa
+865,"Pocahontas County, Iowa",2010,43.7,36,Iowa
+866,"Polk County, Iowa",2010,41.3,36.8,Iowa
+867,"Pottawattamie County, Iowa",2010,42.3,36.9,Iowa
+868,"Poweshiek County, Iowa",2010,38.9,32.7,Iowa
+869,"Ringgold County, Iowa",2010,46.1,36.9,Iowa
+870,"Sac County, Iowa",2010,45.9,35.9,Iowa
+871,"Scott County, Iowa",2010,41.3,36,Iowa
+872,"Shelby County, Iowa",2010,42.4,35.3,Iowa
+873,"Sioux County, Iowa",2010,42.2,31.7,Iowa
+874,"Story County, Iowa",2010,36.3,31.9,Iowa
+875,"Tama County, Iowa",2010,43.2,36.1,Iowa
+876,"Taylor County, Iowa",2010,43.9,36.7,Iowa
+877,"Union County, Iowa",2010,42.4,37.6,Iowa
+878,"Van Buren County, Iowa",2010,44,34.5,Iowa
+879,"Wapello County, Iowa",2010,41.2,35.3,Iowa
+880,"Warren County, Iowa",2010,40.9,35.8,Iowa
+881,"Washington County, Iowa",2010,43,36.6,Iowa
+882,"Wayne County, Iowa",2010,41.9,36.5,Iowa
+883,"Webster County, Iowa",2010,40.5,35.2,Iowa
+884,"Winnebago County, Iowa",2010,41,35,Iowa
+885,"Winneshiek County, Iowa",2010,40.5,32.3,Iowa
+886,"Woodbury County, Iowa",2010,41.1,36.2,Iowa
+887,"Worth County, Iowa",2010,40.9,35.1,Iowa
+888,"Wright County, Iowa",2010,43.1,35.4,Iowa
+889,"Allen County, Kansas",2010,42.1,37.9,Kansas
+890,"Anderson County, Kansas",2010,41.8,37.2,Kansas
+891,"Atchison County, Kansas",2010,39.1,36.7,Kansas
+892,"Barber County, Kansas",2010,47.9,36,Kansas
+893,"Barton County, Kansas",2010,44,36.3,Kansas
+894,"Bourbon County, Kansas",2010,40.6,36.8,Kansas
+895,"Brown County, Kansas",2010,40.6,34.8,Kansas
+896,"Butler County, Kansas",2010,42.7,35.9,Kansas
+897,"Chase County, Kansas",2010,43.1,36.7,Kansas
+898,"Chautauqua County, Kansas",2010,43.6,36.5,Kansas
+899,"Cherokee County, Kansas",2010,40.7,34.7,Kansas
+900,"Cheyenne County, Kansas",2010,47.8,35,Kansas
+901,"Clark County, Kansas",2010,47.3,35.4,Kansas
+902,"Clay County, Kansas",2010,43.1,34.6,Kansas
+903,"Cloud County, Kansas",2010,43,33.3,Kansas
+904,"Coffey County, Kansas",2010,42.9,36.6,Kansas
+905,"Comanche County, Kansas",2010,47.3,37.1,Kansas
+906,"Cowley County, Kansas",2010,40.8,36.4,Kansas
+907,"Crawford County, Kansas",2010,39.7,35.5,Kansas
+908,"Decatur County, Kansas",2010,48.4,33.8,Kansas
+909,"Dickinson County, Kansas",2010,43.5,37.1,Kansas
+910,"Doniphan County, Kansas",2010,41.2,36.7,Kansas
+911,"Douglas County, Kansas",2010,37.3,32.6,Kansas
+912,"Edwards County, Kansas",2010,50.4,37.4,Kansas
+913,"Elk County, Kansas",2010,42.6,36.7,Kansas
+914,"Ellis County, Kansas",2010,41.7,33.4,Kansas
+915,"Ellsworth County, Kansas",2010,44.7,36.3,Kansas
+916,"Finney County, Kansas",2010,43,37.9,Kansas
+917,"Ford County, Kansas",2010,44,37.3,Kansas
+918,"Franklin County, Kansas",2010,42.5,36.5,Kansas
+919,"Geary County, Kansas",2010,46,38.3,Kansas
+920,"Gove County, Kansas",2010,50.6,32.9,Kansas
+921,"Graham County, Kansas",2010,48.2,34.6,Kansas
+922,"Grant County, Kansas",2010,47.5,38.4,Kansas
+923,"Gray County, Kansas",2010,49.8,36.3,Kansas
+924,"Greeley County, Kansas",2010,46.5,35.3,Kansas
+925,"Greenwood County, Kansas",2010,45,34.9,Kansas
+926,"Hamilton County, Kansas",2010,48.5,38.3,Kansas
+927,"Harper County, Kansas",2010,45.7,36.8,Kansas
+928,"Harvey County, Kansas",2010,41.2,35.7,Kansas
+929,"Haskell County, Kansas",2010,53.2,36.2,Kansas
+930,"Hodgeman County, Kansas",2010,47.5,38.2,Kansas
+931,"Jackson County, Kansas",2010,42.7,37.3,Kansas
+932,"Jefferson County, Kansas",2010,42.7,36.6,Kansas
+933,"Jewell County, Kansas",2010,47.9,36.9,Kansas
+934,"Johnson County, Kansas",2010,42.7,36.2,Kansas
+935,"Kearny County, Kansas",2010,51,40.4,Kansas
+936,"Kingman County, Kansas",2010,44.4,36.1,Kansas
+937,"Kiowa County, Kansas",2010,46,30.5,Kansas
+938,"Labette County, Kansas",2010,41.4,36.5,Kansas
+939,"Lane County, Kansas",2010,50.1,36,Kansas
+940,"Leavenworth County, Kansas",2010,42.2,36.6,Kansas
+941,"Lincoln County, Kansas",2010,47.2,37,Kansas
+942,"Linn County, Kansas",2010,41.8,37.5,Kansas
+943,"Logan County, Kansas",2010,45.9,37.6,Kansas
+944,"Lyon County, Kansas",2010,40.1,34.1,Kansas
+945,"Marion County, Kansas",2010,42.7,35.7,Kansas
+946,"Marshall County, Kansas",2010,45.6,36.4,Kansas
+947,"McPherson County, Kansas",2010,42.2,34.3,Kansas
+948,"Meade County, Kansas",2010,46.3,37.5,Kansas
+949,"Miami County, Kansas",2010,41.6,35.6,Kansas
+950,"Mitchell County, Kansas",2010,43,37.7,Kansas
+951,"Montgomery County, Kansas",2010,41.9,36,Kansas
+952,"Morris County, Kansas",2010,43.5,35.8,Kansas
+953,"Morton County, Kansas",2010,46.7,38.8,Kansas
+954,"Nemaha County, Kansas",2010,45.5,35.7,Kansas
+955,"Neosho County, Kansas",2010,42.2,36.5,Kansas
+956,"Ness County, Kansas",2010,48.9,34.9,Kansas
+957,"Norton County, Kansas",2010,42,36.4,Kansas
+958,"Osage County, Kansas",2010,42.1,36.6,Kansas
+959,"Osborne County, Kansas",2010,44.3,33.6,Kansas
+960,"Ottawa County, Kansas",2010,42.9,37.9,Kansas
+961,"Pawnee County, Kansas",2010,40.9,39.7,Kansas
+962,"Phillips County, Kansas",2010,48.9,38.1,Kansas
+963,"Pottawatomie County, Kansas",2010,43,37.5,Kansas
+964,"Pratt County, Kansas",2010,43.9,35.5,Kansas
+965,"Rawlins County, Kansas",2010,48.5,37,Kansas
+966,"Reno County, Kansas",2010,41.6,35.6,Kansas
+967,"Republic County, Kansas",2010,46.8,37,Kansas
+968,"Rice County, Kansas",2010,42.9,35.3,Kansas
+969,"Riley County, Kansas",2010,38.8,32.5,Kansas
+970,"Rooks County, Kansas",2010,45.4,36.8,Kansas
+971,"Rush County, Kansas",2010,43.9,36.8,Kansas
+972,"Russell County, Kansas",2010,44.6,35.3,Kansas
+973,"Saline County, Kansas",2010,41.7,35.5,Kansas
+974,"Scott County, Kansas",2010,46.4,35.7,Kansas
+975,"Sedgwick County, Kansas",2010,41.8,36.5,Kansas
+976,"Seward County, Kansas",2010,43.7,37.1,Kansas
+977,"Shawnee County, Kansas",2010,40.9,36.8,Kansas
+978,"Sheridan County, Kansas",2010,50.7,35.4,Kansas
+979,"Sherman County, Kansas",2010,43,36.9,Kansas
+980,"Smith County, Kansas",2010,46.8,38.9,Kansas
+981,"Stafford County, Kansas",2010,47,36.3,Kansas
+982,"Stanton County, Kansas",2010,54.2,36.6,Kansas
+983,"Stevens County, Kansas",2010,49.5,36.2,Kansas
+984,"Sumner County, Kansas",2010,42.1,35.3,Kansas
+985,"Thomas County, Kansas",2010,43.8,36,Kansas
+986,"Trego County, Kansas",2010,47.9,37.3,Kansas
+987,"Wabaunsee County, Kansas",2010,43,36.5,Kansas
+988,"Wallace County, Kansas",2010,50.5,37.2,Kansas
+989,"Washington County, Kansas",2010,45.3,36.2,Kansas
+990,"Wichita County, Kansas",2010,52.8,39.7,Kansas
+991,"Wilson County, Kansas",2010,44.6,35.5,Kansas
+992,"Woodson County, Kansas",2010,44,36.4,Kansas
+993,"Wyandotte County, Kansas",2010,40.5,36.9,Kansas
+994,"Adair County, Kentucky",2010,39.4,36.9,Kentucky
+995,"Allen County, Kentucky",2010,40.4,36.1,Kentucky
+996,"Anderson County, Kentucky",2010,41.6,36.6,Kentucky
+997,"Ballard County, Kentucky",2010,43.5,34.1,Kentucky
+998,"Barren County, Kentucky",2010,41.5,37.1,Kentucky
+999,"Bath County, Kentucky",2010,41.9,35.1,Kentucky
+1000,"Bell County, Kentucky",2010,40.5,34.8,Kentucky
+1001,"Boone County, Kentucky",2010,41.9,35.6,Kentucky
+1002,"Bourbon County, Kentucky",2010,42.1,36.3,Kentucky
+1003,"Boyd County, Kentucky",2010,42,36.3,Kentucky
+1004,"Boyle County, Kentucky",2010,38.5,36.4,Kentucky
+1005,"Bracken County, Kentucky",2010,42,35.8,Kentucky
+1006,"Breathitt County, Kentucky",2010,42.2,36.7,Kentucky
+1007,"Breckinridge County, Kentucky",2010,41.8,34.9,Kentucky
+1008,"Bullitt County, Kentucky",2010,41.5,36.3,Kentucky
+1009,"Butler County, Kentucky",2010,40,36.3,Kentucky
+1010,"Caldwell County, Kentucky",2010,43.2,35.1,Kentucky
+1011,"Calloway County, Kentucky",2010,39.2,32.7,Kentucky
+1012,"Campbell County, Kentucky",2010,40.3,35.8,Kentucky
+1013,"Carlisle County, Kentucky",2010,42.5,36.1,Kentucky
+1014,"Carroll County, Kentucky",2010,42.7,35.9,Kentucky
+1015,"Carter County, Kentucky",2010,42.3,35.3,Kentucky
+1016,"Casey County, Kentucky",2010,39.9,35.8,Kentucky
+1017,"Christian County, Kentucky",2010,46.4,37.9,Kentucky
+1018,"Clark County, Kentucky",2010,42.7,36.3,Kentucky
+1019,"Clay County, Kentucky",2010,39,36.6,Kentucky
+1020,"Clinton County, Kentucky",2010,40,36.4,Kentucky
+1021,"Crittenden County, Kentucky",2010,41.9,36,Kentucky
+1022,"Cumberland County, Kentucky",2010,39.7,36.6,Kentucky
+1023,"Daviess County, Kentucky",2010,41.2,35.7,Kentucky
+1024,"Edmonson County, Kentucky",2010,42.1,37,Kentucky
+1025,"Elliott County, Kentucky",2010,39.1,32.6,Kentucky
+1026,"Estill County, Kentucky",2010,39,34.8,Kentucky
+1027,"Fayette County, Kentucky",2010,40.4,35.8,Kentucky
+1028,"Fleming County, Kentucky",2010,41.6,35.5,Kentucky
+1029,"Floyd County, Kentucky",2010,43.8,36.9,Kentucky
+1030,"Franklin County, Kentucky",2010,40,36.3,Kentucky
+1031,"Fulton County, Kentucky",2010,40.2,35.7,Kentucky
+1032,"Gallatin County, Kentucky",2010,43.9,38.6,Kentucky
+1033,"Garrard County, Kentucky",2010,38.9,36.2,Kentucky
+1034,"Grant County, Kentucky",2010,40.7,35.3,Kentucky
+1035,"Graves County, Kentucky",2010,41.7,35.1,Kentucky
+1036,"Grayson County, Kentucky",2010,41,36,Kentucky
+1037,"Green County, Kentucky",2010,42,36.5,Kentucky
+1038,"Greenup County, Kentucky",2010,42.9,35.4,Kentucky
+1039,"Hancock County, Kentucky",2010,40.7,36.2,Kentucky
+1040,"Hardin County, Kentucky",2010,46.2,37.1,Kentucky
+1041,"Harlan County, Kentucky",2010,42.9,34.2,Kentucky
+1042,"Harrison County, Kentucky",2010,42.4,37.3,Kentucky
+1043,"Hart County, Kentucky",2010,40.5,34.3,Kentucky
+1044,"Henderson County, Kentucky",2010,42.3,35.8,Kentucky
+1045,"Henry County, Kentucky",2010,39.5,37,Kentucky
+1046,"Hickman County, Kentucky",2010,41.2,35.5,Kentucky
+1047,"Hopkins County, Kentucky",2010,42.1,36.2,Kentucky
+1048,"Jackson County, Kentucky",2010,40.4,36.1,Kentucky
+1049,"Jefferson County, Kentucky",2010,40.7,36.5,Kentucky
+1050,"Jessamine County, Kentucky",2010,40.5,34.9,Kentucky
+1051,"Johnson County, Kentucky",2010,43.5,37.9,Kentucky
+1052,"Kenton County, Kentucky",2010,41.3,36.4,Kentucky
+1053,"Knott County, Kentucky",2010,44,35.8,Kentucky
+1054,"Knox County, Kentucky",2010,40.1,36.8,Kentucky
+1055,"Larue County, Kentucky",2010,41.8,36.1,Kentucky
+1056,"Laurel County, Kentucky",2010,41.7,37.1,Kentucky
+1057,"Lawrence County, Kentucky",2010,42.7,34.8,Kentucky
+1058,"Lee County, Kentucky",2010,37.9,33.2,Kentucky
+1059,"Leslie County, Kentucky",2010,47.5,37.4,Kentucky
+1060,"Letcher County, Kentucky",2010,45.3,37.2,Kentucky
+1061,"Lewis County, Kentucky",2010,40.9,34.5,Kentucky
+1062,"Lincoln County, Kentucky",2010,42.7,35.1,Kentucky
+1063,"Livingston County, Kentucky",2010,43.2,36.5,Kentucky
+1064,"Logan County, Kentucky",2010,45.2,34,Kentucky
+1065,"Lyon County, Kentucky",2010,34,39.7,Kentucky
+1066,"Madison County, Kentucky",2010,39.9,32.4,Kentucky
+1067,"Magoffin County, Kentucky",2010,44.9,33.3,Kentucky
+1068,"Marion County, Kentucky",2010,41.2,36,Kentucky
+1069,"Marshall County, Kentucky",2010,41.5,34.6,Kentucky
+1070,"Martin County, Kentucky",2010,44.6,36.2,Kentucky
+1071,"Mason County, Kentucky",2010,42.1,36.7,Kentucky
+1072,"McCracken County, Kentucky",2010,42,35.3,Kentucky
+1073,"McCreary County, Kentucky",2010,39.8,36.4,Kentucky
+1074,"McLean County, Kentucky",2010,42.9,36.2,Kentucky
+1075,"Meade County, Kentucky",2010,44.3,35.9,Kentucky
+1076,"Menifee County, Kentucky",2010,40.9,39.5,Kentucky
+1077,"Mercer County, Kentucky",2010,41.3,36.2,Kentucky
+1078,"Metcalfe County, Kentucky",2010,41.4,36.4,Kentucky
+1079,"Monroe County, Kentucky",2010,41.2,35.3,Kentucky
+1080,"Montgomery County, Kentucky",2010,42.4,37.2,Kentucky
+1081,"Morgan County, Kentucky",2010,37.7,35.7,Kentucky
+1082,"Muhlenberg County, Kentucky",2010,42.4,34.6,Kentucky
+1083,"Nelson County, Kentucky",2010,42.1,36.5,Kentucky
+1084,"Nicholas County, Kentucky",2010,40.3,35.6,Kentucky
+1085,"Ohio County, Kentucky",2010,41.5,36.1,Kentucky
+1086,"Oldham County, Kentucky",2010,42.7,35,Kentucky
+1087,"Owen County, Kentucky",2010,42,38,Kentucky
+1088,"Owsley County, Kentucky",2010,37.2,35.7,Kentucky
+1089,"Pendleton County, Kentucky",2010,42.2,36.1,Kentucky
+1090,"Perry County, Kentucky",2010,43.3,37.9,Kentucky
+1091,"Pike County, Kentucky",2010,44.7,37.3,Kentucky
+1092,"Powell County, Kentucky",2010,42.1,36.3,Kentucky
+1093,"Pulaski County, Kentucky",2010,41.5,36.8,Kentucky
+1094,"Robertson County, Kentucky",2010,40,35.5,Kentucky
+1095,"Rockcastle County, Kentucky",2010,40.1,37.5,Kentucky
+1096,"Rowan County, Kentucky",2010,37.9,34.5,Kentucky
+1097,"Russell County, Kentucky",2010,40.9,37.5,Kentucky
+1098,"Scott County, Kentucky",2010,42.2,36,Kentucky
+1099,"Shelby County, Kentucky",2010,43,37,Kentucky
+1100,"Simpson County, Kentucky",2010,41.3,37.3,Kentucky
+1101,"Spencer County, Kentucky",2010,42.5,36.3,Kentucky
+1102,"Taylor County, Kentucky",2010,40.9,36.8,Kentucky
+1103,"Todd County, Kentucky",2010,45,35.5,Kentucky
+1104,"Trigg County, Kentucky",2010,43.9,36.6,Kentucky
+1105,"Trimble County, Kentucky",2010,42.7,36.7,Kentucky
+1106,"Union County, Kentucky",2010,41.2,37.5,Kentucky
+1107,"Warren County, Kentucky",2010,39.8,34.7,Kentucky
+1108,"Washington County, Kentucky",2010,39.9,35.7,Kentucky
+1109,"Wayne County, Kentucky",2010,41.6,37.3,Kentucky
+1110,"Webster County, Kentucky",2010,42.9,34.3,Kentucky
+1111,"Whitley County, Kentucky",2010,40.7,35.8,Kentucky
+1112,"Wolfe County, Kentucky",2010,41.7,34.4,Kentucky
+1113,"Woodford County, Kentucky",2010,43.2,35.9,Kentucky
+1114,"Acadia Parish, Louisiana",2010,48.3,36,Louisiana
+1115,"Allen Parish, Louisiana",2010,43.5,36.4,Louisiana
+1116,"Ascension Parish, Louisiana",2010,44.2,37.3,Louisiana
+1117,"Assumption Parish, Louisiana",2010,44.6,37.4,Louisiana
+1118,"Avoyelles Parish, Louisiana",2010,45.8,36.8,Louisiana
+1119,"Beauregard Parish, Louisiana",2010,45.7,36.7,Louisiana
+1120,"Bienville Parish, Louisiana",2010,44.5,37.8,Louisiana
+1121,"Bossier Parish, Louisiana",2010,43.8,36.9,Louisiana
+1122,"Caddo Parish, Louisiana",2010,41.8,37.1,Louisiana
+1123,"Calcasieu Parish, Louisiana",2010,42.9,36.5,Louisiana
+1124,"Caldwell Parish, Louisiana",2010,45.7,38.5,Louisiana
+1125,"Cameron Parish, Louisiana",2010,48.8,37,Louisiana
+1126,"Catahoula Parish, Louisiana",2010,48.6,37.8,Louisiana
+1127,"Claiborne Parish, Louisiana",2010,42.4,36.9,Louisiana
+1128,"Concordia Parish, Louisiana",2010,45.2,37,Louisiana
+1129,"De Soto Parish, Louisiana",2010,43.1,37.1,Louisiana
+1130,"East Baton Rouge Parish, Louisiana",2010,41.6,36.4,Louisiana
+1131,"East Carroll Parish, Louisiana",2010,47.7,38.4,Louisiana
+1132,"East Feliciana Parish, Louisiana",2010,42,36.7,Louisiana
+1133,"Evangeline Parish, Louisiana",2010,47.1,36.8,Louisiana
+1134,"Franklin Parish, Louisiana",2010,50.8,36.1,Louisiana
+1135,"Grant Parish, Louisiana",2010,42.2,37.5,Louisiana
+1136,"Iberia Parish, Louisiana",2010,47.6,36,Louisiana
+1137,"Iberville Parish, Louisiana",2010,42.6,37.8,Louisiana
+1138,"Jackson Parish, Louisiana",2010,46.2,35.5,Louisiana
+1139,"Jefferson Davis Parish, Louisiana",2010,50.2,38.2,Louisiana
+1140,"Jefferson Parish, Louisiana",2010,43,37.2,Louisiana
+1141,"La Salle Parish, Louisiana",2010,50.2,37.6,Louisiana
+1142,"Lafayette Parish, Louisiana",2010,44.3,36.1,Louisiana
+1143,"Lafourche Parish, Louisiana",2010,47.5,36.9,Louisiana
+1144,"Lincoln Parish, Louisiana",2010,39.9,32,Louisiana
+1145,"Livingston Parish, Louisiana",2010,43.7,37.1,Louisiana
+1146,"Madison Parish, Louisiana",2010,41.6,36.9,Louisiana
+1147,"Morehouse Parish, Louisiana",2010,43.1,36.1,Louisiana
+1148,"Natchitoches Parish, Louisiana",2010,42.9,35.8,Louisiana
+1149,"Orleans Parish, Louisiana",2010,41.3,37.3,Louisiana
+1150,"Ouachita Parish, Louisiana",2010,42.6,36.8,Louisiana
+1151,"Plaquemines Parish, Louisiana",2010,40.9,37.9,Louisiana
+1152,"Pointe Coupee Parish, Louisiana",2010,43,36.9,Louisiana
+1153,"Rapides Parish, Louisiana",2010,42.7,37.2,Louisiana
+1154,"Red River Parish, Louisiana",2010,43.4,39,Louisiana
+1155,"Richland Parish, Louisiana",2010,44.3,38.9,Louisiana
+1156,"Sabine Parish, Louisiana",2010,48.5,35.8,Louisiana
+1157,"St. Bernard Parish, Louisiana",2010,39.8,37.1,Louisiana
+1158,"St. Charles Parish, Louisiana",2010,42.7,37.2,Louisiana
+1159,"St. Helena Parish, Louisiana",2010,44.2,37,Louisiana
+1160,"St. James Parish, Louisiana",2010,44.7,36.9,Louisiana
+1161,"St. John the Baptist Parish, Louisiana",2010,42.6,37.4,Louisiana
+1162,"St. Landry Parish, Louisiana",2010,45.3,37.2,Louisiana
+1163,"St. Martin Parish, Louisiana",2010,45.9,37.4,Louisiana
+1164,"St. Mary Parish, Louisiana",2010,49.3,36.9,Louisiana
+1165,"St. Tammany Parish, Louisiana",2010,44.3,36.4,Louisiana
+1166,"Tangipahoa Parish, Louisiana",2010,42.6,36,Louisiana
+1167,"Tensas Parish, Louisiana",2010,46.8,37.8,Louisiana
+1168,"Terrebonne Parish, Louisiana",2010,47.2,36.5,Louisiana
+1169,"Union Parish, Louisiana",2010,44.7,36.2,Louisiana
+1170,"Vermilion Parish, Louisiana",2010,49.7,36.5,Louisiana
+1171,"Vernon Parish, Louisiana",2010,47,37.9,Louisiana
+1172,"Washington Parish, Louisiana",2010,43.1,37.3,Louisiana
+1173,"Webster Parish, Louisiana",2010,43.6,36.4,Louisiana
+1174,"West Baton Rouge Parish, Louisiana",2010,42.7,38.1,Louisiana
+1175,"West Carroll Parish, Louisiana",2010,45.9,37.2,Louisiana
+1176,"West Feliciana Parish, Louisiana",2010,40.8,36.4,Louisiana
+1177,"Winn Parish, Louisiana",2010,49.1,36.3,Louisiana
+1178,"Androscoggin County, Maine",2010,41.1,35.5,Maine
+1179,"Aroostook County, Maine",2010,42.6,35,Maine
+1180,"Cumberland County, Maine",2010,41.3,35,Maine
+1181,"Franklin County, Maine",2010,42.3,34.3,Maine
+1182,"Hancock County, Maine",2010,41.9,35.4,Maine
+1183,"Kennebec County, Maine",2010,41,35.4,Maine
+1184,"Knox County, Maine",2010,42.4,33.4,Maine
+1185,"Lincoln County, Maine",2010,42.1,35.4,Maine
+1186,"Oxford County, Maine",2010,41.6,35.5,Maine
+1187,"Penobscot County, Maine",2010,41,33.8,Maine
+1188,"Piscataquis County, Maine",2010,43,34.7,Maine
+1189,"Sagadahoc County, Maine",2010,41.2,35.3,Maine
+1190,"Somerset County, Maine",2010,42.1,35.2,Maine
+1191,"Waldo County, Maine",2010,41.1,35.3,Maine
+1192,"Washington County, Maine",2010,41.8,34.6,Maine
+1193,"York County, Maine",2010,41.9,35.3,Maine
+1194,"Allegany County, Maryland",2010,39.3,35.1,Maryland
+1195,"Anne Arundel County, Maryland",2010,42.7,37.2,Maryland
+1196,"Baltimore city, Maryland",2010,40.2,37.5,Maryland
+1197,"Baltimore County, Maryland",2010,41.4,36.8,Maryland
+1198,"Calvert County, Maryland",2010,41.5,35.7,Maryland
+1199,"Caroline County, Maryland",2010,42,36.2,Maryland
+1200,"Carroll County, Maryland",2010,42,35.2,Maryland
+1201,"Cecil County, Maryland",2010,43.4,36.4,Maryland
+1202,"Charles County, Maryland",2010,41.5,38.1,Maryland
+1203,"Dorchester County, Maryland",2010,42.6,37,Maryland
+1204,"Frederick County, Maryland",2010,42.6,36,Maryland
+1205,"Garrett County, Maryland",2010,42.9,34.6,Maryland
+1206,"Harford County, Maryland",2010,42.4,36.2,Maryland
+1207,"Howard County, Maryland",2010,42.6,37,Maryland
+1208,"Kent County, Maryland",2010,41.8,35.1,Maryland
+1209,"Montgomery County, Maryland",2010,42.2,37.1,Maryland
+1210,"Prince George's County, Maryland",2010,40.2,38.1,Maryland
+1211,"Queen Anne's County, Maryland",2010,42.7,36.6,Maryland
+1212,"Somerset County, Maryland",2010,37,34,Maryland
+1213,"St. Mary's County, Maryland",2010,41.5,37.2,Maryland
+1214,"Talbot County, Maryland",2010,41.6,35.4,Maryland
+1215,"Washington County, Maryland",2010,41.4,35.7,Maryland
+1216,"Wicomico County, Maryland",2010,40.9,35.7,Maryland
+1217,"Worcester County, Maryland",2010,41.4,36.6,Maryland
+1218,"Barnstable County, Massachusetts",2010,41.7,34.8,Massachusetts
+1219,"Berkshire County, Massachusetts",2010,39.4,33.6,Massachusetts
+1220,"Bristol County, Massachusetts",2010,40.6,34.4,Massachusetts
+1221,"Dukes County, Massachusetts",2010,40.8,36.1,Massachusetts
+1222,"Essex County, Massachusetts",2010,41.1,34.5,Massachusetts
+1223,"Franklin County, Massachusetts",2010,40,34.5,Massachusetts
+1224,"Hampden County, Massachusetts",2010,40.5,34.6,Massachusetts
+1225,"Hampshire County, Massachusetts",2010,37.6,31.1,Massachusetts
+1226,"Middlesex County, Massachusetts",2010,41.6,35.3,Massachusetts
+1227,"Nantucket County, Massachusetts",2010,42.2,36.6,Massachusetts
+1228,"Norfolk County, Massachusetts",2010,42.2,35.3,Massachusetts
+1229,"Plymouth County, Massachusetts",2010,41.3,34.3,Massachusetts
+1230,"Suffolk County, Massachusetts",2010,40,35.8,Massachusetts
+1231,"Worcester County, Massachusetts",2010,41.3,34.7,Massachusetts
+1232,"Alcona County, Michigan",2010,39.7,34.3,Michigen
+1233,"Alger County, Michigan",2010,41.7,34,Michigen
+1234,"Allegan County, Michigan",2010,41.4,33.8,Michigen
+1235,"Alpena County, Michigan",2010,41.5,34.3,Michigen
+1236,"Antrim County, Michigan",2010,40.7,34.8,Michigen
+1237,"Arenac County, Michigan",2010,41.4,34.5,Michigen
+1238,"Baraga County, Michigan",2010,41,35,Michigen
+1239,"Barry County, Michigan",2010,41.4,34.5,Michigen
+1240,"Bay County, Michigan",2010,40.5,34.4,Michigen
+1241,"Benzie County, Michigan",2010,39.8,34.8,Michigen
+1242,"Berrien County, Michigan",2010,41.1,34.4,Michigen
+1243,"Branch County, Michigan",2010,40.3,35.3,Michigen
+1244,"Calhoun County, Michigan",2010,40.6,35.7,Michigen
+1245,"Cass County, Michigan",2010,41.5,34.4,Michigen
+1246,"Charlevoix County, Michigan",2010,40.9,35.2,Michigen
+1247,"Cheboygan County, Michigan",2010,40.8,35.4,Michigen
+1248,"Chippewa County, Michigan",2010,38.7,33.4,Michigen
+1249,"Clare County, Michigan",2010,41.7,34.1,Michigen
+1250,"Clinton County, Michigan",2010,40.4,34.1,Michigen
+1251,"Crawford County, Michigan",2010,39.8,35.3,Michigen
+1252,"Delta County, Michigan",2010,40.4,32.7,Michigen
+1253,"Dickinson County, Michigan",2010,40.7,33.5,Michigen
+1254,"Eaton County, Michigan",2010,40.2,35,Michigen
+1255,"Emmet County, Michigan",2010,41.1,35.4,Michigen
+1256,"Genesee County, Michigan",2010,40,34.8,Michigen
+1257,"Gladwin County, Michigan",2010,40.3,34.1,Michigen
+1258,"Gogebic County, Michigan",2010,40.7,33.1,Michigen
+1259,"Grand Traverse County, Michigan",2010,40.2,35,Michigen
+1260,"Gratiot County, Michigan",2010,40.4,34.2,Michigen
+1261,"Hillsdale County, Michigan",2010,41.1,34.5,Michigen
+1262,"Houghton County, Michigan",2010,35.3,31.6,Michigen
+1263,"Huron County, Michigan",2010,42.7,34.5,Michigen
+1264,"Ingham County, Michigan",2010,37.5,33.1,Michigen
+1265,"Ionia County, Michigan",2010,40.6,34,Michigen
+1266,"Iosco County, Michigan",2010,38.5,35,Michigen
+1267,"Iron County, Michigan",2010,40.2,33,Michigen
+1268,"Isabella County, Michigan",2010,36.9,31.2,Michigen
+1269,"Jackson County, Michigan",2010,40.4,34.8,Michigen
+1270,"Kalamazoo County, Michigan",2010,39.4,33.7,Michigen
+1271,"Kalkaska County, Michigan",2010,41.3,35.4,Michigen
+1272,"Kent County, Michigan",2010,40.5,34.1,Michigen
+1273,"Keweenaw County, Michigan",2010,40,32,Michigen
+1274,"Lake County, Michigan",2010,40,35.6,Michigen
+1275,"Lapeer County, Michigan",2010,41.6,33.8,Michigen
+1276,"Leelanau County, Michigan",2010,40.9,34,Michigen
+1277,"Lenawee County, Michigan",2010,40.3,34.1,Michigen
+1278,"Livingston County, Michigan",2010,42.5,34.2,Michigen
+1279,"Luce County, Michigan",2010,40.1,34.5,Michigen
+1280,"Mackinac County, Michigan",2010,39.9,36.1,Michigen
+1281,"Macomb County, Michigan",2010,41.3,34.9,Michigen
+1282,"Manistee County, Michigan",2010,38.9,34.2,Michigen
+1283,"Marquette County, Michigan",2010,38.7,32.1,Michigen
+1284,"Mason County, Michigan",2010,40.6,34.3,Michigen
+1285,"Mecosta County, Michigan",2010,38.7,32.1,Michigen
+1286,"Menominee County, Michigan",2010,42.6,34.5,Michigen
+1287,"Midland County, Michigan",2010,41.3,34.4,Michigen
+1288,"Missaukee County, Michigan",2010,43.2,33.2,Michigen
+1289,"Monroe County, Michigan",2010,41.5,34.3,Michigen
+1290,"Montcalm County, Michigan",2010,41.4,33.8,Michigen
+1291,"Montmorency County, Michigan",2010,40.8,32.1,Michigen
+1292,"Muskegon County, Michigan",2010,40.2,34.1,Michigen
+1293,"Newaygo County, Michigan",2010,42,34.7,Michigen
+1294,"Oakland County, Michigan",2010,42.3,35.6,Michigen
+1295,"Oceana County, Michigan",2010,41.9,35.2,Michigen
+1296,"Ogemaw County, Michigan",2010,40.2,33.4,Michigen
+1297,"Ontonagon County, Michigan",2010,42.4,34.5,Michigen
+1298,"Osceola County, Michigan",2010,41.6,34.7,Michigen
+1299,"Oscoda County, Michigan",2010,40.2,32.9,Michigen
+1300,"Otsego County, Michigan",2010,42.4,35.5,Michigen
+1301,"Ottawa County, Michigan",2010,40.8,31.8,Michigen
+1302,"Presque Isle County, Michigan",2010,42.6,33.4,Michigen
+1303,"Roscommon County, Michigan",2010,39.4,32.4,Michigen
+1304,"Saginaw County, Michigan",2010,39.9,34.1,Michigen
+1305,"Sanilac County, Michigan",2010,43.2,34.3,Michigen
+1306,"Schoolcraft County, Michigan",2010,39,34.2,Michigen
+1307,"Shiawassee County, Michigan",2010,41.4,34.8,Michigen
+1308,"St. Clair County, Michigan",2010,41.4,33.7,Michigen
+1309,"St. Joseph County, Michigan",2010,41,35.2,Michigen
+1310,"Tuscola County, Michigan",2010,40.8,33.9,Michigen
+1311,"Van Buren County, Michigan",2010,41.3,35.4,Michigen
+1312,"Washtenaw County, Michigan",2010,38.7,33.8,Michigen
+1313,"Wayne County, Michigan",2010,40.2,35.5,Michigen
+1314,"Wexford County, Michigan",2010,41.4,35.2,Michigen
+1315,"Aitkin County, Minnesota",2010,42.7,33.6,Minnesota
+1316,"Anoka County, Minnesota",2010,40.9,35.5,Minnesota
+1317,"Becker County, Minnesota",2010,43.3,35.1,Minnesota
+1318,"Beltrami County, Minnesota",2010,38.9,34.8,Minnesota
+1319,"Benton County, Minnesota",2010,41.4,34.7,Minnesota
+1320,"Big Stone County, Minnesota",2010,43.5,34.3,Minnesota
+1321,"Blue Earth County, Minnesota",2010,37.7,32.5,Minnesota
+1322,"Brown County, Minnesota",2010,40.7,34.2,Minnesota
+1323,"Carlton County, Minnesota",2010,40.3,34.1,Minnesota
+1324,"Carver County, Minnesota",2010,43,35.2,Minnesota
+1325,"Cass County, Minnesota",2010,41.8,34.7,Minnesota
+1326,"Chippewa County, Minnesota",2010,42.8,36.4,Minnesota
+1327,"Chisago County, Minnesota",2010,40.3,34,Minnesota
+1328,"Clay County, Minnesota",2010,40.6,32.6,Minnesota
+1329,"Clearwater County, Minnesota",2010,44.1,34.8,Minnesota
+1330,"Cook County, Minnesota",2010,40.3,36.9,Minnesota
+1331,"Cottonwood County, Minnesota",2010,43,33.5,Minnesota
+1332,"Crow Wing County, Minnesota",2010,41.1,34.3,Minnesota
+1333,"Dakota County, Minnesota",2010,41.3,35.9,Minnesota
+1334,"Dodge County, Minnesota",2010,42.7,35.5,Minnesota
+1335,"Douglas County, Minnesota",2010,42.7,35.1,Minnesota
+1336,"Faribault County, Minnesota",2010,42.8,35.4,Minnesota
+1337,"Fillmore County, Minnesota",2010,43.9,35.9,Minnesota
+1338,"Freeborn County, Minnesota",2010,41.8,35.1,Minnesota
+1339,"Goodhue County, Minnesota",2010,42.3,36,Minnesota
+1340,"Grant County, Minnesota",2010,43.2,35.5,Minnesota
+1341,"Hennepin County, Minnesota",2010,40.3,35.7,Minnesota
+1342,"Houston County, Minnesota",2010,43.7,35.1,Minnesota
+1343,"Hubbard County, Minnesota",2010,41.9,34.4,Minnesota
+1344,"Isanti County, Minnesota",2010,40.7,34,Minnesota
+1345,"Itasca County, Minnesota",2010,40.9,33.8,Minnesota
+1346,"Jackson County, Minnesota",2010,43.8,36.2,Minnesota
+1347,"Kanabec County, Minnesota",2010,40.7,34.9,Minnesota
+1348,"Kandiyohi County, Minnesota",2010,42.2,34,Minnesota
+1349,"Kittson County, Minnesota",2010,44.3,36.2,Minnesota
+1350,"Koochiching County, Minnesota",2010,40.4,34.5,Minnesota
+1351,"Lac qui Parle County, Minnesota",2010,45.1,34.4,Minnesota
+1352,"Lake County, Minnesota",2010,39.3,31.9,Minnesota
+1353,"Lake of the Woods County, Minnesota",2010,42.3,35.5,Minnesota
+1354,"Le Sueur County, Minnesota",2010,42.3,35.7,Minnesota
+1355,"Lincoln County, Minnesota",2010,46.6,35.8,Minnesota
+1356,"Lyon County, Minnesota",2010,42.1,34.5,Minnesota
+1357,"Mahnomen County, Minnesota",2010,41.2,36.3,Minnesota
+1358,"Marshall County, Minnesota",2010,44.2,36.1,Minnesota
+1359,"Martin County, Minnesota",2010,42.2,35.5,Minnesota
+1360,"McLeod County, Minnesota",2010,42.1,35.8,Minnesota
+1361,"Meeker County, Minnesota",2010,42.5,35.2,Minnesota
+1362,"Mille Lacs County, Minnesota",2010,40.6,34,Minnesota
+1363,"Morrison County, Minnesota",2010,42.5,35.1,Minnesota
+1364,"Mower County, Minnesota",2010,42.3,35,Minnesota
+1365,"Murray County, Minnesota",2010,46.1,34.9,Minnesota
+1366,"Nicollet County, Minnesota",2010,40.2,33.3,Minnesota
+1367,"Nobles County, Minnesota",2010,43.2,34.8,Minnesota
+1368,"Norman County, Minnesota",2010,43.4,35.5,Minnesota
+1369,"Olmsted County, Minnesota",2010,41.8,36.1,Minnesota
+1370,"Otter Tail County, Minnesota",2010,42.8,34.2,Minnesota
+1371,"Pennington County, Minnesota",2010,42.3,36.3,Minnesota
+1372,"Pine County, Minnesota",2010,41.2,34.4,Minnesota
+1373,"Pipestone County, Minnesota",2010,44,35.6,Minnesota
+1374,"Polk County, Minnesota",2010,42,33.9,Minnesota
+1375,"Pope County, Minnesota",2010,44.1,35.8,Minnesota
+1376,"Ramsey County, Minnesota",2010,39.1,34.8,Minnesota
+1377,"Red Lake County, Minnesota",2010,43.9,36.7,Minnesota
+1378,"Redwood County, Minnesota",2010,43.2,36.1,Minnesota
+1379,"Renville County, Minnesota",2010,44.1,34.9,Minnesota
+1380,"Rice County, Minnesota",2010,39.1,32.1,Minnesota
+1381,"Rock County, Minnesota",2010,45.1,35.5,Minnesota
+1382,"Roseau County, Minnesota",2010,41.5,35.2,Minnesota
+1383,"Scott County, Minnesota",2010,41.8,35.7,Minnesota
+1384,"Sherburne County, Minnesota",2010,40.8,34.7,Minnesota
+1385,"Sibley County, Minnesota",2010,43.3,35.7,Minnesota
+1386,"St. Louis County, Minnesota",2010,39.3,33.4,Minnesota
+1387,"Stearns County, Minnesota",2010,40.4,33.2,Minnesota
+1388,"Steele County, Minnesota",2010,41.3,36.1,Minnesota
+1389,"Stevens County, Minnesota",2010,40.8,30.5,Minnesota
+1390,"Swift County, Minnesota",2010,43.3,35.1,Minnesota
+1391,"Todd County, Minnesota",2010,45,35.5,Minnesota
+1392,"Traverse County, Minnesota",2010,45.9,33.9,Minnesota
+1393,"Wabasha County, Minnesota",2010,44.1,36.3,Minnesota
+1394,"Wadena County, Minnesota",2010,41.9,35.3,Minnesota
+1395,"Waseca County, Minnesota",2010,42.4,36.6,Minnesota
+1396,"Washington County, Minnesota",2010,41.4,35.3,Minnesota
+1397,"Watonwan County, Minnesota",2010,42.2,34.6,Minnesota
+1398,"Wilkin County, Minnesota",2010,44.4,35.1,Minnesota
+1399,"Winona County, Minnesota",2010,39.6,32.5,Minnesota
+1400,"Wright County, Minnesota",2010,42.4,35.2,Minnesota
+1401,"Yellow Medicine County, Minnesota",2010,43.4,34.5,Minnesota
+1402,"Adams County, Mississippi",2010,43.2,35.7,Mississippi
+1403,"Alcorn County, Mississippi",2010,42.1,36.4,Mississippi
+1404,"Amite County, Mississippi",2010,42.4,38.8,Mississippi
+1405,"Attala County, Mississippi",2010,43.1,37.2,Mississippi
+1406,"Benton County, Mississippi",2010,41.1,34.7,Mississippi
+1407,"Bolivar County, Mississippi",2010,42.1,35.3,Mississippi
+1408,"Calhoun County, Mississippi",2010,40.7,36.5,Mississippi
+1409,"Carroll County, Mississippi",2010,41.2,37.8,Mississippi
+1410,"Chickasaw County, Mississippi",2010,42.8,35.3,Mississippi
+1411,"Choctaw County, Mississippi",2010,45,37.2,Mississippi
+1412,"Claiborne County, Mississippi",2010,40.2,34,Mississippi
+1413,"Clarke County, Mississippi",2010,44.8,38.9,Mississippi
+1414,"Clay County, Mississippi",2010,41,36.2,Mississippi
+1415,"Coahoma County, Mississippi",2010,40.3,36.4,Mississippi
+1416,"Copiah County, Mississippi",2010,43.3,36.7,Mississippi
+1417,"Covington County, Mississippi",2010,43,37.8,Mississippi
+1418,"DeSoto County, Mississippi",2010,43.5,37.6,Mississippi
+1419,"Forrest County, Mississippi",2010,41,35.2,Mississippi
+1420,"Franklin County, Mississippi",2010,46.4,37.4,Mississippi
+1421,"George County, Mississippi",2010,44.7,35.8,Mississippi
+1422,"Greene County, Mississippi",2010,45.7,36.6,Mississippi
+1423,"Grenada County, Mississippi",2010,43.4,38.4,Mississippi
+1424,"Hancock County, Mississippi",2010,41.6,37,Mississippi
+1425,"Harrison County, Mississippi",2010,42.2,37.4,Mississippi
+1426,"Hinds County, Mississippi",2010,40.2,36.5,Mississippi
+1427,"Holmes County, Mississippi",2010,40.2,37.5,Mississippi
+1428,"Humphreys County, Mississippi",2010,43.6,35.4,Mississippi
+1429,"Issaquena County, Mississippi",2010,46,35.1,Mississippi
+1430,"Itawamba County, Mississippi",2010,41.7,36.9,Mississippi
+1431,"Jackson County, Mississippi",2010,42.5,37,Mississippi
+1432,"Jasper County, Mississippi",2010,44.7,37.4,Mississippi
+1433,"Jefferson County, Mississippi",2010,37.2,39.1,Mississippi
+1434,"Jefferson Davis County, Mississippi",2010,47.1,34.9,Mississippi
+1435,"Jones County, Mississippi",2010,42.4,36.3,Mississippi
+1436,"Kemper County, Mississippi",2010,41.4,37.2,Mississippi
+1437,"Lafayette County, Mississippi",2010,37.3,33.4,Mississippi
+1438,"Lamar County, Mississippi",2010,43.7,36.1,Mississippi
+1439,"Lauderdale County, Mississippi",2010,41.5,37.3,Mississippi
+1440,"Lawrence County, Mississippi",2010,45.9,37.5,Mississippi
+1441,"Leake County, Mississippi",2010,47.3,36.5,Mississippi
+1442,"Lee County, Mississippi",2010,42,37.1,Mississippi
+1443,"Leflore County, Mississippi",2010,40.2,35.9,Mississippi
+1444,"Lincoln County, Mississippi",2010,46.5,37.7,Mississippi
+1445,"Lowndes County, Mississippi",2010,42.8,35.9,Mississippi
+1446,"Madison County, Mississippi",2010,43.4,37.4,Mississippi
+1447,"Marion County, Mississippi",2010,45.7,35.3,Mississippi
+1448,"Marshall County, Mississippi",2010,41.5,37.5,Mississippi
+1449,"Monroe County, Mississippi",2010,42,35.7,Mississippi
+1450,"Montgomery County, Mississippi",2010,43.5,35.7,Mississippi
+1451,"Neshoba County, Mississippi",2010,45.1,37.3,Mississippi
+1452,"Newton County, Mississippi",2010,41.8,36.9,Mississippi
+1453,"Noxubee County, Mississippi",2010,42.6,35.8,Mississippi
+1454,"Oktibbeha County, Mississippi",2010,37.2,32.1,Mississippi
+1455,"Panola County, Mississippi",2010,42,37.3,Mississippi
+1456,"Pearl River County, Mississippi",2010,42.7,36.3,Mississippi
+1457,"Perry County, Mississippi",2010,44.5,37.1,Mississippi
+1458,"Pike County, Mississippi",2010,43.7,37.3,Mississippi
+1459,"Pontotoc County, Mississippi",2010,41.3,36.2,Mississippi
+1460,"Prentiss County, Mississippi",2010,40.7,36.2,Mississippi
+1461,"Quitman County, Mississippi",2010,39.7,38,Mississippi
+1462,"Rankin County, Mississippi",2010,42.4,37.4,Mississippi
+1463,"Scott County, Mississippi",2010,42.5,37.1,Mississippi
+1464,"Sharkey County, Mississippi",2010,41.4,35.3,Mississippi
+1465,"Simpson County, Mississippi",2010,44.2,38,Mississippi
+1466,"Smith County, Mississippi",2010,45.3,38.1,Mississippi
+1467,"Stone County, Mississippi",2010,43.2,37.8,Mississippi
+1468,"Sunflower County, Mississippi",2010,42.2,36,Mississippi
+1469,"Tallahatchie County, Mississippi",2010,42,35,Mississippi
+1470,"Tate County, Mississippi",2010,39.9,35.6,Mississippi
+1471,"Tippah County, Mississippi",2010,40.3,36.8,Mississippi
+1472,"Tishomingo County, Mississippi",2010,42.5,36.8,Mississippi
+1473,"Tunica County, Mississippi",2010,41.8,37.1,Mississippi
+1474,"Union County, Mississippi",2010,41,36.9,Mississippi
+1475,"Walthall County, Mississippi",2010,44.6,35.2,Mississippi
+1476,"Warren County, Mississippi",2010,42.2,37.6,Mississippi
+1477,"Washington County, Mississippi",2010,42.4,36.5,Mississippi
+1478,"Wayne County, Mississippi",2010,47.2,35.3,Mississippi
+1479,"Webster County, Mississippi",2010,42.3,36.2,Mississippi
+1480,"Wilkinson County, Mississippi",2010,42.9,37.2,Mississippi
+1481,"Winston County, Mississippi",2010,42.1,35.9,Mississippi
+1482,"Yalobusha County, Mississippi",2010,42.1,36.8,Mississippi
+1483,"Yazoo County, Mississippi",2010,39.2,36.7,Mississippi
+1484,"Adair County, Missouri",2010,38.2,32.5,Missouri
+1485,"Andrew County, Missouri",2010,42.1,36.8,Missouri
+1486,"Atchison County, Missouri",2010,44.4,36.5,Missouri
+1487,"Audrain County, Missouri",2010,41.8,35.8,Missouri
+1488,"Barry County, Missouri",2010,41.3,36.2,Missouri
+1489,"Barton County, Missouri",2010,44.3,35.1,Missouri
+1490,"Bates County, Missouri",2010,41.9,36.9,Missouri
+1491,"Benton County, Missouri",2010,42.4,35.6,Missouri
+1492,"Bollinger County, Missouri",2010,43,35.4,Missouri
+1493,"Boone County, Missouri",2010,38.4,34.3,Missouri
+1494,"Buchanan County, Missouri",2010,41.6,35.7,Missouri
+1495,"Butler County, Missouri",2010,41.2,37.3,Missouri
+1496,"Caldwell County, Missouri",2010,42.5,36.5,Missouri
+1497,"Callaway County, Missouri",2010,40.2,36.2,Missouri
+1498,"Camden County, Missouri",2010,41.4,36.4,Missouri
+1499,"Cape Girardeau County, Missouri",2010,40.5,34.7,Missouri
+1500,"Carroll County, Missouri",2010,43,35.9,Missouri
+1501,"Carter County, Missouri",2010,45.4,34.8,Missouri
+1502,"Cass County, Missouri",2010,41.7,36.5,Missouri
+1503,"Cedar County, Missouri",2010,41.2,36.4,Missouri
+1504,"Chariton County, Missouri",2010,43.8,36.4,Missouri
+1505,"Christian County, Missouri",2010,42.3,36.3,Missouri
+1506,"Clark County, Missouri",2010,44.6,36.4,Missouri
+1507,"Clay County, Missouri",2010,42.8,37.3,Missouri
+1508,"Clinton County, Missouri",2010,43.4,36.3,Missouri
+1509,"Cole County, Missouri",2010,41.4,36.8,Missouri
+1510,"Cooper County, Missouri",2010,41.9,37.2,Missouri
+1511,"Crawford County, Missouri",2010,40.6,35.5,Missouri
+1512,"Dade County, Missouri",2010,41.9,38.3,Missouri
+1513,"Dallas County, Missouri",2010,43.4,36.2,Missouri
+1514,"Daviess County, Missouri",2010,42.9,35.5,Missouri
+1515,"DeKalb County, Missouri",2010,40.2,37,Missouri
+1516,"Dent County, Missouri",2010,41.8,37.2,Missouri
+1517,"Douglas County, Missouri",2010,39.6,34.9,Missouri
+1518,"Dunklin County, Missouri",2010,41.7,36.5,Missouri
+1519,"Franklin County, Missouri",2010,40.9,35.9,Missouri
+1520,"Gasconade County, Missouri",2010,41.1,37.9,Missouri
+1521,"Gentry County, Missouri",2010,44.1,37,Missouri
+1522,"Greene County, Missouri",2010,40.7,35.1,Missouri
+1523,"Grundy County, Missouri",2010,42.2,35.8,Missouri
+1524,"Harrison County, Missouri",2010,43,36.8,Missouri
+1525,"Henry County, Missouri",2010,41.5,36.9,Missouri
+1526,"Hickory County, Missouri",2010,43,34.1,Missouri
+1527,"Holt County, Missouri",2010,43.2,35.5,Missouri
+1528,"Howard County, Missouri",2010,40.7,36.2,Missouri
+1529,"Howell County, Missouri",2010,40.6,35.9,Missouri
+1530,"Iron County, Missouri",2010,41.1,35.4,Missouri
+1531,"Jackson County, Missouri",2010,40.9,36.8,Missouri
+1532,"Jasper County, Missouri",2010,41.1,35.9,Missouri
+1533,"Jefferson County, Missouri",2010,40.4,35.5,Missouri
+1534,"Johnson County, Missouri",2010,41,35.3,Missouri
+1535,"Knox County, Missouri",2010,43.3,38.1,Missouri
+1536,"Laclede County, Missouri",2010,41.7,35.9,Missouri
+1537,"Lafayette County, Missouri",2010,41.2,36.2,Missouri
+1538,"Lawrence County, Missouri",2010,41.8,35.4,Missouri
+1539,"Lewis County, Missouri",2010,40.5,34.9,Missouri
+1540,"Lincoln County, Missouri",2010,41,35.8,Missouri
+1541,"Linn County, Missouri",2010,42.7,36.9,Missouri
+1542,"Livingston County, Missouri",2010,42,36.5,Missouri
+1543,"Macon County, Missouri",2010,42.3,35.7,Missouri
+1544,"Madison County, Missouri",2010,40.6,36.7,Missouri
+1545,"Maries County, Missouri",2010,43.8,37.9,Missouri
+1546,"Marion County, Missouri",2010,42.1,36.2,Missouri
+1547,"McDonald County, Missouri",2010,40.9,35.6,Missouri
+1548,"Mercer County, Missouri",2010,43.3,34.6,Missouri
+1549,"Miller County, Missouri",2010,41,35.4,Missouri
+1550,"Mississippi County, Missouri",2010,40.4,35.7,Missouri
+1551,"Moniteau County, Missouri",2010,40.8,35.1,Missouri
+1552,"Monroe County, Missouri",2010,42.1,38.2,Missouri
+1553,"Montgomery County, Missouri",2010,41.3,34.9,Missouri
+1554,"Morgan County, Missouri",2010,41.9,37.2,Missouri
+1555,"New Madrid County, Missouri",2010,41.9,37.2,Missouri
+1556,"Newton County, Missouri",2010,42.4,35.7,Missouri
+1557,"Nodaway County, Missouri",2010,38.6,33,Missouri
+1558,"Oregon County, Missouri",2010,42.6,36.4,Missouri
+1559,"Osage County, Missouri",2010,42.4,37.9,Missouri
+1560,"Ozark County, Missouri",2010,41.5,36.9,Missouri
+1561,"Pemiscot County, Missouri",2010,41,36.7,Missouri
+1562,"Perry County, Missouri",2010,42.8,36.3,Missouri
+1563,"Pettis County, Missouri",2010,42.3,36.6,Missouri
+1564,"Phelps County, Missouri",2010,37.6,34.9,Missouri
+1565,"Pike County, Missouri",2010,42.8,36,Missouri
+1566,"Platte County, Missouri",2010,43.2,37.1,Missouri
+1567,"Polk County, Missouri",2010,39.7,34.9,Missouri
+1568,"Pulaski County, Missouri",2010,47.1,39.4,Missouri
+1569,"Putnam County, Missouri",2010,43.4,36.6,Missouri
+1570,"Ralls County, Missouri",2010,42.7,35.5,Missouri
+1571,"Randolph County, Missouri",2010,41.4,36.2,Missouri
+1572,"Ray County, Missouri",2010,43.4,37.4,Missouri
+1573,"Reynolds County, Missouri",2010,40,34.8,Missouri
+1574,"Ripley County, Missouri",2010,42.4,38.2,Missouri
+1575,"Saline County, Missouri",2010,41.5,37,Missouri
+1576,"Schuyler County, Missouri",2010,42.1,36.4,Missouri
+1577,"Scotland County, Missouri",2010,46.8,34.4,Missouri
+1578,"Scott County, Missouri",2010,41.2,36.4,Missouri
+1579,"Shannon County, Missouri",2010,42.4,36,Missouri
+1580,"Shelby County, Missouri",2010,43.3,36.4,Missouri
+1581,"St. Charles County, Missouri",2010,41.7,35.8,Missouri
+1582,"St. Clair County, Missouri",2010,44.4,36.1,Missouri
+1583,"St. Francois County, Missouri",2010,42.1,35.9,Missouri
+1584,"St. Louis city, Missouri",2010,39.5,36.7,Missouri
+1585,"St. Louis County, Missouri",2010,40.7,36.1,Missouri
+1586,"Ste. Genevieve County, Missouri",2010,42.3,35.5,Missouri
+1587,"Stoddard County, Missouri",2010,44.5,36.5,Missouri
+1588,"Stone County, Missouri",2010,40.6,36.2,Missouri
+1589,"Sullivan County, Missouri",2010,41.8,35,Missouri
+1590,"Taney County, Missouri",2010,41.4,35.9,Missouri
+1591,"Texas County, Missouri",2010,41.1,35.9,Missouri
+1592,"Vernon County, Missouri",2010,41.5,34.9,Missouri
+1593,"Warren County, Missouri",2010,40.6,34.9,Missouri
+1594,"Washington County, Missouri",2010,40,35.9,Missouri
+1595,"Wayne County, Missouri",2010,41,36.4,Missouri
+1596,"Webster County, Missouri",2010,40.9,36.3,Missouri
+1597,"Worth County, Missouri",2010,46,33.9,Missouri
+1598,"Wright County, Missouri",2010,41.7,36.5,Missouri
+1599,"Beaverhead County, Montana",2010,40,33.9,Montana
+1600,"Big Horn County, Montana",2010,42.5,37.6,Montana
+1601,"Blaine County, Montana",2010,44.2,37.7,Montana
+1602,"Broadwater County, Montana",2010,47,34,Montana
+1603,"Carbon County, Montana",2010,44.1,34.6,Montana
+1604,"Carter County, Montana",2010,52.2,41.7,Montana
+1605,"Cascade County, Montana",2010,42.3,36.1,Montana
+1606,"Chouteau County, Montana",2010,42.5,36.7,Montana
+1607,"Custer County, Montana",2010,45.4,35.8,Montana
+1608,"Daniels County, Montana",2010,54.4,35.8,Montana
+1609,"Dawson County, Montana",2010,47.3,35.5,Montana
+1610,"Deer Lodge County, Montana",2010,40.5,37.2,Montana
+1611,"Fallon County, Montana",2010,48.8,35.9,Montana
+1612,"Fergus County, Montana",2010,43.8,34,Montana
+1613,"Flathead County, Montana",2010,40.8,34.4,Montana
+1614,"Gallatin County, Montana",2010,41.3,33.8,Montana
+1615,"Garfield County, Montana",2010,52.2,36.6,Montana
+1616,"Glacier County, Montana",2010,42.4,37.7,Montana
+1617,"Golden Valley County, Montana",2010,50.5,39.1,Montana
+1618,"Granite County, Montana",2010,43.2,35.4,Montana
+1619,"Hill County, Montana",2010,43,35.5,Montana
+1620,"Jefferson County, Montana",2010,37.4,35.8,Montana
+1621,"Judith Basin County, Montana",2010,41.6,38.7,Montana
+1622,"Lake County, Montana",2010,42.2,35.2,Montana
+1623,"Lewis and Clark County, Montana",2010,40,35.5,Montana
+1624,"Liberty County, Montana",2010,42.9,34.5,Montana
+1625,"Lincoln County, Montana",2010,41.9,35.1,Montana
+1626,"Madison County, Montana",2010,46.4,36.3,Montana
+1627,"McCone County, Montana",2010,50.6,40.3,Montana
+1628,"Meagher County, Montana",2010,46.2,34.6,Montana
+1629,"Mineral County, Montana",2010,42.9,35.6,Montana
+1630,"Missoula County, Montana",2010,39.5,34.2,Montana
+1631,"Musselshell County, Montana",2010,46.9,35.5,Montana
+1632,"Park County, Montana",2010,42.2,35.5,Montana
+1633,"Petroleum County, Montana",2010,50.2,35.2,Montana
+1634,"Phillips County, Montana",2010,46.5,37.8,Montana
+1635,"Pondera County, Montana",2010,43.3,33.6,Montana
+1636,"Powder River County, Montana",2010,50,37.9,Montana
+1637,"Powell County, Montana",2010,39.3,37.1,Montana
+1638,"Prairie County, Montana",2010,47.8,41,Montana
+1639,"Ravalli County, Montana",2010,41.4,33.4,Montana
+1640,"Richland County, Montana",2010,47.3,36,Montana
+1641,"Roosevelt County, Montana",2010,42.4,37.4,Montana
+1642,"Rosebud County, Montana",2010,45,34.8,Montana
+1643,"Sanders County, Montana",2010,41.8,34.4,Montana
+1644,"Sheridan County, Montana",2010,49.8,34.6,Montana
+1645,"Silver Bow County, Montana",2010,41.2,35.5,Montana
+1646,"Stillwater County, Montana",2010,44.8,35.1,Montana
+1647,"Sweet Grass County, Montana",2010,47,35.2,Montana
+1648,"Teton County, Montana",2010,45.7,35,Montana
+1649,"Toole County, Montana",2010,45,37.6,Montana
+1650,"Treasure County, Montana",2010,47.8,35.1,Montana
+1651,"Valley County, Montana",2010,42.2,36.6,Montana
+1652,"Wheatland County, Montana",2010,55,44.6,Montana
+1653,"Wibaux County, Montana",2010,45.8,35.7,Montana
+1654,"Yellowstone County, Montana",2010,42.3,35.7,Montana
+1655,"Adams County, Nebraska",2010,42.2,35.7,Nebraska
+1656,"Antelope County, Nebraska",2010,48.9,36.3,Nebraska
+1657,"Arthur County, Nebraska",2010,55.7,40.4,Nebraska
+1658,"Banner County, Nebraska",2010,53.9,36.1,Nebraska
+1659,"Blaine County, Nebraska",2010,57.4,34.3,Nebraska
+1660,"Boone County, Nebraska",2010,48.2,34.5,Nebraska
+1661,"Box Butte County, Nebraska",2010,47.1,35.5,Nebraska
+1662,"Boyd County, Nebraska",2010,50.6,37.5,Nebraska
+1663,"Brown County, Nebraska",2010,48.5,35.3,Nebraska
+1664,"Buffalo County, Nebraska",2010,42.3,35.1,Nebraska
+1665,"Burt County, Nebraska",2010,45.3,36.4,Nebraska
+1666,"Butler County, Nebraska",2010,44,35.9,Nebraska
+1667,"Cass County, Nebraska",2010,43.7,37,Nebraska
+1668,"Cedar County, Nebraska",2010,46.6,34.9,Nebraska
+1669,"Chase County, Nebraska",2010,46.8,35.2,Nebraska
+1670,"Cherry County, Nebraska",2010,50.7,37.6,Nebraska
+1671,"Cheyenne County, Nebraska",2010,43.9,37.6,Nebraska
+1672,"Clay County, Nebraska",2010,45.1,35.8,Nebraska
+1673,"Colfax County, Nebraska",2010,44.6,35.9,Nebraska
+1674,"Cuming County, Nebraska",2010,47.4,36.5,Nebraska
+1675,"Custer County, Nebraska",2010,47.8,35,Nebraska
+1676,"Dakota County, Nebraska",2010,42.9,37.1,Nebraska
+1677,"Dawes County, Nebraska",2010,41.7,34.6,Nebraska
+1678,"Dawson County, Nebraska",2010,44.8,36.7,Nebraska
+1679,"Deuel County, Nebraska",2010,45.6,35.2,Nebraska
+1680,"Dixon County, Nebraska",2010,44.7,39.5,Nebraska
+1681,"Dodge County, Nebraska",2010,42.1,35.9,Nebraska
+1682,"Douglas County, Nebraska",2010,41.3,36,Nebraska
+1683,"Dundy County, Nebraska",2010,52.8,39.5,Nebraska
+1684,"Fillmore County, Nebraska",2010,48.8,34.3,Nebraska
+1685,"Franklin County, Nebraska",2010,45.7,36.4,Nebraska
+1686,"Frontier County, Nebraska",2010,51,35.9,Nebraska
+1687,"Furnas County, Nebraska",2010,46.8,34.6,Nebraska
+1688,"Gage County, Nebraska",2010,44.2,35.9,Nebraska
+1689,"Garden County, Nebraska",2010,50.1,34.7,Nebraska
+1690,"Garfield County, Nebraska",2010,46.5,35.7,Nebraska
+1691,"Gosper County, Nebraska",2010,47.1,36.5,Nebraska
+1692,"Grant County, Nebraska",2010,54.5,38.7,Nebraska
+1693,"Greeley County, Nebraska",2010,49.2,37.3,Nebraska
+1694,"Hall County, Nebraska",2010,43.2,37.2,Nebraska
+1695,"Hamilton County, Nebraska",2010,46.8,36,Nebraska
+1696,"Harlan County, Nebraska",2010,48.4,36.5,Nebraska
+1697,"Hayes County, Nebraska",2010,56.5,34.1,Nebraska
+1698,"Hitchcock County, Nebraska",2010,46.6,35.6,Nebraska
+1699,"Holt County, Nebraska",2010,49.8,37.9,Nebraska
+1700,"Hooker County, Nebraska",2010,51.8,37.6,Nebraska
+1701,"Howard County, Nebraska",2010,46.3,37.2,Nebraska
+1702,"Jefferson County, Nebraska",2010,44.2,35.5,Nebraska
+1703,"Johnson County, Nebraska",2010,48,37.8,Nebraska
+1704,"Kearney County, Nebraska",2010,46.9,35.5,Nebraska
+1705,"Keith County, Nebraska",2010,47.1,37.1,Nebraska
+1706,"Keya Paha County, Nebraska",2010,52.3,37.1,Nebraska
+1707,"Kimball County, Nebraska",2010,45,38.4,Nebraska
+1708,"Knox County, Nebraska",2010,48,37.1,Nebraska
+1709,"Lancaster County, Nebraska",2010,40.1,35,Nebraska
+1710,"Lincoln County, Nebraska",2010,44.1,36.2,Nebraska
+1711,"Logan County, Nebraska",2010,49.5,41.6,Nebraska
+1712,"Loup County, Nebraska",2010,55.3,39.6,Nebraska
+1713,"Madison County, Nebraska",2010,43,35.7,Nebraska
+1714,"McPherson County, Nebraska",2010,49,38.2,Nebraska
+1715,"Merrick County, Nebraska",2010,45.2,36.5,Nebraska
+1716,"Morrill County, Nebraska",2010,45.8,35,Nebraska
+1717,"Nance County, Nebraska",2010,47,34.3,Nebraska
+1718,"Nemaha County, Nebraska",2010,43.8,33.4,Nebraska
+1719,"Nuckolls County, Nebraska",2010,43.7,33.8,Nebraska
+1720,"Otoe County, Nebraska",2010,44,37.7,Nebraska
+1721,"Pawnee County, Nebraska",2010,48.1,36.6,Nebraska
+1722,"Perkins County, Nebraska",2010,49.9,34.3,Nebraska
+1723,"Phelps County, Nebraska",2010,47.5,35.7,Nebraska
+1724,"Pierce County, Nebraska",2010,48.1,36.3,Nebraska
+1725,"Platte County, Nebraska",2010,44,36.6,Nebraska
+1726,"Polk County, Nebraska",2010,46.5,35.6,Nebraska
+1727,"Red Willow County, Nebraska",2010,44.2,34,Nebraska
+1728,"Richardson County, Nebraska",2010,43.9,36.8,Nebraska
+1729,"Rock County, Nebraska",2010,53.6,38.4,Nebraska
+1730,"Saline County, Nebraska",2010,44,36.2,Nebraska
+1731,"Sarpy County, Nebraska",2010,42.8,36.6,Nebraska
+1732,"Saunders County, Nebraska",2010,44.4,35.9,Nebraska
+1733,"Scotts Bluff County, Nebraska",2010,43.4,36.2,Nebraska
+1734,"Seward County, Nebraska",2010,41.7,34.1,Nebraska
+1735,"Sheridan County, Nebraska",2010,46.3,37.7,Nebraska
+1736,"Sherman County, Nebraska",2010,47.3,36.9,Nebraska
+1737,"Sioux County, Nebraska",2010,45.2,35.7,Nebraska
+1738,"Stanton County, Nebraska",2010,48.4,37.3,Nebraska
+1739,"Thayer County, Nebraska",2010,46.5,35.1,Nebraska
+1740,"Thomas County, Nebraska",2010,55.7,44,Nebraska
+1741,"Thurston County, Nebraska",2010,43.5,36.7,Nebraska
+1742,"Valley County, Nebraska",2010,49.9,34.3,Nebraska
+1743,"Washington County, Nebraska",2010,43.4,34.9,Nebraska
+1744,"Wayne County, Nebraska",2010,39,31.9,Nebraska
+1745,"Webster County, Nebraska",2010,47.4,38.2,Nebraska
+1746,"Wheeler County, Nebraska",2010,56.2,40.4,Nebraska
+1747,"York County, Nebraska",2010,44.2,35.1,Nebraska
+1748,"Carson City, Nevada",2010,40,35.9,Nevada
+1749,"Churchill County, Nevada",2010,40.9,36.1,Nevada
+1750,"Clark County, Nevada",2010,41,37.5,Nevada
+1751,"Douglas County, Nevada",2010,40.8,35.9,Nevada
+1752,"Elko County, Nevada",2010,43.7,35.9,Nevada
+1753,"Esmeralda County, Nevada",2010,41.2,29,Nevada
+1754,"Eureka County, Nevada",2010,51.1,37.3,Nevada
+1755,"Humboldt County, Nevada",2010,45.5,35.4,Nevada
+1756,"Lander County, Nevada",2010,46.8,37.2,Nevada
+1757,"Lincoln County, Nevada",2010,41.6,34.4,Nevada
+1758,"Lyon County, Nevada",2010,40.4,35.8,Nevada
+1759,"Mineral County, Nevada",2010,41.6,37.3,Nevada
+1760,"Nye County, Nevada",2010,40.6,36,Nevada
+1761,"Pershing County, Nevada",2010,45.4,37.2,Nevada
+1762,"Storey County, Nevada",2010,40.9,38.6,Nevada
+1763,"Washoe County, Nevada",2010,41.1,36.7,Nevada
+1764,"White Pine County, Nevada",2010,41.1,35,Nevada
+1765,"Belknap County, New Hampshire",2010,42.1,36.5,New Hampshire
+1766,"Carroll County, New Hampshire",2010,41.8,34.7,New Hampshire
+1767,"Cheshire County, New Hampshire",2010,40,34.1,New Hampshire
+1768,"Coos County, New Hampshire",2010,41.9,34.8,New Hampshire
+1769,"Grafton County, New Hampshire",2010,40.8,34.5,New Hampshire
+1770,"Hillsborough County, New Hampshire",2010,41.7,35.7,New Hampshire
+1771,"Merrimack County, New Hampshire",2010,41.3,35.3,New Hampshire
+1772,"Rockingham County, New Hampshire",2010,42.5,34.7,New Hampshire
+1773,"Strafford County, New Hampshire",2010,40.5,33.8,New Hampshire
+1774,"Sullivan County, New Hampshire",2010,41.4,35.4,New Hampshire
+1775,"Atlantic County, New Jersey",2010,40.2,35.6,New Jersey
+1776,"Bergen County, New Jersey",2010,42.4,36.1,New Jersey
+1777,"Burlington County, New Jersey",2010,41.8,35.9,New Jersey
+1778,"Camden County, New Jersey",2010,41.5,35.7,New Jersey
+1779,"Cape May County, New Jersey",2010,41.6,35.5,New Jersey
+1780,"Cumberland County, New Jersey",2010,41,35.7,New Jersey
+1781,"Essex County, New Jersey",2010,41.2,36.4,New Jersey
+1782,"Gloucester County, New Jersey",2010,41.5,35.1,New Jersey
+1783,"Hudson County, New Jersey",2010,41.4,37.8,New Jersey
+1784,"Hunterdon County, New Jersey",2010,42.7,35.1,New Jersey
+1785,"Mercer County, New Jersey",2010,41.1,35.7,New Jersey
+1786,"Middlesex County, New Jersey",2010,41,35.9,New Jersey
+1787,"Monmouth County, New Jersey",2010,42.3,34.8,New Jersey
+1788,"Morris County, New Jersey",2010,42.8,35.5,New Jersey
+1789,"Ocean County, New Jersey",2010,41.2,34.4,New Jersey
+1790,"Passaic County, New Jersey",2010,41,35.6,New Jersey
+1791,"Salem County, New Jersey",2010,42.2,35.3,New Jersey
+1792,"Somerset County, New Jersey",2010,42.8,36.6,New Jersey
+1793,"Sussex County, New Jersey",2010,42.1,34.9,New Jersey
+1794,"Union County, New Jersey",2010,41.5,36.4,New Jersey
+1795,"Warren County, New Jersey",2010,42.6,34.9,New Jersey
+1796,"Bernalillo County, New Mexico",2010,40.5,36,New Mexico
+1797,"Catron County, New Mexico",2010,42.6,34.5,New Mexico
+1798,"Chaves County, New Mexico",2010,42.6,35.4,New Mexico
+1799,"Cibola County, New Mexico",2010,38.9,37.5,New Mexico
+1800,"Colfax County, New Mexico",2010,41,36.5,New Mexico
+1801,"Curry County, New Mexico",2010,43.5,35.7,New Mexico
+1802,"De Baca County, New Mexico",2010,48.1,40.4,New Mexico
+1803,"Do?a Ana County, New Mexico",2010,40,35.3,New Mexico
+1804,"Eddy County, New Mexico",2010,43.7,37.1,New Mexico
+1805,"Grant County, New Mexico",2010,40.3,35.5,New Mexico
+1806,"Guadalupe County, New Mexico",2010,38.6,33.2,New Mexico
+1807,"Harding County, New Mexico",2010,37.7,32.9,New Mexico
+1808,"Hidalgo County, New Mexico",2010,44,35,New Mexico
+1809,"Lea County, New Mexico",2010,46.9,36.7,New Mexico
+1810,"Lincoln County, New Mexico",2010,41.8,36.3,New Mexico
+1811,"Los Alamos County, New Mexico",2010,41.9,35,New Mexico
+1812,"Luna County, New Mexico",2010,41.7,35.3,New Mexico
+1813,"McKinley County, New Mexico",2010,39.6,37.2,New Mexico
+1814,"Mora County, New Mexico",2010,34.8,37.2,New Mexico
+1815,"Otero County, New Mexico",2010,40.8,36.9,New Mexico
+1816,"Quay County, New Mexico",2010,41.3,38,New Mexico
+1817,"Rio Arriba County, New Mexico",2010,39.6,36,New Mexico
+1818,"Roosevelt County, New Mexico",2010,42.6,35.1,New Mexico
+1819,"San Juan County, New Mexico",2010,43.2,36.7,New Mexico
+1820,"San Miguel County, New Mexico",2010,38.3,36.3,New Mexico
+1821,"Sandoval County, New Mexico",2010,41.4,36.9,New Mexico
+1822,"Santa Fe County, New Mexico",2010,40.1,35.8,New Mexico
+1823,"Sierra County, New Mexico",2010,39.1,37.5,New Mexico
+1824,"Socorro County, New Mexico",2010,38.1,36.5,New Mexico
+1825,"Taos County, New Mexico",2010,39,35.7,New Mexico
+1826,"Torrance County, New Mexico",2010,42.8,35.8,New Mexico
+1827,"Union County, New Mexico",2010,45.6,37.8,New Mexico
+1828,"Valencia County, New Mexico",2010,40.8,36.2,New Mexico
+1829,"Albany County, New York",2010,39.9,35.1,New York
+1830,"Allegany County, New York",2010,39.6,32.6,New York
+1831,"Bronx County, New York",2010,40.2,36.7,New York
+1832,"Broome County, New York",2010,39.3,34.6,New York
+1833,"Cattaraugus County, New York",2010,40.6,34.2,New York
+1834,"Cayuga County, New York",2010,41.8,34.9,New York
+1835,"Chautauqua County, New York",2010,40.9,34,New York
+1836,"Chemung County, New York",2010,40.4,34.8,New York
+1837,"Chenango County, New York",2010,41.1,35.3,New York
+1838,"Clinton County, New York",2010,40,34.5,New York
+1839,"Columbia County, New York",2010,41.1,34.8,New York
+1840,"Cortland County, New York",2010,40.2,34.5,New York
+1841,"Delaware County, New York",2010,41.4,35.3,New York
+1842,"Dutchess County, New York",2010,41.2,34.6,New York
+1843,"Erie County, New York",2010,40,34.4,New York
+1844,"Essex County, New York",2010,40.2,35,New York
+1845,"Franklin County, New York",2010,41.9,35.4,New York
+1846,"Fulton County, New York",2010,41.3,36,New York
+1847,"Genesee County, New York",2010,41.6,34.7,New York
+1848,"Greene County, New York",2010,39.5,35.4,New York
+1849,"Hamilton County, New York",2010,43.2,37.3,New York
+1850,"Herkimer County, New York",2010,41.7,35.3,New York
+1851,"Jefferson County, New York",2010,44,35.7,New York
+1852,"Kings County, New York",2010,41,37.3,New York
+1853,"Lewis County, New York",2010,44.5,35,New York
+1854,"Livingston County, New York",2010,40.1,33.5,New York
+1855,"Madison County, New York",2010,41.3,35.6,New York
+1856,"Monroe County, New York",2010,39.8,35,New York
+1857,"Montgomery County, New York",2010,41.4,36.3,New York
+1858,"Nassau County, New York",2010,41.9,35,New York
+1859,"New York County, New York",2010,44.6,40.1,New York
+1860,"Niagara County, New York",2010,40.5,34.5,New York
+1861,"Oneida County, New York",2010,39.7,34.8,New York
+1862,"Onondaga County, New York",2010,40.3,34.7,New York
+1863,"Ontario County, New York",2010,41.6,35,New York
+1864,"Orange County, New York",2010,42.9,35.4,New York
+1865,"Orleans County, New York",2010,40.8,35,New York
+1866,"Oswego County, New York",2010,39.8,34,New York
+1867,"Otsego County, New York",2010,40.5,34.2,New York
+1868,"Putnam County, New York",2010,41.9,34.8,New York
+1869,"Queens County, New York",2010,41.4,37,New York
+1870,"Rensselaer County, New York",2010,39.9,35.2,New York
+1871,"Richmond County, New York",2010,41.2,35.3,New York
+1872,"Rockland County, New York",2010,40.9,34.6,New York
+1873,"Saratoga County, New York",2010,41.8,35.1,New York
+1874,"Schenectady County, New York",2010,40.4,34.6,New York
+1875,"Schoharie County, New York",2010,41.1,34.9,New York
+1876,"Schuyler County, New York",2010,40.5,35,New York
+1877,"Seneca County, New York",2010,41.8,35.8,New York
+1878,"St. Lawrence County, New York",2010,40.1,33.2,New York
+1879,"Steuben County, New York",2010,42.7,35.7,New York
+1880,"Suffolk County, New York",2010,42,34.9,New York
+1881,"Sullivan County, New York",2010,41.2,36.5,New York
+1882,"Tioga County, New York",2010,40.8,35.3,New York
+1883,"Tompkins County, New York",2010,37.6,32.4,New York
+1884,"Ulster County, New York",2010,40.6,34.7,New York
+1885,"Warren County, New York",2010,41.4,35.5,New York
+1886,"Washington County, New York",2010,41.9,35.4,New York
+1887,"Wayne County, New York",2010,41.2,35.2,New York
+1888,"Westchester County, New York",2010,42.7,36.1,New York
+1889,"Wyoming County, New York",2010,42.7,35,New York
+1890,"Yates County, New York",2010,42.9,35.2,New York
+1891,"Alamance County, North Carolina",2010,41.1,36.6,North Carolina
+1892,"Alexander County, North Carolina",2010,41.3,36,North Carolina
+1893,"Alleghany County, North Carolina",2010,42.2,35.3,North Carolina
+1894,"Anson County, North Carolina",2010,40.7,38,North Carolina
+1895,"Ashe County, North Carolina",2010,40.2,35.5,North Carolina
+1896,"Avery County, North Carolina",2010,38.1,35.2,North Carolina
+1897,"Beaufort County, North Carolina",2010,41.8,35.6,North Carolina
+1898,"Bertie County, North Carolina",2010,39.8,36.8,North Carolina
+1899,"Bladen County, North Carolina",2010,41.9,37,North Carolina
+1900,"Brunswick County, North Carolina",2010,41.1,36.2,North Carolina
+1901,"Buncombe County, North Carolina",2010,40.6,35.6,North Carolina
+1902,"Burke County, North Carolina",2010,40.1,36.5,North Carolina
+1903,"Cabarrus County, North Carolina",2010,42.2,36.4,North Carolina
+1904,"Caldwell County, North Carolina",2010,40.7,36.2,North Carolina
+1905,"Camden County, North Carolina",2010,44,36.2,North Carolina
+1906,"Carteret County, North Carolina",2010,42.2,36.5,North Carolina
+1907,"Caswell County, North Carolina",2010,40.5,36.4,North Carolina
+1908,"Catawba County, North Carolina",2010,41.6,36.7,North Carolina
+1909,"Chatham County, North Carolina",2010,41.6,36.8,North Carolina
+1910,"Cherokee County, North Carolina",2010,41,36.7,North Carolina
+1911,"Chowan County, North Carolina",2010,40.5,34.7,North Carolina
+1912,"Clay County, North Carolina",2010,40.4,36.8,North Carolina
+1913,"Cleveland County, North Carolina",2010,41.2,36.1,North Carolina
+1914,"Columbus County, North Carolina",2010,41.4,36.7,North Carolina
+1915,"Craven County, North Carolina",2010,43.9,36,North Carolina
+1916,"Cumberland County, North Carolina",2010,46.3,37.4,North Carolina
+1917,"Currituck County, North Carolina",2010,41.9,37,North Carolina
+1918,"Dare County, North Carolina",2010,43,36.7,North Carolina
+1919,"Davidson County, North Carolina",2010,41.3,36.5,North Carolina
+1920,"Davie County, North Carolina",2010,41.3,37.3,North Carolina
+1921,"Duplin County, North Carolina",2010,42.2,36.6,North Carolina
+1922,"Durham County, North Carolina",2010,40.8,37.1,North Carolina
+1923,"Edgecombe County, North Carolina",2010,41.7,37,North Carolina
+1924,"Forsyth County, North Carolina",2010,41.3,36.5,North Carolina
+1925,"Franklin County, North Carolina",2010,42.2,37,North Carolina
+1926,"Gaston County, North Carolina",2010,41.4,36.2,North Carolina
+1927,"Gates County, North Carolina",2010,43.9,34.3,North Carolina
+1928,"Graham County, North Carolina",2010,40.1,35.2,North Carolina
+1929,"Granville County, North Carolina",2010,41.2,37.3,North Carolina
+1930,"Greene County, North Carolina",2010,40.8,36.5,North Carolina
+1931,"Guilford County, North Carolina",2010,41,36,North Carolina
+1932,"Halifax County, North Carolina",2010,42.4,36.7,North Carolina
+1933,"Harnett County, North Carolina",2010,42.3,36,North Carolina
+1934,"Haywood County, North Carolina",2010,42,36.8,North Carolina
+1935,"Henderson County, North Carolina",2010,41.3,35.7,North Carolina
+1936,"Hertford County, North Carolina",2010,42.3,35.4,North Carolina
+1937,"Hoke County, North Carolina",2010,42.6,36.7,North Carolina
+1938,"Hyde County, North Carolina",2010,46.6,35.6,North Carolina
+1939,"Iredell County, North Carolina",2010,42.9,35.6,North Carolina
+1940,"Jackson County, North Carolina",2010,38.7,33.8,North Carolina
+1941,"Johnston County, North Carolina",2010,41.7,37.2,North Carolina
+1942,"Jones County, North Carolina",2010,41.2,37,North Carolina
+1943,"Lee County, North Carolina",2010,41.6,37.4,North Carolina
+1944,"Lenoir County, North Carolina",2010,40.9,36.7,North Carolina
+1945,"Lincoln County, North Carolina",2010,41.9,37,North Carolina
+1946,"Macon County, North Carolina",2010,39.7,36,North Carolina
+1947,"Madison County, North Carolina",2010,39.4,35.1,North Carolina
+1948,"Martin County, North Carolina",2010,41.2,35.9,North Carolina
+1949,"McDowell County, North Carolina",2010,40.6,37.1,North Carolina
+1950,"Mecklenburg County, North Carolina",2010,42.4,37.4,North Carolina
+1951,"Mitchell County, North Carolina",2010,42.9,36.4,North Carolina
+1952,"Montgomery County, North Carolina",2010,41.7,35.6,North Carolina
+1953,"Moore County, North Carolina",2010,40.9,35.1,North Carolina
+1954,"Nash County, North Carolina",2010,41.9,37.5,North Carolina
+1955,"New Hanover County, North Carolina",2010,41.1,35.4,North Carolina
+1956,"Northampton County, North Carolina",2010,41.1,36.2,North Carolina
+1957,"Onslow County, North Carolina",2010,49.9,37.2,North Carolina
+1958,"Orange County, North Carolina",2010,39.4,33.5,North Carolina
+1959,"Pamlico County, North Carolina",2010,42.9,35.4,North Carolina
+1960,"Pasquotank County, North Carolina",2010,41.6,35.6,North Carolina
+1961,"Pender County, North Carolina",2010,43.3,35.2,North Carolina
+1962,"Perquimans County, North Carolina",2010,41.1,33.3,North Carolina
+1963,"Person County, North Carolina",2010,42.7,37.1,North Carolina
+1964,"Pitt County, North Carolina",2010,39.1,34.8,North Carolina
+1965,"Polk County, North Carolina",2010,42.3,36.9,North Carolina
+1966,"Randolph County, North Carolina",2010,41.6,36.8,North Carolina
+1967,"Richmond County, North Carolina",2010,41.2,35.8,North Carolina
+1968,"Robeson County, North Carolina",2010,39.1,36,North Carolina
+1969,"Rockingham County, North Carolina",2010,41.2,37.2,North Carolina
+1970,"Rowan County, North Carolina",2010,40.9,36.5,North Carolina
+1971,"Rutherford County, North Carolina",2010,41.4,36.4,North Carolina
+1972,"Sampson County, North Carolina",2010,43.3,37.8,North Carolina
+1973,"Scotland County, North Carolina",2010,38.7,35.6,North Carolina
+1974,"Stanly County, North Carolina",2010,40.7,35.8,North Carolina
+1975,"Stokes County, North Carolina",2010,41.5,37,North Carolina
+1976,"Surry County, North Carolina",2010,41.6,36.6,North Carolina
+1977,"Swain County, North Carolina",2010,40.6,37.2,North Carolina
+1978,"Transylvania County, North Carolina",2010,39.9,32.1,North Carolina
+1979,"Tyrrell County, North Carolina",2010,41,34.5,North Carolina
+1980,"Union County, North Carolina",2010,43.2,35.6,North Carolina
+1981,"Vance County, North Carolina",2010,40.1,37,North Carolina
+1982,"Wake County, North Carolina",2010,41.8,36.6,North Carolina
+1983,"Warren County, North Carolina",2010,40.4,36.5,North Carolina
+1984,"Washington County, North Carolina",2010,39.8,36.7,North Carolina
+1985,"Watauga County, North Carolina",2010,35.3,31,North Carolina
+1986,"Wayne County, North Carolina",2010,42.4,36.7,North Carolina
+1987,"Wilkes County, North Carolina",2010,41.6,36.8,North Carolina
+1988,"Wilson County, North Carolina",2010,42.4,37.2,North Carolina
+1989,"Yadkin County, North Carolina",2010,42.2,37.4,North Carolina
+1990,"Yancey County, North Carolina",2010,42.2,36.2,North Carolina
+1991,"Adams County, North Dakota",2010,48.4,38.2,North Dakota
+1992,"Barnes County, North Dakota",2010,44.9,35.4,North Dakota
+1993,"Benson County, North Dakota",2010,44,37,North Dakota
+1994,"Billings County, North Dakota",2010,55,38.4,North Dakota
+1995,"Bottineau County, North Dakota",2010,47.1,34.3,North Dakota
+1996,"Bowman County, North Dakota",2010,48,34.8,North Dakota
+1997,"Burke County, North Dakota",2010,49.5,35.7,North Dakota
+1998,"Burleigh County, North Dakota",2010,42.5,36.2,North Dakota
+1999,"Cass County, North Dakota",2010,41.3,35.2,North Dakota
+2000,"Cavalier County, North Dakota",2010,47.2,33.9,North Dakota
+2001,"Dickey County, North Dakota",2010,44.5,33.3,North Dakota
+2002,"Divide County, North Dakota",2010,52.3,38,North Dakota
+2003,"Dunn County, North Dakota",2010,49.7,36.2,North Dakota
+2004,"Eddy County, North Dakota",2010,47.2,34.7,North Dakota
+2005,"Emmons County, North Dakota",2010,50.7,35.3,North Dakota
+2006,"Foster County, North Dakota",2010,46.8,35.5,North Dakota
+2007,"Golden Valley County, North Dakota",2010,47.2,35.5,North Dakota
+2008,"Grand Forks County, North Dakota",2010,39.8,33.4,North Dakota
+2009,"Grant County, North Dakota",2010,56.6,38.8,North Dakota
+2010,"Griggs County, North Dakota",2010,48.4,36.4,North Dakota
+2011,"Hettinger County, North Dakota",2010,49.2,36.2,North Dakota
+2012,"Kidder County, North Dakota",2010,53.6,39,North Dakota
+2013,"LaMoure County, North Dakota",2010,48.4,37.6,North Dakota
+2014,"Logan County, North Dakota",2010,50.7,35.9,North Dakota
+2015,"McHenry County, North Dakota",2010,48.4,37.4,North Dakota
+2016,"McIntosh County, North Dakota",2010,50.8,37.9,North Dakota
+2017,"McKenzie County, North Dakota",2010,49.8,39,North Dakota
+2018,"McLean County, North Dakota",2010,45.3,35.4,North Dakota
+2019,"Mercer County, North Dakota",2010,43.6,34,North Dakota
+2020,"Morton County, North Dakota",2010,43.3,35.5,North Dakota
+2021,"Mountrail County, North Dakota",2010,48.4,37.5,North Dakota
+2022,"Nelson County, North Dakota",2010,46.6,34.1,North Dakota
+2023,"Oliver County, North Dakota",2010,48.7,34.9,North Dakota
+2024,"Pembina County, North Dakota",2010,46.6,36.1,North Dakota
+2025,"Pierce County, North Dakota",2010,44.8,37,North Dakota
+2026,"Ramsey County, North Dakota",2010,44.4,36,North Dakota
+2027,"Ransom County, North Dakota",2010,46.5,36.5,North Dakota
+2028,"Renville County, North Dakota",2010,48.5,35.9,North Dakota
+2029,"Richland County, North Dakota",2010,44.1,35.2,North Dakota
+2030,"Rolette County, North Dakota",2010,39.9,36.9,North Dakota
+2031,"Sargent County, North Dakota",2010,45.5,35.8,North Dakota
+2032,"Sheridan County, North Dakota",2010,50.8,33.9,North Dakota
+2033,"Sioux County, North Dakota",2010,41.7,39.3,North Dakota
+2034,"Slope County, North Dakota",2010,59.2,34,North Dakota
+2035,"Stark County, North Dakota",2010,45.6,35.8,North Dakota
+2036,"Steele County, North Dakota",2010,50.1,33.4,North Dakota
+2037,"Stutsman County, North Dakota",2010,43.2,36.2,North Dakota
+2038,"Towner County, North Dakota",2010,46.5,35.8,North Dakota
+2039,"Traill County, North Dakota",2010,44,34.8,North Dakota
+2040,"Walsh County, North Dakota",2010,44.8,36.3,North Dakota
+2041,"Ward County, North Dakota",2010,43.9,35.9,North Dakota
+2042,"Wells County, North Dakota",2010,47.3,33.1,North Dakota
+2043,"Williams County, North Dakota",2010,50.7,35.4,North Dakota
+2044,"Adams County, Ohio",2010,41.8,34.8,Ohio
+2045,"Allen County, Ohio",2010,40.4,33.8,Ohio
+2046,"Ashland County, Ohio",2010,41.2,34.8,Ohio
+2047,"Ashtabula County, Ohio",2010,40.6,34.7,Ohio
+2048,"Athens County, Ohio",2010,34.6,30.8,Ohio
+2049,"Auglaize County, Ohio",2010,42.2,34.4,Ohio
+2050,"Belmont County, Ohio",2010,39.2,34.8,Ohio
+2051,"Brown County, Ohio",2010,41.6,36.1,Ohio
+2052,"Butler County, Ohio",2010,41.3,35.1,Ohio
+2053,"Carroll County, Ohio",2010,42.2,33.5,Ohio
+2054,"Champaign County, Ohio",2010,41,34.7,Ohio
+2055,"Clark County, Ohio",2010,40.7,35.1,Ohio
+2056,"Clermont County, Ohio",2010,41.8,35.5,Ohio
+2057,"Clinton County, Ohio",2010,40.5,35.2,Ohio
+2058,"Columbiana County, Ohio",2010,41.9,34.3,Ohio
+2059,"Coshocton County, Ohio",2010,42.2,34.8,Ohio
+2060,"Crawford County, Ohio",2010,41.9,35,Ohio
+2061,"Cuyahoga County, Ohio",2010,40.6,35.6,Ohio
+2062,"Darke County, Ohio",2010,42.8,35,Ohio
+2063,"Defiance County, Ohio",2010,40.5,34.9,Ohio
+2064,"Delaware County, Ohio",2010,43,35.9,Ohio
+2065,"Erie County, Ohio",2010,41.3,34.7,Ohio
+2066,"Fairfield County, Ohio",2010,41.9,35.3,Ohio
+2067,"Fayette County, Ohio",2010,41.3,35.9,Ohio
+2068,"Franklin County, Ohio",2010,40.5,36.3,Ohio
+2069,"Fulton County, Ohio",2010,42.1,34.9,Ohio
+2070,"Gallia County, Ohio",2010,40.3,34.9,Ohio
+2071,"Geauga County, Ohio",2010,42.1,33.8,Ohio
+2072,"Greene County, Ohio",2010,40.2,33.8,Ohio
+2073,"Guernsey County, Ohio",2010,42.3,35.4,Ohio
+2074,"Hamilton County, Ohio",2010,40.7,35.5,Ohio
+2075,"Hancock County, Ohio",2010,41.3,34.8,Ohio
+2076,"Hardin County, Ohio",2010,39.2,32.6,Ohio
+2077,"Harrison County, Ohio",2010,42.5,33.6,Ohio
+2078,"Henry County, Ohio",2010,42,33.4,Ohio
+2079,"Highland County, Ohio",2010,41.2,35.2,Ohio
+2080,"Hocking County, Ohio",2010,40.1,35.2,Ohio
+2081,"Holmes County, Ohio",2010,43.3,33,Ohio
+2082,"Huron County, Ohio",2010,41.6,35,Ohio
+2083,"Jackson County, Ohio",2010,42.4,36.1,Ohio
+2084,"Jefferson County, Ohio",2010,40.8,34.3,Ohio
+2085,"Knox County, Ohio",2010,41.5,33.4,Ohio
+2086,"Lake County, Ohio",2010,41.5,35.4,Ohio
+2087,"Lawrence County, Ohio",2010,41.8,36,Ohio
+2088,"Licking County, Ohio",2010,41,35.7,Ohio
+2089,"Logan County, Ohio",2010,42,35.6,Ohio
+2090,"Lorain County, Ohio",2010,41.3,34.9,Ohio
+2091,"Lucas County, Ohio",2010,40.1,34.7,Ohio
+2092,"Madison County, Ohio",2010,42,35.4,Ohio
+2093,"Mahoning County, Ohio",2010,40.5,34.3,Ohio
+2094,"Marion County, Ohio",2010,42.2,35.9,Ohio
+2095,"Medina County, Ohio",2010,42.5,34.8,Ohio
+2096,"Meigs County, Ohio",2010,43.8,36.5,Ohio
+2097,"Mercer County, Ohio",2010,42.4,34.4,Ohio
+2098,"Miami County, Ohio",2010,42.7,35.8,Ohio
+2099,"Monroe County, Ohio",2010,42.3,34.2,Ohio
+2100,"Montgomery County, Ohio",2010,40.4,35.3,Ohio
+2101,"Morgan County, Ohio",2010,42.2,34.1,Ohio
+2102,"Morrow County, Ohio",2010,41.5,35.3,Ohio
+2103,"Muskingum County, Ohio",2010,41.8,34.9,Ohio
+2104,"Noble County, Ohio",2010,33.5,34,Ohio
+2105,"Ottawa County, Ohio",2010,42.3,35.2,Ohio
+2106,"Paulding County, Ohio",2010,41.4,35.5,Ohio
+2107,"Perry County, Ohio",2010,41.3,35.3,Ohio
+2108,"Pickaway County, Ohio",2010,41.6,35.9,Ohio
+2109,"Pike County, Ohio",2010,41,34.5,Ohio
+2110,"Portage County, Ohio",2010,40.3,33.4,Ohio
+2111,"Preble County, Ohio",2010,41.5,34.8,Ohio
+2112,"Putnam County, Ohio",2010,41.5,33.8,Ohio
+2113,"Richland County, Ohio",2010,41,35.9,Ohio
+2114,"Ross County, Ohio",2010,40.8,35.7,Ohio
+2115,"Sandusky County, Ohio",2010,41,36.1,Ohio
+2116,"Scioto County, Ohio",2010,40.6,34.9,Ohio
+2117,"Seneca County, Ohio",2010,41.2,34.9,Ohio
+2118,"Shelby County, Ohio",2010,41.9,34.6,Ohio
+2119,"Stark County, Ohio",2010,41.1,34.3,Ohio
+2120,"Summit County, Ohio",2010,41.3,35.4,Ohio
+2121,"Trumbull County, Ohio",2010,40,34.6,Ohio
+2122,"Tuscarawas County, Ohio",2010,41.7,34.7,Ohio
+2123,"Union County, Ohio",2010,43.7,36.5,Ohio
+2124,"Van Wert County, Ohio",2010,40.9,33.7,Ohio
+2125,"Vinton County, Ohio",2010,42.5,34.6,Ohio
+2126,"Warren County, Ohio",2010,42.9,35.8,Ohio
+2127,"Washington County, Ohio",2010,41.6,35.5,Ohio
+2128,"Wayne County, Ohio",2010,42.8,34.3,Ohio
+2129,"Williams County, Ohio",2010,41.1,35.2,Ohio
+2130,"Wood County, Ohio",2010,39.9,33.4,Ohio
+2131,"Wyandot County, Ohio",2010,42.5,34.9,Ohio
+2132,"Adair County, Oklahoma",2010,41.8,37.3,Oklahama
+2133,"Alfalfa County, Oklahoma",2010,45.6,35.2,Oklahama
+2134,"Atoka County, Oklahoma",2010,44.4,36.6,Oklahama
+2135,"Beaver County, Oklahoma",2010,48.3,35.1,Oklahama
+2136,"Beckham County, Oklahoma",2010,47.8,36,Oklahama
+2137,"Blaine County, Oklahoma",2010,45.6,36.5,Oklahama
+2138,"Bryan County, Oklahoma",2010,42.2,37.7,Oklahama
+2139,"Caddo County, Oklahoma",2010,43.6,36.6,Oklahama
+2140,"Canadian County, Oklahoma",2010,43.5,36.9,Oklahama
+2141,"Carter County, Oklahoma",2010,41.7,37.2,Oklahama
+2142,"Cherokee County, Oklahoma",2010,39.5,35.9,Oklahama
+2143,"Choctaw County, Oklahoma",2010,42.1,39.4,Oklahama
+2144,"Cimarron County, Oklahoma",2010,47.8,39.1,Oklahama
+2145,"Cleveland County, Oklahoma",2010,40.7,35.7,Oklahama
+2146,"Coal County, Oklahoma",2010,44.8,37.5,Oklahama
+2147,"Comanche County, Oklahoma",2010,45.6,36.6,Oklahama
+2148,"Cotton County, Oklahoma",2010,45.9,38.1,Oklahama
+2149,"Craig County, Oklahoma",2010,42.7,37.7,Oklahama
+2150,"Creek County, Oklahoma",2010,42.4,36.8,Oklahama
+2151,"Custer County, Oklahoma",2010,42.1,35.5,Oklahama
+2152,"Delaware County, Oklahoma",2010,42.4,36.2,Oklahama
+2153,"Dewey County, Oklahoma",2010,46.8,38.3,Oklahama
+2154,"Ellis County, Oklahoma",2010,46.3,35.7,Oklahama
+2155,"Garfield County, Oklahoma",2010,43.8,35.7,Oklahama
+2156,"Garvin County, Oklahoma",2010,41.9,37.6,Oklahama
+2157,"Grady County, Oklahoma",2010,45.3,36.3,Oklahama
+2158,"Grant County, Oklahoma",2010,45.8,35.7,Oklahama
+2159,"Greer County, Oklahoma",2010,43.4,35.3,Oklahama
+2160,"Harmon County, Oklahoma",2010,49.4,34.7,Oklahama
+2161,"Harper County, Oklahoma",2010,44.8,38.4,Oklahama
+2162,"Haskell County, Oklahoma",2010,48.1,37.7,Oklahama
+2163,"Hughes County, Oklahoma",2010,44.5,37,Oklahama
+2164,"Jackson County, Oklahoma",2010,44.1,35.4,Oklahama
+2165,"Jefferson County, Oklahoma",2010,46.4,35.7,Oklahama
+2166,"Johnston County, Oklahoma",2010,43.9,37.4,Oklahama
+2167,"Kay County, Oklahoma",2010,43,36.6,Oklahama
+2168,"Kingfisher County, Oklahoma",2010,45.4,36.4,Oklahama
+2169,"Kiowa County, Oklahoma",2010,46.2,34.5,Oklahama
+2170,"Latimer County, Oklahoma",2010,46.3,36.2,Oklahama
+2171,"Le Flore County, Oklahoma",2010,43.3,36.9,Oklahama
+2172,"Lincoln County, Oklahoma",2010,44.6,37.2,Oklahama
+2173,"Logan County, Oklahoma",2010,43,36.3,Oklahama
+2174,"Love County, Oklahoma",2010,41.7,37.2,Oklahama
+2175,"Major County, Oklahoma",2010,46.1,36.4,Oklahama
+2176,"Marshall County, Oklahoma",2010,43.7,37.5,Oklahama
+2177,"Mayes County, Oklahoma",2010,43.2,37.1,Oklahama
+2178,"McClain County, Oklahoma",2010,45.4,36.5,Oklahama
+2179,"McCurtain County, Oklahoma",2010,44.3,36.7,Oklahama
+2180,"McIntosh County, Oklahoma",2010,41.5,36.6,Oklahama
+2181,"Murray County, Oklahoma",2010,43.9,36.3,Oklahama
+2182,"Muskogee County, Oklahoma",2010,42.3,37.3,Oklahama
+2183,"Noble County, Oklahoma",2010,44.3,37,Oklahama
+2184,"Nowata County, Oklahoma",2010,45.6,37.2,Oklahama
+2185,"Okfuskee County, Oklahoma",2010,42.8,36.7,Oklahama
+2186,"Oklahoma County, Oklahoma",2010,41.8,36.7,Oklahama
+2187,"Okmulgee County, Oklahoma",2010,41.5,37.1,Oklahama
+2188,"Osage County, Oklahoma",2010,42.6,36.1,Oklahama
+2189,"Ottawa County, Oklahoma",2010,41.5,37.1,Oklahama
+2190,"Pawnee County, Oklahoma",2010,44,36.9,Oklahama
+2191,"Payne County, Oklahoma",2010,38.1,32.9,Oklahama
+2192,"Pittsburg County, Oklahoma",2010,44.6,37.1,Oklahama
+2193,"Pontotoc County, Oklahoma",2010,41,35.9,Oklahama
+2194,"Pottawatomie County, Oklahoma",2010,41.7,36.3,Oklahama
+2195,"Pushmataha County, Oklahoma",2010,43.9,36.2,Oklahama
+2196,"Roger Mills County, Oklahoma",2010,47.4,38,Oklahama
+2197,"Rogers County, Oklahoma",2010,43,36.8,Oklahama
+2198,"Seminole County, Oklahoma",2010,42.9,35.8,Oklahama
+2199,"Sequoyah County, Oklahoma",2010,42.2,36.6,Oklahama
+2200,"Stephens County, Oklahoma",2010,45.1,36.5,Oklahama
+2201,"Texas County, Oklahoma",2010,45.6,38.2,Oklahama
+2202,"Tillman County, Oklahoma",2010,44.7,37.5,Oklahama
+2203,"Tulsa County, Oklahoma",2010,42.4,36.6,Oklahama
+2204,"Wagoner County, Oklahoma",2010,43.1,36.4,Oklahama
+2205,"Washington County, Oklahoma",2010,41.9,37.3,Oklahama
+2206,"Washita County, Oklahoma",2010,50.3,38.4,Oklahama
+2207,"Woods County, Oklahoma",2010,41.4,34.6,Oklahama
+2208,"Woodward County, Oklahoma",2010,47.7,35.1,Oklahama
+2209,"Baker County, Oregon",2010,40.7,34.4,Oregon
+2210,"Benton County, Oregon",2010,37.2,31.9,Oregon
+2211,"Clackamas County, Oregon",2010,41.1,34.5,Oregon
+2212,"Clatsop County, Oregon",2010,40.5,33.6,Oregon
+2213,"Columbia County, Oregon",2010,41.7,34.9,Oregon
+2214,"Coos County, Oregon",2010,40.8,34.2,Oregon
+2215,"Crook County, Oregon",2010,41.4,35.1,Oregon
+2216,"Curry County, Oregon",2010,41.6,33.8,Oregon
+2217,"Deschutes County, Oregon",2010,40.3,34.7,Oregon
+2218,"Douglas County, Oregon",2010,40.9,34.2,Oregon
+2219,"Gilliam County, Oregon",2010,47.3,34.9,Oregon
+2220,"Grant County, Oregon",2010,43.9,32.5,Oregon
+2221,"Harney County, Oregon",2010,45.8,33.2,Oregon
+2222,"Hood River County, Oregon",2010,41.4,34.3,Oregon
+2223,"Jackson County, Oregon",2010,39.8,34.6,Oregon
+2224,"Jefferson County, Oregon",2010,41.4,35.9,Oregon
+2225,"Josephine County, Oregon",2010,38.6,33.9,Oregon
+2226,"Klamath County, Oregon",2010,42,35.5,Oregon
+2227,"Lake County, Oregon",2010,45,36.4,Oregon
+2228,"Lane County, Oregon",2010,38.9,33.4,Oregon
+2229,"Lincoln County, Oregon",2010,39.9,34.6,Oregon
+2230,"Linn County, Oregon",2010,41.8,34.4,Oregon
+2231,"Malheur County, Oregon",2010,41.8,34,Oregon
+2232,"Marion County, Oregon",2010,40.6,35.1,Oregon
+2233,"Morrow County, Oregon",2010,45.3,37.1,Oregon
+2234,"Multnomah County, Oregon",2010,39.7,35.5,Oregon
+2235,"Polk County, Oregon",2010,40.1,34.3,Oregon
+2236,"Sherman County, Oregon",2010,47.1,33.2,Oregon
+2237,"Tillamook County, Oregon",2010,42.2,34,Oregon
+2238,"Umatilla County, Oregon",2010,42.1,35.9,Oregon
+2239,"Union County, Oregon",2010,41.9,34.6,Oregon
+2240,"Wallowa County, Oregon",2010,42.2,35.5,Oregon
+2241,"Wasco County, Oregon",2010,41.5,35.7,Oregon
+2242,"Washington County, Oregon",2010,41.5,35.6,Oregon
+2243,"Wheeler County, Oregon",2010,44.4,35.4,Oregon
+2244,"Yamhill County, Oregon",2010,40.6,33.6,Oregon
+2245,"Adams County, Pennsylvania",2010,42.3,35.2,Pennsylvania
+2246,"Allegheny County, Pennsylvania",2010,41,35.4,Pennsylvania
+2247,"Armstrong County, Pennsylvania",2010,42.5,34,Pennsylvania
+2248,"Beaver County, Pennsylvania",2010,41.4,35,Pennsylvania
+2249,"Bedford County, Pennsylvania",2010,42.3,35,Pennsylvania
+2250,"Berks County, Pennsylvania",2010,41.7,35.3,Pennsylvania
+2251,"Blair County, Pennsylvania",2010,41.3,35.2,Pennsylvania
+2252,"Bradford County, Pennsylvania",2010,42.9,35.4,Pennsylvania
+2253,"Bucks County, Pennsylvania",2010,42.4,35.5,Pennsylvania
+2254,"Butler County, Pennsylvania",2010,42.5,34.5,Pennsylvania
+2255,"Cambria County, Pennsylvania",2010,40.7,34.3,Pennsylvania
+2256,"Cameron County, Pennsylvania",2010,41.6,36,Pennsylvania
+2257,"Carbon County, Pennsylvania",2010,41.5,34.9,Pennsylvania
+2258,"Centre County, Pennsylvania",2010,38,32.7,Pennsylvania
+2259,"Chester County, Pennsylvania",2010,42.6,35.3,Pennsylvania
+2260,"Clarion County, Pennsylvania",2010,40.7,33.3,Pennsylvania
+2261,"Clearfield County, Pennsylvania",2010,42.8,34.7,Pennsylvania
+2262,"Clinton County, Pennsylvania",2010,40.3,34.1,Pennsylvania
+2263,"Columbia County, Pennsylvania",2010,40.3,32.9,Pennsylvania
+2264,"Crawford County, Pennsylvania",2010,40.9,34.3,Pennsylvania
+2265,"Cumberland County, Pennsylvania",2010,41.5,34.7,Pennsylvania
+2266,"Dauphin County, Pennsylvania",2010,41.2,36.5,Pennsylvania
+2267,"Delaware County, Pennsylvania",2010,41.3,35.3,Pennsylvania
+2268,"Elk County, Pennsylvania",2010,42.3,35,Pennsylvania
+2269,"Erie County, Pennsylvania",2010,40.2,34.1,Pennsylvania
+2270,"Fayette County, Pennsylvania",2010,41.1,35.1,Pennsylvania
+2271,"Forest County, Pennsylvania",2010,38.8,33.5,Pennsylvania
+2272,"Franklin County, Pennsylvania",2010,42.7,35.6,Pennsylvania
+2273,"Fulton County, Pennsylvania",2010,42.8,36.3,Pennsylvania
+2274,"Greene County, Pennsylvania",2010,41.9,34.2,Pennsylvania
+2275,"Huntingdon County, Pennsylvania",2010,41,34.6,Pennsylvania
+2276,"Indiana County, Pennsylvania",2010,41,33.1,Pennsylvania
+2277,"Jefferson County, Pennsylvania",2010,42.4,33.7,Pennsylvania
+2278,"Juniata County, Pennsylvania",2010,42.4,34.5,Pennsylvania
+2279,"Lackawanna County, Pennsylvania",2010,40.8,34.6,Pennsylvania
+2280,"Lancaster County, Pennsylvania",2010,42.5,34.2,Pennsylvania
+2281,"Lawrence County, Pennsylvania",2010,41.9,34.4,Pennsylvania
+2282,"Lebanon County, Pennsylvania",2010,42.4,35.1,Pennsylvania
+2283,"Lehigh County, Pennsylvania",2010,41.4,35,Pennsylvania
+2284,"Luzerne County, Pennsylvania",2010,40.7,35.3,Pennsylvania
+2285,"Lycoming County, Pennsylvania",2010,40.9,34.6,Pennsylvania
+2286,"McKean County, Pennsylvania",2010,41.5,34.8,Pennsylvania
+2287,"Mercer County, Pennsylvania",2010,41.4,34.1,Pennsylvania
+2288,"Mifflin County, Pennsylvania",2010,42.9,34.4,Pennsylvania
+2289,"Monroe County, Pennsylvania",2010,41.4,34.9,Pennsylvania
+2290,"Montgomery County, Pennsylvania",2010,42.5,35.8,Pennsylvania
+2291,"Montour County, Pennsylvania",2010,40.8,36.3,Pennsylvania
+2292,"Northampton County, Pennsylvania",2010,41.5,35.4,Pennsylvania
+2293,"Northumberland County, Pennsylvania",2010,40.8,34.8,Pennsylvania
+2294,"Perry County, Pennsylvania",2010,42.3,35.7,Pennsylvania
+2295,"Philadelphia County, Pennsylvania",2010,39.7,36.1,Pennsylvania
+2296,"Pike County, Pennsylvania",2010,41.8,34.7,Pennsylvania
+2297,"Potter County, Pennsylvania",2010,42.3,35,Pennsylvania
+2298,"Schuylkill County, Pennsylvania",2010,41.5,35.2,Pennsylvania
+2299,"Snyder County, Pennsylvania",2010,39.2,32.4,Pennsylvania
+2300,"Somerset County, Pennsylvania",2010,42.2,35.5,Pennsylvania
+2301,"Sullivan County, Pennsylvania",2010,43.6,35.4,Pennsylvania
+2302,"Susquehanna County, Pennsylvania",2010,43.3,35,Pennsylvania
+2303,"Tioga County, Pennsylvania",2010,42.3,34.9,Pennsylvania
+2304,"Union County, Pennsylvania",2010,39.4,32,Pennsylvania
+2305,"Venango County, Pennsylvania",2010,41.1,34.9,Pennsylvania
+2306,"Warren County, Pennsylvania",2010,41.7,34.8,Pennsylvania
+2307,"Washington County, Pennsylvania",2010,41.3,34.7,Pennsylvania
+2308,"Wayne County, Pennsylvania",2010,41.1,35.6,Pennsylvania
+2309,"Westmoreland County, Pennsylvania",2010,41.5,35.3,Pennsylvania
+2310,"Wyoming County, Pennsylvania",2010,41.4,34.4,Pennsylvania
+2311,"York County, Pennsylvania",2010,42.1,35.6,Pennsylvania
+2312,"Adjuntas Municipio, Puerto Rico",2010,37.5,32.8,Puerto Rico
+2313,"Aguada Municipio, Puerto Rico",2010,35.7,33.1,Puerto Rico
+2314,"Aguadilla Municipio, Puerto Rico",2010,36.4,33.2,Puerto Rico
+2315,"Aguas Buenas Municipio, Puerto Rico",2010,37.7,37.1,Puerto Rico
+2316,"Aibonito Municipio, Puerto Rico",2010,36.5,35.8,Puerto Rico
+2317,"Añasco Municipio, Puerto Rico",2010,35.8,34.1,Puerto Rico
+2318,"Arecibo Municipio, Puerto Rico",2010,37.4,34.3,Puerto Rico
+2319,"Arroyo Municipio, Puerto Rico",2010,37,33.4,Puerto Rico
+2320,"Barceloneta Municipio, Puerto Rico",2010,37.7,35.7,Puerto Rico
+2321,"Barranquitas Municipio, Puerto Rico",2010,35.7,34.8,Puerto Rico
+2322,"Bayamón Municipio, Puerto Rico",2010,37.6,35.2,Puerto Rico
+2323,"Cabo Rojo Municipio, Puerto Rico",2010,37.5,34.2,Puerto Rico
+2324,"Caguas Municipio, Puerto Rico",2010,37.3,35.7,Puerto Rico
+2325,"Camuy Municipio, Puerto Rico",2010,35.4,32.9,Puerto Rico
+2326,"Canóvanas Municipio, Puerto Rico",2010,37.7,34.5,Puerto Rico
+2327,"Carolina Municipio, Puerto Rico",2010,38.1,35.8,Puerto Rico
+2328,"Cataño Municipio, Puerto Rico",2010,37.6,34.1,Puerto Rico
+2329,"Cayey Municipio, Puerto Rico",2010,36.8,34.5,Puerto Rico
+2330,"Ceiba Municipio, Puerto Rico",2010,37.3,35.2,Puerto Rico
+2331,"Ciales Municipio, Puerto Rico",2010,37.4,34,Puerto Rico
+2332,"Cidra Municipio, Puerto Rico",2010,38.2,35.4,Puerto Rico
+2333,"Coamo Municipio, Puerto Rico",2010,36.4,34.2,Puerto Rico
+2334,"Comerío Municipio, Puerto Rico",2010,37.2,36.8,Puerto Rico
+2335,"Corozal Municipio, Puerto Rico",2010,36.5,36.3,Puerto Rico
+2336,"Culebra Municipio, Puerto Rico",2010,37.1,35.7,Puerto Rico
+2337,"Dorado Municipio, Puerto Rico",2010,39.5,35.7,Puerto Rico
+2338,"Fajardo Municipio, Puerto Rico",2010,36.8,35.8,Puerto Rico
+2339,"Florida Municipio, Puerto Rico",2010,37.4,35.6,Puerto Rico
+2340,"Guánica Municipio, Puerto Rico",2010,35.6,33.9,Puerto Rico
+2341,"Guayama Municipio, Puerto Rico",2010,37.8,34.6,Puerto Rico
+2342,"Guayanilla Municipio, Puerto Rico",2010,36.9,33.6,Puerto Rico
+2343,"Guaynabo Municipio, Puerto Rico",2010,40.5,37.1,Puerto Rico
+2344,"Gurabo Municipio, Puerto Rico",2010,36.7,35.4,Puerto Rico
+2345,"Hatillo Municipio, Puerto Rico",2010,35.5,34.3,Puerto Rico
+2346,"Hormigueros Municipio, Puerto Rico",2010,35.4,33.7,Puerto Rico
+2347,"Humacao Municipio, Puerto Rico",2010,37,35.3,Puerto Rico
+2348,"Isabela Municipio, Puerto Rico",2010,36.1,34.4,Puerto Rico
+2349,"Jayuya Municipio, Puerto Rico",2010,33.9,33.7,Puerto Rico
+2350,"Juana Díaz Municipio, Puerto Rico",2010,37.6,35.3,Puerto Rico
+2351,"Juncos Municipio, Puerto Rico",2010,38.5,35.7,Puerto Rico
+2352,"Lajas Municipio, Puerto Rico",2010,35.4,35.1,Puerto Rico
+2353,"Lares Municipio, Puerto Rico",2010,36.8,33.8,Puerto Rico
+2354,"Las Marías Municipio, Puerto Rico",2010,33.8,34.3,Puerto Rico
+2355,"Las Piedras Municipio, Puerto Rico",2010,37.9,35,Puerto Rico
+2356,"Loíza Municipio, Puerto Rico",2010,36.9,35,Puerto Rico
+2357,"Luquillo Municipio, Puerto Rico",2010,37.8,34.9,Puerto Rico
+2358,"Manatí Municipio, Puerto Rico",2010,36.8,34.5,Puerto Rico
+2359,"Maricao Municipio, Puerto Rico",2010,32.4,34,Puerto Rico
+2360,"Maunabo Municipio, Puerto Rico",2010,37.5,33.7,Puerto Rico
+2361,"Mayagüez Municipio, Puerto Rico",2010,34.2,31.9,Puerto Rico
+2362,"Moca Municipio, Puerto Rico",2010,35.8,34.8,Puerto Rico
+2363,"Morovis Municipio, Puerto Rico",2010,38,37.3,Puerto Rico
+2364,"Naguabo Municipio, Puerto Rico",2010,38.3,34.3,Puerto Rico
+2365,"Naranjito Municipio, Puerto Rico",2010,37.5,35.8,Puerto Rico
+2366,"Orocovis Municipio, Puerto Rico",2010,36.9,32.8,Puerto Rico
+2367,"Patillas Municipio, Puerto Rico",2010,36,33.6,Puerto Rico
+2368,"Peñuelas Municipio, Puerto Rico",2010,36.1,33,Puerto Rico
+2369,"Ponce Municipio, Puerto Rico",2010,35.2,32.8,Puerto Rico
+2370,"Quebradillas Municipio, Puerto Rico",2010,35.4,32.7,Puerto Rico
+2371,"Rincón Municipio, Puerto Rico",2010,35.8,33.5,Puerto Rico
+2372,"Río Grande Municipio, Puerto Rico",2010,37.4,34.4,Puerto Rico
+2373,"Sabana Grande Municipio, Puerto Rico",2010,37,34.8,Puerto Rico
+2374,"Salinas Municipio, Puerto Rico",2010,37.4,35.7,Puerto Rico
+2375,"San Germán Municipio, Puerto Rico",2010,34.7,34.2,Puerto Rico
+2376,"San Juan Municipio, Puerto Rico",2010,38.6,35.5,Puerto Rico
+2377,"San Lorenzo Municipio, Puerto Rico",2010,36.5,34.4,Puerto Rico
+2378,"San Sebastián Municipio, Puerto Rico",2010,35.2,32.8,Puerto Rico
+2379,"Santa Isabel Municipio, Puerto Rico",2010,39.9,35.3,Puerto Rico
+2380,"Toa Alta Municipio, Puerto Rico",2010,38.4,36.7,Puerto Rico
+2381,"Toa Baja Municipio, Puerto Rico",2010,37.3,35.2,Puerto Rico
+2382,"Trujillo Alto Municipio, Puerto Rico",2010,38.5,36.2,Puerto Rico
+2383,"Utuado Municipio, Puerto Rico",2010,36.5,34.4,Puerto Rico
+2384,"Vega Alta Municipio, Puerto Rico",2010,38.7,35.7,Puerto Rico
+2385,"Vega Baja Municipio, Puerto Rico",2010,38.9,37.3,Puerto Rico
+2386,"Vieques Municipio, Puerto Rico",2010,36.1,34.4,Puerto Rico
+2387,"Villalba Municipio, Puerto Rico",2010,34.5,33.4,Puerto Rico
+2388,"Yabucoa Municipio, Puerto Rico",2010,36.3,35.1,Puerto Rico
+2389,"Yauco Municipio, Puerto Rico",2010,35.2,33.1,Puerto Rico
+2390,"Bristol County, Rhode Island",2010,40.4,33.9,Rhode Island
+2391,"Kent County, Rhode Island",2010,41.1,35.2,Rhode Island
+2392,"Newport County, Rhode Island",2010,42.3,34.5,Rhode Island
+2393,"Providence County, Rhode Island",2010,40,34.7,Rhode Island
+2394,"Washington County, Rhode Island",2010,40,33.3,Rhode Island
+2395,"Abbeville County, South Carolina",2010,39.4,35,South Carolina
+2396,"Aiken County, South Carolina",2010,41.1,36,South Carolina
+2397,"Allendale County, South Carolina",2010,40.8,36.8,South Carolina
+2398,"Anderson County, South Carolina",2010,41.2,35.6,South Carolina
+2399,"Bamberg County, South Carolina",2010,43.2,35.4,South Carolina
+2400,"Barnwell County, South Carolina",2010,41.2,36.8,South Carolina
+2401,"Beaufort County, South Carolina",2010,44.3,36.3,South Carolina
+2402,"Berkeley County, South Carolina",2010,42.8,37,South Carolina
+2403,"Calhoun County, South Carolina",2010,40,36.6,South Carolina
+2404,"Charleston County, South Carolina",2010,41.5,36.3,South Carolina
+2405,"Cherokee County, South Carolina",2010,40.8,35.4,South Carolina
+2406,"Chester County, South Carolina",2010,40.7,36.7,South Carolina
+2407,"Chesterfield County, South Carolina",2010,41.7,35.9,South Carolina
+2408,"Clarendon County, South Carolina",2010,41.3,35.9,South Carolina
+2409,"Colleton County, South Carolina",2010,41.2,36.8,South Carolina
+2410,"Darlington County, South Carolina",2010,42.6,36.2,South Carolina
+2411,"Dillon County, South Carolina",2010,41.8,37.1,South Carolina
+2412,"Dorchester County, South Carolina",2010,42.6,37.3,South Carolina
+2413,"Edgefield County, South Carolina",2010,40.9,37,South Carolina
+2414,"Fairfield County, South Carolina",2010,40,38.7,South Carolina
+2415,"Florence County, South Carolina",2010,41.7,36.7,South Carolina
+2416,"Georgetown County, South Carolina",2010,40.5,36.4,South Carolina
+2417,"Greenville County, South Carolina",2010,41.6,35.7,South Carolina
+2418,"Greenwood County, South Carolina",2010,41.2,35.4,South Carolina
+2419,"Hampton County, South Carolina",2010,40.9,37.6,South Carolina
+2420,"Horry County, South Carolina",2010,41.4,36.4,South Carolina
+2421,"Jasper County, South Carolina",2010,41.9,36.8,South Carolina
+2422,"Kershaw County, South Carolina",2010,41.7,36.3,South Carolina
+2423,"Lancaster County, South Carolina",2010,41.7,36.8,South Carolina
+2424,"Laurens County, South Carolina",2010,41.3,36.6,South Carolina
+2425,"Lee County, South Carolina",2010,40.2,36.5,South Carolina
+2426,"Lexington County, South Carolina",2010,41.8,36.6,South Carolina
+2427,"Marion County, South Carolina",2010,40.7,37.2,South Carolina
+2428,"Marlboro County, South Carolina",2010,39.4,36.9,South Carolina
+2429,"McCormick County, South Carolina",2010,39.9,34.8,South Carolina
+2430,"Newberry County, South Carolina",2010,41.3,35.3,South Carolina
+2431,"Oconee County, South Carolina",2010,41,35.8,South Carolina
+2432,"Orangeburg County, South Carolina",2010,40.3,35.5,South Carolina
+2433,"Pickens County, South Carolina",2010,39.2,33.9,South Carolina
+2434,"Richland County, South Carolina",2010,41.2,36.7,South Carolina
+2435,"Saluda County, South Carolina",2010,40.1,36.4,South Carolina
+2436,"Spartanburg County, South Carolina",2010,41.7,35.7,South Carolina
+2437,"Sumter County, South Carolina",2010,42.3,36.2,South Carolina
+2438,"Union County, South Carolina",2010,41.7,37,South Carolina
+2439,"Williamsburg County, South Carolina",2010,38.9,35.6,South Carolina
+2440,"York County, South Carolina",2010,42,36.3,South Carolina
+2441,"Aurora County, South Dakota",2010,46.9,37.3,South Dakota
+2442,"Beadle County, South Dakota",2010,44,37,South Dakota
+2443,"Bennett County, South Dakota",2010,44.2,37.4,South Dakota
+2444,"Bon Homme County, South Dakota",2010,45.9,37.2,South Dakota
+2445,"Brookings County, South Dakota",2010,39.3,34,South Dakota
+2446,"Brown County, South Dakota",2010,42.1,35.5,South Dakota
+2447,"Brule County, South Dakota",2010,47.1,38.1,South Dakota
+2448,"Buffalo County, South Dakota",2010,37.7,36,South Dakota
+2449,"Butte County, South Dakota",2010,43.5,34.3,South Dakota
+2450,"Campbell County, South Dakota",2010,48.9,34,South Dakota
+2451,"Charles Mix County, South Dakota",2010,46.2,33.9,South Dakota
+2452,"Clark County, South Dakota",2010,47.2,36.5,South Dakota
+2453,"Clay County, South Dakota",2010,38.2,31.9,South Dakota
+2454,"Codington County, South Dakota",2010,43.5,35.9,South Dakota
+2455,"Corson County, South Dakota",2010,48.5,35.4,South Dakota
+2456,"Custer County, South Dakota",2010,44.1,37.3,South Dakota
+2457,"Davison County, South Dakota",2010,43.3,35.5,South Dakota
+2458,"Day County, South Dakota",2010,47.6,35.3,South Dakota
+2459,"Deuel County, South Dakota",2010,48.5,36.3,South Dakota
+2460,"Dewey County, South Dakota",2010,42,37.1,South Dakota
+2461,"Douglas County, South Dakota",2010,49.6,34.6,South Dakota
+2462,"Edmunds County, South Dakota",2010,50.7,39,South Dakota
+2463,"Fall River County, South Dakota",2010,42.5,34.8,South Dakota
+2464,"Faulk County, South Dakota",2010,51,36.9,South Dakota
+2465,"Grant County, South Dakota",2010,44.2,37.7,South Dakota
+2466,"Gregory County, South Dakota",2010,48.6,37.9,South Dakota
+2467,"Haakon County, South Dakota",2010,52.5,38.6,South Dakota
+2468,"Hamlin County, South Dakota",2010,45,35.9,South Dakota
+2469,"Hand County, South Dakota",2010,52.1,35.9,South Dakota
+2470,"Hanson County, South Dakota",2010,45.1,36.8,South Dakota
+2471,"Harding County, South Dakota",2010,52.5,37,South Dakota
+2472,"Hughes County, South Dakota",2010,42.6,38.1,South Dakota
+2473,"Hutchinson County, South Dakota",2010,47.4,35.1,South Dakota
+2474,"Hyde County, South Dakota",2010,50.7,36.2,South Dakota
+2475,"Jackson County, South Dakota",2010,50.9,37.9,South Dakota
+2476,"Jerauld County, South Dakota",2010,49.7,40.1,South Dakota
+2477,"Jones County, South Dakota",2010,53.4,36.6,South Dakota
+2478,"Kingsbury County, South Dakota",2010,48.2,38.6,South Dakota
+2479,"Lake County, South Dakota",2010,41.5,34.7,South Dakota
+2480,"Lawrence County, South Dakota",2010,41.6,35.3,South Dakota
+2481,"Lincoln County, South Dakota",2010,44.2,37.4,South Dakota
+2482,"Lyman County, South Dakota",2010,45.2,37.6,South Dakota
+2483,"Marshall County, South Dakota",2010,44,35.4,South Dakota
+2484,"McCook County, South Dakota",2010,45.6,35.9,South Dakota
+2485,"McPherson County, South Dakota",2010,52.3,36,South Dakota
+2486,"Meade County, South Dakota",2010,43.1,36.2,South Dakota
+2487,"Mellette County, South Dakota",2010,47,38.1,South Dakota
+2488,"Miner County, South Dakota",2010,49.1,37.4,South Dakota
+2489,"Minnehaha County, South Dakota",2010,41.4,36.3,South Dakota
+2490,"Moody County, South Dakota",2010,45.2,36.4,South Dakota
+2491,"Pennington County, South Dakota",2010,41.8,35.9,South Dakota
+2492,"Perkins County, South Dakota",2010,51.3,37.6,South Dakota
+2493,"Potter County, South Dakota",2010,48.6,35.9,South Dakota
+2494,"Roberts County, South Dakota",2010,43.8,35.7,South Dakota
+2495,"Sanborn County, South Dakota",2010,45.5,39.1,South Dakota
+2496,"Shannon County, South Dakota",2010,37.4,37.5,South Dakota
+2497,"Spink County, South Dakota",2010,44.5,38.5,South Dakota
+2498,"Stanley County, South Dakota",2010,40.4,38.5,South Dakota
+2499,"Sully County, South Dakota",2010,47.5,36.9,South Dakota
+2500,"Todd County, South Dakota",2010,42.9,38.3,South Dakota
+2501,"Tripp County, South Dakota",2010,48.9,36.8,South Dakota
+2502,"Turner County, South Dakota",2010,45.8,35.5,South Dakota
+2503,"Union County, South Dakota",2010,45.8,37,South Dakota
+2504,"Walworth County, South Dakota",2010,46.6,36.5,South Dakota
+2505,"Yankton County, South Dakota",2010,42.2,35.7,South Dakota
+2506,"Ziebach County, South Dakota",2010,42.1,37.3,South Dakota
+2507,"Anderson County, Tennessee",2010,40.8,36,Tennessee
+2508,"Bedford County, Tennessee",2010,41.9,37.6,Tennessee
+2509,"Benton County, Tennessee",2010,41.1,35.7,Tennessee
+2510,"Bledsoe County, Tennessee",2010,38.6,39.3,Tennessee
+2511,"Blount County, Tennessee",2010,41.8,35.6,Tennessee
+2512,"Bradley County, Tennessee",2010,39.9,35.2,Tennessee
+2513,"Campbell County, Tennessee",2010,40.8,37,Tennessee
+2514,"Cannon County, Tennessee",2010,41.4,37.2,Tennessee
+2515,"Carroll County, Tennessee",2010,41.3,36.7,Tennessee
+2516,"Carter County, Tennessee",2010,39.8,35.5,Tennessee
+2517,"Cheatham County, Tennessee",2010,41.9,36.7,Tennessee
+2518,"Chester County, Tennessee",2010,41.1,35,Tennessee
+2519,"Claiborne County, Tennessee",2010,40.4,36.9,Tennessee
+2520,"Clay County, Tennessee",2010,41.2,37.1,Tennessee
+2521,"Cocke County, Tennessee",2010,40.3,35.8,Tennessee
+2522,"Coffee County, Tennessee",2010,41.3,36.5,Tennessee
+2523,"Crockett County, Tennessee",2010,42.6,36,Tennessee
+2524,"Cumberland County, Tennessee",2010,41.8,35.1,Tennessee
+2525,"Davidson County, Tennessee",2010,40.9,37.1,Tennessee
+2526,"Decatur County, Tennessee",2010,42.6,36.1,Tennessee
+2527,"DeKalb County, Tennessee",2010,40,35.9,Tennessee
+2528,"Dickson County, Tennessee",2010,42,36.6,Tennessee
+2529,"Dyer County, Tennessee",2010,42,36.6,Tennessee
+2530,"Fayette County, Tennessee",2010,41.9,36.5,Tennessee
+2531,"Fentress County, Tennessee",2010,40.3,36.5,Tennessee
+2532,"Franklin County, Tennessee",2010,42.4,34.8,Tennessee
+2533,"Gibson County, Tennessee",2010,40.5,36.6,Tennessee
+2534,"Giles County, Tennessee",2010,41.6,37.1,Tennessee
+2535,"Grainger County, Tennessee",2010,40.5,35.1,Tennessee
+2536,"Greene County, Tennessee",2010,41.8,36.5,Tennessee
+2537,"Grundy County, Tennessee",2010,41,35.4,Tennessee
+2538,"Hamblen County, Tennessee",2010,42,37.2,Tennessee
+2539,"Hamilton County, Tennessee",2010,41,35.8,Tennessee
+2540,"Hancock County, Tennessee",2010,40,35.9,Tennessee
+2541,"Hardeman County, Tennessee",2010,40,36.3,Tennessee
+2542,"Hardin County, Tennessee",2010,41.7,35.4,Tennessee
+2543,"Hawkins County, Tennessee",2010,41.3,37.2,Tennessee
+2544,"Haywood County, Tennessee",2010,40.5,36.9,Tennessee
+2545,"Henderson County, Tennessee",2010,42,36.5,Tennessee
+2546,"Henry County, Tennessee",2010,43,38.2,Tennessee
+2547,"Hickman County, Tennessee",2010,41,36.9,Tennessee
+2548,"Houston County, Tennessee",2010,41.9,39.3,Tennessee
+2549,"Humphreys County, Tennessee",2010,41.7,36,Tennessee
+2550,"Jackson County, Tennessee",2010,41.4,37,Tennessee
+2551,"Jefferson County, Tennessee",2010,40.7,36.3,Tennessee
+2552,"Johnson County, Tennessee",2010,39.9,36.7,Tennessee
+2553,"Knox County, Tennessee",2010,40.9,35.9,Tennessee
+2554,"Lake County, Tennessee",2010,39.8,35.3,Tennessee
+2555,"Lauderdale County, Tennessee",2010,41,37.2,Tennessee
+2556,"Lawrence County, Tennessee",2010,42.6,36.4,Tennessee
+2557,"Lewis County, Tennessee",2010,40.9,37.9,Tennessee
+2558,"Lincoln County, Tennessee",2010,41.5,35.8,Tennessee
+2559,"Loudon County, Tennessee",2010,42,36.7,Tennessee
+2560,"Macon County, Tennessee",2010,41.2,36.9,Tennessee
+2561,"Madison County, Tennessee",2010,40.5,35.9,Tennessee
+2562,"Marion County, Tennessee",2010,42.9,36.4,Tennessee
+2563,"Marshall County, Tennessee",2010,41.6,37.5,Tennessee
+2564,"Maury County, Tennessee",2010,41.6,36,Tennessee
+2565,"McMinn County, Tennessee",2010,42.7,36,Tennessee
+2566,"McNairy County, Tennessee",2010,41.2,36,Tennessee
+2567,"Meigs County, Tennessee",2010,41.5,37.5,Tennessee
+2568,"Monroe County, Tennessee",2010,41.2,36,Tennessee
+2569,"Montgomery County, Tennessee",2010,44.3,36.5,Tennessee
+2570,"Moore County, Tennessee",2010,42.2,34.4,Tennessee
+2571,"Morgan County, Tennessee",2010,41.2,37.7,Tennessee
+2572,"Obion County, Tennessee",2010,42.3,36.6,Tennessee
+2573,"Overton County, Tennessee",2010,41.5,36.7,Tennessee
+2574,"Perry County, Tennessee",2010,42.1,35.8,Tennessee
+2575,"Pickett County, Tennessee",2010,41.8,37.2,Tennessee
+2576,"Polk County, Tennessee",2010,41.2,33.9,Tennessee
+2577,"Putnam County, Tennessee",2010,39.2,34.5,Tennessee
+2578,"Rhea County, Tennessee",2010,41.3,37.1,Tennessee
+2579,"Roane County, Tennessee",2010,42.1,37,Tennessee
+2580,"Robertson County, Tennessee",2010,42.1,36.8,Tennessee
+2581,"Rutherford County, Tennessee",2010,41.4,36.1,Tennessee
+2582,"Scott County, Tennessee",2010,41.9,36.3,Tennessee
+2583,"Sequatchie County, Tennessee",2010,40.4,35.4,Tennessee
+2584,"Sevier County, Tennessee",2010,41.9,37.1,Tennessee
+2585,"Shelby County, Tennessee",2010,40.7,36.7,Tennessee
+2586,"Smith County, Tennessee",2010,41.7,36,Tennessee
+2587,"Stewart County, Tennessee",2010,44.4,36.4,Tennessee
+2588,"Sullivan County, Tennessee",2010,41.2,35.6,Tennessee
+2589,"Sumner County, Tennessee",2010,42.8,36.9,Tennessee
+2590,"Tipton County, Tennessee",2010,41.9,36.9,Tennessee
+2591,"Trousdale County, Tennessee",2010,41.4,37,Tennessee
+2592,"Unicoi County, Tennessee",2010,40.7,37.3,Tennessee
+2593,"Union County, Tennessee",2010,39.7,35.3,Tennessee
+2594,"Van Buren County, Tennessee",2010,39.6,35.6,Tennessee
+2595,"Warren County, Tennessee",2010,41.4,36.5,Tennessee
+2596,"Washington County, Tennessee",2010,40.1,35.2,Tennessee
+2597,"Wayne County, Tennessee",2010,41.5,36.2,Tennessee
+2598,"Weakley County, Tennessee",2010,40.8,34.4,Tennessee
+2599,"White County, Tennessee",2010,40.7,36,Tennessee
+2600,"Williamson County, Tennessee",2010,43.5,35.2,Tennessee
+2601,"Wilson County, Tennessee",2010,42.4,36.4,Tennessee
+2602,"Anderson County, Texas",2010,45.2,37.8,Texas
+2603,"Andrews County, Texas",2010,49.3,36.8,Texas
+2604,"Angelina County, Texas",2010,44.1,37.8,Texas
+2605,"Aransas County, Texas",2010,43.3,37.1,Texas
+2606,"Archer County, Texas",2010,44.4,36.8,Texas
+2607,"Armstrong County, Texas",2010,46.7,38.8,Texas
+2608,"Atascosa County, Texas",2010,43.6,37.3,Texas
+2609,"Austin County, Texas",2010,45.1,37,Texas
+2610,"Bailey County, Texas",2010,50.9,40.4,Texas
+2611,"Bandera County, Texas",2010,43,38.9,Texas
+2612,"Bastrop County, Texas",2010,41.9,37,Texas
+2613,"Baylor County, Texas",2010,43.9,34.4,Texas
+2614,"Bee County, Texas",2010,44.1,37.1,Texas
+2615,"Bell County, Texas",2010,46.3,38.7,Texas
+2616,"Bexar County, Texas",2010,41.8,37.4,Texas
+2617,"Blanco County, Texas",2010,43,38.1,Texas
+2618,"Borden County, Texas",2010,46.6,38.3,Texas
+2619,"Bosque County, Texas",2010,44.1,36.9,Texas
+2620,"Bowie County, Texas",2010,42.3,36.8,Texas
+2621,"Brazoria County, Texas",2010,44.2,38,Texas
+2622,"Brazos County, Texas",2010,38.2,33,Texas
+2623,"Brewster County, Texas",2010,42.3,35.2,Texas
+2624,"Briscoe County, Texas",2010,45.3,41.2,Texas
+2625,"Brooks County, Texas",2010,39.1,38.7,Texas
+2626,"Brown County, Texas",2010,43.4,37.2,Texas
+2627,"Burleson County, Texas",2010,43,37.4,Texas
+2628,"Burnet County, Texas",2010,42.5,37.3,Texas
+2629,"Caldwell County, Texas",2010,42.5,36,Texas
+2630,"Calhoun County, Texas",2010,45.6,36.2,Texas
+2631,"Callahan County, Texas",2010,43.3,35.8,Texas
+2632,"Cameron County, Texas",2010,40.6,36.2,Texas
+2633,"Camp County, Texas",2010,46.1,38.3,Texas
+2634,"Carson County, Texas",2010,48.2,38.1,Texas
+2635,"Cass County, Texas",2010,44.2,36.4,Texas
+2636,"Castro County, Texas",2010,46.7,36,Texas
+2637,"Chambers County, Texas",2010,44.9,37.9,Texas
+2638,"Cherokee County, Texas",2010,42.5,36.5,Texas
+2639,"Childress County, Texas",2010,42.1,36.6,Texas
+2640,"Clay County, Texas",2010,44.8,38.2,Texas
+2641,"Cochran County, Texas",2010,48.9,37,Texas
+2642,"Coke County, Texas",2010,45.7,40.9,Texas
+2643,"Coleman County, Texas",2010,43.3,37.2,Texas
+2644,"Collin County, Texas",2010,43.7,37.7,Texas
+2645,"Collingsworth County, Texas",2010,49,39.5,Texas
+2646,"Colorado County, Texas",2010,45.6,37.1,Texas
+2647,"Comal County, Texas",2010,43.1,37.7,Texas
+2648,"Comanche County, Texas",2010,43.6,36.4,Texas
+2649,"Concho County, Texas",2010,42.5,36.6,Texas
+2650,"Cooke County, Texas",2010,45,36.7,Texas
+2651,"Coryell County, Texas",2010,45.8,38.8,Texas
+2652,"Cottle County, Texas",2010,47,36.6,Texas
+2653,"Crane County, Texas",2010,48.1,36,Texas
+2654,"Crockett County, Texas",2010,48.8,35.4,Texas
+2655,"Crosby County, Texas",2010,44.8,36.7,Texas
+2656,"Culberson County, Texas",2010,40.5,35.4,Texas
+2657,"Dallam County, Texas",2010,48.3,36.2,Texas
+2658,"Dallas County, Texas",2010,41.7,37.9,Texas
+2659,"Dawson County, Texas",2010,45.9,37,Texas
+2660,"Deaf Smith County, Texas",2010,47.6,36.6,Texas
+2661,"Delta County, Texas",2010,44.3,38.5,Texas
+2662,"Denton County, Texas",2010,42.9,37.4,Texas
+2663,"DeWitt County, Texas",2010,46,37,Texas
+2664,"Dickens County, Texas",2010,45.6,36,Texas
+2665,"Dimmit County, Texas",2010,46,35.3,Texas
+2666,"Donley County, Texas",2010,50,36.7,Texas
+2667,"Duval County, Texas",2010,46.9,35.4,Texas
+2668,"Eastland County, Texas",2010,42.2,37.1,Texas
+2669,"Ector County, Texas",2010,46.3,37.4,Texas
+2670,"Edwards County, Texas",2010,43,35.2,Texas
+2671,"El Paso County, Texas",2010,41.7,36.6,Texas
+2672,"Ellis County, Texas",2010,43.1,37.3,Texas
+2673,"Erath County, Texas",2010,43.1,34.9,Texas
+2674,"Falls County, Texas",2010,42,36,Texas
+2675,"Fannin County, Texas",2010,42.8,37.8,Texas
+2676,"Fayette County, Texas",2010,45.9,37.4,Texas
+2677,"Fisher County, Texas",2010,46.5,38.5,Texas
+2678,"Floyd County, Texas",2010,43.8,38.7,Texas
+2679,"Foard County, Texas",2010,39.9,34.5,Texas
+2680,"Fort Bend County, Texas",2010,43.2,37.8,Texas
+2681,"Franklin County, Texas",2010,43.5,33.4,Texas
+2682,"Freestone County, Texas",2010,47.8,38.8,Texas
+2683,"Frio County, Texas",2010,43.7,36,Texas
+2684,"Gaines County, Texas",2010,49.1,36.5,Texas
+2685,"Galveston County, Texas",2010,43.3,37.2,Texas
+2686,"Garza County, Texas",2010,47.3,33.7,Texas
+2687,"Gillespie County, Texas",2010,42.7,37.4,Texas
+2688,"Glasscock County, Texas",2010,54.4,33.4,Texas
+2689,"Goliad County, Texas",2010,46.4,37.4,Texas
+2690,"Gonzales County, Texas",2010,45.5,38.1,Texas
+2691,"Gray County, Texas",2010,46.1,37.4,Texas
+2692,"Grayson County, Texas",2010,42.8,36.9,Texas
+2693,"Gregg County, Texas",2010,43.4,36.7,Texas
+2694,"Grimes County, Texas",2010,45.4,38.9,Texas
+2695,"Guadalupe County, Texas",2010,42.1,36.7,Texas
+2696,"Hale County, Texas",2010,43.8,36.8,Texas
+2697,"Hall County, Texas",2010,48.1,36.8,Texas
+2698,"Hamilton County, Texas",2010,46.6,35.9,Texas
+2699,"Hansford County, Texas",2010,50.1,37.4,Texas
+2700,"Hardeman County, Texas",2010,48.5,34.3,Texas
+2701,"Hardin County, Texas",2010,44.4,36,Texas
+2702,"Harris County, Texas",2010,42.8,37.8,Texas
+2703,"Harrison County, Texas",2010,43.8,35.8,Texas
+2704,"Hartley County, Texas",2010,50.6,35.8,Texas
+2705,"Haskell County, Texas",2010,45.9,37.1,Texas
+2706,"Hays County, Texas",2010,40.7,35,Texas
+2707,"Hemphill County, Texas",2010,45.1,38.1,Texas
+2708,"Henderson County, Texas",2010,43.3,36.9,Texas
+2709,"Hidalgo County, Texas",2010,41.6,36.1,Texas
+2710,"Hill County, Texas",2010,44.2,36.6,Texas
+2711,"Hockley County, Texas",2010,46.3,36.2,Texas
+2712,"Hood County, Texas",2010,45.1,37,Texas
+2713,"Hopkins County, Texas",2010,44.1,36.2,Texas
+2714,"Houston County, Texas",2010,42.9,36.8,Texas
+2715,"Howard County, Texas",2010,43.3,37.2,Texas
+2716,"Hudspeth County, Texas",2010,40.7,34.2,Texas
+2717,"Hunt County, Texas",2010,42.8,36.8,Texas
+2718,"Hutchinson County, Texas",2010,45.2,36,Texas
+2719,"Irion County, Texas",2010,48.3,37.9,Texas
+2720,"Jack County, Texas",2010,49.4,37.5,Texas
+2721,"Jackson County, Texas",2010,45,39.1,Texas
+2722,"Jasper County, Texas",2010,44.6,36.7,Texas
+2723,"Jeff Davis County, Texas",2010,46.1,38.2,Texas
+2724,"Jefferson County, Texas",2010,42.4,36.7,Texas
+2725,"Jim Hogg County, Texas",2010,39.2,36.8,Texas
+2726,"Jim Wells County, Texas",2010,46.2,35.8,Texas
+2727,"Johnson County, Texas",2010,44.3,37.4,Texas
+2728,"Jones County, Texas",2010,45.3,36.7,Texas
+2729,"Karnes County, Texas",2010,46.5,38,Texas
+2730,"Kaufman County, Texas",2010,42.7,38.2,Texas
+2731,"Kendall County, Texas",2010,44,35.8,Texas
+2732,"Kenedy County, Texas",2010,42.7,NA,Texas
+2733,"Kent County, Texas",2010,48,35.2,Texas
+2734,"Kerr County, Texas",2010,42.1,37.1,Texas
+2735,"Kimble County, Texas",2010,43.7,35.6,Texas
+2736,"King County, Texas",2010,50.9,42,Texas
+2737,"Kinney County, Texas",2010,42.7,36,Texas
+2738,"Kleberg County, Texas",2010,41.1,35.4,Texas
+2739,"Knox County, Texas",2010,47.8,34.2,Texas
+2740,"La Salle County, Texas",2010,48.1,35.4,Texas
+2741,"Lamar County, Texas",2010,42.8,37.2,Texas
+2742,"Lamb County, Texas",2010,47.3,36.7,Texas
+2743,"Lampasas County, Texas",2010,42.2,36.5,Texas
+2744,"Lavaca County, Texas",2010,44.6,37.9,Texas
+2745,"Lee County, Texas",2010,44.4,37.3,Texas
+2746,"Leon County, Texas",2010,47,37.3,Texas
+2747,"Liberty County, Texas",2010,45.2,37.8,Texas
+2748,"Limestone County, Texas",2010,45,38.2,Texas
+2749,"Lipscomb County, Texas",2010,48.1,38.6,Texas
+2750,"Live Oak County, Texas",2010,43.7,34.8,Texas
+2751,"Llano County, Texas",2010,43.8,38.9,Texas
+2752,"Loving County, Texas",2010,51.5,44.6,Texas
+2753,"Lubbock County, Texas",2010,41.1,35.4,Texas
+2754,"Lynn County, Texas",2010,45.8,35.6,Texas
+2755,"Madison County, Texas",2010,44.4,37.6,Texas
+2756,"Marion County, Texas",2010,45.6,38.2,Texas
+2757,"Martin County, Texas",2010,46.1,38.2,Texas
+2758,"Mason County, Texas",2010,42.4,35.1,Texas
+2759,"Matagorda County, Texas",2010,46.1,36.2,Texas
+2760,"Maverick County, Texas",2010,42.7,34.6,Texas
+2761,"McCulloch County, Texas",2010,41.4,35.2,Texas
+2762,"McLennan County, Texas",2010,40.6,35.3,Texas
+2763,"McMullen County, Texas",2010,48,33,Texas
+2764,"Medina County, Texas",2010,43.3,37.6,Texas
+2765,"Menard County, Texas",2010,42.9,35.5,Texas
+2766,"Midland County, Texas",2010,45.9,36.9,Texas
+2767,"Milam County, Texas",2010,44,36,Texas
+2768,"Mills County, Texas",2010,42.4,36.4,Texas
+2769,"Mitchell County, Texas",2010,47.8,40.8,Texas
+2770,"Montague County, Texas",2010,43.9,36.7,Texas
+2771,"Montgomery County, Texas",2010,44.3,37,Texas
+2772,"Moore County, Texas",2010,42.7,36.9,Texas
+2773,"Morris County, Texas",2010,43.3,36.9,Texas
+2774,"Motley County, Texas",2010,52.6,37.5,Texas
+2775,"Nacogdoches County, Texas",2010,40.6,34.2,Texas
+2776,"Navarro County, Texas",2010,42.3,37.8,Texas
+2777,"Newton County, Texas",2010,43.3,35.8,Texas
+2778,"Nolan County, Texas",2010,43.7,37.1,Texas
+2779,"Nueces County, Texas",2010,42.5,36.8,Texas
+2780,"Ochiltree County, Texas",2010,51.1,35.1,Texas
+2781,"Oldham County, Texas",2010,49,36.5,Texas
+2782,"Orange County, Texas",2010,43.7,37.3,Texas
+2783,"Palo Pinto County, Texas",2010,45.5,37.4,Texas
+2784,"Panola County, Texas",2010,44.8,36,Texas
+2785,"Parker County, Texas",2010,44.4,37,Texas
+2786,"Parmer County, Texas",2010,47.6,38.5,Texas
+2787,"Pecos County, Texas",2010,45.7,38.3,Texas
+2788,"Polk County, Texas",2010,42.2,37.2,Texas
+2789,"Potter County, Texas",2010,41.4,36.8,Texas
+2790,"Presidio County, Texas",2010,40.8,35.3,Texas
+2791,"Rains County, Texas",2010,41,37.9,Texas
+2792,"Randall County, Texas",2010,43.3,36.6,Texas
+2793,"Reagan County, Texas",2010,50.6,34.3,Texas
+2794,"Real County, Texas",2010,40.7,35.1,Texas
+2795,"Red River County, Texas",2010,44.5,37.5,Texas
+2796,"Reeves County, Texas",2010,44,34.9,Texas
+2797,"Refugio County, Texas",2010,46.2,35.6,Texas
+2798,"Roberts County, Texas",2010,45.7,38.7,Texas
+2799,"Robertson County, Texas",2010,44.4,37,Texas
+2800,"Rockwall County, Texas",2010,43.6,37,Texas
+2801,"Runnels County, Texas",2010,44,36.2,Texas
+2802,"Rusk County, Texas",2010,44.8,36.1,Texas
+2803,"Sabine County, Texas",2010,50.6,34.5,Texas
+2804,"San Augustine County, Texas",2010,47.3,34.3,Texas
+2805,"San Jacinto County, Texas",2010,43.8,37.8,Texas
+2806,"San Patricio County, Texas",2010,45.7,36.5,Texas
+2807,"San Saba County, Texas",2010,45.5,36.5,Texas
+2808,"Schleicher County, Texas",2010,49,37.4,Texas
+2809,"Scurry County, Texas",2010,47.2,36.1,Texas
+2810,"Shackelford County, Texas",2010,45.4,36.1,Texas
+2811,"Shelby County, Texas",2010,45.4,36.2,Texas
+2812,"Sherman County, Texas",2010,50.4,37.6,Texas
+2813,"Smith County, Texas",2010,42.5,36.3,Texas
+2814,"Somervell County, Texas",2010,43.1,36.1,Texas
+2815,"Starr County, Texas",2010,41.6,34.9,Texas
+2816,"Stephens County, Texas",2010,43.1,35.5,Texas
+2817,"Sterling County, Texas",2010,49.9,36.1,Texas
+2818,"Stonewall County, Texas",2010,48.7,40.5,Texas
+2819,"Sutton County, Texas",2010,51.5,38.1,Texas
+2820,"Swisher County, Texas",2010,45,37.4,Texas
+2821,"Tarrant County, Texas",2010,42.5,37.4,Texas
+2822,"Taylor County, Texas",2010,42.5,35.8,Texas
+2823,"Terrell County, Texas",2010,53.4,37.8,Texas
+2824,"Terry County, Texas",2010,46,37,Texas
+2825,"Throckmorton County, Texas",2010,42.6,33.4,Texas
+2826,"Titus County, Texas",2010,44.1,38.1,Texas
+2827,"Tom Green County, Texas",2010,42.6,37,Texas
+2828,"Travis County, Texas",2010,41.4,36.9,Texas
+2829,"Trinity County, Texas",2010,41.8,39.6,Texas
+2830,"Tyler County, Texas",2010,47.2,37.2,Texas
+2831,"Upshur County, Texas",2010,44.4,37.2,Texas
+2832,"Upton County, Texas",2010,57.2,36.6,Texas
+2833,"Uvalde County, Texas",2010,42.7,35,Texas
+2834,"Val Verde County, Texas",2010,42.1,36.9,Texas
+2835,"Van Zandt County, Texas",2010,43.6,36.9,Texas
+2836,"Victoria County, Texas",2010,44.1,37.4,Texas
+2837,"Walker County, Texas",2010,39.7,35.8,Texas
+2838,"Waller County, Texas",2010,41.6,35.8,Texas
+2839,"Ward County, Texas",2010,47.6,36.1,Texas
+2840,"Washington County, Texas",2010,41.8,37.6,Texas
+2841,"Webb County, Texas",2010,41.8,36.3,Texas
+2842,"Wharton County, Texas",2010,44.4,37.2,Texas
+2843,"Wheeler County, Texas",2010,49.8,36.2,Texas
+2844,"Wichita County, Texas",2010,42.1,36.4,Texas
+2845,"Wilbarger County, Texas",2010,42.4,36.5,Texas
+2846,"Willacy County, Texas",2010,41,36.4,Texas
+2847,"Williamson County, Texas",2010,43.5,37.6,Texas
+2848,"Wilson County, Texas",2010,44.5,37.8,Texas
+2849,"Winkler County, Texas",2010,49,35.2,Texas
+2850,"Wise County, Texas",2010,45.7,37,Texas
+2851,"Wood County, Texas",2010,45.7,35.9,Texas
+2852,"Yoakum County, Texas",2010,46.8,37,Texas
+2853,"Young County, Texas",2010,45.1,36.7,Texas
+2854,"Zapata County, Texas",2010,43.3,33.9,Texas
+2855,"Zavala County, Texas",2010,42.5,31.5,Texas
+2856,"Beaver County, Utah",2010,43.5,31.7,Utah
+2857,"Box Elder County, Utah",2010,41.8,32.7,Utah
+2858,"Cache County, Utah",2010,39.7,30.4,Utah
+2859,"Carbon County, Utah",2010,42.2,32.9,Utah
+2860,"Daggett County, Utah",2010,49.4,34.4,Utah
+2861,"Davis County, Utah",2010,41.7,32.6,Utah
+2862,"Duchesne County, Utah",2010,48.5,32.1,Utah
+2863,"Emery County, Utah",2010,43.4,33.5,Utah
+2864,"Garfield County, Utah",2010,43.7,33.5,Utah
+2865,"Grand County, Utah",2010,42.1,32.7,Utah
+2866,"Iron County, Utah",2010,40.4,31.1,Utah
+2867,"Juab County, Utah",2010,42.6,30.6,Utah
+2868,"Kane County, Utah",2010,43.2,35.3,Utah
+2869,"Millard County, Utah",2010,41.7,29.3,Utah
+2870,"Morgan County, Utah",2010,42.6,33.6,Utah
+2871,"Piute County, Utah",2010,43.5,29.4,Utah
+2872,"Rich County, Utah",2010,47.6,31.6,Utah
+2873,"Salt Lake County, Utah",2010,40.8,34.8,Utah
+2874,"San Juan County, Utah",2010,40.3,36.1,Utah
+2875,"Sanpete County, Utah",2010,40.7,29.5,Utah
+2876,"Sevier County, Utah",2010,42.8,31.8,Utah
+2877,"Summit County, Utah",2010,41.9,35,Utah
+2878,"Tooele County, Utah",2010,43.1,34.8,Utah
+2879,"Uintah County, Utah",2010,49.1,32.2,Utah
+2880,"Utah County, Utah",2010,38.8,30.2,Utah
+2881,"Wasatch County, Utah",2010,43.1,33,Utah
+2882,"Washington County, Utah",2010,40.6,32.7,Utah
+2883,"Wayne County, Utah",2010,42.9,34.7,Utah
+2884,"Weber County, Utah",2010,40.8,33.9,Utah
+2885,"Addison County, Vermont",2010,40.9,33.3,Vermont
+2886,"Bennington County, Vermont",2010,39.9,34.1,Vermont
+2887,"Caledonia County, Vermont",2010,41.1,34.5,Vermont
+2888,"Chittenden County, Vermont",2010,40,34,Vermont
+2889,"Essex County, Vermont",2010,42.2,34.1,Vermont
+2890,"Franklin County, Vermont",2010,41.8,36.8,Vermont
+2891,"Grand Isle County, Vermont",2010,43,36.5,Vermont
+2892,"Lamoille County, Vermont",2010,40.5,36.3,Vermont
+2893,"Orange County, Vermont",2010,41,35.9,Vermont
+2894,"Orleans County, Vermont",2010,41.6,35.5,Vermont
+2895,"Rutland County, Vermont",2010,41,34.5,Vermont
+2896,"Washington County, Vermont",2010,40.2,35.8,Vermont
+2897,"Windham County, Vermont",2010,40.1,34.2,Vermont
+2898,"Windsor County, Vermont",2010,41.2,36,Vermont
+2899,"Accomack County, Virginia",2010,42.1,37.3,Virginia
+2900,"Albemarle County, Virginia",2010,41.4,35.9,Virginia
+2901,"Alexandria city, Virginia",2010,43.4,40.1,Virginia
+2902,"Alleghany County, Virginia",2010,41.4,36.6,Virginia
+2903,"Amelia County, Virginia",2010,41.3,37.2,Virginia
+2904,"Amherst County, Virginia",2010,41,34.1,Virginia
+2905,"Appomattox County, Virginia",2010,43.4,35.5,Virginia
+2906,"Arlington County, Virginia",2010,43.9,40.5,Virginia
+2907,"Augusta County, Virginia",2010,41.3,35.6,Virginia
+2908,"Bath County, Virginia",2010,42.3,37.6,Virginia
+2909,"Bedford city, Virginia",2010,39,34.9,Virginia
+2910,"Bedford County, Virginia",2010,41.8,36.3,Virginia
+2911,"Bland County, Virginia",2010,39.8,35,Virginia
+2912,"Botetourt County, Virginia",2010,42.1,35.8,Virginia
+2913,"Bristol city, Virginia",2010,41.4,36.1,Virginia
+2914,"Brunswick County, Virginia",2010,41,35.2,Virginia
+2915,"Buchanan County, Virginia",2010,43.1,37,Virginia
+2916,"Buckingham County, Virginia",2010,39.4,38,Virginia
+2917,"Buena Vista city, Virginia",2010,40.3,34.7,Virginia
+2918,"Campbell County, Virginia",2010,41.5,36.5,Virginia
+2919,"Caroline County, Virginia",2010,42.1,37.2,Virginia
+2920,"Carroll County, Virginia",2010,42.6,36.6,Virginia
+2921,"Charles City County, Virginia",2010,40.2,37.4,Virginia
+2922,"Charlotte County, Virginia",2010,40.6,38.1,Virginia
+2923,"Charlottesville city, Virginia",2010,38.9,34.2,Virginia
+2924,"Chesapeake city, Virginia",2010,42.8,36.7,Virginia
+2925,"Chesterfield County, Virginia",2010,41.7,36.8,Virginia
+2926,"Clarke County, Virginia",2010,42.7,36.4,Virginia
+2927,"Colonial Heights city, Virginia",2010,41.3,37.3,Virginia
+2928,"Covington city, Virginia",2010,41.7,35.5,Virginia
+2929,"Craig County, Virginia",2010,41.4,38,Virginia
+2930,"Culpeper County, Virginia",2010,41.7,36.7,Virginia
+2931,"Cumberland County, Virginia",2010,41.7,36.2,Virginia
+2932,"Danville city, Virginia",2010,40.3,35.6,Virginia
+2933,"Dickenson County, Virginia",2010,43.6,35.4,Virginia
+2934,"Dinwiddie County, Virginia",2010,42.1,37.7,Virginia
+2935,"Emporia city, Virginia",2010,42.3,36.7,Virginia
+2936,"Essex County, Virginia",2010,41.5,36.4,Virginia
+2937,"Fairfax city, Virginia",2010,42,37.7,Virginia
+2938,"Fairfax County, Virginia",2010,42.7,37.7,Virginia
+2939,"Falls Church city, Virginia",2010,42.3,38.1,Virginia
+2940,"Fauquier County, Virginia",2010,42.3,35.9,Virginia
+2941,"Floyd County, Virginia",2010,41.5,33.8,Virginia
+2942,"Fluvanna County, Virginia",2010,40.2,38.3,Virginia
+2943,"Franklin city, Virginia",2010,41.4,35.9,Virginia
+2944,"Franklin County, Virginia",2010,42.4,37.8,Virginia
+2945,"Frederick County, Virginia",2010,41.6,35.5,Virginia
+2946,"Fredericksburg city, Virginia",2010,38.9,34.9,Virginia
+2947,"Galax city, Virginia",2010,41.5,36.8,Virginia
+2948,"Giles County, Virginia",2010,40.9,34.9,Virginia
+2949,"Gloucester County, Virginia",2010,42.8,35.9,Virginia
+2950,"Goochland County, Virginia",2010,42.4,34.6,Virginia
+2951,"Grayson County, Virginia",2010,40.8,35.9,Virginia
+2952,"Greene County, Virginia",2010,40.3,37,Virginia
+2953,"Greensville County, Virginia",2010,39,36.7,Virginia
+2954,"Halifax County, Virginia",2010,40.7,36.5,Virginia
+2955,"Hampton city, Virginia",2010,41.1,37.4,Virginia
+2956,"Hanover County, Virginia",2010,42.3,35.9,Virginia
+2957,"Harrisonburg city, Virginia",2010,37.1,30.8,Virginia
+2958,"Henrico County, Virginia",2010,41.7,36.9,Virginia
+2959,"Henry County, Virginia",2010,40.8,36.9,Virginia
+2960,"Highland County, Virginia",2010,43.6,33.6,Virginia
+2961,"Hopewell city, Virginia",2010,40.8,37.3,Virginia
+2962,"Isle of Wight County, Virginia",2010,43.4,36.4,Virginia
+2963,"James City County, Virginia",2010,43.3,36.6,Virginia
+2964,"King and Queen County, Virginia",2010,41.8,37.8,Virginia
+2965,"King George County, Virginia",2010,42.4,36.5,Virginia
+2966,"King William County, Virginia",2010,42.4,38.5,Virginia
+2967,"Lancaster County, Virginia",2010,41.7,36.7,Virginia
+2968,"Lee County, Virginia",2010,41.5,35.8,Virginia
+2969,"Lexington city, Virginia",2010,33.5,32.4,Virginia
+2970,"Loudoun County, Virginia",2010,42.9,37.3,Virginia
+2971,"Louisa County, Virginia",2010,41.5,37.2,Virginia
+2972,"Lunenburg County, Virginia",2010,40.6,34.7,Virginia
+2973,"Lynchburg city, Virginia",2010,38,34.2,Virginia
+2974,"Madison County, Virginia",2010,41.3,37.9,Virginia
+2975,"Manassas city, Virginia",2010,40.9,37,Virginia
+2976,"Manassas Park city, Virginia",2010,42.7,37.9,Virginia
+2977,"Martinsville city, Virginia",2010,40.5,35.8,Virginia
+2978,"Mathews County, Virginia",2010,42.3,37.3,Virginia
+2979,"Mecklenburg County, Virginia",2010,40.8,36.9,Virginia
+2980,"Middlesex County, Virginia",2010,41.1,34.5,Virginia
+2981,"Montgomery County, Virginia",2010,37.2,33.4,Virginia
+2982,"Nelson County, Virginia",2010,40.7,36.2,Virginia
+2983,"New Kent County, Virginia",2010,42.8,39.1,Virginia
+2984,"Newport News city, Virginia",2010,42.6,36.3,Virginia
+2985,"Norfolk city, Virginia",2010,42.7,36.9,Virginia
+2986,"Northampton County, Virginia",2010,41.4,35.9,Virginia
+2987,"Northumberland County, Virginia",2010,44,35.6,Virginia
+2988,"Norton city, Virginia",2010,45.2,38,Virginia
+2989,"Nottoway County, Virginia",2010,43,36.6,Virginia
+2990,"Orange County, Virginia",2010,42.3,37.8,Virginia
+2991,"Page County, Virginia",2010,40.7,35.8,Virginia
+2992,"Patrick County, Virginia",2010,39.5,37.9,Virginia
+2993,"Petersburg city, Virginia",2010,38.9,37.9,Virginia
+2994,"Pittsylvania County, Virginia",2010,42.1,36.1,Virginia
+2995,"Poquoson city, Virginia",2010,43.3,35.9,Virginia
+2996,"Portsmouth city, Virginia",2010,41.4,36.7,Virginia
+2997,"Powhatan County, Virginia",2010,44.6,36.8,Virginia
+2998,"Prince Edward County, Virginia",2010,38.7,33.6,Virginia
+2999,"Prince George County, Virginia",2010,42.9,38.1,Virginia
+3000,"Prince William County, Virginia",2010,42.7,37.5,Virginia
+3001,"Pulaski County, Virginia",2010,41.9,36.6,Virginia
+3002,"Radford city, Virginia",2010,36.7,29.2,Virginia
+3003,"Rappahannock County, Virginia",2010,41.3,36.7,Virginia
+3004,"Richmond city, Virginia",2010,39,35.6,Virginia
+3005,"Richmond County, Virginia",2010,41.9,38.1,Virginia
+3006,"Roanoke city, Virginia",2010,40.9,37.2,Virginia
+3007,"Roanoke County, Virginia",2010,42.6,36.7,Virginia
+3008,"Rockbridge County, Virginia",2010,42.3,35.4,Virginia
+3009,"Rockingham County, Virginia",2010,42.4,35.4,Virginia
+3010,"Russell County, Virginia",2010,41.7,35.9,Virginia
+3011,"Salem city, Virginia",2010,40.5,34.6,Virginia
+3012,"Scott County, Virginia",2010,41.8,35,Virginia
+3013,"Shenandoah County, Virginia",2010,41.9,36,Virginia
+3014,"Smyth County, Virginia",2010,40.9,37.7,Virginia
+3015,"Southampton County, Virginia",2010,42.3,36.6,Virginia
+3016,"Spotsylvania County, Virginia",2010,41.8,36.4,Virginia
+3017,"Stafford County, Virginia",2010,43.2,36.5,Virginia
+3018,"Staunton city, Virginia",2010,41.5,36.2,Virginia
+3019,"Suffolk city, Virginia",2010,43.5,37.1,Virginia
+3020,"Surry County, Virginia",2010,41.9,35.7,Virginia
+3021,"Sussex County, Virginia",2010,40.5,37.8,Virginia
+3022,"Tazewell County, Virginia",2010,43.8,36.1,Virginia
+3023,"Virginia Beach city, Virginia",2010,43,37.1,Virginia
+3024,"Warren County, Virginia",2010,41.7,36.3,Virginia
+3025,"Washington County, Virginia",2010,41.6,36.5,Virginia
+3026,"Waynesboro city, Virginia",2010,40.5,36.8,Virginia
+3027,"Westmoreland County, Virginia",2010,42.3,36.3,Virginia
+3028,"Williamsburg city, Virginia",2010,34.7,29.5,Virginia
+3029,"Winchester city, Virginia",2010,43,35.4,Virginia
+3030,"Wise County, Virginia",2010,43.1,36.3,Virginia
+3031,"Wythe County, Virginia",2010,41.6,36.4,Virginia
+3032,"York County, Virginia",2010,43.6,36.9,Virginia
+3033,"Adams County, Washington",2010,43.2,36.2,Washington
+3034,"Asotin County, Washington",2010,40.1,35.1,Washington
+3035,"Benton County, Washington",2010,41,34.5,Washington
+3036,"Chelan County, Washington",2010,39.6,35.6,Washington
+3037,"Clallam County, Washington",2010,40,33.9,Washington
+3038,"Clark County, Washington",2010,41.6,35.1,Washington
+3039,"Columbia County, Washington",2010,42.1,34.6,Washington
+3040,"Cowlitz County, Washington",2010,40.8,33.5,Washington
+3041,"Douglas County, Washington",2010,41.3,35.5,Washington
+3042,"Ferry County, Washington",2010,40.8,34.5,Washington
+3043,"Franklin County, Washington",2010,42.4,36.4,Washington
+3044,"Garfield County, Washington",2010,41.9,35,Washington
+3045,"Grant County, Washington",2010,43.1,36.1,Washington
+3046,"Grays Harbor County, Washington",2010,39.5,34.5,Washington
+3047,"Island County, Washington",2010,42.6,34.7,Washington
+3048,"Jefferson County, Washington",2010,40.4,32.5,Washington
+3049,"King County, Washington",2010,41.1,36.1,Washington
+3050,"Kitsap County, Washington",2010,42.4,34.2,Washington
+3051,"Kittitas County, Washington",2010,37.9,31.6,Washington
+3052,"Klickitat County, Washington",2010,43.2,34.2,Washington
+3053,"Lewis County, Washington",2010,40.6,34.1,Washington
+3054,"Lincoln County, Washington",2010,44.6,35,Washington
+3055,"Mason County, Washington",2010,40.6,35.5,Washington
+3056,"Okanogan County, Washington",2010,41.3,35.2,Washington
+3057,"Pacific County, Washington",2010,40.9,33.6,Washington
+3058,"Pend Oreille County, Washington",2010,41.8,33.6,Washington
+3059,"Pierce County, Washington",2010,41.7,35.6,Washington
+3060,"San Juan County, Washington",2010,39.2,33.6,Washington
+3061,"Skagit County, Washington",2010,41.6,34.5,Washington
+3062,"Skamania County, Washington",2010,41.6,34.6,Washington
+3063,"Snohomish County, Washington",2010,41.6,35.4,Washington
+3064,"Spokane County, Washington",2010,40.3,34.4,Washington
+3065,"Stevens County, Washington",2010,40.6,34,Washington
+3066,"Thurston County, Washington",2010,41.2,35.7,Washington
+3067,"Wahkiakum County, Washington",2010,37.1,36.4,Washington
+3068,"Walla Walla County, Washington",2010,38.7,33,Washington
+3069,"Whatcom County, Washington",2010,39.4,32.6,Washington
+3070,"Whitman County, Washington",2010,36.5,29.1,Washington
+3071,"Yakima County, Washington",2010,41.4,36.6,Washington
+3072,"Barbour County, West Virginia",2010,41.8,32.9,West Virginia
+3073,"Berkeley County, West Virginia",2010,42,37.2,West Virginia
+3074,"Boone County, West Virginia",2010,46.5,37.4,West Virginia
+3075,"Braxton County, West Virginia",2010,44.4,36.1,West Virginia
+3076,"Brooke County, West Virginia",2010,40.6,35.2,West Virginia
+3077,"Cabell County, West Virginia",2010,41.4,35.5,West Virginia
+3078,"Calhoun County, West Virginia",2010,41.9,35.4,West Virginia
+3079,"Clay County, West Virginia",2010,42.2,36.4,West Virginia
+3080,"Doddridge County, West Virginia",2010,42.6,33.9,West Virginia
+3081,"Fayette County, West Virginia",2010,44.3,36,West Virginia
+3082,"Gilmer County, West Virginia",2010,36.6,33.4,West Virginia
+3083,"Grant County, West Virginia",2010,42.2,36,West Virginia
+3084,"Greenbrier County, West Virginia",2010,41.3,37.4,West Virginia
+3085,"Hampshire County, West Virginia",2010,41,37.2,West Virginia
+3086,"Hancock County, West Virginia",2010,41.5,36.1,West Virginia
+3087,"Hardy County, West Virginia",2010,41.5,36.6,West Virginia
+3088,"Harrison County, West Virginia",2010,42.6,36.4,West Virginia
+3089,"Jackson County, West Virginia",2010,43,35.7,West Virginia
+3090,"Jefferson County, West Virginia",2010,42.6,36.4,West Virginia
+3091,"Kanawha County, West Virginia",2010,42.2,36.9,West Virginia
+3092,"Lewis County, West Virginia",2010,41.3,36.3,West Virginia
+3093,"Lincoln County, West Virginia",2010,44.5,36.6,West Virginia
+3094,"Logan County, West Virginia",2010,46.1,37.3,West Virginia
+3095,"Marion County, West Virginia",2010,40.4,35.7,West Virginia
+3096,"Marshall County, West Virginia",2010,41.6,35.6,West Virginia
+3097,"Mason County, West Virginia",2010,44.1,36.3,West Virginia
+3098,"McDowell County, West Virginia",2010,43.4,36.6,West Virginia
+3099,"Mercer County, West Virginia",2010,42.7,36.3,West Virginia
+3100,"Mineral County, West Virginia",2010,41.3,35.6,West Virginia
+3101,"Mingo County, West Virginia",2010,47.4,36.8,West Virginia
+3102,"Monongalia County, West Virginia",2010,37.9,33,West Virginia
+3103,"Monroe County, West Virginia",2010,42.7,37,West Virginia
+3104,"Morgan County, West Virginia",2010,40.6,37.1,West Virginia
+3105,"Nicholas County, West Virginia",2010,43.8,34.9,West Virginia
+3106,"Ohio County, West Virginia",2010,41.8,35.6,West Virginia
+3107,"Pendleton County, West Virginia",2010,42.9,36.5,West Virginia
+3108,"Pleasants County, West Virginia",2010,45.3,35.8,West Virginia
+3109,"Pocahontas County, West Virginia",2010,42.9,37.7,West Virginia
+3110,"Preston County, West Virginia",2010,43.5,36.5,West Virginia
+3111,"Putnam County, West Virginia",2010,41.9,36.7,West Virginia
+3112,"Raleigh County, West Virginia",2010,43.5,36.3,West Virginia
+3113,"Randolph County, West Virginia",2010,40.4,35.5,West Virginia
+3114,"Ritchie County, West Virginia",2010,41.7,35.9,West Virginia
+3115,"Roane County, West Virginia",2010,44.8,37,West Virginia
+3116,"Summers County, West Virginia",2010,41.8,35.3,West Virginia
+3117,"Taylor County, West Virginia",2010,41.7,35.4,West Virginia
+3118,"Tucker County, West Virginia",2010,42.3,36.3,West Virginia
+3119,"Tyler County, West Virginia",2010,43,38.2,West Virginia
+3120,"Upshur County, West Virginia",2010,40.9,34.2,West Virginia
+3121,"Wayne County, West Virginia",2010,42.9,36.8,West Virginia
+3122,"Webster County, West Virginia",2010,45.6,34.8,West Virginia
+3123,"Wetzel County, West Virginia",2010,43.2,34.5,West Virginia
+3124,"Wirt County, West Virginia",2010,44.3,35.3,West Virginia
+3125,"Wood County, West Virginia",2010,41.5,34.9,West Virginia
+3126,"Wyoming County, West Virginia",2010,45.9,37.4,West Virginia
+3127,"Adams County, Wisconsin",2010,40.3,36.1,Wisconsin
+3128,"Ashland County, Wisconsin",2010,39.3,34.2,Wisconsin
+3129,"Barron County, Wisconsin",2010,42.1,35.2,Wisconsin
+3130,"Bayfield County, Wisconsin",2010,42.3,34.4,Wisconsin
+3131,"Brown County, Wisconsin",2010,41.4,35,Wisconsin
+3132,"Buffalo County, Wisconsin",2010,44.6,36.7,Wisconsin
+3133,"Burnett County, Wisconsin",2010,40.8,33.7,Wisconsin
+3134,"Calumet County, Wisconsin",2010,42.7,35.8,Wisconsin
+3135,"Chippewa County, Wisconsin",2010,42,35.3,Wisconsin
+3136,"Clark County, Wisconsin",2010,45.8,36.5,Wisconsin
+3137,"Columbia County, Wisconsin",2010,42.3,36.5,Wisconsin
+3138,"Crawford County, Wisconsin",2010,43.6,34.9,Wisconsin
+3139,"Dane County, Wisconsin",2010,40,34.8,Wisconsin
+3140,"Dodge County, Wisconsin",2010,42.5,35.4,Wisconsin
+3141,"Door County, Wisconsin",2010,42.1,35.1,Wisconsin
+3142,"Douglas County, Wisconsin",2010,40.8,34.5,Wisconsin
+3143,"Dunn County, Wisconsin",2010,39.8,33.2,Wisconsin
+3144,"Eau Claire County, Wisconsin",2010,40.1,33.6,Wisconsin
+3145,"Florence County, Wisconsin",2010,41.2,33.2,Wisconsin
+3146,"Fond du Lac County, Wisconsin",2010,42,34.5,Wisconsin
+3147,"Forest County, Wisconsin",2010,41.3,35.2,Wisconsin
+3148,"Grant County, Wisconsin",2010,41.7,34.8,Wisconsin
+3149,"Green County, Wisconsin",2010,43.5,36.7,Wisconsin
+3150,"Green Lake County, Wisconsin",2010,43.4,36.2,Wisconsin
+3151,"Iowa County, Wisconsin",2010,44.1,36.4,Wisconsin
+3152,"Iron County, Wisconsin",2010,40,34.2,Wisconsin
+3153,"Jackson County, Wisconsin",2010,42.3,35.9,Wisconsin
+3154,"Jefferson County, Wisconsin",2010,40.9,34.9,Wisconsin
+3155,"Juneau County, Wisconsin",2010,43.3,35.7,Wisconsin
+3156,"Kenosha County, Wisconsin",2010,41.3,35.3,Wisconsin
+3157,"Kewaunee County, Wisconsin",2010,43.6,35.2,Wisconsin
+3158,"La Crosse County, Wisconsin",2010,40.2,34.2,Wisconsin
+3159,"Lafayette County, Wisconsin",2010,45.4,36.8,Wisconsin
+3160,"Langlade County, Wisconsin",2010,43,34,Wisconsin
+3161,"Lincoln County, Wisconsin",2010,41.7,35.3,Wisconsin
+3162,"Manitowoc County, Wisconsin",2010,42.6,34.9,Wisconsin
+3163,"Marathon County, Wisconsin",2010,42,35.8,Wisconsin
+3164,"Marinette County, Wisconsin",2010,41.7,33.6,Wisconsin
+3165,"Marquette County, Wisconsin",2010,42.9,35.5,Wisconsin
+3166,"Menominee County, Wisconsin",2010,37.6,35.2,Wisconsin
+3167,"Milwaukee County, Wisconsin",2010,39.9,35.8,Wisconsin
+3168,"Monroe County, Wisconsin",2010,43,36.7,Wisconsin
+3169,"Oconto County, Wisconsin",2010,43,36,Wisconsin
+3170,"Oneida County, Wisconsin",2010,41.2,35.7,Wisconsin
+3171,"Outagamie County, Wisconsin",2010,41.3,34.9,Wisconsin
+3172,"Ozaukee County, Wisconsin",2010,41.8,33.6,Wisconsin
+3173,"Pepin County, Wisconsin",2010,44.9,34.2,Wisconsin
+3174,"Pierce County, Wisconsin",2010,40,33.5,Wisconsin
+3175,"Polk County, Wisconsin",2010,41.5,35.2,Wisconsin
+3176,"Portage County, Wisconsin",2010,40.6,33.6,Wisconsin
+3177,"Price County, Wisconsin",2010,42.2,35.1,Wisconsin
+3178,"Racine County, Wisconsin",2010,41.2,35.7,Wisconsin
+3179,"Richland County, Wisconsin",2010,43.9,36.1,Wisconsin
+3180,"Rock County, Wisconsin",2010,41.6,34.8,Wisconsin
+3181,"Rusk County, Wisconsin",2010,42.1,35.9,Wisconsin
+3182,"Sauk County, Wisconsin",2010,42.9,36,Wisconsin
+3183,"Sawyer County, Wisconsin",2010,40.2,34.1,Wisconsin
+3184,"Shawano County, Wisconsin",2010,43.6,35.8,Wisconsin
+3185,"Sheboygan County, Wisconsin",2010,41.3,35.1,Wisconsin
+3186,"St. Croix County, Wisconsin",2010,41.8,35.5,Wisconsin
+3187,"Taylor County, Wisconsin",2010,45.3,36.5,Wisconsin
+3188,"Trempealeau County, Wisconsin",2010,43.7,37.3,Wisconsin
+3189,"Vernon County, Wisconsin",2010,44.4,36.5,Wisconsin
+3190,"Vilas County, Wisconsin",2010,41.4,36.2,Wisconsin
+3191,"Walworth County, Wisconsin",2010,41.2,34.3,Wisconsin
+3192,"Washburn County, Wisconsin",2010,42.4,35.2,Wisconsin
+3193,"Washington County, Wisconsin",2010,42.1,35.4,Wisconsin
+3194,"Waukesha County, Wisconsin",2010,42.2,34.8,Wisconsin
+3195,"Waupaca County, Wisconsin",2010,42.4,34.6,Wisconsin
+3196,"Waushara County, Wisconsin",2010,41.3,35.9,Wisconsin
+3197,"Winnebago County, Wisconsin",2010,40.5,34.8,Wisconsin
+3198,"Wood County, Wisconsin",2010,42.2,35,Wisconsin
+3199,"Albany County, Wyoming",2010,38.2,33.5,Wyoming
+3200,"Big Horn County, Wyoming",2010,46.1,35.5,Wyoming
+3201,"Campbell County, Wyoming",2010,47.9,38,Wyoming
+3202,"Carbon County, Wyoming",2010,45.9,37.5,Wyoming
+3203,"Converse County, Wyoming",2010,46.6,35.6,Wyoming
+3204,"Crook County, Wyoming",2010,49.6,35.1,Wyoming
+3205,"Fremont County, Wyoming",2010,44.9,36.8,Wyoming
+3206,"Goshen County, Wyoming",2010,44.6,35.7,Wyoming
+3207,"Hot Springs County, Wyoming",2010,46.4,36.6,Wyoming
+3208,"Johnson County, Wyoming",2010,45.5,34.8,Wyoming
+3209,"Laramie County, Wyoming",2010,43,37.8,Wyoming
+3210,"Lincoln County, Wyoming",2010,45.3,35.4,Wyoming
+3211,"Natrona County, Wyoming",2010,44.5,36.4,Wyoming
+3212,"Niobrara County, Wyoming",2010,47,37.3,Wyoming
+3213,"Park County, Wyoming",2010,43.8,36.1,Wyoming
+3214,"Platte County, Wyoming",2010,43.2,35.4,Wyoming
+3215,"Sheridan County, Wyoming",2010,43.3,35.3,Wyoming
+3216,"Sublette County, Wyoming",2010,51.1,38.4,Wyoming
+3217,"Sweetwater County, Wyoming",2010,48.2,35.6,Wyoming
+3218,"Teton County, Wyoming",2010,43.1,37.8,Wyoming
+3219,"Uinta County, Wyoming",2010,44.5,34.3,Wyoming
+3220,"Washakie County, Wyoming",2010,45.8,36.1,Wyoming
+3221,"Weston County, Wyoming",2010,44,36.6,Wyoming

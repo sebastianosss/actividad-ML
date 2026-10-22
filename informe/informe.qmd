@@ -1,0 +1,173 @@
+---
+title: "Laboratorio MEA: Colinealidad, Selección y Regularización"
+author:
+  - Diego Espinoza (Est. A)
+  - Sebastián Osses (Est. B)
+  - Tomás Anabalón (Experto)
+  - Bastián Vera (Informático)
+date: today
+lang: es
+format:
+  pdf:
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    geometry: margin=2.5cm
+    fontsize: 11pt
+    documentclass: article
+    keep-tex: false
+    fig-pos: "H"
+execute:
+  echo: false
+  warning: false
+bibliography: references.bib
+---
+
+```{r setup, include=FALSE}
+# Carga de resultados generados por el ejecutor
+# Los archivos out/<nombre>.txt contienen la salida de cada bloque
+leer_out <- function(nombre) {
+  f <- file.path("..", "out", paste0(nombre, ".txt"))
+  if (file.exists(f)) readLines(f, warn = FALSE) else "(pendiente de ejecución)"
+}
+```
+
+\newpage
+
+# Pregunta de investigación y datos
+
+## Objetivo
+<!-- Declarar: ¿el objetivo es predecir o explicar? -->
+
+## Descripción de los datos
+
+### Hald (cemento)
+<!-- Ficha de datos: significado, unidades, n, p, valores faltantes, fuente -->
+
+### Cars93
+<!-- Ficha de datos: significado de cada variable, unidades, n, casos completos, valores faltantes -->
+<!-- Decisión documentada: tratamiento de casos incompletos y n resultante -->
+<!-- Decisión documentada: inclusión/exclusión de MPG.highway como predictor -->
+
+### BostonHousing
+<!-- Ficha de datos para medv ~ indus + rm + ptratio + lstat -->
+
+---
+
+# Diagnóstico de colinealidad {#sec-diagnostico}
+
+*Fase F2. Líder: Sebastián Osses (Est. B).*
+
+## Matriz de correlaciones
+
+## VIF (Factor de Inflación de la Varianza)
+<!-- VIF por definición: diag(solve(cor(X))) -->
+<!-- VIF con car::vif sobre un lm -->
+<!-- Verificar que coinciden (diferencia numérica) -->
+
+## Autovalores, índices de condición y número de condición
+<!-- Declarar la convención: constante, centrado, escala -->
+
+## Descomposición de varianzas (Belsley, Kuh y Welsch)
+<!-- Con y sin constante, con y sin centrado -->
+
+## Interpretación desde el dominio
+<!-- Experto/a: significado de cada columna -->
+<!-- Hald: suma de las filas de los predictores -->
+<!-- Cars93: comparación de Min.Price, Price y Max.Price -->
+
+---
+
+# Selección de variables {#sec-seleccion}
+
+*Fase F3. Líder: Diego Espinoza (Est. A).*
+
+## Hald: mejores subconjuntos (Ej. 7)
+<!-- regsubsets con 1 a 4 regresores -->
+<!-- Modelo elegido por R²adj, Cp y BIC -->
+<!-- Forward, backward y stepwise -->
+
+## BostonHousing: subconjuntos y Cp (Ej. 4)
+<!-- Mejores subconjuntos de 1 a 4 predictores -->
+<!-- Modelo por Cp y por AIC -->
+
+## Cars93: selección con AIC (Ej. 5a)
+<!-- stepAIC con k = 2 -->
+
+## Cars93: selección con BIC y Cp (Ej. 6)
+<!-- stepAIC con k = log(n) -->
+<!-- Todas las regresiones posibles con Cp para MPG.city -->
+<!-- Comparación del modelo por Cp con el de 5(a) -->
+
+## VIF de los modelos elegidos (Ej. 8b)
+
+## Tabla comparativa de criterios y métodos
+<!-- Número de modelos evaluados por cada método frente a 2^p -->
+
+---
+
+# Regularización y validación cruzada {#sec-regularizacion}
+
+*Fase F4. Líder: Tomás Anabalón (Experto).*
+
+## Estandarización de predictores
+
+## Ridge (α = 0)
+<!-- Trazas, cv.glmnet, lambda.min, lambda.1se -->
+<!-- Verificar que lambda.min no coincide con el borde de la rejilla -->
+
+## Lasso (α = 1)
+<!-- Trazas, cv.glmnet, coeficientes no nulos -->
+
+## Elastic Net (α = 0.5)
+
+## Comparación de coeficientes MCO vs penalizados
+
+## Estabilidad de la selección por remuestreo
+
+## Comparación fuera de muestra (extensión de clase)
+<!-- 100+ particiones 80/20, reestandarización con conjunto de entrenamiento -->
+<!-- Métodos: MCO, BIC, ridge, lasso, elastic net -->
+<!-- RMSE con media, desviación y proporción de mejora sobre MCO -->
+
+## Análisis de sensibilidad
+<!-- Pliegues, semilla, α -->
+
+---
+
+# Validez de las conclusiones {#sec-validez}
+
+*Fase F5. Líder: Sebastián Osses (Est. B).*
+
+## Diagnósticos de residuos e influencia
+<!-- Boxplot de residuos -->
+<!-- Apalancamiento h_ii frente a 2p/n -->
+<!-- Distancia de Cook frente a 4/n -->
+<!-- DFFITS frente a 2√(p/n) -->
+<!-- DFBETAS frente a 2/√n -->
+<!-- Declarar p (incluido intercepto) y umbrales usados -->
+
+## Reajuste sin observaciones influyentes
+
+## Inferencia posterior a la selección
+<!-- OBLIGATORIO (R6): los valores p e intervalos del modelo elegido con los mismos datos
+     no tienen la distribución nominal. Prácticas: separar muestras, validar fuera de muestra,
+     informar estabilidad de la selección. -->
+
+---
+
+# Conclusión
+
+<!-- Máximo 150 palabras: modelo recomendado, objetivo, evidencia y límites -->
+
+---
+
+# Referencias
+
+<!-- Se incluirán las fichas de lectura como referencias -->
+
+---
+
+# Declaración de herramientas de apoyo
+
+<!-- Herramientas utilizadas (asistentes de código, redacción, etc.) y qué se verificó de forma independiente -->

@@ -1,0 +1,24 @@
+# === Salidas generadas por el ejecutor ===
+code/
+out/
+fig/
+
+# === Archivos generados por R/Quarto ===
+*.pdf
+!data/**/*.pdf
+.Rproj.user/
+.Rhistory
+.RData
+.Rprofile
+*_files/
+*_cache/
+
+# === Materiales fuente del profesor (no son parte del entregable) ===
+modelos lineales/
+modelos lineales.zip
+
+# === Sistema ===
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
