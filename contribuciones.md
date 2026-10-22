@@ -32,10 +32,10 @@ Cada integrante registra aquí sus contribuciones por fase. Los commits de Git s
 
 | Integrante | Rol en F1 | Contribución | Commits |
 |---|---|---|---|
-| Diego Espinoza | | | |
-| Sebastián Osses | | | |
-| Tomás Anabalón | | | |
-| Bastián Vera | Líder (Informático) | Repo, ejecutor, esqueleto | |
+| Diego Espinoza | Revisor | Revisión de estructura y acuerdos de equipo | |
+| Sebastián Osses | Revisor | Revisión de diagnóstico y acuerdos de equipo | |
+| Tomás Anabalón | Revisor / Dominio | Revisión de datos y acuerdos de equipo | |
+| Bastián Vera | Líder (Informático) | Infraestructura base, ejecutor modular, esqueleto de informe.qmd, funciones R/utils.R, bloques de análisis 00 y 01, documentación de datos y entorno en README | `ebc54dc`, `21bf905`, `8f3c80a`, `5e1a5b5`, `20d5c47`, `0555979`, `6155a45`, `46cda6d`, `de278d6`, `280f8a4`, `644fdf4`, `a0ba680`, `b4df8b4`, `5534cd1` |
 
 ### F2 — Diagnóstico de colinealidad
 

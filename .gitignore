@@ -3,6 +3,14 @@
 .RData
 .Rproj.user/
 
+# Quarto & LaTeX auxiliary / generated files
+informe/*.pdf
+*.aux
+*.log
+*.out
+*.toc
+*_files/
+
 # Materiales de origen (referencia)
 modelos lineales/
 modelos lineales.zip

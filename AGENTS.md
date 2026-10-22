@@ -61,17 +61,17 @@ Ubicación: raíz del repositorio. Límite de Antigravity para archivos de regla
 
 | Decisión | Valor | Fecha | Responsable |
 |---|---|---|---|
-| Tratamiento de casos incompletos de Cars93 | pendiente | | |
-| `MPG.highway` como predictor | pendiente | | |
-| Convención del número de condición | pendiente | | |
-| Esquema de remuestreo para estabilidad en Hald | pendiente | | |
+| Tratamiento de casos incompletos de Cars93 | Usar un único data.frame de casos completos (n = 82) sobre las 17 variables de interés (excluyendo las 11 filas con NA en Rear.seat.room y Luggage.room) para garantizar comparabilidad exacta en AIC/BIC | 2026-10-22 | Tomás Anabalón / Sebastián Osses |
+| `MPG.highway` como predictor | Excluido del conjunto principal de 16 predictores de MPG.city por redundancia mecánica directa; se reserva para análisis de sensibilidad | 2026-10-22 | Tomás Anabalón / Diego Espinoza |
+| Convención del número de condición | Reportar y comparar explícitamente ambas convenciones en F2: (i) sobre matriz de correlación / predictores centrados y escalados sin intercepto, y (ii) sobre matriz de diseño con intercepto y columnas escaladas a longitud unitaria según Belsley, Kuh y Welsch (1980) | 2026-10-22 | Sebastián Osses |
+| Esquema de remuestreo para estabilidad en Hald | En cv.glmnet usar validación cruzada dejando uno fuera (LOOCV, nfolds = 13) documentando advertencias numéricas, y evaluar estabilidad de selección mediante remuestreo con semilla fija set.seed() | 2026-10-22 | Sebastián Osses / Diego Espinoza |
 
 ### Avance por fase
 
 | Fase | Estado (pendiente / en curso / cerrada) | Entradas POE | Observaciones |
 |---|---|---|---|
 | F0 | pendiente | — | |
-| F1 | en curso | — | Infraestructura base, pruebas de entorno y utils |
+| F1 | en curso (técnica completada) | — | Infraestructura modular, ejecutor.R, R/utils.R, esqueleto informe.qmd, references.bib y verificación Quarto |
 | F2 | pendiente | 0 de 2 | |
 | F3 | pendiente | 0 de 2 | |
 | F4 | pendiente | 0 de 2 | |

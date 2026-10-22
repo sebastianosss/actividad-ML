@@ -23,6 +23,15 @@ Uso del documento: cada fase tiene tareas por rol y una lista de verificación. 
 
 Contrato de equipo (5 min en F1): canal, horarios y regla de desacuerdo. La decisión estadística corresponde al rol responsable; toda objeción se anota en la bitácora.
 
+### Decisiones metodológicas acordadas (F1)
+
+| Decisión | Valor | Fecha | Responsable |
+|---|---|---|---|
+| Tratamiento de casos incompletos de Cars93 | Usar un único data.frame de casos completos (n = 82) sobre las 17 variables de interés (excluyendo las 11 filas con NA en Rear.seat.room y Luggage.room) para garantizar comparabilidad exacta en AIC/BIC | 2026-10-22 | Tomás Anabalón / Sebastián Osses |
+| `MPG.highway` como predictor | Excluido del conjunto principal de 16 predictores de MPG.city por redundancia mecánica directa; se reserva para análisis de sensibilidad | 2026-10-22 | Tomás Anabalón / Diego Espinoza |
+| Convención del número de condición | Reportar y comparar explícitamente ambas convenciones en F2: (i) sobre matriz de correlación / predictores centrados y escalados sin intercepto, y (ii) sobre matriz de diseño con intercepto y columnas escaladas a longitud unitaria según Belsley, Kuh y Welsch (1980) | 2026-10-22 | Sebastián Osses |
+| Esquema de remuestreo para estabilidad en Hald | En cv.glmnet usar validación cruzada dejando uno fuera (LOOCV, nfolds = 13) documentando advertencias numéricas, y evaluar estabilidad de selección mediante remuestreo con semilla fija set.seed() | 2026-10-22 | Sebastián Osses / Diego Espinoza |
+
 ---
 
 ## 1. Entregables
@@ -156,7 +165,7 @@ Tareas:
 
 Verificación:
 - [ ] Contrato de equipo completado.
-- [ ] `Rscript ejecutor.R` corre sin error sobre el esqueleto en una sesión nueva.
+- [x] `Rscript ejecutor.R` corre sin error sobre el esqueleto en una sesión nueva.
 - [ ] Todos los integrantes tienen acceso de escritura al repositorio y hicieron un commit.
 - [ ] Jigsaw realizado (cada lectura expuesta al equipo).
 
@@ -345,7 +354,7 @@ Verificación:
 | Fase | Líder | Fecha límite interna | Estado (pendiente / en curso / cerrada) | Entradas POE | Visto bueno docente | Observaciones |
 |---|---|---|---|---|---|---|
 | F0 | Cada integrante | | | — | — | |
-| F1 | Informático/a | | | — | — | |
+| F1 | Informático/a | 2026-10-22 | en curso (técnica completada) | — | — | Infraestructura modular, ejecutor.R, R/utils.R, esqueleto informe.qmd, references.bib y verificación Quarto |
 | F2 | Est. B | | | | | |
 | F3 | Est. A | | | | | |
 | F4 | Experto/a | | | | | |
