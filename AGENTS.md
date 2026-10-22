@@ -1,6 +1,6 @@
-# AGENTS.md: reglas del proyecto y estado
+# Reglas del proyecto y estado
 
-Ubicación: raíz del repositorio. Límite de Antigravity para archivos de reglas: 12.000 caracteres. Si el estado crece, moverlo a `MEMORIA.md` y referenciarlo desde este archivo con `@MEMORIA.md`.
+Reglas metodológicas, convenciones técnicas y estado de avance del laboratorio de Modelos Estadísticos Activos.
 
 ## 1. Contexto
 
@@ -24,7 +24,7 @@ Ubicación: raíz del repositorio. Límite de Antigravity para archivos de regla
 10. **Etiquetas.** Cada afirmación del informe lleva una etiqueta: demostrado, evidencia numérica o heurística.
 11. **Supuestos.** Ante una convención o decisión no definida (casos incompletos, estandarización, umbral), indicar el supuesto en la respuesta y registrarlo en la sección 5 de este archivo. No elegir en silencio.
 12. **Git.** Trabajar en la rama del integrante. No hacer push a `main`. El commit lo ejecuta la persona después de revisar el cambio.
-13. **Registro de uso.** Cada sesión con el agente se anota en `USO_HERRAMIENTAS.md`: fecha, integrante, tarea, qué verificó la persona por cuenta propia. Este registro sustenta la declaración final del informe.
+13. **Registro de uso.** Cada sesión de trabajo con herramientas de apoyo se anota en `USO_HERRAMIENTAS.md`: fecha, integrante, tarea, qué verificó la persona por cuenta propia. Este registro sustenta la declaración final del informe.
 
 ## 3. Convenciones técnicas
 
