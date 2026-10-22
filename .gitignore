@@ -1,24 +1,8 @@
-# === Salidas generadas por el ejecutor ===
-code/
-out/
-fig/
-
-# === Archivos generados por R/Quarto ===
-*.pdf
-!data/**/*.pdf
-.Rproj.user/
+# R session & environment files
 .Rhistory
 .RData
-.Rprofile
-*_files/
-*_cache/
+.Rproj.user/
 
-# === Materiales fuente del profesor (no son parte del entregable) ===
+# Materiales de origen (referencia)
 modelos lineales/
 modelos lineales.zip
-
-# === Sistema ===
-.DS_Store
-Thumbs.db
-desktop.ini
-~$*
