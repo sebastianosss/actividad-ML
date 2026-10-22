@@ -1,0 +1,80 @@
+R version 4.5.1 (2025-06-13 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 11 x64 (build 26200)
+
+Matrix products: default
+  LAPACK version 3.12.1
+
+locale:
+[1] LC_COLLATE=Spanish_Chile.utf8  LC_CTYPE=Spanish_Chile.utf8   
+[3] LC_MONETARY=Spanish_Chile.utf8 LC_NUMERIC=C                  
+[5] LC_TIME=Spanish_Chile.utf8    
+
+time zone: America/Santiago
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] pls_2.9-0      mlbench_2.1-11 mctest_1.3.2   MASS_7.3-65    leaps_3.2     
+[6] car_3.1-5      carData_3.0-5  glmnet_5.1     Matrix_1.7-3  
+
+loaded via a namespace (and not attached):
+ [1] Formula_1.2-5    codetools_0.2-20 shape_1.4.6.1    lattice_0.22-7  
+ [5] splines_4.5.1    iterators_1.0.14 abind_1.4-8      foreach_1.5.2   
+ [9] grid_4.5.1       compiler_4.5.1   Rcpp_1.1.0       survival_3.8-3  
+Conjuntos de datos en mctest:
+     Item   Title                                    
+[1,] "Hald" "Portland Cement benchmark of Hald(1952)"
+
+Estructura y columnas de Hald:
+Nombre del objeto: Hald
+Clase: matrix array 
+Columnas: y, X1, X2, X3, X4 
+=== Verificación de datos: Hald ===
+Dimensiones: 13 filas x 5 columnas
+NA por columna:
+ y X1 X2 X3 X4 
+ 0  0  0  0  0 
+Valores Inf en Hald: Ninguno detectado
+Valores NaN en Hald: Ninguno detectado
+
+=== Verificación de datos: Cars93 ===
+Dimensiones: 93 filas x 27 columnas
+NA por columna:
+      Manufacturer              Model               Type          Min.Price 
+                 0                  0                  0                  0 
+             Price          Max.Price           MPG.city        MPG.highway 
+                 0                  0                  0                  0 
+           AirBags         DriveTrain          Cylinders         EngineSize 
+                 0                  0                  0                  0 
+        Horsepower                RPM       Rev.per.mile    Man.trans.avail 
+                 0                  0                  0                  0 
+Fuel.tank.capacity         Passengers             Length          Wheelbase 
+                 0                  0                  0                  0 
+             Width        Turn.circle     Rear.seat.room       Luggage.room 
+                 0                  0                  2                 11 
+            Weight             Origin               Make 
+                 0                  0                  0 
+Valores Inf en Cars93: Ninguno detectado
+Valores NaN en Cars93: Ninguno detectado
+
+Cars93: 11 filas con algún NA en las 17 columnas de interés (de 93 filas totales). Casos completos: 82.
+
+=== Verificación de datos: BostonHousing ===
+Dimensiones: 506 filas x 14 columnas
+NA por columna:
+   crim      zn   indus    chas     nox      rm     age     dis     rad     tax 
+      0       0       0       0       0       0       0       0       0       0 
+ptratio       b   lstat    medv 
+      0       0       0       0 
+Valores Inf en BostonHousing: Ninguno detectado
+Valores NaN en BostonHousing: Ninguno detectado
+
+## Advertencia: package 'glmnet' was built under R version 4.5.3
+## Advertencia: package 'car' was built under R version 4.5.3
+## Advertencia: package 'leaps' was built under R version 4.5.3
+## Advertencia: package 'mctest' was built under R version 4.5.2
+## Advertencia: package 'mlbench' was built under R version 4.5.3
+## Advertencia: package 'pls' was built under R version 4.5.3
