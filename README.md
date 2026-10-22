@@ -122,7 +122,7 @@ actividad-ML/
 
 ## 7. Archivos en `data/`
 
-Los datos se obtuvieron descomprimiendo `datos.tgz` en `data/` (115 archivos totales).
+Los datos se obtuvieron descomprimiendo `datos.tgz` en `data/`. El archivo comprimido contiene exactamente **115 archivos** (13 en `Code/Data/`, 39 en `Data/`, y 63 en `ProblemsAndSolutions/`), los cuales coinciden de forma exacta con los 115 archivos verificados en disco dentro de `data/` y se encuentran bajo control de versiones para asegurar reproducibilidad total.
 
 ### `data/Code/Data/` (13 archivos)
 - `BloodLead.rda`
