@@ -1,0 +1,4 @@
+"","Metodo","Parametro","RMSE_simulado"
+"1","MCO","Ninguno",3.42
+"2","Ridge","lambda = 0.15",2.89
+"3","Lasso","lambda = 0.08",2.75

@@ -1,0 +1,6 @@
+--- Prueba de guardar_tabla() ---
+Tabla guardada en: out/tablas/prueba_utils.csv
+Archivo verificado en disco: out/tablas/prueba_utils.csv (135 bytes)
+
+--- Prueba de verificar_lambda() con datos simulados ---
+lambda.min (0.123121) se encuentra dentro de la rejilla (min: 0.00688348, max: 1.82831).
