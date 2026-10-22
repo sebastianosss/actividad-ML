@@ -1,62 +1,130 @@
 # Laboratorio MEA: Colinealidad, Selección y Regularización
 
-**Curso:** Modelos Estadísticos Activos — Ingeniería en Estadística, UCM  
-**Profesor:** Dr. José Miguel Zúñiga Núñez
+**Curso:** Modelos Estadísticos Activos — Ingeniería en Estadística, Universidad Católica del Maule (UCM)  
+**Profesor:** Dr. José Miguel Zúñiga Núñez  
+**Versión de R requerida:** R versión 4.5.1 (2025-06-13 ucrt) o superior  
 
-## Integrantes
+## 1. Propósito del repositorio
 
-| Rol | Integrante |
-|---|---|
-| Est. A (Modelación y selección) | Diego Espinoza |
-| Est. B (Diagnóstico y validación) | Sebastián Osses |
-| Experto/a (Dominio y calidad del dato) | Tomás Anabalón |
-| Informático/a (Reproducibilidad y flujo) | Bastián Vera |
+Este repositorio contiene la infraestructura de código, análisis reproducible, bitácora y documentación para el Laboratorio de Modelos Estadísticos Activos enfocado en:
+- Diagnóstico de multicolinealidad (VIF, índices y número de condición, descomposición de varianzas BKW).
+- Selección de variables (subconjuntos exhaustivos, stepwise forward/backward, AIC, BIC, Cp de Mallows).
+- Regularización (Ridge regression, Lasso, Elastic Net, validación cruzada y estabilidad por remuestreo).
+- Validez e inferencia post-selección (residuos, apalancamiento, distancia de Cook, DFFITS, DFBETAS).
 
-## Descripción
+Los análisis se desarrollan sobre tres conjuntos de datos principales:
+1. **Hald** (`mctest`, $n = 13$, $p = 4$ predictores): calor de endurecimiento de cemento Portland.
+2. **Cars93** (`MASS`, $n = 82$ casos completos en 17 columnas de interés, 16 predictores): eficiencia de combustible (`MPG.city`).
+3. **BostonHousing** (`mlbench`, $n = 506$, 13 predictores): valor mediano de viviendas (`medv`).
 
-Laboratorio sobre diagnóstico de multicolinealidad, selección de variables (subconjuntos, stepwise, AIC/BIC) y regularización (Ridge, Lasso, Elastic Net) aplicado a los conjuntos de datos **Hald**, **Cars93** y **BostonHousing**.
+---
 
-## Ejecución
+## 2. Integrantes y roles
+
+| Rol | Integrante | Responsabilidad principal |
+|---|---|---|
+| Est. A | Diego Espinoza | Modelación y selección de variables (Ej. 4, 5a, 6, 7, 9) |
+| Est. B | Sebastián Osses | Diagnóstico de colinealidad y validación / sensibilidad |
+| Experto/a | Tomás Anabalón | Calidad de datos, plausibilidad en el dominio e interpretación |
+| Informático/a | Bastián Vera | Reproducibilidad, arquitectura del entorno, ejecutor y control de versiones |
+
+---
+
+## 3. Comando de ejecución
 
 ```bash
-# Requisito: R con los paquetes listados abajo, y Quarto instalado
 Rscript ejecutor.R && quarto render informe/informe.qmd
 ```
 
-El script `ejecutor.R` lee todos los archivos `.R` dentro del directorio `analysis/` en **orden alfabético estricto** (`sort(list.files("analysis", "\\.R$", full.names = TRUE))`). Cada bloque identificado con la etiqueta `#@ <nombre>` se extrae en `code/<nombre>.R` y su salida se guarda en `out/<nombre>.txt`. Todos los bloques se ejecutan de manera secuencial compartiendo un mismo entorno de R (`env`), lo que permite que los objetos creados en un bloque anterior estén disponibles para los bloques siguientes.
+### Mecanismo de ejecución:
+1. `ejecutor.R` lee todos los archivos `.R` dentro del directorio `analysis/` en **orden alfabético estricto** (`sort(list.files("analysis", "\\.R$", full.names = TRUE))`).
+2. Cada bloque delimitado por la cabecera `#@ <nombre>` se extrae como script independiente en `code/<nombre>.R`.
+3. La salida de consola y las advertencias capturadas se guardan en `out/<nombre>.txt`.
+4. Todos los bloques se ejecutan secuencialmente compartiendo un único entorno de evaluación (`env`), permitiendo reutilizar objetos sin colisiones en el espacio de trabajo global.
+5. Los gráficos no se generan en consola: cada bloque que produce visualizaciones las exporta directamente a `fig/` usando `png()`, `cairo_pdf()` o `ggsave()`.
+6. Finalmente, `quarto render informe/informe.qmd` compila el informe técnico leyendo dinámicamente los resultados de `out/` y las figuras de `fig/`.
 
-## Paquetes requeridos
+---
+
+## 4. Paquetes requeridos
 
 ```r
 install.packages(c("glmnet", "car", "leaps", "MASS", "mctest", "mlbench", "pls"))
 ```
 
-## Estructura del repositorio
+Versiones verificadas en el entorno:
+- `glmnet` 5.1
+- `car` 3.1-5 (`carData` 3.0-5)
+- `leaps` 3.2
+- `MASS` 7.3-65
+- `mctest` 1.3.2
+- `mlbench` 2.1-11
+- `pls` 2.9-0
+
+---
+
+## 5. Estructura de carpetas
 
 ```
-├── README.md              # Este archivo
-├── .gitignore
-├── data/                  # Datos descomprimidos de datos.tgz (sin edición manual)
-├── analysis/              # Bloques #@ de análisis modularizados
-├── R/                     # Funciones auxiliares y utilitarias
-├── ejecutor.R             # Ejecutor de bloques (run_chunks)
-├── code/                  # Código extraído por bloque (generado)
-├── out/                   # Salida real de ejecución (generado)
-│   └── tablas/            # Tablas exportadas en CSV (generado)
-├── fig/                   # Figuras generadas
-├── informe/informe.qmd    # Informe Quarto (lee out/ y fig/)
-├── bitacora/bitacora.md   # Entradas POE (predicción-observación-explicación)
-├── lecturas/L*.md         # Fichas de lectura de textos clásicos
-└── contribuciones.md      # Registro de contribuciones por integrante y fase
+actividad-ML/
+├── README.md              # Propósito, ejecución, estructura y listado de datos
+├── AGENTS.md              # Reglas de proceso, convenciones técnicas, estado y penalizaciones
+├── USO_HERRAMIENTAS.md    # Registro obligatorio de interacción con herramientas de apoyo
+├── plan_trabajo_MEA.md    # Plan de fases detallado del laboratorio
+├── .gitignore             # Archivos de entorno y sesión de R (.Rhistory, .RData, etc.)
+├── ejecutor.R             # Script que ejecuta los bloques de analysis/
+├── data/                  # Conjuntos de datos descomprimidos de datos.tgz (inmutables)
+├── analysis/              # Scripts modulares con bloques #@ (leídos alfabéticamente)
+│   └── 00_entorno.R       # Bloque inicial de verificación de paquetes y datos
+├── R/                     # Funciones auxiliares y utilitarias del proyecto
+│   └── utils.R            # verificar_datos(), verificar_lambda(), guardar_tabla()
+├── code/                  # Código R extraído por cada bloque (generado por ejecutor.R)
+├── out/                   # Salidas textuales reales generadas por ejecutor.R
+│   └── tablas/            # Tablas CSV exportadas con guardar_tabla()
+├── fig/                   # Figuras generadas (PNG/PDF)
+├── informe/               # Documento maestro Quarto y bibliografía
+│   └── informe.qmd        # Informe reproducible
+├── bitacora/              # Bitácora POE (Predicción - Observación - Explicación)
+│   └── bitacora.md        # Entradas POE con commit previo obligatorio
+├── lecturas/              # Fichas de lectura de textos clásicos (L1 a L4)
+│   ├── L1.md              # Belsley, Kuh y Welsch (1980) - Diagnóstico
+│   ├── L2.md              # Hoerl y Kennard (1970) - Ridge
+│   ├── L3.md              # Tibshirani (1996) - Lasso
+│   └── L4.md              # Zou y Hastie (2005) - Elastic Net
+└── contribuciones.md      # Registro de aportes por integrante y fase
 ```
 
-## Datos
+---
 
-Los datos provienen del archivo `datos.tgz` del curso y se encuentran en `data/` sin edición manual (Regla 8 de `AGENTS.md`).
+## 6. Convenciones técnicas (Sección 3 de AGENTS.md)
 
-### Listado de archivos extraídos en `data/`
+1. **Ejecución estándar:** `Rscript ejecutor.R && quarto render informe/informe.qmd`. Comprobación final en una sesión nueva de R.
+2. **Extracción y registro:** El ejecutor lee los bloques `#@ nombre`, guarda el código en `code/` y la salida en `out/`, incluyendo advertencias.
+3. **Generación de figuras:** Cada bloque que grafica guarda directamente en `fig/` con `png()`, `cairo_pdf()` o `ggsave()`.
+4. **Semillas aleatorias:** Declarar explícitamente `set.seed()` en cada bloque que contenga aleatoriedad o remuestreo.
+5. **Bloque inicial:** El primer bloque debe contener `sessionInfo()`, versiones de paquetes, dimensiones y conteo de NA de cada conjunto de datos.
+6. **Rutas relativas:** Todo acceso a archivos en código y documentación emplea rutas relativas a la raíz del repositorio.
+7. **Comparabilidad en Cars93:** Utilizar un único data frame de casos completos, con $n$ declarado ($n = 82$), para todos los modelos que se comparen por AIC o BIC.
+8. **Criterios de selección paso a paso:** `step()` utiliza AIC ($k = 2$); `stepAIC(k = log(n))` utiliza BIC. El criterio debe declararse en cada tabla comparativa.
+9. **Estandarización en regularización:** Los predictores se estandarizan con `scale()` antes de penalizar cuando se utiliza `standardize = FALSE`.
+10. **Validación fuera de muestra:** Estandarizar con la media y desviación del conjunto de entrenamiento; seleccionar $\lambda$ dentro del entrenamiento; repetir la selección por BIC dentro de cada partición (evitar fuga de información).
+11. **Pliegues idénticos:** Usar los mismos pliegues (`foldid`) en todos los métodos comparados por validación cruzada.
+12. **Bordes de rejilla en glmnet:** Con `cv.glmnet`, verificar que $\lambda_{\min}$ no coincida con el borde inferior de la rejilla. Con $n_{\text{folds}} = n$ (LOOCV en Hald), documentar cualquier advertencia emitida.
+13. **Umbrales de diagnóstico e influencia:** Declarar en el informe los umbrales formales ($p$ = número de parámetros, incluido el intercepto):
+    - Apalancamiento: $h_{ii} > \frac{2p}{n}$
+    - Distancia de Cook: $D_i > \frac{4}{n}$
+    - DFFITS: $|\text{DFFITS}_i| > 2\sqrt{\frac{p}{n}}$
+    - DFBETAS: $|\text{DFBETAS}_{ij}| > \frac{2}{\sqrt{n}}$
+14. **Inferencia post-selección:** Los valores $p$ e intervalos de confianza de modelos seleccionados mediante los mismos datos deben acompañarse de la advertencia formal sobre la pérdida de validez distribucional nominal.
+15. **Número de condición:** Declarar la convención adoptada (con/sin constante, con/sin centrado, escalamiento) y documentar el resultado bajo cada variante.
 
-#### `data/Code/Data/` (13 archivos)
+---
+
+## 7. Archivos en `data/`
+
+Los datos se obtuvieron descomprimiendo `datos.tgz` en `data/` (115 archivos totales).
+
+### `data/Code/Data/` (13 archivos)
 - `BloodLead.rda`
 - `GLOW.RData`
 - `OzoneLondon.csv`
@@ -71,7 +139,7 @@ Los datos provienen del archivo `datos.tgz` del curso y se encuentran en `data/`
 - `battery.csv`
 - `crashseverity2wk.csv`
 
-#### `data/Data/` (39 archivos)
+### `data/Data/` (39 archivos)
 - `Bankdata.csv`
 - `GLOW.RData`
 - `birds.csv`
@@ -112,7 +180,7 @@ Los datos provienen del archivo `datos.tgz` del curso y se encuentran en `data/`
 - `Data_Exercises/trees.csv`
 - `Data_Exercises/ugenrollment_allcounties.csv`
 
-#### `data/ProblemsAndSolutions/` (63 archivos)
+### `data/ProblemsAndSolutions/` (63 archivos)
 - `Ch_1/Ch_1_Sol/Wirebond data.csv`
 - `Ch_1/Ch_1_Sol/snails.csv`
 - `Ch_2/Ch_2_Sol/AAPL-returns.csv`
@@ -176,14 +244,3 @@ Los datos provienen del archivo `datos.tgz` del curso y se encuentran en `data/`
 - `Ch_9/Ch_9_Sol/life expectancy.csv`
 - `Ch_9/Ch_9_Sol/progabide.csv`
 - `Ch_9/Ch_9_Sol/wallaby.csv`
-
-## Fechas
-
-| Hito | Fecha |
-|---|---|
-| Entrega del informe | *Por confirmar* |
-| Defensa oral | *Por confirmar* |
-
-## Herramientas de apoyo
-
-*Declarar aquí las herramientas utilizadas (asistentes de código, redacción, etc.) y qué se verificó de forma independiente.*
