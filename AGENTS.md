@@ -71,7 +71,7 @@ Ubicación: raíz del repositorio. Límite de Antigravity para archivos de regla
 | Fase | Estado (pendiente / en curso / cerrada) | Entradas POE | Observaciones |
 |---|---|---|---|
 | F0 | pendiente | — | |
-| F1 | pendiente | — | |
+| F1 | en curso | — | Infraestructura base, pruebas de entorno y utils |
 | F2 | pendiente | 0 de 2 | |
 | F3 | pendiente | 0 de 2 | |
 | F4 | pendiente | 0 de 2 | |
