@@ -3,7 +3,7 @@
 dir.create("code", showWarnings = FALSE); dir.create("out", showWarnings = FALSE)
 dir.create("fig",  showWarnings = FALSE)
 
-lines  <- readLines("analysis.R", encoding = "UTF-8")
+lines <- unlist(lapply(sort(list.files("analysis", "\\.R$", full.names = TRUE)), readLines, encoding = "UTF-8"))
 idx    <- grep("^#@ ", lines)
 nombre <- sub("^#@ ", "", lines[idx])
 ini    <- idx + 1

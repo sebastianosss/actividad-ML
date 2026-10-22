@@ -23,6 +23,8 @@ Laboratorio sobre diagnóstico de multicolinealidad, selección de variables (su
 Rscript ejecutor.R && quarto render informe/informe.qmd
 ```
 
+El script `ejecutor.R` lee todos los archivos `.R` dentro del directorio `analysis/` en **orden alfabético estricto** (`sort(list.files("analysis", "\\.R$", full.names = TRUE))`). Cada bloque identificado con la etiqueta `#@ <nombre>` se extrae en `code/<nombre>.R` y su salida se guarda en `out/<nombre>.txt`. Todos los bloques se ejecutan de manera secuencial compartiendo un mismo entorno de R (`env`), lo que permite que los objetos creados en un bloque anterior estén disponibles para los bloques siguientes.
+
 ## Paquetes requeridos
 
 ```r
