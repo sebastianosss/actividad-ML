@@ -15,11 +15,12 @@ verificar_datos <- function(df, nombre, n_esperado = NULL, p_esperado = NULL) {
   cat("NA por columna:\n")
   print(colSums(is.na(df)))
   
-  # Verificación de Inf y NaN en columnas numéricas
-  num_cols <- which(sapply(df, is.numeric))
+  # Asegurar formato tabular para comprobación de columnas
+  df_tab <- as.data.frame(df)
+  num_cols <- which(sapply(df_tab, is.numeric))
   if (length(num_cols) > 0) {
-    inf_cols <- names(num_cols)[sapply(df[, num_cols, drop = FALSE], function(col) any(is.infinite(col)))]
-    nan_cols <- names(num_cols)[sapply(df[, num_cols, drop = FALSE], function(col) any(is.nan(col)))]
+    inf_cols <- names(num_cols)[sapply(df_tab[, num_cols, drop = FALSE], function(col) any(is.infinite(col)))]
+    nan_cols <- names(num_cols)[sapply(df_tab[, num_cols, drop = FALSE], function(col) any(is.nan(col)))]
     
     if (length(inf_cols) > 0) {
       cat(sprintf("Columnas con valores Inf en %s: %s\n", nombre, paste(inf_cols, collapse = ", ")))
