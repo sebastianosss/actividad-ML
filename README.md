@@ -36,34 +36,42 @@ Los análisis se desarrollan sobre tres conjuntos de datos principales:
 Rscript ejecutor.R && quarto render informe/informe.qmd
 ```
 
-### Mecanismo de ejecución:
-1. `ejecutor.R` lee todos los archivos `.R` dentro del directorio `analysis/` en **orden alfabético estricto** (`sort(list.files("analysis", "\\.R$", full.names = TRUE))`).
-2. Cada bloque delimitado por la cabecera `#@ <nombre>` se extrae como script independiente en `code/<nombre>.R`.
-3. La salida de consola y las advertencias capturadas se guardan en `out/<nombre>.txt`.
-4. Todos los bloques se ejecutan secuencialmente compartiendo un único entorno de evaluación (`env`), permitiendo reutilizar objetos sin colisiones en el espacio de trabajo global.
-5. Los gráficos no se generan en consola: cada bloque que produce visualizaciones las exporta directamente a `fig/` usando `png()`, `cairo_pdf()` o `ggsave()`.
-6. Finalmente, `quarto render informe/informe.qmd` compila el informe técnico leyendo dinámicamente los resultados de `out/` y las figuras de `fig/`.
+### Requisitos de entorno y ejecución:
+- **Variable de entorno PATH:** Para ejecutar el comando anterior directamente desde la terminal o PowerShell, el directorio de binarios de R (por ejemplo, `C:\Program Files\R\R-4.5.1\bin`) debe estar incluido en la variable de entorno `PATH` del usuario o sistema.
+- **Advertencias de compilación:** Las advertencias del tipo `package '...' was built under R version 4.5.x` que puedan aparecer en la salida de `ejecutor.R` son netamente informativas (indican que el binario del paquete fue generado bajo una subversión menor más reciente de R) y no representan errores de ejecución ni afectan la exactitud numérica de los cálculos.
 
 ---
 
-## 4. Paquetes requeridos
+## 4. Entorno de R y paquetes requeridos
+
+### Versión de R (verificada con `sessionInfo()`):
+- **R:** `4.5.1 (2025-06-13 ucrt)`
+- **Plataforma:** `x86_64-w64-mingw32/x64 (Windows 11 x64)`
+
+### Instalación de paquetes:
 
 ```r
 install.packages(c("glmnet", "car", "leaps", "MASS", "mctest", "mlbench", "pls"))
 ```
 
-Versiones verificadas en el entorno:
-- `glmnet` 5.1
-- `car` 3.1-5 (`carData` 3.0-5)
-- `leaps` 3.2
-- `MASS` 7.3-65
-- `mctest` 1.3.2
-- `mlbench` 2.1-11
-- `pls` 2.9-0
+### Versiones exactas adjuntas (`sessionInfo()` en `00_entorno`):
+- `glmnet`: 5.1 (dependencia: `Matrix` 1.7-3, `foreach` 1.5.2, `iterators` 1.0.14, `shape` 1.4.6.1)
+- `car`: 3.1-5 (dependencia: `carData` 3.0-5, `abind` 1.4-8, `Formula` 1.2-5)
+- `leaps`: 3.2
+- `MASS`: 7.3-65
+- `mctest`: 1.3.2
+- `mlbench`: 2.1-11
+- `pls`: 2.9-0
 
 ---
 
-## 5. Estructura de carpetas
+## 5. Convención técnica sobre Hald (mctest)
+
+En el paquete `mctest`, el conjunto de datos `Hald` es provisto como un objeto de clase `matrix array` ($13 \times 5$). Para ser utilizado en modelos lineales ajustados mediante fórmulas (`lm(y ~ ., data = ...)`) y para el cálculo de factores de inflación de varianza con `car::vif()`, es obligatorio convertirlo previamente a data frame mediante `as.data.frame(Hald)`. Las funciones auxiliares en `R/utils.R` (`verificar_datos()`) contemplan internamente esta conversión para asegurar compatibilidad universal entre matrices y data frames.
+
+---
+
+## 6. Estructura de carpetas
 
 ```
 actividad-ML/
@@ -75,7 +83,8 @@ actividad-ML/
 ├── ejecutor.R             # Script que ejecuta los bloques de analysis/
 ├── data/                  # Conjuntos de datos descomprimidos de datos.tgz (inmutables)
 ├── analysis/              # Scripts modulares con bloques #@ (leídos alfabéticamente)
-│   └── 00_entorno.R       # Bloque inicial de verificación de paquetes y datos
+│   ├── 00_entorno.R       # Bloque inicial de verificación de paquetes y datos
+│   └── 01_prueba_utils.R  # Prueba de funciones utilitarias con datos simulados
 ├── R/                     # Funciones auxiliares y utilitarias del proyecto
 │   └── utils.R            # verificar_datos(), verificar_lambda(), guardar_tabla()
 ├── code/                  # Código R extraído por cada bloque (generado por ejecutor.R)
@@ -96,7 +105,7 @@ actividad-ML/
 
 ---
 
-## 6. Convenciones técnicas (Sección 3 de AGENTS.md)
+## 7. Convenciones técnicas (Sección 3 de AGENTS.md)
 
 1. **Ejecución estándar:** `Rscript ejecutor.R && quarto render informe/informe.qmd`. Comprobación final en una sesión nueva de R.
 2. **Extracción y registro:** El ejecutor lee los bloques `#@ nombre`, guarda el código en `code/` y la salida en `out/`, incluyendo advertencias.
@@ -120,7 +129,7 @@ actividad-ML/
 
 ---
 
-## 7. Archivos en `data/`
+## 8. Archivos en `data/`
 
 Los datos se obtuvieron descomprimiendo `datos.tgz` en `data/`. El archivo comprimido contiene exactamente **115 archivos** (13 en `Code/Data/`, 39 en `Data/`, y 63 en `ProblemsAndSolutions/`), los cuales coinciden de forma exacta con los 115 archivos verificados en disco dentro de `data/` y se encuentran bajo control de versiones para asegurar reproducibilidad total.
 
