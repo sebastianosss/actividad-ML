@@ -1,0 +1,46 @@
+=== Ejercicios 5(a) y 6: Seleccion de variables en Cars93 ===
+Casos completos analizados: n = 82, predictores p = 16 (excluyendo MPG.highway)
+=== Verificación de datos: Cars93_Completo ===
+Dimensiones: 82 filas x 17 columnas
+NA por columna:
+          MPG.city          Min.Price              Price          Max.Price 
+                 0                  0                  0                  0 
+        EngineSize         Horsepower                RPM       Rev.per.mile 
+                 0                  0                  0                  0 
+Fuel.tank.capacity         Passengers             Length          Wheelbase 
+                 0                  0                  0                  0 
+             Width        Turn.circle     Rear.seat.room       Luggage.room 
+                 0                  0                  0                  0 
+            Weight 
+                 0 
+Valores Inf en Cars93_Completo: Ninguno detectado
+Valores NaN en Cars93_Completo: Ninguno detectado
+
+
+--- Ejercicio 5(a): Modelo seleccionado por stepAIC con AIC (k = 2) ---
+Predictores seleccionados:
+ Min.Price, Price, Max.Price, EngineSize, RPM, Rev.per.mile, Fuel.tank.capacity, Passengers, Wheelbase, Weight 
+AIC = 408.929 | R2 = 0.7929 | R2_adj = 0.7637 | p = 10 predictores
+
+--- Ejercicio 6: Modelo seleccionado por stepAIC con BIC (k = log(n)) ---
+Predictores seleccionados:
+ Min.Price, Price, Max.Price, EngineSize, RPM, Rev.per.mile, Fuel.tank.capacity, Wheelbase, Weight 
+BIC = 436.837 | AIC = 410.363 | R2 = 0.7841 | R2_adj = 0.7571 | p = 9 predictores
+
+--- Ejercicio 6: Búsqueda exhaustiva por Cp de Mallows ---
+Tamano optimo por Cp (min): 10 predictores
+Predictores seleccionados por Cp:
+ Min.Price, Price, Max.Price, EngineSize, RPM, Rev.per.mile, Fuel.tank.capacity, Passengers, Wheelbase, Weight 
+Cp = 8.651 | R2 = 0.7929 | R2_adj = 0.7637 | BIC = -80.644
+
+--- Resumen comparativo de modelos en Cars93 ---
+          Criterio_Metodo Num_Predictores    AIC    BIC R2_adj
+1 AIC paso a paso (Ej 5a)              10 408.93 437.81 0.7637
+2  BIC paso a paso (Ej 6)               9 410.36 436.84 0.7571
+3    Cp exhaustivo (Ej 6)              10 408.93 437.81 0.7637
+4   Modelo Completo (MCO)              16 416.45 459.77 0.7557
+Tabla guardada en: out/tablas/cars93_comparativa_modelos.csv
+
+--- Costo computacional de modelos evaluados (p = 16) ---
+Modelos posibles evaluados en búsqueda exhaustiva (2^p - 1): 65535
+Modelos evaluados aproximadamente por stepwise: a lo sumo p*(p+1)/2 = 136 evaluaciones

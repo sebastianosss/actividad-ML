@@ -356,12 +356,12 @@ Verificación:
 | F0 | Cada integrante | | | — | — | |
 | F1 | Informático/a | 2026-10-22 | en curso (técnica completada) | — | — | Infraestructura modular, ejecutor.R, R/utils.R, esqueleto informe.qmd, references.bib y verificación Quarto |
 | F2 | Est. B | | | | | |
-| F3 | Est. A | | | | | |
+| F3 | Est. A | 2026-10-28 | técnica completada | 3 de 2 | | Análisis modular (03, 04, 05, 06) ejecutado; tablas guardadas en out/tablas/; entradas F3-1, F3-2, F3-3 cerradas en bitácora. |
 | F4 | Experto/a | | | | | |
 | F5 | Est. B | | | | | |
 | F6 | Experto/a | | | — | — | |
 
-Contador de bitácora POE: total ___ (mínimo 10); F2 ___, F3 ___, F4 ___, F5 ___ (mínimo 2 en cada una).
+Contador de bitácora POE: total 5 (mínimo 10); F2 2 (predicciones registradas), F3 3 (cerradas), F4 0, F5 0.
 
 Plantilla de entrada POE (una por predicción):
 

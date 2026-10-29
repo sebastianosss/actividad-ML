@@ -1,0 +1,5 @@
+"","p_predictores","Variables","SSE","R2","R2_adj","Cp_Mallows","BIC"
+"Tamano_1",1,"lstat",19472.38,0.5441,0.5432,208.683,-385.05
+"Tamano_2",2,"rm, lstat",15439.31,0.6386,0.6371,63.488,-496.26
+"Tamano_3",3,"rm, ptratio, lstat",13727.99,0.6786,0.6767,3.03,-549.48
+"Tamano_4",4,"indus, rm, ptratio, lstat",13727.16,0.6786,0.6761,5,-543.28

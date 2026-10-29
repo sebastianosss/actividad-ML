@@ -1,0 +1,5 @@
+"","Criterio_Metodo","Num_Predictores","AIC","BIC","R2_adj"
+"1","AIC paso a paso (Ej 5a)",10,408.93,437.81,0.7637
+"2","BIC paso a paso (Ej 6)",9,410.36,436.84,0.7571
+"3","Cp exhaustivo (Ej 6)",10,408.93,437.81,0.7637
+"4","Modelo Completo (MCO)",16,416.45,459.77,0.7557

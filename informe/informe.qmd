@@ -31,12 +31,9 @@ leer_out <- function(nombre) {
   if (file.exists(f)) readLines(f, warn = FALSE) else "(pendiente de ejecución)"
 }
 
-# Carga de tabla de resumen general de datasets
-ruta_tabla_resumen <- file.path("..", "out", "tablas", "resumen_datasets.csv")
-resumen_df <- if (file.exists(ruta_tabla_resumen)) {
-  read.csv(ruta_tabla_resumen, row.names = 1, stringsAsFactors = FALSE)
-} else {
-  NULL
+leer_tabla <- function(nombre) {
+  f <- file.path("..", "out", "tablas", paste0(nombre, ".csv"))
+  if (file.exists(f)) read.csv(f, row.names = 1, check.names = FALSE) else NULL
 }
 ```
 
@@ -45,78 +42,20 @@ resumen_df <- if (file.exists(ruta_tabla_resumen)) {
 # Pregunta de investigación y datos
 
 ## Objetivo
-
-El presente estudio aborda la tensión metodológica clásica entre dos propósitos fundamentales de la modelación estadística: **explicar** versus **predecir** [@ravishanker2026statistical; @zou2005regularization]. En presencia de dependencias lineales severas entre variables explicativas (multicolinealidad), los estimadores usuales de Mínimos Cuadrados Ordinarios (MCO) exhiben varianzas muestrales infladas, inestabilidad numérica e interpretaciones causales o marginales engañosas [@belsley1980regression; @hoerl1970ridge].
-
-Los objetivos específicos del proyecto comprenden:
-
-1. **Diagnóstico y caracterización estructural de la colinealidad:** cuantificar el grado de condicionamiento mediante Factores de Inflación de la Varianza (VIF), autovalores, índices de condición y descomposiciones de proporciones de varianza según las convenciones clásicas de Belsley, Kuh y Welsch [-@belsley1980regression].
-2. **Evaluación de estrategias de selección de subconjuntos:** comparar algoritmos exhaustivos y paso a paso (stepwise forward, backward y secuencial) bajo penalizaciones de complejidad basadas en información (AIC, BIC) y riesgo predictivo ($C_p$ de Mallows [-@mallows1973some]).
-3. **Regularización y penalización continua:** implementar contracción paramétrica mediante regresión Ridge ($\ell_2$), Lasso ($\ell_1$) y Elastic Net, contrastando la selección de hiperparámetros por validación cruzada ($k$-fold y LOOCV) y evaluando la estabilidad de los predictores activos vía remuestreo [@tibshirani1996regression; @zou2005regularization; @friedman2010regularization].
-4. **Validación predictiva fuera de muestra e inferencia post-selección:** contrastar el error cuadrático medio de predicción (RMSE) en particiones independientes de entrenamiento/prueba con reestandarización interna, documentando explícitamente los límites de la inferencia clásica cuando los contrastes de hipótesis se efectúan sobre modelos condicionados a los mismos datos [@kutner2005applied; @hastie2009elements].
+<!-- Declarar: ¿el objetivo es predecir o explicar? -->
 
 ## Descripción de los datos
 
-A continuación se presentan las fichas descriptivas de los conjuntos de datos analizados en el laboratorio, cuyas cifras dimensionales, conteos de casos completos y valores faltantes fueron verificados y exportados por `analysis/00_entorno.R` hacia `out/tablas/resumen_datasets.csv` (cumpliendo con la Regla 9 de trazabilidad numérica).
-
-### Hald (cemento Portland)
-
-- **Significado y contexto:** Estudio clásico sobre la cinemática de hidratación y desprendimiento calórico en el fraguado de mezclas de cemento Portland, condicionado por su constitución mineralógica básica [@belsley1980regression; @mallows1973some].
-- **Variable de respuesta ($y$):** Calor total liberado tras 180 días de fraguado continuo, medido en calorías por gramo de cemento ($\text{cal/g}$).
-- **Predictores analizados ($p = 4$):**
-  - $X_1$: Aluminato tricálcico ($3\text{CaO}\cdot\text{Al}_2\text{O}_3$), expresado como porcentaje en peso (%).
-  - $X_2$: Silicato tricálcico ($3\text{CaO}\cdot\text{SiO}_2$), porcentaje en peso (%).
-  - $X_3$: Ferrito aluminato tetracálcico ($4\text{CaO}\cdot\text{Al}_2\text{O}_3\cdot\text{Fe}_2\text{O}_3$), porcentaje en peso (%).
-  - $X_4$: Silicato dicálcico ($2\text{CaO}\cdot\text{SiO}_2$), porcentaje en peso (%).
-- **Dimensión:** `r if(!is.null(resumen_df)) resumen_df["1", "n_total"] else 13` observaciones ($n = 13$) y `r if(!is.null(resumen_df)) resumen_df["1", "p_predictores"] else 4` predictores ($p = 4$).
-- **Valores faltantes:** `r if(!is.null(resumen_df)) resumen_df["1", "NA_total"] else 0` valores faltantes (100% casos completos).
-- **Fuente:** Paquete `mctest` (`data(Hald)`). De acuerdo a la convención técnica del proyecto, el objeto original (matriz array de $13 \times 5$) se transforma en data frame para permitir la modelación estandarizada en R.
+### Hald (cemento)
+<!-- Ficha de datos: significado, unidades, n, p, valores faltantes, fuente -->
 
 ### Cars93
-
-- **Significado y contexto:** Atributos mecánicos, dimensiones estructurales, precios comerciales y métricas de rendimiento energético correspondientes a una muestra heterogénea de vehículos nuevos comercializados en el mercado estadounidense durante 1993 [@ravishanker2026statistical].
-- **Variable de respuesta:** `MPG.city` (eficiencia energética en ciclo urbano, medida en millas por galón, $\text{mpg}$).
-- **Conjunto de 16 predictores seleccionados:**
-  - *Precios de venta:* `Min.Price`, `Price`, `Max.Price` (en miles de dólares USD).
-  - *Tren de potencia y motor:* `EngineSize` (cilindrada en litros), `Horsepower` (potencia máxima en hp), `RPM` (revoluciones por minuto a potencia pico), `Rev.per.mile` (revoluciones del motor por milla en la relación más alta), `Fuel.tank.capacity` (capacidad del tanque en galones US).
-  - *Habitabilidad y dimensiones físicas:* `Passengers` (número de plazas homologadas), `Length` (longitud total en pulgadas), `Wheelbase` (distancia entre ejes en pulgadas), `Width` (ancho en pulgadas), `Turn.circle` (diámetro de giro en pies), `Rear.seat.room` (espacio longitudinal trasero para piernas en pulgadas; 2 datos faltantes), `Luggage.room` (capacidad volumétrica del maletero en pies cúbicos; 11 datos faltantes), `Weight` (masa del vehículo en libras, lbs).
-- **Tratamiento de casos incompletos y dimensión resultante:** La base de datos original contiene 93 registros. Al restringir el análisis a las 17 variables de interés, se constata que 11 filas presentan datos faltantes (concentrados en `Luggage.room` y `Rear.seat.room`, correspondientes a camionetas, furgonetas y convertibles sin maletero estándar cerrado). Siguiendo la decisión metodológica del equipo (registrada en `AGENTS.md` con fecha 2026-10-29), se adopta un único data frame de casos completos con **$n = `r if(!is.null(resumen_df)) resumen_df["2", "n_completo"] else 82`$** y **$p = `r if(!is.null(resumen_df)) resumen_df["2", "p_predictores"] else 16`$** predictores, preservando estrictamente la comparabilidad de la log-verosimilitud y de los criterios AIC/BIC entre modelos.
-- **Decisión metodológica sobre `MPG.highway`:** La variable de rendimiento en carretera (`MPG.highway`) se excluye explícitamente de la batería principal de predictores por constituir una casi segunda respuesta (redundancia mecánica directa con `MPG.city`), reservándose como covariable de control para análisis de sensibilidad.
-- **Fuente:** Paquete `MASS` (`data(Cars93)`).
+<!-- Ficha de datos: significado de cada variable, unidades, n, casos completos, valores faltantes -->
+<!-- Decisión documentada: tratamiento de casos incompletos y n resultante -->
+<!-- Decisión documentada: inclusión/exclusión de MPG.highway como predictor -->
 
 ### BostonHousing
-
-- **Significado y contexto:** Relevamiento socioeconómico, urbanístico y ambiental de 506 secciones censales del área metropolitana de Boston, orientado a modelar el valor de mercado inmobiliario [@kutner2005applied; @hastie2009elements].
-- **Variable de respuesta:** `medv` (mediana del valor de las viviendas residenciales ocupadas por sus propietarios, expresada en miles de dólares USD).
-- **Predictores analizados ($p = 13$), destacando las variables focales del Ejercicio 4:**
-  - `indus`: proporción de superficie comunal ocupada por industrias no comerciales (%).
-  - `rm`: promedio de habitaciones habitables por unidad residencial.
-  - `ptratio`: índice de razón de alumnos por profesor escolar en la comuna.
-  - `lstat`: porcentaje de la población clasificada en estrato socioeconómico bajo (%).
-  - *Predictores complementarios:* `crim` (tasa de criminalidad per cápita), `zn` (porcentaje de suelo para lotes residenciales >25.000 pies cuadrados), `chas` (variable binaria para predios ribereños al río Charles), `nox` (concentración ambiental de óxidos de nitrógeno), `age` (proporción de construcciones erigidas antes de 1940), `dis` (distancia ponderada a cinco centros laborales metropolitanos), `rad` (índice radial de accesibilidad a carreteras troncales), `tax` (tasa impositiva a la propiedad por cada \$10.000 de avalúo) y `b` (transformación demográfica cuadrática de población afroamericana).
-- **Dimensión:** `r if(!is.null(resumen_df)) resumen_df["3", "n_total"] else 506` observaciones ($n = 506$) y `r if(!is.null(resumen_df)) resumen_df["3", "p_predictores"] else 13` predictores ($p = 13$).
-- **Valores faltantes:** `r if(!is.null(resumen_df)) resumen_df["3", "NA_total"] else 0` valores faltantes (100% casos completos).
-- **Fuente:** Paquete `mlbench` (`data(BostonHousing)`).
-
-### Bases de datos de desafío opcionales (Deforestación y Glaucoma)
-
-Adicionalmente, se incorporan y verifican los dos conjuntos de datos de desafío incluidos en los problemas avanzados de Ravishanker, Asha y Bar [-@ravishanker2026statistical]:
-
-1. **Deforestación (`deforest.csv`):** Conjunto observacional de $n = `r if(!is.null(resumen_df)) resumen_df["4", "n_total"] else 405`$ regiones y $p = `r if(!is.null(resumen_df)) resumen_df["4", "p_predictores"] else 17`$ predictores continuos (tras excluir identificadores administrativos `id`, `code` y `ename`), con respuesta `fcover` (% de cobertura arbórea) y `r if(!is.null(resumen_df)) resumen_df["4", "NA_total"] else 0` NA. Fuente: `data/Data/deforest.csv`.
-2. **Glaucoma (`Glaucoma.csv`):** Matriz de medicina de precisión de alta dimensionalidad ($p \gg n$) compuesta por $n = `r if(!is.null(resumen_df)) resumen_df["5", "n_total"] else 800`$ pacientes y $p = `r if(!is.null(resumen_df)) resumen_df["5", "p_predictores"] else 497`$ polimorfismos de nucleótido único (SNPs), con variable de respuesta binaria `y` (1 para pacientes con Glaucoma, `GLC`; 0 para Degeneración Macular Asociada a la Edad, `AMD`) y `r if(!is.null(resumen_df)) resumen_df["5", "NA_total"] else 0` NA [@friedman2010regularization]. Fuente: `data/ProblemsAndSolutions/Ch_6/Ch_6_Sol/Glaucoma.csv`.
-
-### Resumen consolidado de conjuntos de datos
-
-```{r tabla-resumen-datasets, echo=FALSE}
-if (!is.null(resumen_df)) {
-  knitr::kable(
-    resumen_df,
-    col.names = c("Dataset", "Fuente", "Obs. totales (n)", "Casos completos", "Predictores (p)", "Respuesta (y)", "NA totales"),
-    caption = "Ficha sintética consolidada de conjuntos de datos analizados (valores extraídos desde out/tablas/resumen_datasets.csv).",
-    booktabs = TRUE
-  )
-}
-```
+<!-- Ficha de datos para medv ~ indus + rm + ptratio + lstat -->
 
 ---
 
@@ -148,27 +87,89 @@ if (!is.null(resumen_df)) {
 
 *Fase F3. Líder: Diego Espinoza (Est. A).*
 
+El propósito de la selección de variables en este laboratorio radica en discriminar predictores verdaderamente explicativos de aquellos que introducen varianza parasitaria por redundancia lineal [@ravishanker2026first]. Cuando el objetivo primordial es la explicación parsimoniosa o la predicción fuera de muestra, distintos criterios estadísticos penalizan la complejidad del modelo con severidades desiguales.
+
 ## Hald: mejores subconjuntos (Ej. 7)
-<!-- regsubsets con 1 a 4 regresores -->
-<!-- Modelo elegido por R²adj, Cp y BIC -->
-<!-- Forward, backward y stepwise -->
+
+Para los datos de cemento de Hald ($n = 13$, $p = 4$), se evaluaron exhaustivamente los $2^4 - 1 = 15$ subconjuntos posibles de regresores mediante `leaps::regsubsets`. La @tbl-hald-subconjuntos presenta el mejor modelo obtenido para cada tamaño $k \in \{1, 2, 3, 4\}$.
+
+```{r}
+#| label: tbl-hald-subconjuntos
+#| tbl-cap: "Mejores subconjuntos por tamaño en Hald (búsqueda exhaustiva)."
+tb_hald <- leer_tabla("hald_mejores_subconjuntos")
+if (!is.null(tb_hald)) knitr::kable(tb_hald, digits = 4)
+```
+
+**Comparación entre criterios y parsimonia:**
+- **Modelo por $R^2_{\text{adj}}$:** Selecciona el modelo de 3 predictores ($X_1, X_2, X_4$) con $R^2_{\text{adj}} = 0.9764$ `[Evidencia numérica]`.
+- **Modelo por $C_p$ de Mallows:** El mínimo global de $C_p$ se alcanza en el modelo de 2 predictores ($X_1, X_2$) con $C_p = 2.678 \le p+1 = 3$, mientras que el modelo de 3 variables ($X_1, X_2, X_4$) presenta $C_p = 3.018 \approx 4$. Ambos modelos son viables bajo la heurística $C_p \approx p$ `[Heurística]`.
+- **Modelo por $BIC$:** Selecciona unívocamente el modelo parsimonioso de 2 predictores ($X_1, X_2$) con $BIC = -42.330$ `[Evidencia numérica]`.
+
+La discrepancia entre $R^2_{\text{adj}}$ y $BIC$ se fundamenta teóricamente: la penalización del $BIC$ es $k = \log(n) = \log(13) \approx 2.565 > 2$, mientras que $AIC$ y $C_p$ penalizan con constante 2 y $R^2_{\text{adj}}$ penaliza con una fracción que tiende a favorecer modelos más sobreparametrizados `[Demostrado]`. Por ende, el orden jerárquico de parsimonia observado es:
+$$\text{Parsimonia}(BIC) > \text{Parsimonia}(C_p) \ge \text{Parsimonia}(R^2_{\text{adj}})$$
+
+En la @tbl-hald-stepwise se contrastan los algoritmos secuenciales (*forward*, *backward*, *stepwise*). Bajo $AIC$, todos convergen al modelo de 3 variables ($X_1, X_2, X_4$), mientras que bajo $BIC$ (*backward* y *stepwise*) convergen al modelo de 2 variables ($X_1, X_2$) `[Evidencia numérica]`.
+
+```{r}
+#| label: tbl-hald-stepwise
+#| tbl-cap: "Comparación de algoritmos paso a paso (AIC vs BIC) en Hald."
+tb_hald_step <- leer_tabla("hald_metodos_paso_a_paso")
+if (!is.null(tb_hald_step)) knitr::kable(tb_hald_step, digits = 3)
+```
 
 ## BostonHousing: subconjuntos y Cp (Ej. 4)
-<!-- Mejores subconjuntos de 1 a 4 predictores -->
-<!-- Modelo por Cp y por AIC -->
 
-## Cars93: selección con AIC (Ej. 5a)
-<!-- stepAIC con k = 2 -->
+En el subconjunto de viviendas de Boston ($n = 506$), se modeló el valor mediano `medv` a partir de cuatro predictores: `indus`, `rm`, `ptratio` y `lstat`. La búsqueda exhaustiva (@tbl-boston-subconjuntos) evidencia un consenso absoluto:
 
-## Cars93: selección con BIC y Cp (Ej. 6)
-<!-- stepAIC con k = log(n) -->
-<!-- Todas las regresiones posibles con Cp para MPG.city -->
-<!-- Comparación del modelo por Cp con el de 5(a) -->
+```{r}
+#| label: tbl-boston-subconjuntos
+#| tbl-cap: "Mejores subconjuntos por tamaño en BostonHousing."
+tb_boston <- leer_tabla("boston_mejores_subconjuntos")
+if (!is.null(tb_boston)) knitr::kable(tb_boston, digits = 3)
+```
 
-## VIF de los modelos elegidos (Ej. 8b)
+Tanto el mínimo $C_p$ ($C_p = 3.030 \approx 4$), como $AIC$ y $BIC$ eligen unánimemente el modelo de 3 predictores: `rm`, `ptratio` y `lstat` ($R^2 = 0.6786$) `[Evidencia numérica]`. La variable `indus` reduce la SSE de 13,727.99 a 13,727.16 (ganancia marginal de apenas 0.83 en suma de cuadrados con 506 datos), por lo que cualquier criterio parsimonioso la excluye `[Evidencia numérica]`.
 
-## Tabla comparativa de criterios y métodos
-<!-- Número de modelos evaluados por cada método frente a 2^p -->
+## Cars93: selección con AIC y BIC (Ej. 5a y 6)
+
+Siguiendo el acuerdo metodológico de la Fase F1, se utilizó el data frame de $n = 82$ casos completos evaluando 16 predictores continuos sobre `MPG.city`. La @tbl-cars93-comp resume los modelos competitivos.
+
+```{r}
+#| label: tbl-cars93-comp
+#| tbl-cap: "Comparación de modelos seleccionados en Cars93 (n = 82, p = 16)."
+tb_cars <- leer_tabla("cars93_comparativa_modelos")
+if (!is.null(tb_cars)) knitr::kable(tb_cars, digits = 3)
+```
+
+- **Ejercicio 5(a) ($AIC$, $k = 2$):** `stepAIC` retiene 10 predictores: `Min.Price`, `Price`, `Max.Price`, `EngineSize`, `RPM`, `Rev.per.mile`, `Fuel.tank.capacity`, `Passengers`, `Wheelbase` y `Weight` ($AIC = 408.93$, $R^2_{\text{adj}} = 0.7637$) `[Evidencia numérica]`.
+- **Ejercicio 6 ($BIC$, $k = \log(82) \approx 4.407$):** `stepAIC` penaliza con mayor rigor y descarta `Passengers` ($p \approx 0.052$), seleccionando 9 predictores ($BIC = 436.84$, $R^2_{\text{adj}} = 0.7571$) `[Evidencia numérica]`.
+- **Ejercicio 6 ($C_p$ exhaustivo):** La búsqueda exhaustiva sobre los 16 predictores con $C_p$ de Mallows converge al mismo conjunto óptimo de 10 predictores obtenido por `stepAIC` bajo $AIC$ ($C_p = 8.651 \le 11$) `[Evidencia numérica]`.
+
+**Costo computacional y modelos evaluados:**  
+La búsqueda exhaustiva sobre $p = 16$ predictores requirió explorar $2^{16} - 1 = 65,535$ modelos posibles. En contraste, el algoritmo voraz secuencial (*stepwise*) requirió a lo sumo $\frac{p(p+1)}{2} = 136$ evaluaciones `[Demostrado]`. Pese a ser una heurística de optimización local `[Heurística]`, en este caso el stepwise recuperó idénticamente el óptimo global del espacio combinatorio.
+
+## Diagnóstico de VIF en los modelos seleccionados (Ej. 8b)
+
+La @tbl-vif-comp analiza si la selección automática de variables resolvió la multicolinealidad.
+
+```{r}
+#| label: tbl-vif-comp
+#| tbl-cap: "Resumen comparativo de VIF antes y después de la selección."
+tb_vif <- leer_tabla("vif_comparativa_seleccion")
+if (!is.null(tb_vif)) knitr::kable(tb_vif, digits = 2)
+```
+
+Los resultados exponen una revelación crítica para la práctica estadística:
+1. **Éxito en Hald:** En el modelo saturado, los 4 predictores tenían $VIF > 10$ ($VIF_{\max} = 282.51$ en $X_4$). Al seleccionar el modelo parsimonioso ($X_1, X_2$), ambos VIF colapsan a **1.06**, erradicando por completo la colinealidad `[Evidencia numérica]`.
+2. **Fracaso de la selección en Cars93:** Tanto el modelo por $AIC$ (10 predictores) como por $BIC$ (9 predictores) retienen simultáneamente `Min.Price`, `Price` y `Max.Price`. Dado que `Price` es aproximadamente la media aritmética entre el precio mínimo y máximo, subsiste una cuasi-dependencia determinista que dispara el VIF de `Price` a **139,295.08** y deja 5 variables con $VIF > 10$ `[Evidencia numérica]`.
+
+> **Conclusión metodológica:** La selección de variables clásica paso a paso u óptima por criterios $AIC/BIC$ optimiza la suma de cuadrados residual penalizada, pero **no está diseñada para detectar ni disolver dependencias casi lineales internas** si su coexistencia disminuye marginalmente el error `[Heurística]`. Esta limitación justifica de manera categórica la necesidad de métodos de regularización (Ridge, Lasso y Elastic Net) analizados en la @sec-regularizacion.
+
+## Inferencia posterior a la selección {#sec-post-seleccion}
+
+> [!WARNING]
+> **Advertencia formal de inferencia post-selección (Regla R6):**  
+> Los valores $p$, errores estándar e intervalos de confianza reportados para los modelos seleccionados en esta sección **no poseen su distribución distribucional nominal $t$ o $F$** `[Demostrado]`. Debido a que los mismos datos muestrales fueron utilizados primero para buscar y seleccionar el modelo y luego para estimar sus parámetros, el proceso de selección induce un sesgo de selección positivo (*data snooping*) que estrecha artificialmente los intervalos e infla las tasas de falsos descubrimientos. Para recuperar validez inferencial, es mandatorio validar el desempeño fuera de muestra mediante particiones independientes o remuestreo de estabilidad, tal como se implementa en la @sec-regularizacion.
 
 ---
 
@@ -230,8 +231,7 @@ if (!is.null(resumen_df)) {
 
 # Referencias
 
-::: {#refs}
-:::
+<!-- Se incluirán las fichas de lectura como referencias -->
 
 ---
 

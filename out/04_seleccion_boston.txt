@@ -1,0 +1,18 @@
+=== Ejercicio 4: BostonHousing (medv ~ indus + rm + ptratio + lstat) (n = 506) ===
+
+--- Mejores subconjuntos por tamaño en BostonHousing ---
+         p_predictores                 Variables      SSE     R2 R2_adj
+Tamano_1             1                     lstat 19472.38 0.5441 0.5432
+Tamano_2             2                 rm, lstat 15439.31 0.6386 0.6371
+Tamano_3             3        rm, ptratio, lstat 13727.99 0.6786 0.6767
+Tamano_4             4 indus, rm, ptratio, lstat 13727.16 0.6786 0.6761
+         Cp_Mallows     BIC
+Tamano_1    208.683 -385.05
+Tamano_2     63.488 -496.26
+Tamano_3      3.030 -549.48
+Tamano_4      5.000 -543.28
+Tabla guardada en: out/tablas/boston_mejores_subconjuntos.csv
+
+Modelo óptimo por Cp (min):  Tamano 3 (rm, ptratio, lstat), Cp = 3.030
+Modelo óptimo por AIC (k=2):  Variables retenidas: rm, ptratio, lstat (AIC = 3116.10)
+Modelo óptimo por BIC:        Variables retenidas: rm, ptratio, lstat (BIC = 3137.23)

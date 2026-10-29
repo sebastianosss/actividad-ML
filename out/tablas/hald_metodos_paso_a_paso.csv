@@ -1,0 +1,7 @@
+"","Metodo","Variables_Seleccionadas","AIC","BIC"
+"1","Forward (AIC, k=2)","X4, X1, X2",63.866,66.691
+"2","Backward (AIC, k=2)","X1, X2, X4",63.866,66.691
+"3","Stepwise (AIC, k=2)","X4, X1, X2",63.866,66.691
+"4","Forward (BIC, k=log n)","X4, X1, X2",63.866,66.691
+"5","Backward (BIC, k=log n)","X1, X2",64.312,66.572
+"6","Stepwise (BIC, k=log n)","X1, X2",64.312,66.572
