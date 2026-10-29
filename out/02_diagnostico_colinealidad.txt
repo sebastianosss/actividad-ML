@@ -1,0 +1,61 @@
+=== 1. DIAGNÓSTICO DE COLINEALIDAD EN HALD ===
+
+--- Matriz de correlaciones (Hald) ---
+        X1      X2      X3      X4
+X1  1.0000  0.2286 -0.8241 -0.2454
+X2  0.2286  1.0000 -0.1392 -0.9730
+X3 -0.8241 -0.1392  1.0000  0.0295
+X4 -0.2454 -0.9730  0.0295  1.0000
+Tabla guardada en: out/tablas/hald_matriz_correlacion.csv
+
+--- Factores de Inflación de la Varianza (VIF) en Hald ---
+   Variable VIF_definicion VIF_car   Diferencia
+X1       X1         38.496  38.496 1.406875e-12
+X2       X2        254.423 254.423 2.336265e-11
+X3       X3         46.868  46.868 9.237056e-13
+X4       X4        282.513 282.513 2.506795e-11
+Diferencia numérica máxima entre definición y car::vif: 2.506795e-11
+Tabla guardada en: out/tablas/hald_vif_comparacion.csv
+
+--- Autovalores e Índices de Condición (Matriz de correlación) ---
+Autovalores: 2.2357 1.5761 0.1866 0.0016 
+Índices de condición eta_j: 1 1.191 3.461 37.106 
+Número de condición (correlación): 37.106
+
+--- Descomposición de varianzas BKW (Hald con intercepto) ---
+      Valor_Singular Indice_Condicion Intercept     X1     X2     X3     X4
+Dim_1         2.0297            1.000    0.0000 0.0004 0.0000 0.0002 0.0000
+Dim_2         0.7442            2.727    0.0000 0.0100 0.0000 0.0027 0.0001
+Dim_3         0.5373            3.778    0.0000 0.0006 0.0003 0.0016 0.0017
+Dim_4         0.1940           10.462    0.0001 0.0574 0.0028 0.0457 0.0009
+Dim_5         0.0081          249.578    0.9999 0.9316 0.9969 0.9498 0.9973
+Número de condición BKW (con intercepto): 249.578
+Tabla guardada en: out/tablas/hald_bkw_descomposicion.csv
+null device 
+          1 
+
+=== 2. DIAGNÓSTICO DE COLINEALIDAD EN CARS93 (n = 82, p = 16) ===
+Tabla guardada en: out/tablas/cars93_matriz_correlacion.csv
+
+--- VIF en Cars93 (Top 6 predictores con mayor VIF) ---
+             Variable VIF_definicion   VIF_car   Diferencia
+Price           Price      166975.66 166975.66 5.804497e-06
+Max.Price   Max.Price       55090.65  55090.65 1.898341e-06
+Min.Price   Min.Price       33606.98  33606.98 1.149492e-06
+Weight         Weight          27.26     27.26 1.039702e-10
+EngineSize EngineSize          21.11     21.11 1.013127e-10
+Horsepower Horsepower          17.38     17.38 8.088819e-11
+Diferencia máxima entre definición y car::vif en Cars93: 5.804497e-06
+Tabla guardada en: out/tablas/cars93_vif_comparacion.csv
+
+Número de condición en Cars93 (matriz correlación): 1616.525
+Número de condición BKW en Cars93 (con intercepto, escalado unitario): 4415.140
+
+--- Tabla Comparativa General de Colinealidad ---
+  Dataset  n  p Num_Cond_Correlacion Num_Cond_BKW VIF_Maximo VIF_Mayor_10
+1    Hald 13  4                37.11       249.58     282.51            4
+2  Cars93 82 16              1616.52      4415.14  166975.66            8
+  Correlacion_Maxima
+1             0.9730
+2             0.9826
+Tabla guardada en: out/tablas/diagnostico_colinealidad_comparativo.csv

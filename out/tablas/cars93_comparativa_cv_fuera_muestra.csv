@@ -1,0 +1,6 @@
+"","Metodo","RMSE_Medio","RMSE_SD","RMSE_Mediana","Pct_Mejora_sobre_MCO"
+"1","MCO Completo",3.349,0.665,3.387,0
+"2","Selección BIC (interna)",3.529,0.794,3.53,29
+"3","Ridge (alpha = 0)",3.122,0.923,2.83,64
+"4","Lasso (alpha = 1)",3.3,0.92,3.104,55
+"5","Elastic Net (alpha = 0.5)",3.281,0.929,3.111,58

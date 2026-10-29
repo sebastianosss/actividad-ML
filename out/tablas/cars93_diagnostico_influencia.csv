@@ -1,0 +1,9 @@
+"","Indice","Auto","Resid_Stud","Leverage_hii","Dist_Cook","DFFITS","Supera_Apalancamiento","Supera_Cook"
+"1",1,"Integra",-2.185,0.1816,0.1007,-1.029,FALSE,TRUE
+"8",8,"Roadmaster",1.04,0.2798,0.042,0.648,TRUE,FALSE
+"10",10,"DeVille",-1.826,0.2539,0.1099,-1.065,TRUE,TRUE
+"28",24,"Stealth",1.661,0.3931,0.1744,1.336,TRUE,TRUE
+"39",34,"Metro",3.667,0.2411,0.3643,2.067,FALSE,TRUE
+"42",37,"Civic",4.784,0.1234,0.2471,1.795,FALSE,TRUE
+"59",52,"300E",-0.404,0.6074,0.0256,-0.503,TRUE,FALSE
+"83",74,"Swift",2.344,0.1364,0.0817,0.931,FALSE,TRUE

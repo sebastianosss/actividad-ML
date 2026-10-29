@@ -1,0 +1,32 @@
+=== EJERCICIO 9: REGULARIZACIÓN EN HALD (RIDGE, LASSO, ELASTIC NET) ===
+
+--- Verificación de bordes de rejilla (verificar_lambda) ---
+Ridge (alpha = 0): Alerta: lambda.min (1.14051) coincide con el borde inferior de la rejilla (1.14051). 
+Elastic Net (alpha = 0.5): lambda.min (0.124595) se encuentra dentro de la rejilla (min: 0.0858787, max: 22.8101).
+Lasso (alpha = 1): lambda.min (0.131131) se encuentra dentro de la rejilla (min: 0.0750377, max: 11.4051).
+
+--- Comparación de Coeficientes Estandarizados en Hald ---
+        Predictor MCO_Std Ridge_min Ridge_1se Enet_min Enet_1se Lasso_min
+X_stdX1        X1  9.1242    6.6044    5.9768   8.0142   7.3556    8.4259
+X_stdX2        X2  7.9387    4.5122    4.5194   5.2335   4.8296    6.3964
+X_stdX3        X3  0.6527   -1.6592   -1.9977  -0.4868  -0.6581    0.0000
+X_stdX4        X4 -2.4113   -5.7995   -5.5263  -5.1904  -5.1847   -3.9219
+        Lasso_1se
+X_stdX1    8.0315
+X_stdX2    6.1053
+X_stdX3    0.0000
+X_stdX4   -3.8146
+Tabla guardada en: out/tablas/hald_comparativa_regularizacion.csv
+null device 
+          1 
+null device 
+          1 
+
+--- Estabilidad de Selección por Remuestreo (B = 500) en Hald ---
+   Predictor Prop_Lasso_1se Prop_Enet_1se
+X1        X1          0.998         1.000
+X2        X2          0.962         0.998
+X3        X3          0.070         0.752
+X4        X4          0.868         0.998
+Tabla guardada en: out/tablas/hald_estabilidad_remuestreo.csv
+## Advertencia: Alerta: lambda.min (1.14051) coincide con el borde inferior de la rejilla (1.14051).

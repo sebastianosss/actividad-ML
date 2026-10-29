@@ -384,3 +384,4 @@ Requisitos de cada entrada: la predicción indica una cifra, un orden o una deci
 - [ ] Se declaró el uso de herramientas de apoyo.
 - [ ] Cada integrante entregó su coevaluación al docente.
 - [ ] Cada integrante puede explicar con sus palabras el trabajo de su rol y un resultado de otro rol.
+

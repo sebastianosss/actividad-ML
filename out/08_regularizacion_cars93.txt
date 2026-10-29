@@ -1,0 +1,20 @@
+=== EXTENSIÓN F4: VALIDACIÓN PREDICTIVA FUERA DE MUESTRA EN CARS93 ===
+
+Ejecutando 100 particiones 80/20 independientes (n_train = 66, n_test = 16)...
+
+--- Resumen de Validación Fuera de Muestra (100 Particiones 80/20) ---
+                     Metodo RMSE_Medio RMSE_SD RMSE_Mediana
+1              MCO Completo      3.349   0.665        3.387
+2   Selección BIC (interna)      3.529   0.794        3.530
+3         Ridge (alpha = 0)      3.122   0.923        2.830
+4         Lasso (alpha = 1)      3.300   0.920        3.104
+5 Elastic Net (alpha = 0.5)      3.281   0.929        3.111
+  Pct_Mejora_sobre_MCO
+1                    0
+2                   29
+3                   64
+4                   55
+5                   58
+Tabla guardada en: out/tablas/cars93_comparativa_cv_fuera_muestra.csv
+null device 
+          1 
