@@ -1,0 +1,6 @@
+"","Dataset","Fuente","n_total","n_completo","p_predictores","Respuesta","NA_total"
+"1","Hald","mctest (Hald 1952)",13,13,4,"y (calor cal/g)",0
+"2","Cars93","MASS (1993)",93,82,16,"MPG.city (mpg)",11
+"3","BostonHousing","mlbench (1978)",506,506,13,"medv (miles USD)",0
+"4","Deforestacion","Ravishanker et al. (2026)",405,405,17,"fcover (%)",0
+"5","Glaucoma","Ravishanker et al. (2026)",800,800,497,"y (binaria: GLC vs AMD)",0

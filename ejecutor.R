@@ -1,7 +1,8 @@
-# Ejecuta analysis.R por bloques "#@ nombre".
+# Ejecuta los scripts en analysis/*.R en orden alfabetico por bloques "#@ nombre".
 # Escribe code/<nombre>.R (código) y out/<nombre>.txt (salida real de R, incluidas advertencias).
 dir.create("code", showWarnings = FALSE); dir.create("out", showWarnings = FALSE)
 dir.create("fig",  showWarnings = FALSE)
+dir.create(file.path("out", "tablas"), showWarnings = FALSE, recursive = TRUE)
 
 lines <- unlist(lapply(sort(list.files("analysis", "\\.R$", full.names = TRUE)), readLines, encoding = "UTF-8"))
 idx    <- grep("^#@ ", lines)
