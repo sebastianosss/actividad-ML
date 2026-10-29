@@ -1,4 +1,4 @@
-# Plan de trabajo: Laboratorio MEA (colinealidad, selección y regularización)
+﻿# Plan de trabajo: Laboratorio MEA (colinealidad, selección y regularización)
 
 Curso: Modelos Estadísticos Activos, Ingeniería en Estadística, UCM.
 Fuente: guía de la actividad (Parte I y Parte II) y diapositivas de la sesión (52 diapositivas).
@@ -353,15 +353,15 @@ Verificación:
 
 | Fase | Líder | Fecha límite interna | Estado (pendiente / en curso / cerrada) | Entradas POE | Visto bueno docente | Observaciones |
 |---|---|---|---|---|---|---|
-| F0 | Cada integrante | | | — | — | |
-| F1 | Informático/a | 2026-10-22 | en curso (técnica completada) | — | — | Infraestructura modular, ejecutor.R, R/utils.R, esqueleto informe.qmd, references.bib y verificación Quarto |
-| F2 | Est. B | | | | | |
-| F3 | Est. A | 2026-10-28 | técnica completada | 3 de 2 | | Análisis modular (03, 04, 05, 06) ejecutado; tablas guardadas en out/tablas/; entradas F3-1, F3-2, F3-3 cerradas en bitácora. |
-| F4 | Experto/a | | | | | |
-| F5 | Est. B | | | | | |
-| F6 | Experto/a | | | — | — | |
+| F0 | Cada integrante | 2026-10-20 | cerrada | — | — | Fichas L1 a L4 completadas y verificadas con papers originales |
+| F1 | Informático/a | 2026-10-22 | cerrada | — | — | Infraestructura modular, ejecutor.R, R/utils.R, esqueleto informe.qmd, references.bib y verificación Quarto |
+| F2 | Est. B | 2026-10-25 | cerrada | 2 de 2 | — | Diagnóstico de colinealidad (02_diagnostico_colinealidad.R), VIFs, BKW; entradas F2-1 y F2-2 cerradas |
+| F3 | Est. A | 2026-10-28 | cerrada | 3 de 2 | — | Análisis modular (03, 04, 05, 06) ejecutado; tablas guardadas en out/tablas/; entradas F3-1, F3-2, F3-3 cerradas |
+| F4 | Experto/a | 2026-10-28 | cerrada | 3 de 2 | — | Regularización Ridge, Lasso y Elastic Net (07, 08); LOOCV, bootstrap y CV repetida; entradas F4-1, F4-2, F4-3 cerradas |
+| F5 | Est. B | 2026-10-29 | cerrada | 2 de 2 | — | Diagnóstico de influencia y residuos studentizados (09); entradas F5-1 y F5-2 cerradas |
+| F6 | Experto/a | 2026-10-29 | cerrada | — | — | Informe final informe.qmd redactado, verificado y compilado exitosamente a informe.pdf (6 páginas, Regla R7) |
 
-Contador de bitácora POE: total 5 (mínimo 10); F2 2 (predicciones registradas), F3 3 (cerradas), F4 0, F5 0.
+Contador de bitácora POE: total 10 (mínimo 10); F2 2 (cerradas), F3 3 (cerradas), F4 3 (cerradas), F5 2 (cerradas). Todas con predicción previa en commit y explicación fundamentada.
 
 Plantilla de entrada POE (una por predicción):
 
