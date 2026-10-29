@@ -13,9 +13,9 @@
 |------|---------------------------------------|--------|
 | F2 (Diagnóstico) | 2 | 2 |
 | F3 (Selección) | 3 | 2 |
-| F4 (Regularización) | 0 | 2 |
-| F5 (Validez) | 0 | 2 |
-| **Total** | **5** | **10** |
+| F4 (Regularización) | 3 | 2 |
+| F5 (Validez) | 2 | 2 |
+| **Total** | **10** | **10** |
 
 ---
 
@@ -40,16 +40,16 @@
 
 | Id | Predicción y razonamiento (antes de ejecutar) | Hora y autor/a | Observación (cifra, tabla o figura) | ¿Coincide? | Causa de la discrepancia y comprobación adicional |
 |---|---|---|---|---|---|
-| F4-1 | | | | | |
-| F4-2 | | | | | |
-| F4-3 | | | | | |
+| F4-1 | En Hald ($n=13$), predecimos que en Lasso ($\alpha = 1$) el predictor $X_3$ o $X_4$ será el primero en anularse a medida que $\lambda$ aumenta, y que los coeficientes de $X_2$ y $X_4$ presentarán inestabilidad respecto a MCO debido a su colinealidad de $r = -0.973$. En contraste, en Ridge ($\alpha = 0$) ningún coeficiente será exactamente cero para cualquier $\lambda$ finito. | 2026-10-29 11:10 Tomás Anabalón (Experto) / Diego Espinoza (Est. A) | | | |
+| F4-2 | Predecimos que Elastic Net ($\alpha = 0.5$) exhibirá el efecto de agrupamiento (*grouping effect*) de Zou & Hastie (2005) sobre el par fuertemente correlacionado ($X_2, X_4$ en Hald y `Min.Price`, `Price`, `Max.Price` en Cars93), manteniendo ambos predictores en el modelo con coeficientes encogidos simultáneamente, a diferencia de Lasso ($\alpha = 1$) que eliminará arbitrariamente uno del par. | 2026-10-29 11:12 Diego Espinoza (Est. A) / Tomás Anabalón | | | |
+| F4-3 | En Cars93 ($n=82$, 100 particiones 80/20), predecimos que los métodos regularizados (Ridge y Elastic Net) superarán en RMSE predictivo fuera de muestra a MCO en más del 70% de las particiones. Razonamiento: la severa multicolinealidad de los predictores infla la varianza muestral de MCO, mientras que la penalización $L_2$ reduce el error cuadrático medio mediante el compromiso sesgo-varianza. | 2026-10-29 11:14 Diego Espinoza (Est. A) / Sebastián Osses | | | |
 
 ### Fase F5 — Validez de las conclusiones
 
 | Id | Predicción y razonamiento (antes de ejecutar) | Hora y autor/a | Observación (cifra, tabla o figura) | ¿Coincide? | Causa de la discrepancia y comprobación adicional |
 |---|---|---|---|---|---|
-| F5-1 | | | | | |
-| F5-2 | | | | | |
+| F5-1 | En el modelo seleccionado de Cars93, predecimos la presencia de observaciones influyentes ($D_i > 4/n \approx 0.0488$ y $h_{ii} > 2p/n$) asociadas a vehículos atípicos de alta gama, peso o potencia (ej. modelos de lujo o deportivos como Corvette o Cadillac). | 2026-10-29 11:16 Sebastián Osses (Est. B) / Tomás Anabalón | | | |
+| F5-2 | Predecimos que al reajustar el modelo excluyendo las observaciones influyentes detectadas por distancia de Cook, los coeficientes de las variables colineales (`Price`, `EngineSize`, `Weight`) sufrirán variaciones sustanciales, evidenciando la inestabilidad de la inferencia clásica cuando no se controla la sensibilidad muestral. | 2026-10-29 11:18 Sebastián Osses (Est. B) / Diego Espinoza | | | |
 
 ---
 
