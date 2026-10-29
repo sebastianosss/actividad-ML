@@ -1,0 +1,23 @@
+=== Ejercicio 7: Seleccion de variables en Hald (n = 13, p = 4) ===
+
+--- Mejores subconjuntos por tamano (busqueda exhaustiva) ---
+         p_predictores      Variables     SSE     R2 R2_adj Cp_Mallows     BIC
+Tamano_1             1             X4 883.867 0.6745 0.6450    138.731  -9.463
+Tamano_2             2         X1, X2  57.904 0.9787 0.9744      2.678 -42.330
+Tamano_3             3     X1, X2, X4  47.973 0.9823 0.9764      3.018 -42.211
+Tamano_4             4 X1, X2, X3, X4  47.864 0.9824 0.9736      5.000 -39.675
+Tabla guardada en: out/tablas/hald_mejores_subconjuntos.csv
+
+Modelo optimo por R2_adj (max): Tamano 3 (X1, X2, X4), R2_adj = 0.9764
+Modelo optimo por Cp (min):     Tamano 2 (X1, X2), Cp = 2.678
+Modelo optimo por BIC (min):    Tamano 2 (X1, X2), BIC = -42.330
+
+--- Comparacion de metodos paso a paso (AIC vs BIC) en Hald ---
+                   Metodo Variables_Seleccionadas    AIC    BIC
+1      Forward (AIC, k=2)              X4, X1, X2 63.866 66.691
+2     Backward (AIC, k=2)              X1, X2, X4 63.866 66.691
+3     Stepwise (AIC, k=2)              X4, X1, X2 63.866 66.691
+4  Forward (BIC, k=log n)              X4, X1, X2 63.866 66.691
+5 Backward (BIC, k=log n)                  X1, X2 64.312 66.572
+6 Stepwise (BIC, k=log n)                  X1, X2 64.312 66.572
+Tabla guardada en: out/tablas/hald_metodos_paso_a_paso.csv

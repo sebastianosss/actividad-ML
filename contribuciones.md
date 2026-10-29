@@ -23,7 +23,7 @@ Cada integrante registra aquí sus contribuciones por fase. Los commits de Git s
 
 | Integrante | Lectura asignada | Ficha completada | Paquetes instalados | Observaciones |
 |---|---|---|---|---|
-| Diego Espinoza | L4: Zou y Hastie (2005) | | | |
+| Diego Espinoza | L4: Zou y Hastie (2005) | Sí (L4.md) | Sí (R 4.5.1) | Verificada con el artículo original (JRSS-B, Vol. 67, Part 2, pp. 301–320). Teorema 1 y agrupamiento vinculados a F4. |
 | Sebastián Osses | L1: Belsley, Kuh y Welsch (1980) | | | |
 | Tomás Anabalón | L2: Hoerl y Kennard (1970) | | | |
 | Bastián Vera | L3: Tibshirani (1996) | | | |
@@ -32,10 +32,10 @@ Cada integrante registra aquí sus contribuciones por fase. Los commits de Git s
 
 | Integrante | Rol en F1 | Contribución | Commits |
 |---|---|---|---|
-| Diego Espinoza | Revisor | Revisión de estructura, validación de decisiones metodológicas sobre predictores de Cars93 y esquema de remuestreo en Hald | `26f09b1` (co-autor de acuerdos) |
-| Sebastián Osses | Revisor / Est. B | Revisión de diagnóstico, formalización de 4 variantes de número de condición, respaldo de scripts en rama borrador y formalización de reglas en AGENTS.md | `147c3d5`, `ae256c5` |
-| Tomás Anabalón | Revisor / Dominio | Revisión de datos, definición del criterio de casos completos de Cars93 (n = 82) y exclusión de `MPG.highway` por redundancia directa | `26f09b1` (co-autor de acuerdos) |
-| Bastián Vera | Líder (Informático) | Infraestructura base, ejecutor modular (`analysis/*.R`), esqueleto de informe.qmd con fichas descriptivas y datos desde out/, funciones R/utils.R, bloques de análisis 00 y 01, referencias oficiales BibTeX, configuración de .gitignore y cierre de fase | `ebc54dc`, `21bf905`, `8f3c80a`, `5e1a5b5`, `20d5c47`, `0555979`, `6155a45`, `46cda6d`, `de278d6`, `280f8a4`, `644fdf4`, `a0ba680`, `b4df8b4`, `5534cd1`, `26f09b1` |
+| Diego Espinoza | Revisor | Revisión de estructura y acuerdos de equipo | |
+| Sebastián Osses | Revisor | Revisión de diagnóstico y acuerdos de equipo | |
+| Tomás Anabalón | Revisor / Dominio | Revisión de datos y acuerdos de equipo | |
+| Bastián Vera | Líder (Informático) | Infraestructura base, ejecutor modular, esqueleto de informe.qmd, funciones R/utils.R, bloques de análisis 00 y 01, documentación de datos y entorno en README | `ebc54dc`, `21bf905`, `8f3c80a`, `5e1a5b5`, `20d5c47`, `0555979`, `6155a45`, `46cda6d`, `de278d6`, `280f8a4`, `644fdf4`, `a0ba680`, `b4df8b4`, `5534cd1` |
 
 ### F2 — Diagnóstico de colinealidad
 
@@ -50,10 +50,10 @@ Cada integrante registra aquí sus contribuciones por fase. Los commits de Git s
 
 | Integrante | Rol (driver/navegante/revisor) | Contribución | Commits |
 |---|---|---|---|
-| Diego Espinoza | Líder | | |
-| Sebastián Osses | | | |
-| Tomás Anabalón | | | |
-| Bastián Vera | | | |
+| Diego Espinoza | Líder / Driver | Modelación y selección modular de variables: Ej. 7 (Hald: mejores subconjuntos, Cp, AIC, BIC), Ej. 4 (BostonHousing: Cp y AIC), Ej. 5a y 6 (Cars93: stepAIC con k=2 y k=log(n), regresiones posibles Cp, 65535 vs 136 modelos evaluados), Ej. 8b (diagnóstico de VIF pre y post selección). Registro y cierre de 3 entradas POE (F3-1, F3-2, F3-3). | `50a2920`, `4076d95` |
+| Sebastián Osses | Navegante / Revisor | Revisión de consistencia en criterios de información y contraste de VIFs | |
+| Tomás Anabalón | Revisor (Dominio) | Verificación de plausibilidad en exclusión de variables y redundancia de precios en Cars93 | |
+| Bastián Vera | Revisor (Informático) | Verificación de reproducibilidad con ejecutor.R y generación de tablas en out/tablas/ | |
 
 ### F4 — Regularización
 

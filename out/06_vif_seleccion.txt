@@ -1,0 +1,49 @@
+=== Ejercicio 8(b): Diagnostico de VIF en modelos seleccionados vs completos ===
+
+--- VIF en Hald: Modelo Completo vs Seleccionados ---
+VIF Modelo Completo (X1, X2, X3, X4):
+    X1     X2     X3     X4 
+ 38.50 254.42  46.87 282.51 
+
+VIF Modelo BIC (X1, X2):
+  X1   X2 
+1.06 1.06 
+
+VIF Modelo Cp (X1, X2, X4):
+   X1    X2    X4 
+ 1.07 18.78 18.94 
+
+--- VIF en Cars93: Modelo Completo vs Seleccionados ---
+VIF maximo en Modelo Completo (p = 16): 166975.66 (Variable: Price)
+Variables con VIF > 10 en Modelo Completo: 8 de 16
+
+VIF maximo en Modelo BIC (p = 9): 139295.08 (Variable: Price)
+VIFs en Modelo BIC:
+         Min.Price              Price          Max.Price         EngineSize 
+          28102.56          139295.08           45929.66              11.61 
+               RPM       Rev.per.mile Fuel.tank.capacity          Wheelbase 
+              1.95               3.96               6.12               4.82 
+            Weight 
+             15.64 
+
+VIF maximo en Modelo AIC (p = 10): 140109.16 (Variable: Price)
+VIFs en Modelo AIC:
+         Min.Price              Price          Max.Price         EngineSize 
+          28270.54          140109.16           46188.80              11.70 
+               RPM       Rev.per.mile Fuel.tank.capacity         Passengers 
+              1.99               3.97               6.12               1.88 
+         Wheelbase             Weight 
+              6.12              15.68 
+                   Dataset_Modelo Num_Predictores VIF_Maximo VIF_Medio
+1                   Hald Completo               4     282.51    155.58
+2 Hald Seleccionado (BIC: X1, X2)               2       1.06      1.06
+3                 Cars93 Completo              16  166975.66  15987.53
+4       Cars93 Seleccionado (BIC)               9  139295.08  23707.93
+5       Cars93 Seleccionado (AIC)              10  140109.16  21461.59
+  Cantidad_VIF_mayor_10
+1                     4
+2                     0
+3                     8
+4                     5
+5                     5
+Tabla guardada en: out/tablas/vif_comparativa_seleccion.csv
